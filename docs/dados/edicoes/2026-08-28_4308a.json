@@ -11,5 +11,12 @@
  "atos": [],
  "resumo": null,
  "resumo_origem": null,
- "processado_em": "2026-09-11T10:53:57-04:00"
+ "processado_em": "2026-09-11T10:53:57-04:00",
+ "conferencia": {
+  "site": 66,
+  "robo": 66,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:30-04:00"
+ }
 }

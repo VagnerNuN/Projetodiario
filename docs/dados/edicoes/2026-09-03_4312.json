@@ -515,18 +515,18 @@
   },
   {
    "id": 57,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 461/2026/ASTEC/SEINFRA",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 461/2026/ASTEC/SEINFRA",
+   "tipo": "Portaria",
    "pagina": 158,
    "codigo": "8F96F36C",
    "trecho": "Porto Velho, 31 de agosto de 2026.\n\nDesigna servidores para exercerem as atribuições de\nGerente de Abastecimento, na condição de titular e\nsubstituto imediato, para fins de acompanhamento,\ncontrole e gestão da frota oficial e dos abastecimentos\nvinculados ao Contrato nº 068/PGM/2023, e dá outras\nprovidências.\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA , no uso\ndas atribuições legais e regulamentares inerentes ao cargo e à\nrespectiva Unidade Administrativa, observadas as disposições da Lei\nComplementar nº 1.000, de 7 de janeiro de 2025, com as alterações\nintroduzidas pela Lei Complementar nº 1.0"
   },
   {
    "id": 58,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 465/2026/SEINFRA-ASTEC",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 465/2026/SEINFRA-ASTEC",
+   "tipo": "Portaria",
    "pagina": 159,
    "codigo": "3BA90825",
    "trecho": "Porto Velho, 01 de setembro de 2026.\n\nDispõe sobre a concessão de Suprimento de Fundos\nno âmbito da Secretaria Municipal de Infraestrutura\n(SEINFRA), atribuída a servidora Thaila Nascimento\nda Costa Nobre Sandi.\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA , no\nuso de suas atribuições legais, no que dispõe o artigo 26, inciso III da\nLei Complementar n.º 648, de 05 de janeiro de 2017, que dispõe sobre\na reestruturação organizacional e o funcionamento da Administração\nPública Municipal; Tendo em vista o que consta no Decreto Municipal\nn.º 14.707, de 23 de agosto de 2017, que trata sobre a concessão"
@@ -1273,5 +1273,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:54:25-04:00"
+ "processado_em": "2026-09-11T10:54:25-04:00",
+ "conferencia": {
+  "site": 79,
+  "robo": 79,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:31-04:00"
+ }
 }

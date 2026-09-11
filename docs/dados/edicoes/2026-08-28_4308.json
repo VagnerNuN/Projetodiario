@@ -11,9 +11,9 @@
  "atos": [
   {
    "id": 1,
-   "orgao": "AGÊNCIA REGULADORA DOS SERVIÇOS PÚBLICOS",
-   "titulo": "DELEGADOS E DE DESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO – ARDPV PORTARIA Nº 54/2026/ARDPV",
-   "tipo": "Outro",
+   "orgao": "AGÊNCIA REGULADORA DOS SERVIÇOS PÚBLICOS DELEGADOS E DE DESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO – ARDPV",
+   "titulo": "PORTARIA Nº 54/2026/ARDPV",
+   "tipo": "Portaria",
    "pagina": 104,
    "codigo": "49B4D20A",
    "trecho": "O DIRETOR-PRESIDENTE DA AGÊNCIA REGULADORA\nDOS\nSERVIÇOS\nPÚBLICOS\nDELEGADOS\nE\nDE\nDESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO -\nARDPV, no uso de suas atribuições legais com base no inciso XI do\nart. 16; art. 38 e Anexo II da Lei Complementar nº 1.013, de 19 de\nmaio de 2025, e nos termos do Processo Administrativo SEI nº\n025.000407/2026-04,\n\nRESOLVE:\nArt. 1º Nomear LETICIA LUCAS COSTA DE ARAÚJO, para\nresponder pelo cargo de Diretor Jurídico, pelo período de 1º a\n10.9.2026 (dez dias), da Agência Reguladora dos Serviços Públicos\nDelegados e de Desenvolvimento do Município de Porto Velho –\nARDPV, em"
@@ -1077,5 +1077,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:53:56-04:00"
+ "processado_em": "2026-09-11T10:53:56-04:00",
+ "conferencia": {
+  "site": 66,
+  "robo": 66,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:30-04:00"
+ }
 }

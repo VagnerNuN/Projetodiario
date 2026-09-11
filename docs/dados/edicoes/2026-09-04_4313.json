@@ -434,9 +434,9 @@
   },
   {
    "id": 48,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 466/2026/ASTEC/SEINFRA",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 466/2026/ASTEC/SEINFRA",
+   "tipo": "Portaria",
    "pagina": 147,
    "codigo": "01A1A2EA",
    "trecho": "Porto Velho, 03 de setembro de 2026.\n\nDesigna Comissão para realização de vistoria e\napuração de fatos relacionados à retirada de terra e/ou\ncascalho\nem\nárea\ncomunitária\ndestinada\nà\nimplantação de campo de futebol no Distrito de Vista\nAlegre do Abunã.\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA, no uso\ndas atribuições que lhe conferem o artigo 7º, incisos I e III, e o artigo\n78 da Lei Orgânica do Município de Porto Velho e a Lei\nComplementar nº 1.000 de 07 de janeiro de 2025.\n\nCONSIDERANDO o teor do Ofício nº 000262/2026 – 15ª PJ/PVH,\nexpedido pelo Ministério Público do Estado de Rondônia, no âm"
@@ -1030,5 +1030,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:54:32-04:00"
+ "processado_em": "2026-09-11T10:54:32-04:00",
+ "conferencia": {
+  "site": 73,
+  "robo": 73,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:31-04:00"
+ }
 }

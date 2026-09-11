@@ -7,6 +7,7 @@ O formulário usa o CSRF "stateless" do Symfony: o navegador gera um token
 aleatório e grava um cookie __Host-csrf-token_<token>=csrf-token. Fazemos igual.
 """
 
+import re
 import secrets
 import time
 from datetime import date
@@ -16,6 +17,8 @@ import requests
 
 BASE = "https://www.diariomunicipal.com.br/arom"
 UA = "Mozilla/5.0 (briefing-porto-velho; +https://github.com)"
+ENTIDADE_PORTO_VELHO = "24707"  # "Prefeitura Municipal de Porto Velho" na busca avançada da AROM
+RE_RESULTADO = re.compile(r'<a href="/arom/load/([0-9A-Z]+)"')
 
 
 class ColetorAROM:
@@ -66,6 +69,30 @@ class ColetorAROM:
         time.sleep(1)
         edicoes += self._consultar(dia, extra=True)
         return edicoes
+
+    def codigos_oficiais(self, dia: date) -> set[str]:
+        """Códigos identificadores que a busca avançada do site atribui a Porto Velho na data.
+        Serve para conferir se a extração do PDF pegou todas as matérias."""
+        pagina_busca = self.sessao.get(BASE + "/pesquisar", timeout=60).text
+        token = re.search(r'name="busca_avancada\[_token\]"[^>]*value="([^"]+)"', pagina_busca).group(1)
+        data_br = dia.strftime("%d/%m/%Y")
+        codigos, pagina = set(), 1
+        while True:
+            resp = self.sessao.get(BASE + "/pesquisar", timeout=60, params={
+                "busca_avancada[entidadeUsuaria]": ENTIDADE_PORTO_VELHO,
+                "busca_avancada[dataInicio]": data_br,
+                "busca_avancada[dataFim]": data_br,
+                "busca_avancada[_token]": token,
+                "busca_avancada[page]": pagina,
+            })
+            resp.raise_for_status()
+            achados = set(RE_RESULTADO.findall(resp.text))
+            if not achados - codigos:  # página repetida ou vazia: acabou
+                break
+            codigos |= achados
+            pagina += 1
+            time.sleep(0.4)
+        return codigos
 
     def baixar(self, edicao: dict, pasta: Path) -> Path:
         pasta.mkdir(parents=True, exist_ok=True)

@@ -19,7 +19,7 @@ import pymupdf
 RE_CABECALHO_PAGINA = re.compile(r"Diário Oficial dos Municípios do Estado de Rondônia|^www\.diariomunicipal\.com\.br/arom\b")
 RE_CODIGO = re.compile(r"^C[óo]digo Identificador:\s*([0-9A-Z]+)")
 RE_ESTADO = re.compile(r"^ESTADO DE ROND[ÔO]NIA$")
-RE_CONECTIVO_FINAL = re.compile(r"(\s(E|DE|DA|DO|DAS|DOS|PORTO)|,)$")
+RE_CONECTIVO_FINAL = re.compile(r"(\s(E|DE|DA|DO|DAS|DOS|PORTO)|[,–-])$")
 RE_SIGLA_FINAL = re.compile(r"[-–]\s*[A-Z]{2,}$")
 
 # Tipo do ato a partir da primeira palavra do título
@@ -104,12 +104,19 @@ def _montar_ato(linhas: list[str]) -> dict:
 
     orgao = linhas[0] if linhas else ""
     corpo = linhas[1:]
-    # Nome do órgão quebrado em duas linhas ("...CONVÊNIOS E" / "LICITAÇÕES- SMCL")
-    while corpo and corpo[0] and (
-        RE_CONECTIVO_FINAL.search(orgao)
-        or (not RE_SIGLA_FINAL.search(orgao) and RE_SIGLA_FINAL.search(corpo[0]) and corpo[0].isupper())
-    ):
+    # Nome do órgão quebrado em várias linhas ("...CONVÊNIOS E" / "LICITAÇÕES- SMCL", ou
+    # "AGÊNCIA REGULADORA DOS SERVIÇOS PÚBLICOS" / "DELEGADOS ... DE PORTO" / "VELHO – ARDPV")
+    while corpo and corpo[0] and RE_CONECTIVO_FINAL.search(orgao):
         orgao = f"{orgao} {corpo.pop(0)}"
+    if not RE_SIGLA_FINAL.search(orgao):
+        for n in range(min(3, len(corpo))):
+            linha = corpo[n]
+            if not linha or not linha.isupper():
+                break
+            if RE_SIGLA_FINAL.search(linha):
+                orgao = " ".join([orgao] + corpo[:n + 1])
+                del corpo[:n + 1]
+                break
     titulo_partes = []
     while corpo and corpo[0]:
         titulo_partes.append(corpo.pop(0))

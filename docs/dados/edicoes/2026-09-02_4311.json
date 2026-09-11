@@ -515,26 +515,26 @@
   },
   {
    "id": 57,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 459/2026/ASTEC/SEINFRA",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 459/2026/ASTEC/SEINFRA",
+   "tipo": "Portaria",
    "pagina": 139,
    "codigo": "79D6841F",
    "trecho": "Porto Velho, 28 de agosto de 2026\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA, no uso\ndas atribuições que lhe conferem o artigo 7º, incisos I e III, e o artigo\n78 da Lei Orgânica do Município de Porto Velho e a Lei\nComplementar nº 1.000 de 07 de janeiro de 2025.\n\nRESOLVE:\n\nArt. 1º DESIGNAR os servidores abaixo relacionados, lotados na\nSecretaria Municipal de Infraestrutura - SEINFRA, para atuarem\ncomo Gestor e Fiscais em relação ao Termo Aditivo/Termo de\nConvênio nº 492/2024/PGE-SEJUS, Processo Administrativo SEI:\nnº019.001671/2025-55, referente a prestação de serviços Utilização de\nmão de obra "
   },
   {
    "id": 58,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 464/2026/SEINFRA",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 464/2026/SEINFRA",
+   "tipo": "Portaria",
    "pagina": 139,
    "codigo": "33EDC105",
    "trecho": "Porto Velho, 01 de Setembro de 2026.\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA,NO\nUSO DAS ATRIBUIÇÕES LEGAIS E TENDO EM VISTA O QUE\nCONSTA NO PROCESSO Nº019.004041/2026-13.\n\nRESOLVE:\n\nArt. 1º ARBITRAR E CONCEDER:4½ (quatro e meia) diárias aos\nservidores abaixo relacionados para se deslocar aSão Paulo/SP, por\nmeio de transporteAéreo, com a participação na Paving Expo 2026,\nnoperíodo dos dias21 a 25 de setembro de 2026.Conforme\nsolicitação\nconstante\nnoOfícioN°\n1475525doProcesso\n019.004041/2026-13.\n\nNOME\nCADASTRO CARGO/FUNÇÃO DESTINO QUANTIDADE\nDE DIÁRIAS\nADICIONAL\nDESLOCAMENTO\nGuilherme\nRitter\nB"
   },
   {
    "id": 59,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PRIMEIRO TERMO ADITIVO AO CONTRATO Nº 047/PGM/2025",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PRIMEIRO TERMO ADITIVO AO CONTRATO Nº 047/PGM/2025",
    "tipo": "Outro",
    "pagina": 140,
    "codigo": "8C7E3F1B",
@@ -1368,5 +1368,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:54:17-04:00"
+ "processado_em": "2026-09-11T10:54:17-04:00",
+ "conferencia": {
+  "site": 86,
+  "robo": 86,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:30-04:00"
+ }
 }

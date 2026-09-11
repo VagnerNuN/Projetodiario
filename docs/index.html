@@ -46,6 +46,11 @@ svg.ic { width: 16px; height: 16px; flex: 0 0 auto; fill: none; stroke: currentC
 .selo-data .ic { color: var(--azul); }
 .base { display: flex; align-items: center; gap: 6px; }
 .base .ic { width: 14px; height: 14px; }
+.conf { display: flex; align-items: center; gap: 6px; font-weight: 600; cursor: help; }
+.conf[hidden] { display: none; }
+.conf .ic { width: 14px; height: 14px; }
+.conf-ok { color: var(--verde-700); }
+.conf-erro { color: var(--laranja-700); }
 @media (max-width: 767px) {
   .logo-grande { display: none; }
   .logo-pequeno { display: block; }
@@ -250,6 +255,7 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     <div class="lado">
       <span class="selo-data" id="selo-data"></span>
       <span class="base" id="base"></span>
+      <span class="conf" id="conferencia" hidden></span>
     </div>
   </header>
 
@@ -328,6 +334,7 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     historico: '<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/>',
     base: '<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/>',
     x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
+    check: '<path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11 3 3L22 4"/>',
     externo: '<path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>'
   };
   function ic(nome) { return '<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">' + ICONES[nome] + '</svg>'; }
@@ -479,6 +486,16 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     $("selo-data").innerHTML = st.dia ? ic("calendario") + '<span class="num">' + dBr(st.dia) + '</span> · Edição nº ' + eds.map(function (r) { return esc(r.edicao.numero); }).join(" e ") : "";
     var at = DADOS.atualizado_em ? " · atualizado " + dCurta(DADOS.atualizado_em.slice(0, 10)) + " às " + DADOS.atualizado_em.slice(11, 16) : "";
     $("base").innerHTML = ic("base") + 'Base: ' + fmt(EDICOES.length) + ' edições · ' + fmt(ATOS.length) + ' atos · 15 dias' + at;
+    var conf = (eds.filter(function (r) { return r.conferencia; })[0] || {}).conferencia;
+    var el = $("conferencia");
+    if (!conf) { el.hidden = true; return; }
+    el.hidden = false;
+    var ok = !conf.faltando.length && !conf.sobrando.length;
+    el.className = "conf " + (ok ? "conf-ok" : "conf-erro");
+    el.innerHTML = ic(ok ? "check" : "alerta") + (ok
+      ? "Conferido com a busca oficial da AROM: " + fmt(conf.robo) + " de " + fmt(conf.site) + " matérias"
+      : "Conferência com a busca oficial não bateu: site " + fmt(conf.site) + ", painel " + fmt(conf.robo));
+    el.title = "Comparação, pelo código identificador, entre as matérias extraídas do PDF e as que a busca avançada da AROM atribui à Prefeitura de Porto Velho" + (conf.em ? " (" + dBr(conf.em.slice(0, 10)) + " " + conf.em.slice(11, 16) + ")" : "");
   }
   function opcoes(sel, pares, mostra, atual) {
     sel.innerHTML = '<option value="">Todos</option>' + pares.map(function (p) {

@@ -2200,5 +2200,12 @@
  },
  "resumo_origem": "Claude (sessão Claude Code)",
  "processado_em": "2026-09-11T10:55:01-04:00",
- "resumo_formato": 2
+ "resumo_formato": 2,
+ "conferencia": {
+  "site": 97,
+  "robo": 97,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:31-04:00"
+ }
 }

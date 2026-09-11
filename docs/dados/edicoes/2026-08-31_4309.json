@@ -11,9 +11,9 @@
  "atos": [
   {
    "id": 1,
-   "orgao": "AGÊNCIA REGULADORA DOS SERVIÇOS PÚBLICOS",
-   "titulo": "DELEGADOS E DE DESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO – ARDPV PORTARIA Nº 54/2026/ARDPV",
-   "tipo": "Outro",
+   "orgao": "AGÊNCIA REGULADORA DOS SERVIÇOS PÚBLICOS DELEGADOS E DE DESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO – ARDPV",
+   "titulo": "PORTARIA Nº 54/2026/ARDPV",
+   "tipo": "Portaria",
    "pagina": 96,
    "codigo": "736FDECC",
    "trecho": "REPUBLICAÇÃO\n\nO DIRETOR-PRESIDENTE DA AGÊNCIA REGULADORA\nDOS\nSERVIÇOS\nPÚBLICOS\nDELEGADOS\nE\nDE\nDESENVOLVIMENTO DO MUNICÍPIO DE PORTO VELHO -\nARDPV, no uso de suas atribuições legais com base no inciso XI do\nart. 16; art. 38 e Anexo II da Lei Complementar nº 1.013, de 19 de\nmaio de 2025, e nos termos do Processo Administrativo SEI nº\n025.000407/2026-04,\n\nRESOLVE:\n\nArt. 1º Nomear LETICIA LUCAS COSTA DE ARAÚJO, para\nresponder pelo cargo de Diretor Técnico e Operacional, pelo período\nde 1º a 10.9.2026 (dez dias), da Agência Reguladora dos Serviços\nPúblicos Delegados e de Desenvolvimento do Municípi"
@@ -515,8 +515,8 @@
   },
   {
    "id": 57,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO DE USO Nº 030/PGM/2022",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO DE USO Nº 030/PGM/2022",
    "tipo": "Outro",
    "pagina": 139,
    "codigo": "D03444EF",
@@ -524,8 +524,8 @@
   },
   {
    "id": 58,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO DE USO Nº 043/PGM/2022",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO DE USO Nº 043/PGM/2022",
    "tipo": "Outro",
    "pagina": 139,
    "codigo": "2EB076C1",
@@ -533,8 +533,8 @@
   },
   {
    "id": 59,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO Nº 039/PGM/2022",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PRIMEIRO TERMO ADITIVO AO TERMO DE PERMISSÃO Nº 039/PGM/2022",
    "tipo": "Outro",
    "pagina": 140,
    "codigo": "F18DF76D",
@@ -542,9 +542,9 @@
   },
   {
    "id": 60,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA TERMO DE PERMISSÃO DE USO Nº 002/2026/PGM",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "TERMO DE PERMISSÃO DE USO Nº 002/2026/PGM",
+   "tipo": "Termo",
    "pagina": 140,
    "codigo": "B68376E7",
    "trecho": "TERMO\nDE\nPERMISSÃO\nDE\nUSO\nNº\n002/2026/PGM QUE ENTRE SI CELEBRAM O\nMUNICÍPIO\nDE\nPORTO\nVELHO,\nPOR\nINTERMÉDIO DA SECRETARIA MUNICIPAL\nDE INFRAESTRUTURA – SEINFRA, DE UM\nLADO, E DO OUTRO A SRA. ELISÂNGELA DE\nLIMA\nRIBEIRO,\nPARA\nOS\nFINS\nQUE\nESPECIFICAM.\n\nAos vinte e oito dias do mês de julho do ano de dois mil e vinte e seis,\no MUNICÍPIO DE PORTO VELHO, pessoa jurídica de direito\npúblico interno, inscrito no CNPJ sob o nº 05.903.125/0001-45, com\nsede na Av. 7 de Setembro esquina com Av. Farquar, S/N, Centro,\nCEP n.°. 76801-020, neste ato representado pela SECRETARIA\nMUNICIPAL DE INFRAESTRUTURA – SEI"
@@ -1239,5 +1239,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:54:05-04:00"
+ "processado_em": "2026-09-11T10:54:05-04:00",
+ "conferencia": {
+  "site": 77,
+  "robo": 77,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:30-04:00"
+ }
 }

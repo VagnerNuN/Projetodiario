@@ -479,9 +479,9 @@
   },
   {
    "id": 53,
-   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA-",
-   "titulo": "SEINFRA PORTARIA Nº 473/2026/SEINFRA",
-   "tipo": "Outro",
+   "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA- SEINFRA",
+   "titulo": "PORTARIA Nº 473/2026/SEINFRA",
+   "tipo": "Portaria",
    "pagina": 103,
    "codigo": "952EA2FB",
    "trecho": "Porto Velho, 09 de Setembro de 2026.\n\nO SECRETÁRIO MUNICIPAL DE INFRAESTRUTURA, NO\nUSO DAS ATRIBUIÇÕES LEGAIS E TENDO EM VISTA O QUE\nCONSTA NO PROCESSO Nº 019.004127/2026-46.\n\nRESOLVE:\n\nArt.\n1º\nTORNAR\nSEM\nEFEITO\na\nPUBLICAÇÃO\nda PORTARIA Nº 469/2026/SEINFRA, publicada no Diário Oficial\ndos Municípios do Estado de Rondônia no dia 09/09/2026, Edição\n4315.\n\nPublique-se,\nRegistre-se,\nCumpra-se.\n\nLIANDRO DE ALMEIDA LOYOLA\nSecretário Municipal Interino de Infraestrutura"
@@ -1215,5 +1215,12 @@
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:54:55-04:00"
+ "processado_em": "2026-09-11T10:54:55-04:00",
+ "conferencia": {
+  "site": 76,
+  "robo": 76,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-11T12:31-04:00"
+ }
 }

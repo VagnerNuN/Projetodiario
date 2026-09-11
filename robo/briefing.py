@@ -99,6 +99,33 @@ def datas_a_consultar(conhecidas: set[str]) -> list[date]:
     return sorted(datas)
 
 
+def conferir_dia(coletor: ColetorAROM, dia: date, salvos: dict) -> bool:
+    """Compara as matérias extraídas do PDF com a busca oficial da AROM (entidade Porto Velho).
+    Grava o resultado nas edições do dia e devolve False se faltar ou sobrar matéria."""
+    regs = [r for r in salvos.values() if r["edicao"]["data"] == dia.isoformat()]
+    extraidos = {a["codigo"] for r in regs for a in r["atos"]}
+    oficiais = coletor.codigos_oficiais(dia)
+    if not oficiais and extraidos:
+        print(f"[{dia}] busca oficial ainda sem resultados para a data; confiro na próxima execução")
+        return True
+    conferencia = {
+        "site": len(oficiais),
+        "robo": len(extraidos),
+        "faltando": sorted(oficiais - extraidos),
+        "sobrando": sorted(extraidos - oficiais),
+        "em": datetime.now(FUSO_RO).isoformat(timespec="minutes"),
+    }
+    for r in regs:
+        r["conferencia"] = conferencia
+        salvar_edicao(r)
+    if conferencia["faltando"] or conferencia["sobrando"]:
+        print(f"[{dia}] CONFERÊNCIA NÃO BATEU: busca oficial {len(oficiais)}, extraídas {len(extraidos)}; "
+              f"faltando {conferencia['faltando']}, a mais {conferencia['sobrando']}")
+        return False
+    print(f"[{dia}] conferido com a busca oficial: {len(oficiais)} matérias de Porto Velho")
+    return True
+
+
 def limpar_antigas():
     limite = (hoje_ro() - timedelta(days=DIAS_HISTORICO - 1)).isoformat()
     for p in PASTA_EDICOES.glob("*.json"):
@@ -159,6 +186,12 @@ def rotina() -> int:
                 salvar_edicao(registro)
                 salvos[ed["id"]] = registro
             time.sleep(1)
+        if edicoes:
+            try:
+                if not conferir_dia(coletor, dia, salvos):
+                    erros += 1
+            except Exception as e:
+                print(f"[{dia}] não foi possível conferir com a busca oficial: {e}")
 
     limpar_antigas()
     gerar_painel()
