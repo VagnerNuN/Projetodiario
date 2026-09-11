@@ -26,7 +26,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from coletar import ColetorAROM  # noqa: E402
 from extrair import extrair_atos  # noqa: E402
 from resumir import (  # noqa: E402
-    INSTRUCOES, MODELO_PADRAO, montar_entrada, resumir_edicao, validar_resumo,
+    FORMATO, INSTRUCOES, MODELO_PADRAO, montar_entrada, resumir_edicao, validar_resumo,
 )
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -82,6 +82,10 @@ def registro_novo(ed: dict, resultado: dict) -> dict:
     }
 
 
+def resumo_atual(registro: dict) -> bool:
+    return bool(registro.get("resumo")) and registro.get("resumo_formato") == FORMATO
+
+
 def datas_a_consultar(conhecidas: set[str]) -> list[date]:
     """Janela de 15 dias + amanhã (a edição ordinária sai na noite anterior).
     Datas antigas que já têm edição salva não são consultadas de novo."""
@@ -121,7 +125,9 @@ def rotina() -> int:
         print("ANTHROPIC_API_KEY não definida: os atos entram no painel sem resumo.")
     coletor = ColetorAROM()
     salvos = {r["edicao"]["id"]: r for r in carregar_edicoes()}
-    conhecidas = {r["edicao"]["data"] for r in salvos.values()}
+    # Datas com resumo desatualizado entram de novo na consulta para serem refeitas
+    conhecidas = {r["edicao"]["data"] for r in salvos.values()
+                  if resumo_atual(r) or not r["atos"] or not tem_chave}
     erros = 0
 
     for dia in datas_a_consultar(conhecidas):
@@ -133,7 +139,7 @@ def rotina() -> int:
             continue
         for ed in edicoes:
             registro = salvos.get(ed["id"])
-            if registro and (registro["resumo"] or not registro["atos"] or not tem_chave):
+            if registro and (resumo_atual(registro) or not registro["atos"] or not tem_chave):
                 continue
             rotulo = f"[{ed['data']}] edição {ed['numero']}"
             try:
@@ -145,6 +151,7 @@ def rotina() -> int:
                     print(f"{rotulo}: resumindo com {os.environ.get('MODELO') or MODELO_PADRAO}...")
                     registro["resumo"] = resumir_edicao(ed, atos)
                     registro["resumo_origem"] = os.environ.get("MODELO") or MODELO_PADRAO
+                    registro["resumo_formato"] = FORMATO
             except Exception as e:
                 print(f"{rotulo}: erro — {e}")
                 erros += 1
@@ -162,7 +169,7 @@ def exportar_pendentes(pasta: Path):
     pasta.mkdir(parents=True, exist_ok=True)
     coletor = ColetorAROM()
     for registro in carregar_edicoes():
-        if registro["resumo"] or not registro["atos"]:
+        if resumo_atual(registro) or not registro["atos"]:
             continue
         ed = registro["edicao"]
         _, atos = extrair_edicao(coletor, ed)
@@ -179,6 +186,7 @@ def aplicar_resumo(arquivo: Path, numero: str | None, origem: str):
     resumo = validar_resumo(json.loads(arquivo.read_text(encoding="utf-8")), registro["atos"])
     registro["resumo"] = resumo
     registro["resumo_origem"] = origem
+    registro["resumo_formato"] = FORMATO
     salvar_edicao(registro)
     print(f"Resumo aplicado na edição {numero} ({len(resumo['atos'])} atos).")
     gerar_painel()

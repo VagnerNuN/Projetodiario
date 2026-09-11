@@ -884,35 +884,19 @@
   }
  ],
  "resumo": {
-  "manchete": "Prefeitura registra preços de R$ 51,3 milhões para construir calçadas, meios-fios e sarjetas, e Câmara promulga dez leis, entre elas telemedicina nos distritos e canabidiol gratuito no SUS municipal",
-  "resumo": "A edição traz 97 atos de Porto Velho, com peso grande de contratações, saúde e troca de cargos. O maior valor é a ata de registro de preços de R$ 51.260.529,50 com a Privado Engenharia para calçadas, meios-fios e sarjetas da SEINFRA; há também pregão de R$ 13,4 milhões para água mineral e chamamento emergencial de Organização Social para a UBS do Residencial Orgulho do Madeira. A Câmara promulgou dez leis (telemedicina, saúde itinerante, canabidiol, saúde bucal para autistas, câmeras em pet shops, entre outras), mas quatro delas foram publicadas com a maior parte dos artigos em branco. O Conselho Municipal de Saúde aprovou cerca de R$ 49,35 milhões em planos de trabalho de emendas e programas federais, com destaque para a Maternidade Mãe Esperança e a rede de média e alta complexidade. Na área de pessoal, 24 decretos mudam cargos comissionados, incluindo diretores e vices de escolas municipais, e saem o resultado das provas do concurso de Procurador e a convocação de nove aprovados no concurso da Câmara.",
+  "manchete": "Prefeitura registra preços de R$ 51,3 milhões para calçadas, meios-fios e sarjetas, e Conselho de Saúde aprova R$ 49,4 milhões em recursos federais para a rede municipal",
+  "resumo": "A edição traz 97 atos de Porto Velho, com forte peso de pessoal: cerca de 60 movimentações em cargos em comissão, incluindo a troca de 19 diretores, vice-diretores e secretários de escolas da SEMED. Nas compras, destacam-se a ata de registro de preços de R$ 51.260.529,50 com a Privado Engenharia para calçadas e drenagem superficial, o pregão de água mineral estimado em R$ 13,4 milhões e um chamamento emergencial de 3 dias úteis para entregar a UBS do Residencial Orgulho do Madeira a uma Organização Social. O Conselho Municipal de Saúde aprovou dez planos de trabalho e propostas InvestSUS que somam R$ 49.354.438,00, inclusive a reprogramação de R$ 13 milhões de uma emenda para custeio da média e alta complexidade. A Câmara promulgou dez leis (saúde itinerante, telemedicina, canabidiol, TEA, regularidade fiscal e protesto de dívida ativa), mas quatro delas foram publicadas com a maior parte dos artigos suprimida. Merecem atenção do controle interno a dispensa de licitação para tablets da SEMED, a adesão da SEMIAS a ata do Estado, a dispensa de chamamento para termo de fomento de R$ 320.624,00 e a suspensão do pregão de refeições da SEMUSA.",
   "destaques": [
    {
-    "titulo": "R$ 51,3 milhões para calçadas, meios-fios e sarjetas",
-    "texto": "A SMCL assinou ata de registro de preços com a Privado Engenharia Ltda, de Manaus, no valor de R$ 51.260.529,50, para construção de calçadas em concreto armado, meios-fios e sarjetas em vias urbanas, atendendo a SEINFRA. A ata vale por um ano e prevê até 240 mil m² de calçada e cerca de 200 mil metros de meio-fio.",
+    "titulo": "Ata de R$ 51,3 milhões para calçadas e sarjetas",
+    "texto": "A SMCL assinou a Ata de Registro de Preços nº 048/2026 (Pregão Eletrônico nº 251/2026) com a Privado Engenharia Ltda, de Manaus, para construir calçadas, meios-fios e sarjetas em vias urbanas para a SEINFRA, no valor total de R$ 51.260.529,50. A ata vale por um ano e admite adesões de outros órgãos até o dobro dos quantitativos.",
     "atos": [
      89
     ]
    },
    {
-    "titulo": "Câmara promulga dez leis",
-    "texto": "Entre as novas leis estão a Política Municipal de Telemedicina com prioridade para distritos, o Programa Saúde na Comunidade com unidades móveis, o fornecimento gratuito de canabidiol pelo SUS municipal e a obrigação de pet shops filmarem banho e tosa. As leis 3.478, 3.479, 3.480 e 3.483 foram publicadas com a maioria dos artigos suprimidos.",
-    "atos": [
-     3,
-     4,
-     5,
-     6,
-     7,
-     8,
-     9,
-     10,
-     11,
-     12
-    ]
-   },
-   {
-    "titulo": "Conselho de Saúde aprova cerca de R$ 49 milhões",
-    "texto": "Dez resoluções do Conselho Municipal de Saúde aprovam planos de trabalho de emendas e programas federais, como R$ 17,8 milhões para reagentes e média e alta complexidade, R$ 10 milhões para pré-natal de alto risco, cardiologia e manutenção da rede e R$ 8,9 milhões para a Maternidade Mãe Esperança. Outra resolução revisa metas do Plano Municipal de Saúde 2026/2029.",
+    "titulo": "Conselho de Saúde aprova R$ 49,4 milhões em recursos",
+    "texto": "Dez resoluções do CMSPV aprovam planos de trabalho e propostas InvestSUS que somam R$ 49.354.438,00, com destaque para R$ 17,8 milhões (R$ 13 milhões reprogramados para custeio da média e alta complexidade), R$ 10 milhões para Rede Alyne, PMAE e manutenção, e R$ 8,9 milhões para a Maternidade Mãe Esperança. Outra resolução revisa metas do Plano Municipal de Saúde 2026/2029.",
     "atos": [
      67,
      68,
@@ -928,27 +912,35 @@
     ]
    },
    {
-    "titulo": "Licitações na saúde e compras de grande porte",
-    "texto": "A SEMUSA abriu chamamento emergencial para uma Organização Social gerir a UBS do Residencial Orgulho do Madeira, com 4 equipes de Saúde da Família e 4 de Saúde Bucal, e homologou a compra de ambulâncias por R$ 817.297,00. A SMCL lançou pregão de R$ 13.392.172,44 para água mineral, com propostas em 25/09/2026.",
+    "titulo": "Câmara promulga dez leis, quatro com texto suprimido",
+    "texto": "Foram promulgadas leis sobre saúde itinerante nos distritos, telemedicina no SUS, fornecimento gratuito de canabidiol, saúde bucal de pessoas com TEA, transparência nos abrigos de crianças e filmagem obrigatória em banho e tosa. As leis do Bairro Inteligente, da regularidade fiscal para benefícios, do protesto de dívida ativa e da Semana de Segurança Digital saíram com a maioria dos artigos em reticências.",
     "atos": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "titulo": "Novas licitações e chamamento emergencial na saúde",
+    "texto": "Foi aberto pregão de registro de preços de água mineral estimado em R$ 13.392.172,44 (sessão em 25/09) e a SEMUSA lançou chamamento emergencial, com prazo de 3 dias úteis, para Organização Social gerir a UBS do Residencial Orgulho do Madeira com 4 equipes de Saúde da Família e 4 de Saúde Bucal. Também foram homologadas ambulâncias por R$ 817.297,00 e suspenso o pregão de refeições para plantonistas da SEMUSA.",
+    "atos": [
+     50,
      66,
      54,
-     53,
      51,
-     50
+     52
     ]
    },
    {
-    "titulo": "Concursos de Procurador e da Câmara avançam",
-    "texto": "Saiu o resultado final das provas escritas do concurso de Procurador do Município, com avaliação de candidatos com deficiência e heteroidentificação marcadas para 20/09/2026. A Câmara republicou a convocação de nove aprovados no concurso de 2024, entre eles arquiteto, auditor de controle interno e procurador.",
-    "atos": [
-     47,
-     86
-    ]
-   },
-   {
-    "titulo": "24 decretos mexem em cargos comissionados e na direção de escolas",
-    "texto": "O prefeito Leonardo Barreto de Moraes assinou nomeações, exonerações, retificações e anulações de nomeações em SGOV, SEMUSA, SEINFRA, SEMA, SEMAD, SEMAGRIC, SEMDEC e outras pastas. Na educação, 9 exonerações e 19 nomeações trocam diretores, vices e secretários de escolas municipais a partir de 11/09/2026.",
+    "titulo": "Troca de gestores escolares em 24 decretos de pessoal",
+    "texto": "Decretos de 10/09 exoneram e nomeiam diretores, vice-diretores e secretários de escolas da SEMED (19 nomeações) e fazem trocas em SEMUSA, SEINFRA, SGOV, SEMA, SEMAD, SEMAGRIC e SEMDEC, além de tornar sem efeito três nomeações anteriores.",
     "atos": [
      24,
      25,
@@ -975,510 +967,1154 @@
      46,
      87
     ]
+   },
+   {
+    "titulo": "Concursos: Procurador do Município e Câmara",
+    "texto": "Saiu o resultado final das provas escritas do concurso de Procurador do Município, com avaliação biopsicossocial e heteroidentificação marcadas para 20/09. A Câmara republicou a convocação de nove aprovados do concurso de 2024 para posse.",
+    "atos": [
+     47,
+     86
+    ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 91,
+    "motivo": "Compra direta de 15 tablets por R$ 61.903,50 com a C S Comércio e Serviços Ltda por dispensa (art. 75, III, a), após licitação fracassada; o texto registra ainda que uma tentativa anterior foi anulada por vício de legalidade."
+   },
+   {
+    "ato": 92,
+    "motivo": "Adesão da SEMIAS à Ata de Registro de Preços nº 004/2026 da SUPEL-RO (órgão estadual) para locação de 16 veículos com a Reche Galdeano & Cia Ltda; o texto traz só preços mensais (soma R$ 65.266,64), sem o total dos 12 meses."
+   },
+   {
+    "ato": 79,
+    "motivo": "Dispensa de chamamento público para termo de fomento de R$ 320.624,00 com a Federação de Jiu-Jítsu de Rondônia, com base em emenda parlamentar impositiva."
+   },
+   {
+    "ato": 66,
+    "motivo": "Contratação emergencial de Organização Social por rito abreviado, com prazo de apenas 3 dias úteis para propostas, para gerir a UBS do Residencial Orgulho do Madeira; o aviso não informa valor."
+   },
+   {
+    "ato": 51,
+    "motivo": "Suspensão do Pregão Eletrônico nº 294/2026 (refeições para plantonistas da SEMUSA) para análise de pedido de esclarecimento ou impugnação."
+   },
+   {
+    "ato": 89,
+    "motivo": "Ata de registro de preços de valor elevado (R$ 51.260.529,50) em lote único com um só detentor, que admite adesões de outros órgãos até o dobro dos quantitativos."
+   },
+   {
+    "ato": 50,
+    "motivo": "Valor estimado alto (R$ 13.392.172,44) para registro de preços de água mineral; o aviso não detalha quantidades nem unidades participantes."
+   },
+   {
+    "ato": 69,
+    "motivo": "Reprogramação de R$ 13.000.000,00 de emenda federal que tinha outra finalidade (reagentes) para custeio de serviços de média e alta complexidade."
+   },
+   {
+    "ato": 63,
+    "motivo": "Aditivo de prazo prorroga por 12 meses (29/09/2026 a 28/09/2027) o acordo com a Associação Pestalozzi, com cessão de 4 professores municipais."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 50,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão eletrônico nº 327/2026/SMCL/PVH",
+    "objeto": "Registro de preços de água mineral para unidades participantes",
+    "fornecedor": null,
+    "valor": 13392172.44
+   },
+   {
+    "ato": 51,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Pregão eletrônico nº 294/2026",
+    "objeto": "Refeições preparadas e transportadas para servidores plantonistas da SEMUSA",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 52,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão eletrônico nº 329/2026/SMCL/PVH",
+    "objeto": "Seguro total de 13 veículos da SEMEC",
+    "fornecedor": null,
+    "valor": 44450.57
+   },
+   {
+    "ato": 53,
+    "etapa": "Resultado",
+    "modalidade": "Credenciamento nº 108/2026/SMCL/PVH",
+    "objeto": "Credenciamento de empresas para cirurgias eletivas da fila de regulação",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 54,
+    "etapa": "Homologação",
+    "modalidade": "Pregão eletrônico nº 90073/2026/SMCL/PVH",
+    "objeto": "Aquisição de ambulâncias tipo B e outros veículos para a SEMUSA",
+    "fornecedor": "JS COMERCIO E REPRESENTACAO LTDA (itens 1 e 2); MANUPA COM. EXP. IMP. DE EQUIP. E VEICULOS ADAPTADOS LTDA (item 3)",
+    "valor": 817297.0
+   },
+   {
+    "ato": 63,
+    "etapa": "Aditivo",
+    "modalidade": "Acordo de Cooperação nº 006/PGM/2025 – 1º Termo Aditivo",
+    "objeto": "Prorrogação por 12 meses da cooperação para atendimento educacional especializado, com cessão de 4 professores",
+    "fornecedor": "ASSOCIAÇÃO PESTALOZZI DE PORTO VELHO",
+    "valor": null
+   },
+   {
+    "ato": 66,
+    "etapa": "Chamamento público",
+    "modalidade": "Consulta para Seleção Emergencial – Edital nº 161/2026/SEMUSA-DEA",
+    "objeto": "Organização Social para gerir a UBS do Residencial Orgulho do Madeira (4 eSF e 4 eSB)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 78,
+    "etapa": "Outro",
+    "modalidade": "13º Termo de Apostilamento ao Contrato nº DESC/CRCE/GA/01/2023",
+    "objeto": "Dotação orçamentária para despesas de julho de 2026 do contrato da SEMUSA com a Energisa",
+    "fornecedor": "ENERGISA RONDÔNIA",
+    "valor": 104525.98
+   },
+   {
+    "ato": 79,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de chamamento público nº 14/2026/SEMTEL-ASTEC",
+    "objeto": "Termo de fomento para compra de kimonos e tatames do projeto Formando Campeões",
+    "fornecedor": "Federação de Jiu-Jítsu do Estado de Rondônia – FJJRO",
+    "valor": 320624.0
+   },
+   {
+    "ato": 89,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão eletrônico nº 251/2026/SMCL/PVH – ARP nº 048/2026",
+    "objeto": "Construção de calçadas, meios-fios e sarjetas em vias urbanas para a SEINFRA",
+    "fornecedor": "PRIVADO ENGENHARIA LTDA",
+    "valor": 51260529.5
+   },
+   {
+    "ato": 91,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de licitação nº 4/2026 (art. 75, III, a, Lei 14.133/2021)",
+    "objeto": "15 tablets com capa e caneta para diretores de departamento da SEMED",
+    "fornecedor": "C S COMERCIO E SERVIÇOS LTDA",
+    "valor": 61903.5
+   },
+   {
+    "ato": 92,
+    "etapa": "Adesão a ata",
+    "modalidade": "ARP nº 004/2026/SUPEL-RO – Pregão eletrônico nº 90374/2025",
+    "objeto": "Locação mensal de 16 veículos zero quilômetro para a SEMIAS",
+    "fornecedor": "RECHE GALDEANO & CIA LTDA",
+    "valor": 65266.64
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-14",
+    "hora": "10:00",
+    "evento": "Abre o envio de exames complementares dos candidatos PcD do concurso de Procurador (até 18h de 15/09, horário de Brasília)",
+    "ato": 47
+   },
+   {
+    "data": "2026-09-15",
+    "hora": null,
+    "evento": "Candidatos do concurso de Procurador consultam horário e link/local da avaliação biopsicossocial e da heteroidentificação no site do Cebraspe",
+    "ato": 47
+   },
+   {
+    "data": "2026-09-15",
+    "hora": "08:30",
+    "evento": "Reunião ordinária do Comitê Técnico de Planejamento e Gestão do Solo Urbano do Concidade, na sala de situação da SEMEC",
+    "ato": 55
+   },
+   {
+    "data": "2026-09-16",
+    "hora": null,
+    "evento": "Fim do prazo de 3 dias úteis, contados da publicação, para propostas no chamamento emergencial da UBS Orgulho do Madeira",
+    "ato": 66
+   },
+   {
+    "data": "2026-09-16",
+    "hora": null,
+    "evento": "Fim do prazo de 3 dias úteis para recurso contra o resultado preliminar do Credenciamento nº 108/2026 (cirurgias eletivas)",
+    "ato": 53
+   },
+   {
+    "data": "2026-09-18",
+    "hora": null,
+    "evento": "Data provável de divulgação das justificativas da banca sobre recursos das provas escritas do concurso de Procurador",
+    "ato": 47
+   },
+   {
+    "data": "2026-09-20",
+    "hora": null,
+    "evento": "Avaliação biopsicossocial telepresencial (PcD) e heteroidentificação dos candidatos negros do concurso de Procurador",
+    "ato": 47
+   },
+   {
+    "data": "2026-09-25",
+    "hora": "10:00",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 327/2026 (água mineral), horário de Brasília",
+    "ato": 50
+   },
+   {
+    "data": "2026-09-26",
+    "hora": null,
+    "evento": "Fim do prazo de 15 dias para os contribuintes intimados pelos Editais 013 e 014/2026 da SEMEC tomarem ciência dos lançamentos de ISS",
+    "ato": 56
+   },
+   {
+    "data": "2026-09-28",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 329/2026 (seguro de 13 veículos da SEMEC), horário de Brasília",
+    "ato": 52
+   },
+   {
+    "data": "2026-09-29",
+    "hora": null,
+    "evento": "Início da prorrogação do Acordo de Cooperação nº 006/PGM/2025 com a Associação Pestalozzi (até 28/09/2027)",
+    "ato": 63
+   },
+   {
+    "data": "2026-10-02",
+    "hora": null,
+    "evento": "Data provável do resultado provisório da avaliação biopsicossocial e da heteroidentificação do concurso de Procurador",
+    "ato": 47
+   }
+  ],
+  "normas": [
+   {
+    "ato": 3,
+    "identificacao": "Lei nº 3.478, de 13/07/2026",
+    "o_que_muda": "Institui o Programa Bairro Inteligente, que pode usar a estrutura tecnológica e o pessoal da SMTI. O texto publicado traz quase todos os artigos em reticências, sem o conteúdo das regras."
+   },
+   {
+    "ato": 4,
+    "identificacao": "Lei nº 3.479, de 13/07/2026",
+    "o_que_muda": "Empresas passam a precisar de regularidade fiscal com o Município para receber benefícios, incentivos, patrocínio ou apoio a eventos (inclusive feiras imobiliárias), podendo a verificação usar o cadastro de dívida ativa. Parte dos artigos foi publicada em reticências."
+   },
+   {
+    "ato": 5,
+    "identificacao": "Lei nº 3.480, de 13/07/2026",
+    "o_que_muda": "Fixa diretrizes para ampliar o protesto em cartório das certidões de dívida ativa, priorizando débitos maiores, devedores relevantes e inadimplentes reiterados, com divulgação periódica dos resultados. Parte dos artigos foi publicada em reticências."
+   },
+   {
+    "ato": 6,
+    "identificacao": "Lei nº 3.483, de 13/07/2026",
+    "o_que_muda": "Cria a Semana Municipal de Conscientização sobre Segurança Digital para Crianças e Adolescentes, que SEMED, SEMASF e SMTI podem apoiar sem dotação específica. A maior parte do texto foi publicada em reticências."
+   },
+   {
+    "ato": 7,
+    "identificacao": "Lei nº 3.495, de 18/08/2026",
+    "o_que_muda": "Cria o Programa Saúde na Comunidade, com unidades móveis e equipes multiprofissionais atendendo distritos e conjuntos habitacionais vulneráveis, com calendário mensal. Vale desde a publicação."
+   },
+   {
+    "ato": 8,
+    "identificacao": "Lei nº 3.496, de 18/08/2026",
+    "o_que_muda": "Cria o Programa de Proteção da Saúde Bucal da Pessoa com TEA na rede municipal, com atendimento prioritário, profissionais capacitados e direito a acompanhante nas consultas."
+   },
+   {
+    "ato": 9,
+    "identificacao": "Lei nº 3.497, de 18/08/2026",
+    "o_que_muda": "Obriga o Executivo a divulgar vagas, ocupação, licenças e canais de denúncia das unidades de acolhimento de crianças e adolescentes e a enviar relatório semestral à Câmara, preservando a identidade dos acolhidos."
+   },
+   {
+    "ato": 10,
+    "identificacao": "Lei nº 3.498, de 18/08/2026",
+    "o_que_muda": "Cria programa para fornecer gratuitamente, pelo SUS municipal, medicamentos fitoterápicos autorizados pela Anvisa, como canabidiol, a pacientes com prescrição, laudo e comprovação de baixa renda."
+   },
+   {
+    "ato": 11,
+    "identificacao": "Lei nº 3.499, de 18/08/2026",
+    "o_que_muda": "Institui a telemedicina como atendimento complementar e gratuito no SUS municipal, com prioridade para distritos e comunidades ribeirinhas e acesso por agendamento via SISREG."
+   },
+   {
+    "ato": 12,
+    "identificacao": "Lei nº 3.500, de 18/08/2026",
+    "o_que_muda": "Pet shops de banho e tosa de cães e gatos devem filmar o serviço, guardar as gravações por 7 dias, dar acesso ao tutor e afixar aviso sobre câmeras, sob multa a ser fixada pelo Executivo."
+   },
+   {
+    "ato": 21,
+    "identificacao": "Portaria IPAM nº 524, de 09/09/2026",
+    "o_que_muda": "Aprova o Protocolo de Auditoria Concorrente Hospitalar do IPAM: auditores visitam à beira-leito os internados, hospitais credenciados devem dar acesso e responder apontamentos em prazos definidos, e o IPAM não custeia internação apenas social."
+   },
+   {
+    "ato": 23,
+    "identificacao": "Decreto nº 22.446, de 10/09/2026",
+    "o_que_muda": "Servidores de fiscalização municipal com atividade externa ficam dispensados do ponto eletrônico e passam a comprovar a jornada por relatórios, ordens de serviço ou sistemas definidos por cada órgão."
+   },
+   {
+    "ato": 85,
+    "identificacao": "Resolução nº 4/ARDPV, de 03/07/2026",
+    "o_que_muda": "Define os tipos de infração e o cálculo de multas (percentual sobre a receita mensal do serviço) para empresas de limpeza urbana e resíduos sólidos reguladas pela ARDPV. A aplicação de multas depende da publicação de matriz de aplicabilidade por contrato."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 17,
+     "acao": "Substituição",
+     "nome": "JOÃO PHILIPE DE PADUA SILVA",
+     "cargo": "Chefe da Seção de Call Center – EMDUR (27/08 a 15/09/2026)"
+    },
+    {
+     "ato": 22,
+     "acao": "Substituição",
+     "nome": "SUEIDE SOUZA CORREA",
+     "cargo": "Chefe de Divisão de Folha de Pagamento de Aposentados e Pensionistas – IPAM (24/08 a 02/09/2026)"
+    },
+    {
+     "ato": 24,
+     "acao": "Outro",
+     "nome": "LUCAS ROMULO MIRANDA",
+     "cargo": "Nomeação tornada sem efeito – Gerente II, Divisão de Tecnologia da Informação e Transparência – SMCL"
+    },
+    {
+     "ato": 25,
+     "acao": "Outro",
+     "nome": "PEDRO MATHEUS FARIAS LIMA",
+     "cargo": "Nomeação tornada sem efeito – Gerente II, Divisão de Gestão da Regularização Fundiária de Interesse Social – SEMDEC"
+    },
+    {
+     "ato": 26,
+     "acao": "Outro",
+     "nome": "LIDIANE CARDOSO VIANA CRUZ DE CARVALHO",
+     "cargo": "Nomeação tornada sem efeito – Chefe II, Centro de Referência da Assistência Social – SEMIAS"
+    },
+    {
+     "ato": 27,
+     "acao": "Outro",
+     "nome": "GABRIELLA CRISTINA SILVA SOUZA",
+     "cargo": "Retificação da data de nomeação para 01/09/2026 – Secretária da EMEI Judith Holder – SEMED"
+    },
+    {
+     "ato": 28,
+     "acao": "Outro",
+     "nome": "PEDRO HENRIQUE BARBOSA LIMA",
+     "cargo": "Retificação do nome na nomeação – Gerente II, Divisão de Patrimônio – SGOV"
+    },
+    {
+     "ato": 29,
+     "acao": "Outro",
+     "nome": "MARCIO AURELIO GONÇALVES FERREIRA FILHO",
+     "cargo": "Retificação da data de nomeação para 01/09/2026 – Assessor Executivo I, Gabinete do Prefeito – SGOV"
+    },
+    {
+     "ato": 30,
+     "acao": "Nomeação",
+     "nome": "SUEMAR LUIZ RODRIGUES",
+     "cargo": "Assessor I, Gabinete da Superintendência – SMD"
+    },
+    {
+     "ato": 31,
+     "acao": "Nomeação",
+     "nome": "BEATRIZ ANDRADE SOUZA TEIXEIRA",
+     "cargo": "Assessor I, Gabinete da Procuradoria Geral – PGM"
+    },
+    {
+     "ato": 32,
+     "acao": "Nomeação",
+     "nome": "JOANA LIMA BARBOZA",
+     "cargo": "Assessor I, Gabinete da Secretaria – SECOM"
+    },
+    {
+     "ato": 33,
+     "acao": "Exoneração",
+     "nome": "ROBERTO SILVA DE SOUZA",
+     "cargo": "Secretário de Conselho II – SEMA"
+    },
+    {
+     "ato": 34,
+     "acao": "Nomeação",
+     "nome": "KEMILLY VICTORIA NASCIMENTO DE SOUZA",
+     "cargo": "Secretário de Conselho II – SEMA"
+    },
+    {
+     "ato": 35,
+     "acao": "Exoneração",
+     "nome": "GILMARA FERREIRA MAGALHAES",
+     "cargo": "Assessor II, Departamento de Patrimônio, Arquivo, Logística, Almoxarifado, Conservação e Reparos – SEMAD"
+    },
+    {
+     "ato": 36,
+     "acao": "Nomeação",
+     "nome": "LARISSA MAGNO SUSSUARANA",
+     "cargo": "Assessor II, Departamento de Patrimônio, Arquivo, Logística, Almoxarifado, Conservação e Reparos – SEMAD"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "ANA PAULA DE LARA COELHO",
+     "cargo": "Secretária da EMEI Professor Francisco Marto de Azevedo – SEMED (consta duas vezes: a pedido em 03/09 e em 11/09/2026)"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "ODAIZA ALVES COSTA",
+     "cargo": "Vice-Diretor da EMEIEF Padre Geovane Mendes – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "ROSIANE MORAES COSTA DE SOUZA",
+     "cargo": "Vice-Diretor da EMEF Engenheiro Wadih Darwich Zacarias – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "DOGIVAL MARQUES DE OLIVEIRA",
+     "cargo": "Diretor da EMEF Morvan Freire Brasil – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "ELITA DA SILVA CAVALCANTE",
+     "cargo": "Diretor da EMEF Moises Ferreira Neto – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "CINTIA MACEDO FERNANDES",
+     "cargo": "Diretor da EMEI Profª Ronilza Cordeiro Afonso Dias – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "FABIOLA FAGUNDES KORILO",
+     "cargo": "Secretária da EMEF Olympia Salvatore Ribeiro – SEMED"
+    },
+    {
+     "ato": 37,
+     "acao": "Exoneração",
+     "nome": "IVETE RIBEIRO SENA GARCES",
+     "cargo": "Vice-Diretor da EMEF Deigmar Moraes de Souza – SEMED"
+    },
+    {
+     "ato": 38,
+     "acao": "Nomeação",
+     "nome": "SERGIO ADENILSON DOS SANTOS",
+     "cargo": "Gerente II, Divisão de Gestão da Regularização Fundiária de Interesse Social – SEMDEC"
+    },
+    {
+     "ato": 39,
+     "acao": "Exoneração",
+     "nome": "FERNANDA DOS REIS",
+     "cargo": "Assessor I, Gabinete da Secretaria – SEMAGRIC"
+    },
+    {
+     "ato": 40,
+     "acao": "Nomeação",
+     "nome": "JEICYCLEIDE SANTOS DA SILVA",
+     "cargo": "Assessor I, Gabinete da Secretaria – SEMAGRIC"
+    },
+    {
+     "ato": 41,
+     "acao": "Exoneração",
+     "nome": "ODAIR JOSE DE SOUSA PICANCO",
+     "cargo": "Assessor IV, Gabinete da Secretaria – SGOV"
+    },
+    {
+     "ato": 41,
+     "acao": "Exoneração",
+     "nome": "TATIANE DE LIMA PEREIRA",
+     "cargo": "Assessor III, Gabinete da Secretaria – SGOV"
+    },
+    {
+     "ato": 42,
+     "acao": "Nomeação",
+     "nome": "TATIANE DE LIMA PEREIRA",
+     "cargo": "Assessor IV, Gabinete da Secretaria – SGOV"
+    },
+    {
+     "ato": 43,
+     "acao": "Exoneração",
+     "nome": "ROGERIO DE SIQUEIRA RODRIGUES",
+     "cargo": "Assessor II, Assessoria Técnica – SEMUSA"
+    },
+    {
+     "ato": 43,
+     "acao": "Exoneração",
+     "nome": "CARLA DOMINIQUE BRAMBILLA WATANABE",
+     "cargo": "Gerente II, Divisão de Aquisições e Contratações – SEMUSA"
+    },
+    {
+     "ato": 44,
+     "acao": "Nomeação",
+     "nome": "ANDRE LUIZ SILVA MAIA",
+     "cargo": "Assessor II, Assessoria Técnica – SEMUSA"
+    },
+    {
+     "ato": 44,
+     "acao": "Nomeação",
+     "nome": "UESLEI OLIVEIRA BATISTA",
+     "cargo": "Gerente II, Divisão de Aquisições e Contratações – SEMUSA"
+    },
+    {
+     "ato": 45,
+     "acao": "Exoneração",
+     "nome": "CINTIA LIVIA DA SILVA GOMES",
+     "cargo": "Assessor III, Assessoria Técnica – SEINFRA"
+    },
+    {
+     "ato": 45,
+     "acao": "Exoneração",
+     "nome": "JULIA EVELLYN FREITAS COSTA",
+     "cargo": "Chefe I, Setor de Almoxarifado – SEINFRA"
+    },
+    {
+     "ato": 45,
+     "acao": "Exoneração",
+     "nome": "RAFAEL DO CARMO NASCIMENTO",
+     "cargo": "Assessor II, Departamento de Serviços de Limpeza Pública – SEINFRA"
+    },
+    {
+     "ato": 46,
+     "acao": "Nomeação",
+     "nome": "THAIANE FREITAS ALVES",
+     "cargo": "Assessor III, Assessoria Técnica – SEINFRA"
+    },
+    {
+     "ato": 46,
+     "acao": "Nomeação",
+     "nome": "INGRID GEMINA DO VALE DE LIMA",
+     "cargo": "Chefe I, Setor de Almoxarifado – SEINFRA"
+    },
+    {
+     "ato": 46,
+     "acao": "Nomeação",
+     "nome": "RODOLFO COSTA FERREIRA SANTOS",
+     "cargo": "Assessor II, Departamento de Serviços de Limpeza Pública – SEINFRA"
+    },
+    {
+     "ato": 49,
+     "acao": "Substituição",
+     "nome": "MAGDA FONTOURA DO NASCIMENTO RABELO",
+     "cargo": "Assessor Chefe DAS-08 – SEMAD (03/09 a 02/10/2026, férias do titular)"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "GRACE SHERLEY DENNY REIS",
+     "cargo": "Diretor da EMEF Morvan Freire Brasil – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "CLAUDIA GOMES FERREIRA",
+     "cargo": "Diretor da EMEF Moises Ferreira Neto – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ELITA DA SILVA CAVALCANTE",
+     "cargo": "Diretor da EMEI Profª Ronilza Cordeiro Afonso Dias – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "JAIR XAVIER DA SILVA",
+     "cargo": "Secretária da EMEI Professor Francisco Marto de Azevedo – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ESTEFANE AZEVEDO DUARTE FERNANDES",
+     "cargo": "Secretária da EMEF Olympia Salvatore Ribeiro – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ROSIANE MORAES COSTA DE SOUZA",
+     "cargo": "Vice-Diretor da EMEF Deigmar Moraes de Souza – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "MELISSA ALVES DE SOUZA",
+     "cargo": "Vice-Diretor da EMEIEF Professor Waldey Marcião Menezes – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "SOCORRO GURGEL DE SOUZA",
+     "cargo": "Vice-Diretor da EMEIEF Cor de Jambo – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ERIKA DOS SANTOS LIMA",
+     "cargo": "Vice-Diretor da EMEI Moranguinho – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ANA CELIA SILVA NASCIMENTO",
+     "cargo": "Vice-Diretor da EMEI Padre Zenildo Gomes da Silva – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ELIZA CARVALHO DO NASCIMENTO MOURA",
+     "cargo": "Vice-Diretor da EMEF Bom Jesus – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "FRANCISCO SILVA FELICIO",
+     "cargo": "Vice-Diretor da EMEIEF Francisco Elenilson Negreiros – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "PAULO ALBERTO WEWGE DOS SANTOS",
+     "cargo": "Vice-Diretor da EMEIEF Som da Craviola – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "CINTIA MACEDO FERNANDES",
+     "cargo": "Vice-Diretor da EMEI Profª Ronilza Cordeiro Afonso Dias – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "MARCIA DO VALE VIEIRA MIRANDA",
+     "cargo": "Secretária da EMEIEF Auta de Souza – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "MEILENE GOMES DE ARAUJO",
+     "cargo": "Secretária da EMEF Ermelindo Brasil – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "ISABEL CRISTINA SANTOS BEZERRA",
+     "cargo": "Secretária da EMEI Moranguinho – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "FABIOLA FAGUNDES KORILO",
+     "cargo": "Secretária da EMEF Nossa Senhora de Nazaré – SEMED"
+    },
+    {
+     "ato": 87,
+     "acao": "Nomeação",
+     "nome": "EURIDES BORGES NEVES",
+     "cargo": "Secretária da EMEIEF Pequenos Talentos – SEMED"
+    }
+   ],
+   "rotina": "Completam a edição férias de servidores da Câmara, pensões por morte do IPAM (uma concedida e outra restabelecida por decisão judicial), duas promoções funcionais, um teletrabalho integral na SEMEC, diárias da EMDUR, SEMEC, SEMED, SEMTEL e SEMUSA, homologações de prestação de contas de diárias, designação de fiscal e gestor de contrato na SEMIAS, comissão, gestor e parecerista da parceria com a Federação de Jiu-Jítsu e a lista de servidores autorizados a dirigir veículos da SEMTEL."
+  },
   "atos": [
    {
     "id": 1,
-    "categoria": "Outros",
+    "categoria": "Legislação",
     "relevancia": "baixa",
-    "resumo": "Decreto Legislativo nº 656/2026 concede o título de Cidadão Honorário de Porto Velho a Juan Villalobos Salcedo, por proposta do vereador Gedeão Negreiros."
+    "resumo": "Decreto Legislativo nº 656/CMPV-2026 concede o título de Cidadão Honorário de Porto Velho a Juan Villalobos Salcedo, por proposta do vereador Gedeão Negreiros."
    },
    {
     "id": 2,
-    "categoria": "Outros",
+    "categoria": "Legislação",
     "relevancia": "baixa",
-    "resumo": "Decreto Legislativo nº 657/2026 concede o título de Cidadã Honorária de Porto Velho a Marina Noemi Barros de Melo, por proposta do vereador Pastor Bruno Luciano."
+    "resumo": "Decreto Legislativo nº 657/CMPV-2026 concede o título de Cidadã Honorária de Porto Velho a Marina Noemi Barros de Melo, por proposta do vereador Pastor Bruno Luciano."
    },
    {
     "id": 3,
     "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "Lei nº 3.478 institui o Programa Bairro Inteligente; o texto foi publicado com quase todos os artigos em branco, restando apenas o art. 9º, que prevê o uso da estrutura tecnológica e de pessoal já existente, especialmente da SMTI (autoria do vereador Gedeão Negreiros)."
+    "resumo": "Lei nº 3.478/2026 institui o Programa Bairro Inteligente, com uso da estrutura da SMTI; o texto publicado traz quase todos os artigos em reticências, sem o conteúdo das regras."
    },
    {
     "id": 4,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Lei nº 3.479 exige regularidade fiscal de empresas para receberem benefícios, incentivos, patrocínios e apoio a eventos (inclusive feiras imobiliárias) do Município, podendo usar os cadastros da dívida ativa; o texto publicado omite a maioria dos artigos (autoria do vereador Adriano Gomes)."
+    "resumo": "Lei nº 3.479/2026 exige regularidade fiscal de empresas para receberem benefícios, incentivos, patrocínios ou apoio a eventos do Município, podendo usar o cadastro de dívida ativa; vários artigos saíram em reticências."
    },
    {
     "id": 5,
     "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "Lei nº 3.480 define diretrizes para ampliar o protesto em cartório das Certidões de Dívida Ativa, priorizando débitos maiores, devedores relevantes e inadimplência reiterada, e permite divulgar dados sobre os resultados; vários artigos saíram em branco (autoria do vereador Adriano Gomes)."
+    "resumo": "Lei nº 3.480/2026 fixa diretrizes para ampliar o protesto extrajudicial de certidões de dívida ativa, priorizando grandes débitos e devedores reincidentes; parte do texto foi publicada em reticências."
    },
    {
     "id": 6,
     "categoria": "Legislação",
     "relevancia": "baixa",
-    "resumo": "Lei nº 3.483 cria a Semana Municipal de Conscientização sobre Segurança Digital para Crianças e Adolescentes, com apoio possível de SEMED, SEMASF e SMTI sem dotação específica; o texto publicado omite a maior parte dos artigos (autoria do vereador Jeovane Ibiza)."
+    "resumo": "Lei nº 3.483/2026 cria a Semana Municipal de Conscientização sobre Segurança Digital para Crianças e Adolescentes, com apoio possível de SEMED, SEMASF e SMTI sem dotação específica; texto em grande parte suprimido."
    },
    {
     "id": 7,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Lei nº 3.495 cria o Programa Saúde na Comunidade, com unidades móveis e equipes que levam atendimento médico, odontológico e psicológico a áreas vulneráveis, priorizando distritos como Jaci-Paraná, União Bandeirantes e Nova Califórnia e conjuntos como Orgulho do Madeira e Cristal da Calama, com calendário mensal (autoria do vereador Nilton Souza)."
+    "resumo": "Lei nº 3.495/2026 cria o Programa Saúde na Comunidade, com unidades móveis levando consultas, exames simples e vacinação a distritos como Jaci-Paraná e conjuntos como Orgulho do Madeira."
    },
    {
     "id": 8,
     "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "Lei nº 3.496 cria o Programa de Proteção da Saúde Bucal da Pessoa com Transtorno do Espectro Autista, com atendimento prioritário, profissionais capacitados e direito a acompanhante nas consultas odontológicas da rede municipal (autoria do vereador Dr. Macário Barros)."
+    "resumo": "Lei nº 3.496/2026 cria o Programa de Proteção da Saúde Bucal da Pessoa com TEA, com atendimento prioritário, capacitação de profissionais e direito a acompanhante nas consultas."
    },
    {
     "id": 9,
     "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "Lei nº 3.497 fixa regras de transparência e proteção para crianças e adolescentes em abrigos, obrigando a divulgar em portal vagas, ocupação, licenças e canais de denúncia e a enviar relatório semestral à Câmara (autoria do vereador Pastor Evanildo)."
+    "resumo": "Lei nº 3.497/2026 fixa diretrizes de transparência para abrigos de crianças e adolescentes, com divulgação de vagas, licenças e canais de denúncia e relatório semestral à Câmara."
    },
    {
     "id": 10,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Lei nº 3.498 cria programa para fornecimento gratuito, pelo SUS municipal, de medicamentos à base de plantas autorizados pela Anvisa, incluindo canabidiol (CBD), mediante prescrição, laudo que justifique o tratamento e comprovação de baixa renda (autoria do vereador Dr. Santana)."
+    "resumo": "Lei nº 3.498/2026 cria programa de fornecimento gratuito de medicamentos fitoterápicos autorizados pela Anvisa, como canabidiol, mediante prescrição, laudo e comprovação de hipossuficiência."
    },
    {
     "id": 11,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Lei nº 3.499 institui a Política Municipal de Telemedicina no SUS, gratuita e agendada pelo SISREG, com prioridade para distritos como Extrema, União Bandeirantes, Jaci-Paraná, Nazaré, São Carlos, Calama e Ponta do Abunã, em especialidades como cardiologia, neurologia e psiquiatria (autoria do vereador Adalto de Bandeirantes)."
+    "resumo": "Lei nº 3.499/2026 institui a telemedicina gratuita no SUS municipal, com prioridade para distritos como Extrema, União Bandeirantes, Jaci-Paraná e Baixo Madeira, em especialidades como cardiologia e psiquiatria."
    },
    {
     "id": 12,
     "categoria": "Legislação",
-    "relevancia": "alta",
-    "resumo": "Lei nº 3.500 obriga estabelecimentos de banho e tosa de cães e gatos a filmar o serviço e guardar as imagens por 7 dias, com acesso garantido aos tutores, e a informar em cartaz se têm câmeras, sob multa a ser fixada pelo Executivo e destinada ao Fundo Municipal de Bem-Estar Animal (autoria do vereador Edimilson Dourado)."
+    "relevancia": "media",
+    "resumo": "Lei nº 3.500/2026 obriga pet shops de banho e tosa a filmar o serviço, guardar as imagens por 7 dias e informar se têm câmeras, sob multa a ser fixada pelo Executivo."
    },
    {
     "id": 13,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Câmara concede férias de 01/11 a 30/11/2026 a Leiliane Alves de Souza, lotada no gabinete da vereadora Sofia Andrade."
+    "resumo": "Portaria nº 181/CMPV-2026 concede férias de 01/11 a 30/11/2026 a Leiliane Alves de Souza, do gabinete da vereadora Sofia Andrade."
    },
    {
     "id": 14,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Câmara altera as férias de Gabriella Storer, Ana Paula Almeida Gomes de Brito e Michael Douglas da Silva, que estavam marcadas para setembro de 2026."
+    "resumo": "Portaria nº 182/CMPV-2026 altera as férias de Gabriella Storer, Ana Paula Almeida Gomes de Brito e Michael Douglas da Silva, servidores comissionados da Câmara."
    },
    {
     "id": 15,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Câmara concede férias de 05/10 a 03/11/2026 ao servidor efetivo Nelson Pupp Junior, auxiliar de atividades administrativas."
+    "resumo": "Portaria nº 183/CMPV-2026 concede férias de 05/10 a 03/11/2026 ao servidor efetivo da Câmara Nelson Pupp Junior."
    },
    {
     "id": 16,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "EMDUR concede diárias a 12 empregados que irão ao distrito de Rio Pardo entre 14 e 18/09/2026 para vistoria e manutenção e modernização da iluminação pública."
+    "resumo": "Portaria nº 188/2026/EMDUR concede diárias a 12 empregados para vistoria e manutenção da iluminação pública no distrito de Rio Pardo entre 14 e 18/09/2026."
    },
    {
     "id": 17,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "EMDUR nomeia João Philipe de Padua Silva como chefe substituto da Seção de Call Center, no lugar de Gabriel Menezes dos Santos Leite, de 27/08 a 15/09/2026, por férias."
+    "resumo": "Portaria nº 189/2026/EMDUR designa João Philipe de Padua Silva como Chefe da Seção de Call Center, substituindo Gabriel Menezes dos Santos Leite de 27/08 a 15/09/2026."
    },
    {
     "id": 18,
-    "categoria": "Finanças e orçamento",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "EMDUR homologa a prestação de contas de 3 e ½ diárias de quatro empregados que foram a Nazaré, no Baixo Madeira, fazer manutenção na iluminação pública."
+    "resumo": "EMDUR homologa a prestação de contas de 3,5 diárias de quatro chefes de seção em viagem a Nazaré (Baixo Madeira) para manutenção da iluminação pública."
    },
    {
     "id": 19,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "IPAM concede pensão por morte vitalícia, cota de 100%, a Regina Sebastiana Neves de Carvalho, companheira do gari aposentado Sebastião Ribeiro da Silva, falecido em 04/08/2026."
+    "resumo": "Portaria IPAM nº 521 concede pensão vitalícia por morte a Regina Sebastiana Neves de Carvalho, companheira do gari aposentado Sebastião Ribeiro da Silva, retroativa a 04/08/2026."
    },
    {
     "id": 20,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "IPAM restabelece, por decisão judicial, pensão de 50% a Júlia Victória de Souza e Silva até ela completar 21 anos, com efeitos retroativos a 30/10/2025, pela morte do vigia Geraldo Marques da Silva."
+    "resumo": "Portaria IPAM nº 522 restabelece, por sentença judicial, a pensão de Júlia Victória de Souza e Silva até os 21 anos, com efeitos retroativos a 30/10/2025."
    },
    {
     "id": 21,
-    "categoria": "Outros",
+    "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "IPAM aprova protocolo de auditoria concorrente hospitalar: 2 médicos e 2 enfermeiros auditores visitarão à beira do leito pacientes internados em 4 hospitais credenciados (a partir do 3º dia, ou no 1º dia em UTI), com prazos de resposta aos hospitais e sem custeio de internação mantida só por motivo social."
+    "resumo": "Portaria IPAM nº 524 aprova o Protocolo de Auditoria Concorrente Hospitalar, com 2 médicos e 2 enfermeiros auditores visitando internados em 4 hospitais e prazos de resposta para os prestadores credenciados."
    },
    {
     "id": 22,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "IPAM designa Sueide Souza Correa para responder pela chefia da Divisão de Folha de Pagamento de Aposentados e Pensionistas de 24/08 a 02/09/2026, durante as férias de Letícia Benício da Cruz."
+    "resumo": "Portaria IPAM nº 525 designa Sueide Souza Correa para substituir Letícia Benício da Cruz como Chefe da Divisão de Folha de Aposentados e Pensionistas de 24/08 a 02/09/2026."
    },
    {
     "id": 23,
-    "categoria": "Pessoal",
+    "categoria": "Legislação",
     "relevancia": "media",
-    "resumo": "Decreto nº 22.446 dispensa do ponto eletrônico os fiscais municipais que fazem atividades externas, que passarão a comprovar a jornada por relatórios, registros de vistorias, ordens de serviço ou sistemas de fiscalização definidos pelo titular de cada órgão."
+    "resumo": "Decreto nº 22.446/2026 altera o decreto do ponto eletrônico para dispensar fiscais municipais com trabalho externo, que passam a comprovar a jornada por relatórios e registros de fiscalização."
    },
    {
     "id": 24,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Torna sem efeito a nomeação de Lucas Romulo Miranda como Gerente II (DAS 05) da Divisão de Tecnologia da Informação e Transparência da SMCL."
+    "resumo": "Decreto nº 3.659/I torna sem efeito a nomeação de Lucas Romulo Miranda como Gerente II da Divisão de TI e Transparência da SMCL."
    },
    {
     "id": 25,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Torna sem efeito a nomeação de Pedro Matheus Farias Lima como Gerente II (DAS 05) da Divisão de Gestão da Regularização Fundiária de Interesse Social da SEMDEC."
+    "resumo": "Decreto nº 3.660/I torna sem efeito a nomeação de Pedro Matheus Farias Lima como Gerente II da Divisão de Regularização Fundiária de Interesse Social da SEMDEC."
    },
    {
     "id": 26,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Torna sem efeito a nomeação de Lidiane Cardoso Viana Cruz de Carvalho como Chefe II (DAS 03) no Centro de Referência da Assistência Social da SEMIAS."
+    "resumo": "Decreto nº 3.661/I torna sem efeito a nomeação de Lidiane Cardoso Viana Cruz de Carvalho como Chefe II do CRAS na SEMIAS."
    },
    {
     "id": 27,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Retifica a data de nomeação de Gabriella Cristina Silva Souza como secretária da EMEI Judith Holder, que passa de 7 de julho para 1º de setembro de 2026."
+    "resumo": "Decreto nº 3.662/I retifica para 01/09/2026 a data de nomeação de Gabriella Cristina Silva Souza como secretária da EMEI Judith Holder (SEMED)."
    },
    {
     "id": 28,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Corrige o nome do Gerente II da Divisão de Patrimônio da SGOV para Pedro Henrique Barbosa Lima."
+    "resumo": "Decreto nº 3.663/I corrige o nome do nomeado Gerente II da Divisão de Patrimônio da SGOV para Pedro Henrique Barbosa Lima."
    },
    {
     "id": 29,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Retifica a data de nomeação de Marcio Aurelio Gonçalves Ferreira Filho como Assessor Executivo I (DAS 08) do Gabinete do Prefeito, de 1º de agosto para 1º de setembro de 2026."
+    "resumo": "Decreto nº 3.664/I retifica para 01/09/2026 a nomeação de Marcio Aurelio Gonçalves Ferreira Filho como Assessor Executivo I do Gabinete do Prefeito."
    },
    {
     "id": 30,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Suemar Luiz Rodrigues como Assessor I no gabinete da Superintendência Municipal de Distritos a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.665/I nomeia Suemar Luiz Rodrigues como Assessor I na Superintendência Municipal de Distritos a partir de 11/09/2026."
    },
    {
     "id": 31,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Beatriz Andrade Souza Teixeira como Assessor I no gabinete da Procuradoria Geral do Município a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.666/I nomeia Beatriz Andrade Souza Teixeira como Assessor I no Gabinete da Procuradoria Geral do Município a partir de 11/09/2026."
    },
    {
     "id": 32,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Joana Lima Barboza como Assessor I no gabinete da Secretaria Municipal de Comunicação a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.667/I nomeia Joana Lima Barboza como Assessor I no gabinete da SECOM a partir de 11/09/2026."
    },
    {
     "id": 33,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera Roberto Silva de Souza do cargo de Secretário de Conselho II da SEMA a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.668/I exonera Roberto Silva de Souza do cargo de Secretário de Conselho II da SEMA a partir de 11/09/2026."
    },
    {
     "id": 34,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Kemilly Victoria Nascimento de Souza como Secretário de Conselho II da SEMA a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.669/I nomeia Kemilly Victoria Nascimento de Souza como Secretário de Conselho II da SEMA a partir de 11/09/2026."
    },
    {
     "id": 35,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera Gilmara Ferreira Magalhaes do cargo de Assessor II no Departamento de Patrimônio, Arquivo e Logística da SEMAD a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.670/I exonera Gilmara Ferreira Magalhaes do cargo de Assessor II do Departamento de Patrimônio e Logística da SEMAD."
    },
    {
     "id": 36,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Larissa Magno Sussuarana como Assessor II no Departamento de Patrimônio, Arquivo e Logística da SEMAD a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.671/I nomeia Larissa Magno Sussuarana como Assessor II do Departamento de Patrimônio e Logística da SEMAD."
    },
    {
     "id": 37,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Exonera ocupantes de cargos de direção, vice-direção e secretaria de escolas municipais, entre eles os diretores Dogival Marques de Oliveira (EMEF Morvan Freire Brasil), Elita da Silva Cavalcante (EMEF Moises Ferreira Neto) e Cintia Macedo Fernandes (EMEI Profª Ronilza Cordeiro Afonso Dias); Ana Paula de Lara Coelho aparece duas vezes na lista, uma delas a pedido."
+    "resumo": "Decreto nº 3.672/I exonera diretores, vice-diretores e secretários de oito escolas da SEMED; Ana Paula de Lara Coelho aparece duas vezes na lista (a pedido em 03/09 e em 11/09)."
    },
    {
     "id": 38,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Sergio Adenilson dos Santos como Gerente II da Divisão de Gestão da Regularização Fundiária de Interesse Social da SEMDEC a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.673/I nomeia Sergio Adenilson dos Santos como Gerente II da Divisão de Regularização Fundiária de Interesse Social da SEMDEC."
    },
    {
     "id": 39,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera Fernanda dos Reis do cargo de Assessor I no gabinete da SEMAGRIC a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.674/I exonera Fernanda dos Reis do cargo de Assessor I do gabinete da SEMAGRIC."
    },
    {
     "id": 40,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Jeicycleide Santos da Silva como Assessor I no gabinete da SEMAGRIC a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.675/I nomeia Jeicycleide Santos da Silva como Assessor I do gabinete da SEMAGRIC."
    },
    {
     "id": 41,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera Odair Jose de Sousa Picanco (Assessor IV) e Tatiane de Lima Pereira (Assessor III) do gabinete da SGOV a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.676/I exonera Odair Jose de Sousa Picanco (Assessor IV) e Tatiane de Lima Pereira (Assessor III) do gabinete da SGOV."
    },
    {
     "id": 42,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia Tatiane de Lima Pereira como Assessor IV no gabinete da SGOV a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.677/I nomeia Tatiane de Lima Pereira como Assessor IV do gabinete da SGOV a partir de 11/09/2026."
    },
    {
     "id": 43,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera da SEMUSA Rogerio de Siqueira Rodrigues (Assessor II) e Carla Dominique Brambilla Watanabe (Gerente II da Divisão de Aquisições e Contratações) a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.678/I exonera da SEMUSA Rogerio de Siqueira Rodrigues (Assessor II) e Carla Dominique Brambilla Watanabe (Gerente II da Divisão de Aquisições e Contratações)."
    },
    {
     "id": 44,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia na SEMUSA Andre Luiz Silva Maia (Assessor II) e Ueslei Oliveira Batista (Gerente II da Divisão de Aquisições e Contratações) a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.679/I nomeia na SEMUSA Andre Luiz Silva Maia (Assessor II) e Ueslei Oliveira Batista (Gerente II da Divisão de Aquisições e Contratações)."
    },
    {
     "id": 45,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Exonera da SEINFRA Cintia Livia da Silva Gomes, Julia Evellyn Freitas Costa e Rafael do Carmo Nascimento a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.680/I exonera três comissionados da SEINFRA: Cintia Livia da Silva Gomes, Julia Evellyn Freitas Costa e Rafael do Carmo Nascimento."
    },
    {
     "id": 46,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Nomeia na SEINFRA Thaiane Freitas Alves, Ingrid Gemina do Vale de Lima e Rodolfo Costa Ferreira Santos para os cargos de assessoria técnica, almoxarifado e limpeza pública a partir de 11/09/2026."
+    "resumo": "Decreto nº 3.681/I nomeia na SEINFRA Thaiane Freitas Alves, Ingrid Gemina do Vale de Lima e Rodolfo Costa Ferreira Santos para os cargos vagos."
    },
    {
     "id": 47,
     "categoria": "Concursos e seleções",
     "relevancia": "alta",
-    "resumo": "Edital nº 20 do concurso de Procurador do Município divulga o resultado final das provas escritas e convoca 2 candidatos com deficiência para avaliação biopsicossocial online e 4 candidatos negros para heteroidentificação, ambas em 20/09/2026, com consulta de horários no site do Cebraspe a partir de 15/09 e resultado provisório previsto para 02/10/2026."
+    "resumo": "Edital nº 20 do concurso de Procurador do Município divulga o resultado final das provas escritas e convoca 2 candidatos PcD e 4 candidatos negros para avaliações em 20/09/2026."
    },
    {
     "id": 48,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMAD concede promoção funcional à analista jurídica Gecilene Antunes Faustino, da faixa B-IV para C-I, a partir de 27/06/2026."
+    "resumo": "Portaria de promoção nº 160 da SEMAD promove a analista jurídica Gecilene Antunes Faustino da faixa B-IV para C-I a partir de 27/06/2026."
    },
    {
     "id": 49,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMAD designa Magda Fontoura do Nascimento Rabelo como Assessor Chefe (DAS-08) substituta de 03/09 a 02/10/2026, durante as férias de Demetrio Laino Justo Filho."
+    "resumo": "Portaria nº 1397/2026/SEMAD designa Magda Fontoura do Nascimento Rabelo como Assessor Chefe DAS-08 em substituição a Demetrio Laino Justo Filho de 03/09 a 02/10/2026."
    },
    {
     "id": 50,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "SMCL abre o Pregão Eletrônico nº 327/2026, registro de preços para compra de água mineral para as unidades da Prefeitura, com valor estimado de R$ 13.392.172,44 e abertura das propostas em 25/09/2026, às 10h (Brasília), no gov.br/compras."
+    "resumo": "Aviso do Pregão Eletrônico nº 327/2026 para registro de preços de água mineral, valor estimado de R$ 13.392.172,44, com abertura em 25/09/2026 às 10h (Brasília)."
    },
    {
     "id": 51,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "SMCL suspende o Pregão Eletrônico nº 294/2026, para fornecimento de refeições a servidores de plantão da SEMUSA, para analisar pedido de esclarecimento ou impugnação."
+    "resumo": "SMCL suspende o Pregão Eletrônico nº 294/2026, de refeições para servidores plantonistas da SEMUSA, para analisar pedido de esclarecimento ou impugnação."
    },
    {
     "id": 52,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SMCL abre o Pregão Eletrônico nº 329/2026 para contratar seguro total de 13 veículos da SEMEC, com valor estimado de R$ 44.450,57 e propostas em 28/09/2026, às 9h30 (Brasília)."
+    "resumo": "Aviso do Pregão Eletrônico nº 329/2026 para seguro total de 13 veículos da SEMEC, estimado em R$ 44.450,57, com abertura em 28/09/2026 às 9h30 (Brasília)."
    },
    {
     "id": 53,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "Resultado preliminar do Credenciamento nº 108/2026, que busca empresas para cirurgias eletivas da fila da regulação municipal, inabilita a Cruz Vermelha Brasileira – filial de São Gonçalo e abre 3 dias úteis para recurso."
+    "resumo": "Resultado preliminar do Credenciamento nº 108/2026 para cirurgias eletivas inabilita a Cruz Vermelha Brasileira – Filial de São Gonçalo; cabe recurso em 3 dias úteis."
    },
    {
     "id": 54,
     "categoria": "Licitações e contratos",
-    "relevancia": "alta",
-    "resumo": "SMCL homologa o Pregão nº 90073/2026 para compra de ambulâncias tipo B e outros veículos da SEMUSA com emendas impositivas: JS Comercio e Representação Ltda (itens 1 e 2, R$ 428.800,00) e Manupa Com. Exp. Imp. de Equip. e Veículos Adaptados Ltda (item 3, R$ 388.497,00)."
+    "relevancia": "media",
+    "resumo": "Homologado o Pregão nº 90073/2026 de ambulâncias tipo B para a SEMUSA: JS Comércio e Representação (R$ 428.800,00) e Manupa (R$ 388.497,00), com recursos de emendas impositivas."
    },
    {
     "id": 55,
     "categoria": "Conselhos e participação social",
     "relevancia": "baixa",
-    "resumo": "Comitê Técnico de Planejamento e Gestão do Solo Urbano do Conselho da Cidade convoca reunião ordinária para 15/09/2026, às 8h30, na sala de situação da SEMEC, para planejar as atividades do 2º semestre."
+    "resumo": "Edital convoca reunião ordinária do Comitê Técnico de Planejamento e Gestão do Solo Urbano do Concidade para 15/09/2026 às 8h30 na SEMEC."
    },
    {
     "id": 56,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "SEMEC intima por edital Lauro Lucio Lacerda sobre lançamento de ISS de construção civil de R$ 12.963,01 ligado a licença de obra, com prazo de 15 dias."
+    "resumo": "Edital nº 013/2026 da SEMEC intima Lauro Lucio Lacerda sobre lançamento de ISS de construção civil de R$ 12.963,01, com prazo de 15 dias."
    },
    {
     "id": 57,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "SEMEC intima por edital Hermes Jose Dias Filho sobre lançamento de ISS de construção civil de R$ 12.221,53 ligado a licença de obra e habite-se, com prazo de 15 dias."
+    "resumo": "Edital nº 014/2026 da SEMEC intima Hermes Jose Dias Filho sobre lançamento de ISS de construção civil de R$ 12.221,53, com prazo de 15 dias."
    },
    {
     "id": 58,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMEC concede 2 ½ diárias e passagem aérea a Rita Ferreira Lima, Zaira Segorvea de Moura Nucini e Nadya Karolina de Melo para o IV Congresso Nacional de Contabilidade Municipal, em Brasília, de 23 a 25/09/2026."
+    "resumo": "Portaria nº 80/SEMEC concede 2,5 diárias e passagem aérea a três servidoras da contabilidade para o IV Congresso Nacional de Contabilidade Municipal, em Brasília, de 23 a 25/09/2026."
    },
    {
     "id": 59,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMEC autoriza a assistente administrativa Fernanda Soares Silva a trabalhar em home office integral por 12 meses."
+    "resumo": "Portaria nº 83/SEMEC autoriza a assistente administrativa Fernanda Soares Silva a trabalhar em teletrabalho integral por 12 meses."
    },
    {
     "id": 60,
     "categoria": "Conselhos e participação social",
     "relevancia": "baixa",
-    "resumo": "Conselho Municipal de Educação autoriza, em caráter excepcional, o funcionamento da Creche Primeiros Passos, particular, no Loteamento Bosque Mamoré, que atende 13 crianças de 1 a 3 anos, com recomendações como elaborar projeto pedagógico e regimento."
+    "resumo": "Resolução nº 36/CME/2026 autoriza, em caráter excepcional, o funcionamento da Creche Primeiros Passos (13 crianças de 1 a 3 anos), com recomendações de adequação."
    },
    {
     "id": 61,
     "categoria": "Conselhos e participação social",
     "relevancia": "baixa",
-    "resumo": "Conselho Municipal de Educação concede reconhecimento ao Centro Educacional Alegria de Criança, no bairro Esperança da Comunidade, que tem 53 matrículas na educação infantil, com envio de relatório a cada 3 anos."
+    "resumo": "Resolução nº 35/CME/2026 reconhece o Centro Educacional Alegria de Criança, escola privada de educação infantil com 53 matrículas no bairro Esperança da Comunidade."
    },
    {
     "id": 62,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMED concede 11 ½ diárias a três servidores para fiscalizar o transporte escolar dos programas PMATE e Ir e Vir (26 veículos) em União Bandeirantes, Jaci-Paraná, Nova Mutum, Vista Alegre do Abunã, Extrema e Nova Califórnia, em setembro."
+    "resumo": "Portaria nº 488/2026/SEMED concede 11,5 diárias a três servidores para fiscalizar o transporte escolar (PMATE e Ir e Vir) em distritos como União Bandeirantes, Extrema e Nova Califórnia."
    },
    {
     "id": 63,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "SEMED prorroga por 12 meses (29/09/2026 a 28/09/2027) o acordo de cooperação com a Associação Pestalozzi de Porto Velho, que inclui a cessão de 4 professores à Escola Antônio Cézar de Abreu Teixeira, de educação especial."
+    "resumo": "1º Termo Aditivo prorroga por 12 meses (29/09/2026 a 28/09/2027) o acordo de cooperação da SEMED com a Associação Pestalozzi, com cessão de 4 professores."
    },
    {
     "id": 64,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMIAS retifica portaria de diárias, trocando o nome de Jean Caetano Guimarães pelo da conselheira tutelar Davina Saldanha de Oliveira Batista."
+    "resumo": "Portaria nº 292/SEMIAS retifica portaria de diárias, trocando a beneficiária Jean Caetano Guimarães pela conselheira tutelar Davina Saldanha de Oliveira Batista."
    },
    {
     "id": 65,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SEMIAS designa Leandro Sales de Oliveira Carvalho (fiscal) e Ronis da Silva Chaves (gestor) para acompanhar o contrato de locação de 16 veículos zero quilômetro por 12 meses."
+    "resumo": "Portaria nº 291/SEMIAS designa Leandro Sales de Oliveira Carvalho (fiscal) e Ronis da Silva Chaves (gestor) para o contrato de locação de 16 veículos zero quilômetro."
    },
    {
     "id": 66,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "SEMUSA abre seleção emergencial de Organização Social para gerir a UBS do Residencial Orgulho do Madeira, em estrutura provisória, com 4 equipes de Saúde da Família e 4 de Saúde Bucal; propostas em até 3 dias úteis pelo e-mail avaliacao.semusa@portovelho.ro.gov.br."
+    "resumo": "SEMUSA abre chamamento emergencial (Edital nº 161/2026) para Organização Social gerir a UBS do Residencial Orgulho do Madeira com 4 equipes de Saúde da Família e 4 de Saúde Bucal; propostas em 3 dias úteis."
    },
    {
     "id": 67,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Conselho Municipal de Saúde aprova plano de trabalho de R$ 2.000.000,00 da emenda da bancada de Rondônia para serviços de tecnologia que apoiem o Programa Mais Acesso a Especialistas nos CEM Dr. Alfredo Silva e Dr. Rafael Vaz e Silva."
+    "resumo": "Resolução nº 46/2026/CMSPV aprova plano de trabalho de R$ 2.000.000,00 de emenda da bancada para serviços de TI de apoio ao PMAE nos CEMs Alfredo Silva e Rafael Vaz e Silva."
    },
    {
     "id": 68,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Conselho Municipal de Saúde aprova plano de trabalho de R$ 8.909.000,00 da emenda da bancada de Rondônia para custear alimentação, lavanderia, higienização, gases medicinais e exames de imagem na Maternidade Municipal Mãe Esperança (Rede Alyne)."
+    "resumo": "Resolução nº 47/2026/CMSPV aprova R$ 8.909.000,00 de emenda da bancada para custeio de serviços da Maternidade Municipal Mãe Esperança na Rede Alyne."
    },
    {
     "id": 69,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Conselho Municipal de Saúde aprova reprogramação de R$ 17.830.754,00 de emenda da bancada: R$ 4.830.754,00 seguem para reagentes de anatomia patológica e R$ 13.000.000,00 passam a custear serviços da rede de média e alta complexidade."
+    "resumo": "Resolução nº 48/2026/CMSPV reprograma emenda de R$ 17.830.754,00: R$ 4.830.754,00 seguem para reagentes de anatomia patológica e R$ 13.000.000,00 vão para custeio da média e alta complexidade."
    },
    {
     "id": 70,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Conselho Municipal de Saúde aprova reprogramar R$ 1.100.000,00 de emenda do deputado federal Coronel Chrisóstomo para contratar psicologia, terapia ocupacional e fonoaudiologia infantil, com foco em crianças e adolescentes com autismo."
+    "resumo": "Resolução nº 49/2026/CMSPV reprograma R$ 1.100.000,00 de emenda do deputado Coronel Chrisóstomo para contratar psicologia, terapia ocupacional e fonoaudiologia infantil, com foco em TEA."
    },
    {
     "id": 71,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 180.000,00 de emenda da deputada federal Cristiane Lopes para insumos do Laboratório Central Municipal, com ênfase em exames do pré-natal (Rede Alyne)."
+    "resumo": "Resolução nº 50/2026/CMSPV aprova R$ 180.000,00 de emenda da deputada Cristiane Lopes para insumos do Laboratório Municipal (LAM)."
    },
    {
     "id": 72,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 3.000.000,00 de emenda da Comissão de Assuntos Sociais (Confúcio Moura) para contratar terapia ocupacional, fonoaudiologia e psicologia e reduzir a fila infantil e de autismo no Centro Especializado em Reabilitação."
+    "resumo": "Resolução nº 51/2026/CMSPV aprova R$ 3.000.000,00 de emenda da CAS (Confúcio Moura) para contratar terapia ocupacional, fonoaudiologia e psicologia infantil no CER."
    },
    {
     "id": 73,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 10.000.000,00 de recurso de programa federal: R$ 1 milhão para pré-natal de alto risco no CREAMI, R$ 4 milhões para cardiologia nos CEMs e R$ 5 milhões para manutenção da rede especializada (engenharia clínica, lavanderia, serviços médicos e limpeza)."
+    "resumo": "Resolução nº 52/2026/CMSPV aprova R$ 10.000.000,00 de recurso de programa: R$ 1 milhão para pré-natal de alto risco no CREAMI, R$ 4 milhões para OCI Cardiologia e R$ 5 milhões para manutenção da média e alta complexidade."
    },
    {
     "id": 74,
     "categoria": "Finanças e orçamento",
-    "relevancia": "media",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 333.750,00 para comprar um aparelho de ultrassom com ecocardiograma transesofágico para o CEM Dr. Rafael Vaz e Silva."
+    "relevancia": "baixa",
+    "resumo": "Resolução nº 53/2026/CMSPV aprova R$ 333.750,00 para comprar aparelho de ultrassom com ecocardiograma transesofágico para o CEM Dr. Rafael Vaz e Silva."
    },
    {
     "id": 75,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 1.000.934,00 de emenda do deputado federal Rafael Fera para custeio de serviços da rede municipal de média e alta complexidade."
+    "resumo": "Resolução nº 54/2026/CMSPV aprova R$ 1.000.934,00 de emenda do deputado Rafael Fera para custeio da rede municipal de média e alta complexidade."
    },
    {
     "id": 76,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Conselho Municipal de Saúde aprova R$ 5.000.000,00 de emenda da bancada federal para consultas, exames e procedimentos em Ortopedia (R$ 1,5 milhão), Oncologia (R$ 1 milhão), Oftalmologia (R$ 1 milhão) e Cardiologia (R$ 1,5 milhão) nos CEMs, para reduzir filas."
+    "resumo": "Resolução nº 55/2026/CMSPV aprova R$ 5.000.000,00 de emenda da bancada para ofertas de cuidado integrado em ortopedia, oncologia, oftalmologia e cardiologia nos CEMs."
    },
    {
     "id": 77,
     "categoria": "Conselhos e participação social",
-    "relevancia": "baixa",
-    "resumo": "Conselho Municipal de Saúde aprova ajustes em metas do Plano Municipal de Saúde 2026/2029 na atenção básica e na vigilância e inclui meta sobre qualidade das notificações de leishmaniose; o anexo com as mudanças não consta do texto publicado."
+    "relevancia": "media",
+    "resumo": "Resolução nº 56/2026/CMSPV aprova ajustes nas metas 1.4.1, 4.2.5, 4.2.6, 4.2.8 e 4.2.20 do Plano Municipal de Saúde 2026/2029 e inclui meta sobre notificações de leishmaniose."
    },
    {
     "id": 78,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SEMUSA registra no contrato com a Energisa Rondônia o empenho de R$ 104.525,98 para as despesas de julho de 2026 (13º apostilamento)."
+    "resumo": "13º Termo de Apostilamento ao contrato da SEMUSA com a Energisa Rondônia registra dotação de R$ 104.525,98 para despesas de julho de 2026."
    },
    {
     "id": 79,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "SEMTEL justifica dispensa de chamamento para firmar termo de fomento de R$ 320.624,00 com a Federação de Jiu-Jítsu de Rondônia, projeto Formando Campeões, para compra de kimonos e tatames, com recursos de emenda da vereadora Sofia Andrade."
+    "resumo": "SEMTEL justifica dispensa de chamamento público para termo de fomento de R$ 320.624,00 com a Federação de Jiu-Jítsu de Rondônia (kimonos e tatames), com emenda da vereadora Sofia Andrade."
    },
    {
     "id": 80,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SEMTEL cria comissão de monitoramento da parceria com a Federação de Jiu-Jítsu de Rondônia, formada por Expedito Ferreira Santana Junior, Clênio Corrêa Junior e Rodrigo Afonso Rodrigues de Lima."
+    "resumo": "Portaria nº 171/SEMTEL cria comissão de monitoramento da parceria com a Federação de Jiu-Jítsu, formada por Expedito Ferreira Santana Junior, Clênio Corrêa Junior e Rodrigo Afonso Rodrigues de Lima."
    },
    {
     "id": 81,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SEMTEL designa Lauro Vinicius Dantas Gil como gestor da parceria do projeto Formando Campeões com a Federação de Jiu-Jítsu de Rondônia."
+    "resumo": "Portaria nº 172/SEMTEL designa Lauro Vinicius Dantas Gil como gestor da parceria do projeto Formando Campeões com a Federação de Jiu-Jítsu."
    },
    {
     "id": 82,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "SEMTEL designa Myléia Santana de Araújo como parecerista técnica do termo de fomento do projeto Formando Campeões."
+    "resumo": "Portaria nº 173/SEMTEL designa Myléia Santana de Araújo como parecerista técnica da parceria do projeto Formando Campeões."
    },
    {
     "id": 83,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMTEL valida 5 ½ diárias a Francimeire Coutinho Lavareda e Vanderlei Rosa Trindade, que acompanharam a delegação de ginástica rítmica do Projeto Construindo Campeões em Rio Branco/AC de 11 a 16/08/2026."
+    "resumo": "Portaria nº 174/SEMTEL valida, depois da viagem, 5,5 diárias de dois servidores que acompanharam a ginástica rítmica em Rio Branco/AC de 11 a 16/08/2026."
    },
    {
     "id": 84,
-    "categoria": "Finanças e orçamento",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
     "resumo": "Homologada a prestação de contas de diárias do servidor Cezar Eduardo Dondoni Marini, da SMTI."
    },
@@ -1486,82 +2122,83 @@
     "id": 85,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "ARDPV define infrações e cálculo de multas para a limpeza urbana e o manejo de resíduos, com advertência e quatro graus de gravidade e percentuais de 0,05% a 1,50% da receita mensal do prestador, ajustados por abrangência, duração, dano e reincidência; as multas só valem após a publicação da matriz de cada contrato."
+    "resumo": "Resolução nº 4/ARDPV cria a tabela de infrações e a fórmula de multas para serviços de limpeza urbana e resíduos, de 0,05% a 3% da receita mensal regulatória, condicionada à publicação de matriz por contrato."
    },
    {
     "id": 86,
     "categoria": "Concursos e seleções",
-    "relevancia": "alta",
-    "resumo": "Câmara republica convocação de nove aprovados no concurso do Edital nº 01/2024 para os cargos de técnico de áudio e vídeo, intérprete de Libras, técnico legislativo, analistas de comunicação, tecnologia e legislativo, arquiteto, auditor de controle interno e procurador, com posse em 30 dias prorrogáveis por mais 30."
+    "relevancia": "media",
+    "resumo": "Câmara republica o Edital de Convocação nº 01/2026, chamando nove aprovados do concurso de 2024 (entre eles procurador, auditor de controle interno e arquiteto) para posse."
    },
    {
     "id": 87,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Decreto nº 3.682/I nomeia 19 servidores para direção, vice-direção e secretaria de escolas municipais a partir de 11/09/2026, como Grace Sherley Denny Reis (diretora da EMEF Morvan Freire Brasil), Claudia Gomes Ferreira (EMEF Moises Ferreira Neto) e Elita da Silva Cavalcante (EMEI Profª Ronilza Cordeiro Afonso Dias)."
+    "resumo": "Decreto nº 3.682/I nomeia 19 diretores, vice-diretores e secretários de escolas da SEMED a partir de 11/09/2026."
    },
    {
     "id": 88,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMAD concede promoção funcional à fiscal municipal de meio ambiente Joelma Ferreira Bezerra, da referência D-IV para E-I, a partir de 30/09/2026."
+    "resumo": "Portaria de promoção nº 159 da SEMAD promove a fiscal de meio ambiente Joelma Ferreira Bezerra da referência D-IV para E-I a partir de 30/09/2026."
    },
    {
     "id": 89,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "Ata de registro de preços nº 048/2026 com a Privado Engenharia Ltda, de Manaus/AM, no valor de R$ 51.260.529,50, para construir calçadas em concreto armado, meios-fios e sarjetas em vias urbanas para a SEINFRA, válida por um ano."
+    "resumo": "Ata de Registro de Preços nº 048/2026 com a Privado Engenharia Ltda registra R$ 51.260.529,50 para calçadas, meios-fios e sarjetas em vias urbanas da SEINFRA, válida por um ano."
    },
    {
     "id": 90,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "SEMEC cria a Equipe Técnica Municipal para o Reordenamento Territorial, com 29 servidores de várias secretarias, para executar o acordo com o IBGE sobre a divisão político-administrativa do Município, os bairros da sede e os perímetros urbanos das vilas dos distritos, sem remuneração extra."
+    "resumo": "Portaria nº 82/SEMEC cria a Equipe Técnica Municipal para o Reordenamento Territorial, com servidores de várias secretarias, para executar o acordo com o IBGE sobre limites de bairros e distritos."
    },
    {
     "id": 91,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "SEMED compra sem licitação 15 tablets a R$ 4.126,90 cada (total R$ 61.903,50) da C S Comercio e Serviços Ltda para os diretores de departamento, após licitação anterior fracassada."
+    "relevancia": "media",
+    "resumo": "SEMED compra por dispensa 15 tablets por R$ 61.903,50 (R$ 4.126,90 cada) da C S Comércio e Serviços Ltda, após licitação fracassada."
    },
    {
     "id": 92,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "SEMIAS adere à ata estadual da SUPEL para alugar veículos zero quilômetro da Reche Galdeano & Cia Ltda: hatch (R$ 28.600,00), pick-up compacta (R$ 4.000,00) e caminhonete 4x4 (R$ 32.666,64), dentro da locação de 16 veículos por 12 meses."
+    "resumo": "SEMIAS adere à ata da SUPEL-RO para alugar 16 veículos zero quilômetro da Reche Galdeano & Cia Ltda por 12 meses; os itens listados somam R$ 65.266,64 em preços mensais."
    },
    {
     "id": 93,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMUSA concede 1,5 diária a Mariana Aguiar Prado, Simone Lorena da Silva Bessa e Onofre Rodrigues de Melo Junior para reunião da Comissão Intergestores Regional em Itapuã do Oeste, total de R$ 1.125,00."
+    "resumo": "Portaria nº 431/SEMUSA concede 1,5 diária a três servidores para reunião da Comissão Intergestores Regional em Itapuã do Oeste, total de R$ 1.125,00."
    },
    {
     "id": 94,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMUSA concede meias diárias a quatro servidores, total de R$ 1.500,00, para conferir e abastecer medicamentos em setembro nas unidades de saúde da BR-364, da Estrada da Penal e da BR-319."
+    "resumo": "Portaria nº 433/SEMUSA concede meias diárias a quatro servidores para conferir e abastecer medicamentos em unidades da BR-364, Estrada da Penal e BR-319, total de R$ 1.500,00."
    },
    {
     "id": 95,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMUSA concede 2 ½ diárias a Darlene Nobre Floresta e Huemerson de Souza Lima para a reunião da Comissão Intergestores Bipartite em Cacoal, total de R$ 1.000,00."
+    "resumo": "Portaria nº 434/SEMUSA concede 2,5 diárias a dois servidores para reunião da Comissão Intergestores Bipartite em Cacoal, total de R$ 1.000,00."
    },
    {
     "id": 96,
-    "categoria": "Finanças e orçamento",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "SEMUSA homologa a prestação de contas das diárias de quatro servidores que foram a Sorocaba/SP buscar ambulâncias do SAMU, com valores de R$ 6.500,00, R$ 6.500,00, R$ 4.550,00 e R$ 4.550,00."
+    "resumo": "SEMUSA homologa prestação de contas de diárias de quatro servidores que buscaram ambulâncias do SAMU em Sorocaba/SP, somando R$ 22.100,00."
    },
    {
     "id": 97,
-    "categoria": "Pessoal",
+    "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "SEMTEL autoriza 31 servidores, entre eles o secretário Cássio Moura Silva, a dirigir veículos oficiais, proíbe o uso para fins particulares e revoga autorizações anteriores."
+    "resumo": "Portaria nº 175/SEMTEL autoriza 31 servidores, inclusive o secretário Cássio Moura Silva, a dirigir veículos oficiais e revoga autorizações anteriores."
    }
   ]
  },
  "resumo_origem": "Claude (sessão Claude Code)",
- "processado_em": "2026-09-11T10:55:01-04:00"
+ "processado_em": "2026-09-11T10:55:01-04:00",
+ "resumo_formato": 2
 }

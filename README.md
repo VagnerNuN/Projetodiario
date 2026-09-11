@@ -8,7 +8,9 @@ Todo dia um robô no GitHub Actions:
 1. consulta a AROM e baixa a edição do dia e as edições extras;
 2. separa só as matérias publicadas pelo próprio município (Prefeitura, Câmara, IPAM,
    EMDUR, Agência Reguladora, secretarias…). Menções a Porto Velho feitas por outros municípios ficam de fora;
-3. resume a edição com a API do Claude (manchete, resumo, destaques e uma frase por ato);
+3. monta o briefing da edição com a API do Claude: manchete, resumo e destaques; pontos de atenção
+   para o controle interno; contratações e licitações (objeto, fornecedor, valor, etapa); agenda de
+   prazos; novas normas; movimentações em cargos de direção; e uma frase por ato;
 4. atualiza o painel em `docs/` (GitHub Pages), mantendo os últimos 15 dias.
 
 ## Estrutura
@@ -53,9 +55,12 @@ Sem chave, o robô continua funcionando: os atos entram no painel com título e 
 3. (Opcional) Na aba **Variables** da mesma tela, crie `MODELO` para trocar o modelo:
    `claude-opus-5` (padrão, melhor qualidade), `claude-sonnet-5` ou `claude-haiku-4-5` (mais baratos).
 
-Estimativa de custo com o Opus 5: cerca de 80 mil tokens de entrada por edição
-(~US$ 0,60/dia útil, ~US$ 13/mês). O Sonnet 5 fica em torno de US$ 5/mês. O valor real de
+Estimativa de custo com o Opus 5: cerca de 80 mil tokens de entrada e 15 mil de saída por edição
+(~US$ 0,80/dia útil, ~US$ 17/mês). O Sonnet 5 fica em torno de US$ 7/mês. O valor real de
 cada edição aparece no log do Actions (linha `tokens:`).
+
+Quando o formato do briefing muda (constante `FORMATO` em `robo/resumir.py`), o robô refaz
+os resumos das edições dos últimos 15 dias na próxima execução com chave.
 
 ## Rodar no computador
 
