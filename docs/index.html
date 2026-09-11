@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Briefing Porto Velho</title>
+<meta name="description" content="Resumo diário dos atos do Município de Porto Velho no Diário Oficial dos Municípios de Rondônia (AROM).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<style>
+:root {
+  --chao: #F5F7F6;
+  --superficie: #FFFFFF;
+  --tinta: #15212A;
+  --tinta-2: #3A4852;
+  --muda: #5A6770;
+  --linha: #DCE2DF;
+  --linha-forte: #C3CCC8;
+  --acento: #0E5C68;
+  --acento-suave: #E1EEEF;
+  --acento-tinta: #FFFFFF;
+  --alta: #B42318;
+  --alta-suave: #FDECEA;
+  --media: #9A5B06;
+  --media-suave: #FCF1DF;
+  --baixa: #5A6770;
+  --baixa-suave: #EEF1F0;
+  --barra: #9CC3C8;
+  --serif: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --sans: "IBM Plex Sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --chao: #0E1418;
+    --superficie: #151D22;
+    --tinta: #E4EBE9;
+    --tinta-2: #BFCBC8;
+    --muda: #8D9A9F;
+    --linha: #26323A;
+    --linha-forte: #34424B;
+    --acento: #6CB8C3;
+    --acento-suave: #173238;
+    --acento-tinta: #0E1418;
+    --alta: #F2877C;
+    --alta-suave: #3A1C1A;
+    --media: #E3B062;
+    --media-suave: #352812;
+    --baixa: #8D9A9F;
+    --baixa-suave: #1D272D;
+    --barra: #2F6770;
+  }
+}
+:root[data-theme="dark"] {
+  --chao: #0E1418;
+  --superficie: #151D22;
+  --tinta: #E4EBE9;
+  --tinta-2: #BFCBC8;
+  --muda: #8D9A9F;
+  --linha: #26323A;
+  --linha-forte: #34424B;
+  --acento: #6CB8C3;
+  --acento-suave: #173238;
+  --acento-tinta: #0E1418;
+  --alta: #F2877C;
+  --alta-suave: #3A1C1A;
+  --media: #E3B062;
+  --media-suave: #352812;
+  --baixa: #8D9A9F;
+  --baixa-suave: #1D272D;
+  --barra: #2F6770;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--chao);
+  color: var(--tinta);
+  font: 400 15px/1.55 var(--sans);
+}
+a { color: var(--acento); }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; border-radius: 4px; }
+
+.pagina { max-width: 1180px; margin: 0 auto; padding: 0 20px 64px; }
+
+/* Topo */
+.topo {
+  display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
+  gap: 4px 24px; padding: 22px 0 16px; border-bottom: 1px solid var(--linha);
+}
+.marca { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.marca h1 { margin: 0; font: 600 22px/1.2 var(--serif); letter-spacing: -0.01em; }
+.marca span { color: var(--muda); font-size: 13px; }
+.atualizado { font: 400 12px/1.4 var(--mono); color: var(--muda); }
+
+/* Faixa de dias */
+.dias {
+  display: flex; gap: 6px; overflow-x: auto; padding: 14px 0; scrollbar-width: thin;
+  border-bottom: 1px solid var(--linha);
+}
+.dia {
+  flex: 0 0 auto; display: grid; gap: 1px; min-width: 76px; padding: 8px 12px;
+  border: 1px solid var(--linha); border-radius: 8px; background: var(--superficie);
+  cursor: pointer; text-align: left;
+}
+.dia:hover { border-color: var(--linha-forte); }
+.dia .sem { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muda); }
+.dia .dd { font: 500 16px/1.2 var(--mono); }
+.dia .n { font-size: 11px; color: var(--muda); }
+.dia[aria-pressed="true"] { background: var(--acento); border-color: var(--acento); color: var(--acento-tinta); }
+.dia[aria-pressed="true"] .sem, .dia[aria-pressed="true"] .n { color: inherit; opacity: 0.85; }
+
+/* Edição */
+.edicao { padding-top: 28px; }
+.edicao + .edicao { margin-top: 36px; border-top: 1px dashed var(--linha-forte); }
+.cabeca {
+  display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline;
+  font: 400 12.5px/1.5 var(--mono); color: var(--muda);
+}
+.cabeca strong { color: var(--tinta); font-weight: 500; }
+.selo {
+  font: 500 11px/1 var(--sans); text-transform: uppercase; letter-spacing: 0.08em;
+  padding: 4px 7px; border-radius: 4px; background: var(--media-suave); color: var(--media);
+}
+.grade { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 40px; margin-top: 14px; }
+@media (max-width: 900px) { .grade { grid-template-columns: minmax(0, 1fr); gap: 28px; } }
+
+.manchete {
+  margin: 0 0 12px; font: 600 clamp(24px, 3.2vw, 32px)/1.2 var(--serif);
+  letter-spacing: -0.015em; text-wrap: balance; max-width: 30ch;
+}
+.resumo { margin: 0; max-width: 68ch; color: var(--tinta-2); font-size: 16px; line-height: 1.65; }
+.aviso {
+  margin: 0; padding: 12px 14px; border-radius: 8px; background: var(--baixa-suave);
+  color: var(--tinta-2); max-width: 68ch; font-size: 14px;
+}
+
+.rotulo {
+  margin: 0 0 10px; font: 600 11.5px/1.3 var(--sans); text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--muda);
+}
+.destaques { margin-top: 26px; }
+.destaques ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.destaques li { padding: 12px 0; border-top: 1px solid var(--linha); display: grid; gap: 3px; }
+.destaques li:last-child { border-bottom: 1px solid var(--linha); }
+.destaques h3 { margin: 0; font: 600 15.5px/1.35 var(--sans); }
+.destaques p { margin: 0; color: var(--tinta-2); max-width: 70ch; }
+.link-atos {
+  justify-self: start; padding: 0; border: 0; background: none; cursor: pointer;
+  color: var(--acento); font-size: 13px; font-weight: 500;
+}
+.link-atos:hover { text-decoration: underline; }
+
+/* Raio-x */
+.raio { align-self: start; display: grid; gap: 22px; }
+.barras { display: grid; gap: 4px; }
+.barra {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; align-items: center;
+  padding: 6px 8px; margin: 0 -8px; border: 0; border-radius: 6px; background: none;
+  cursor: pointer; text-align: left;
+}
+.barra:hover { background: var(--acento-suave); }
+.barra[aria-pressed="true"] { background: var(--acento-suave); }
+.barra .nome { font-size: 13.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.barra .qtd { font: 500 13px/1 var(--mono); font-variant-numeric: tabular-nums; color: var(--tinta-2); }
+.barra .trilho { grid-column: 1 / -1; height: 5px; border-radius: 3px; background: var(--linha); overflow: hidden; }
+.barra .trilho i { display: block; height: 100%; background: var(--barra); border-radius: 3px; }
+.barra[aria-pressed="true"] .trilho i { background: var(--acento); }
+.numeros { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--linha); border: 1px solid var(--linha); border-radius: 8px; overflow: hidden; }
+.numeros div { background: var(--superficie); padding: 10px 12px; display: grid; gap: 2px; }
+.numeros b { font: 500 20px/1.1 var(--mono); font-variant-numeric: tabular-nums; }
+.numeros span { font-size: 11.5px; color: var(--muda); }
+
+/* Lista de atos */
+.atos { margin-top: 40px; }
+.filtros {
+  position: sticky; top: 0; z-index: 2; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  padding: 12px 0; background: var(--chao); border-bottom: 1px solid var(--linha);
+}
+.filtros input[type="search"] {
+  flex: 1 1 260px; min-width: 0; padding: 8px 12px; border: 1px solid var(--linha-forte);
+  border-radius: 8px; background: var(--superficie);
+}
+.filtros select {
+  flex: 0 1 240px; min-width: 0; padding: 8px 10px; border: 1px solid var(--linha-forte);
+  border-radius: 8px; background: var(--superficie);
+}
+.alternar { display: inline-flex; align-items: center; gap: 6px; font-size: 13.5px; color: var(--tinta-2); cursor: pointer; white-space: nowrap; }
+.alternar input { accent-color: var(--acento); }
+.ativos { display: flex; flex-wrap: wrap; gap: 6px; padding-top: 10px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border-radius: 999px;
+  border: 1px solid var(--linha-forte); background: var(--superficie); font-size: 12.5px; cursor: pointer;
+}
+.chip:hover { border-color: var(--acento); }
+.contagem { margin: 14px 0 4px; font-size: 13px; color: var(--muda); }
+
+.lista { list-style: none; margin: 0; padding: 0; }
+.ato { display: grid; gap: 4px; padding: 14px 0; border-bottom: 1px solid var(--linha); }
+.ato .linha1 { display: flex; gap: 10px; align-items: baseline; }
+.ato .texto { margin: 0; font-size: 15px; line-height: 1.5; max-width: 80ch; }
+.ato .titulo { margin: 0; font-size: 12.5px; line-height: 1.45; color: var(--muda); letter-spacing: 0.01em; max-width: 90ch; }
+.ato .trecho { margin: 0; color: var(--tinta-2); font-size: 13.5px; max-width: 80ch; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.ato .meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font: 400 12px/1.5 var(--mono); color: var(--muda); }
+.ato .meta a { text-decoration: none; }
+.ato .meta a:hover { text-decoration: underline; }
+.pilula {
+  flex: 0 0 auto; font: 600 10.5px/1 var(--sans); text-transform: uppercase; letter-spacing: 0.07em;
+  padding: 4px 6px; border-radius: 4px; position: relative; top: -1px;
+}
+.pilula.alta { background: var(--alta-suave); color: var(--alta); }
+.pilula.media { background: var(--media-suave); color: var(--media); }
+.pilula.baixa { background: var(--baixa-suave); color: var(--baixa); }
+.orgao { color: var(--tinta-2); }
+.data-ato { color: var(--acento); }
+mark { background: var(--media-suave); color: inherit; border-radius: 2px; padding: 0 1px; }
+.vazio { padding: 28px 0; color: var(--muda); }
+
+.rodape {
+  margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--linha);
+  font-size: 12.5px; color: var(--muda); display: grid; gap: 4px; max-width: 80ch;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .dia, .barra, .chip { transition: background-color .15s, border-color .15s; }
+}
+</style>
+</head>
+<body>
+<div class="pagina">
+  <header class="topo">
+    <div class="marca">
+      <h1>Briefing Porto Velho</h1>
+      <span>Atos do município no Diário Oficial dos Municípios de Rondônia · AROM</span>
+    </div>
+    <div class="atualizado" id="atualizado"></div>
+  </header>
+
+  <nav class="dias" id="dias" aria-label="Dias com edição"></nav>
+
+  <main id="dia"></main>
+
+  <section class="atos" aria-labelledby="titulo-atos">
+    <h2 class="rotulo" id="titulo-atos">Todos os atos</h2>
+    <div class="filtros">
+      <input type="search" id="busca" placeholder="Buscar por nome, empresa, assunto, número…" aria-label="Buscar nos atos">
+      <select id="orgao" aria-label="Filtrar por órgão"></select>
+      <label class="alternar"><input type="checkbox" id="so-alta"> Só alta relevância</label>
+      <label class="alternar"><input type="checkbox" id="escopo"> Buscar nos 15 dias</label>
+    </div>
+    <div class="ativos" id="ativos"></div>
+    <p class="contagem" id="contagem"></p>
+    <ul class="lista" id="lista"></ul>
+  </section>
+
+  <footer class="rodape">
+    <span>Fonte: <a href="https://www.diariomunicipal.com.br/arom/" rel="noopener">Diário Oficial dos Municípios do Estado de Rondônia (AROM)</a>. Entram só os atos publicados pelo próprio Município de Porto Velho — Prefeitura, Câmara e órgãos municipais.</span>
+    <span>Os resumos são gerados por IA e podem conter erros: antes de citar, confira o ato original pelo link da página.</span>
+  </footer>
+</div>
+
+<script src="dados.js"></script>
+<script>
+(function () {
+  "use strict";
+  var DADOS = window.BRIEFING || { edicoes: [] };
+  var MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+  var SEMANA = ["dom","seg","ter","qua","qui","sex","sáb"];
+  var SEMANA_LONGA = ["domingo","segunda-feira","terça-feira","quarta-feira","quinta-feira","sexta-feira","sábado"];
+  var REL = { alta: "Alta", media: "Média", baixa: "Baixa" };
+  var PEQUENAS = { de: 1, da: 1, do: 1, das: 1, dos: 1, e: 1, a: 1, o: 1 };
+
+  function $(id) { return document.getElementById(id); }
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function norm(s) { return String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
+  function dataObj(iso) { var p = iso.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function dataLonga(iso) { var d = dataObj(iso); return SEMANA_LONGA[d.getDay()] + ", " + d.getDate() + " de " + MESES[d.getMonth()] + " de " + d.getFullYear(); }
+  function dataCurta(iso) { var p = iso.split("-"); return p[2] + "/" + p[1]; }
+
+  function titulo(s) {
+    return String(s).toLowerCase().split(/\s+/).map(function (p, i) {
+      if (i > 0 && PEQUENAS[p]) return p;
+      return p.charAt(0).toUpperCase() + p.slice(1);
+    }).join(" ");
+  }
+  // "SECRETARIA MUNICIPAL DE SAÚDE - SEMUSA" -> { sigla: "SEMUSA", nome: "Secretaria Municipal de Saúde" }
+  function orgaoInfo(o) {
+    var m = /^(.*?)\s*[-–]\s*([A-ZÀ-Ú]{2,})$/.exec(o || "");
+    if (m) return { sigla: m[2], nome: titulo(m[1]) };
+    return { sigla: "", nome: titulo(o || "") };
+  }
+  function orgaoCurto(o) { var i = orgaoInfo(o); return i.sigla || i.nome; }
+
+  // Monta a lista de atos enriquecida com o resumo da IA
+  DADOS.edicoes.forEach(function (reg) {
+    var porId = {};
+    if (reg.resumo) reg.resumo.atos.forEach(function (a) { porId[a.id] = a; });
+    reg.atos.forEach(function (a) {
+      var r = porId[a.id] || {};
+      a.categoria = r.categoria || null;
+      a.relevancia = r.relevancia || null;
+      a.resumo = r.resumo || null;
+      a.edicao = reg.edicao;
+      a.busca = norm([a.resumo, a.titulo, a.orgao, a.trecho, a.codigo].join(" "));
+    });
+  });
+
+  var porData = {};
+  DADOS.edicoes.forEach(function (reg) {
+    (porData[reg.edicao.data] = porData[reg.edicao.data] || []).push(reg);
+  });
+  var datas = Object.keys(porData).sort().reverse();
+  datas.forEach(function (d) {
+    porData[d].sort(function (a, b) { return (a.edicao.extra ? 1 : 0) - (b.edicao.extra ? 1 : 0); });
+  });
+
+  var estado = { data: null, q: "", orgao: "", soAlta: false, escopo: false, grupo: null, ids: null };
+
+  function atosDoDia(d) {
+    var out = [];
+    (porData[d] || []).forEach(function (reg) { out = out.concat(reg.atos); });
+    return out;
+  }
+  function todosAtos() {
+    var out = [];
+    datas.forEach(function (d) { out = out.concat(atosDoDia(d)); });
+    return out;
+  }
+  function grupoDe(a) { return a.categoria || a.tipo; }
+
+  function renderAtualizado() {
+    if (!DADOS.atualizado_em) return;
+    var t = DADOS.atualizado_em;
+    $("atualizado").textContent = "atualizado " + dataCurta(t.slice(0, 10)) + " às " + t.slice(11, 16);
+  }
+
+  function renderDias() {
+    $("dias").innerHTML = datas.map(function (d) {
+      var n = atosDoDia(d).length;
+      var dt = dataObj(d);
+      return '<button class="dia" type="button" data-data="' + d + '" aria-pressed="' + (d === estado.data) + '">' +
+        '<span class="sem">' + SEMANA[dt.getDay()] + '</span>' +
+        '<span class="dd">' + dataCurta(d) + '</span>' +
+        '<span class="n">' + n + (n === 1 ? " ato" : " atos") + '</span></button>';
+    }).join("");
+  }
+
+  function contar(lista, chave) {
+    var c = {};
+    lista.forEach(function (a) { var k = chave(a); c[k] = (c[k] || 0) + 1; });
+    return Object.keys(c).map(function (k) { return [k, c[k]]; }).sort(function (a, b) { return b[1] - a[1]; });
+  }
+
+  function barras(pares, tipo) {
+    var max = pares.length ? pares[0][1] : 1;
+    return '<div class="barras">' + pares.map(function (p) {
+      var ativo = estado.grupo && estado.grupo.tipo === tipo && estado.grupo.valor === p[0];
+      var nome = tipo === "orgao" ? orgaoInfo(p[0]) : null;
+      var rotulo = nome ? (nome.sigla ? nome.sigla + " · " + nome.nome : nome.nome) : p[0];
+      return '<button class="barra" type="button" data-tipo="' + tipo + '" data-valor="' + esc(p[0]) + '" aria-pressed="' + !!ativo + '" title="' + esc(rotulo) + '">' +
+        '<span class="nome">' + esc(rotulo) + '</span><span class="qtd">' + p[1] + '</span>' +
+        '<span class="trilho"><i style="width:' + Math.max(4, Math.round(p[1] / max * 100)) + '%"></i></span></button>';
+    }).join("") + '</div>';
+  }
+
+  function renderEdicao(reg) {
+    var ed = reg.edicao, r = reg.resumo, atos = reg.atos;
+    var altas = atos.filter(function (a) { return a.relevancia === "alta"; }).length;
+    var orgaos = contar(atos, function (a) { return a.orgao; });
+    var h = '<article class="edicao">';
+    h += '<div class="cabeca">' + (ed.extra ? '<span class="selo">Edição extra</span>' : '') +
+      '<strong>Nº ' + esc(ed.numero) + '</strong><span>' + dataLonga(ed.data) + '</span>' +
+      '<span>' + reg.total_paginas + ' páginas no diário</span>' +
+      '<a href="' + esc(ed.url_pdf) + '" target="_blank" rel="noopener">PDF completo ↗</a></div>';
+    h += '<div class="grade"><div>';
+    if (!atos.length) {
+      h += '<p class="aviso">Esta edição não trouxe atos do Município de Porto Velho.</p>';
+    } else if (r) {
+      h += '<h2 class="manchete">' + esc(r.manchete) + '</h2><p class="resumo">' + esc(r.resumo) + '</p>';
+      if (r.destaques && r.destaques.length) {
+        h += '<section class="destaques"><h3 class="rotulo">Destaques</h3><ul>' + r.destaques.map(function (d) {
+          var n = d.atos.length;
+          return '<li><h3>' + esc(d.titulo) + '</h3><p>' + esc(d.texto) + '</p>' +
+            (n ? '<button class="link-atos" type="button" data-ids="' + d.atos.join(",") + '" data-num="' + esc(ed.numero) + '">Ver ' + (n === 1 ? "o ato" : "os " + n + " atos") + ' ↓</button>' : '') + '</li>';
+        }).join("") + '</ul></section>';
+      }
+    } else {
+      h += '<h2 class="manchete">' + atos.length + ' atos de Porto Velho nesta edição</h2>' +
+        '<p class="aviso">O resumo desta edição ainda não foi gerado. Os atos aparecem abaixo com o título e o início do texto.</p>';
+    }
+    h += '</div>';
+    if (atos.length) {
+      h += '<aside class="raio">';
+      h += '<div class="numeros"><div><b>' + atos.length + '</b><span>atos</span></div>' +
+        '<div><b>' + orgaos.length + '</b><span>órgãos</span></div>' +
+        '<div><b>' + (r ? altas : "–") + '</b><span>alta relevância</span></div></div>';
+      h += '<div><h3 class="rotulo">' + (r ? "Por assunto" : "Por tipo de ato") + '</h3>' + barras(contar(atos, grupoDe), "grupo") + '</div>';
+      h += '<div><h3 class="rotulo">Por órgão</h3>' + barras(orgaos.slice(0, 7), "orgao") + '</div>';
+      h += '</aside>';
+    }
+    h += '</div></article>';
+    return h;
+  }
+
+  function renderDia() {
+    $("dia").innerHTML = datas.length
+      ? (porData[estado.data] || []).map(renderEdicao).join("")
+      : '<p class="vazio">Nenhuma edição processada ainda. Rode <code>python robo/briefing.py</code>.</p>';
+  }
+
+  function renderOrgaos() {
+    var base = estado.escopo ? todosAtos() : atosDoDia(estado.data);
+    var pares = contar(base, function (a) { return a.orgao; });
+    var sel = $("orgao");
+    sel.innerHTML = '<option value="">Todos os órgãos</option>' + pares.map(function (p) {
+      var i = orgaoInfo(p[0]);
+      return '<option value="' + esc(p[0]) + '"' + (p[0] === estado.orgao ? " selected" : "") + '>' +
+        esc((i.sigla ? i.sigla + " · " : "") + i.nome) + ' (' + p[1] + ')</option>';
+    }).join("");
+  }
+
+  function destacar(texto, termos) {
+    var s = esc(texto);
+    if (!termos.length) return s;
+    termos.forEach(function (t) {
+      if (t.length < 3) return;
+      var re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+      s = s.replace(re, "<mark>$1</mark>");
+    });
+    return s;
+  }
+
+  function renderLista() {
+    var base = estado.escopo ? todosAtos() : atosDoDia(estado.data);
+    var termos = norm(estado.q).split(/\s+/).filter(Boolean);
+    var ordemRel = { alta: 0, media: 1, baixa: 2 };
+    var lista = base.filter(function (a) {
+      if (estado.ids && !(estado.ids.num === a.edicao.numero && estado.ids.set[a.id])) return false;
+      if (estado.orgao && a.orgao !== estado.orgao) return false;
+      if (estado.soAlta && a.relevancia !== "alta") return false;
+      if (estado.grupo && estado.grupo.tipo === "grupo" && grupoDe(a) !== estado.grupo.valor) return false;
+      if (estado.grupo && estado.grupo.tipo === "orgao" && a.orgao !== estado.grupo.valor) return false;
+      for (var i = 0; i < termos.length; i++) if (a.busca.indexOf(termos[i]) < 0) return false;
+      return true;
+    });
+    lista.sort(function (a, b) {
+      if (a.edicao.data !== b.edicao.data) return a.edicao.data < b.edicao.data ? 1 : -1;
+      var ra = ordemRel[a.relevancia] != null ? ordemRel[a.relevancia] : 3;
+      var rb = ordemRel[b.relevancia] != null ? ordemRel[b.relevancia] : 3;
+      if (ra !== rb) return ra - rb;
+      if (a.edicao.numero !== b.edicao.numero) return a.edicao.numero < b.edicao.numero ? -1 : 1;
+      return a.id - b.id;
+    });
+
+    // Filtros ativos
+    var chips = [];
+    if (estado.ids) chips.push(['ids', 'Atos do destaque']);
+    if (estado.grupo) chips.push(['grupo', estado.grupo.tipo === "orgao" ? orgaoCurto(estado.grupo.valor) : estado.grupo.valor]);
+    $("ativos").innerHTML = chips.map(function (c) {
+      return '<button class="chip" type="button" data-limpar="' + c[0] + '">' + esc(c[1]) + ' <span aria-hidden="true">×</span><span class="sr">remover filtro</span></button>';
+    }).join("");
+    $("ativos").hidden = !chips.length;
+
+    var escopoTxt = estado.escopo ? "nos últimos " + datas.length + " dias com edição" : "em " + dataCurta(estado.data || "0000-00-00");
+    $("contagem").textContent = lista.length + (lista.length === 1 ? " ato " : " atos ") + escopoTxt;
+
+    var termosOriginais = estado.q.split(/\s+/).filter(Boolean);
+    $("lista").innerHTML = lista.length ? lista.map(function (a) {
+      var ed = a.edicao, i = orgaoInfo(a.orgao);
+      var principal = a.resumo || a.titulo;
+      var h = '<li class="ato"><div class="linha1">';
+      if (a.relevancia) h += '<span class="pilula ' + a.relevancia + '">' + REL[a.relevancia] + '</span>';
+      h += '<p class="texto">' + destacar(principal, termosOriginais) + '</p></div>';
+      if (a.resumo) h += '<p class="titulo">' + destacar(a.titulo, termosOriginais) + '</p>';
+      else if (a.trecho) h += '<p class="trecho">' + destacar(a.trecho, termosOriginais) + '</p>';
+      h += '<div class="meta">';
+      if (estado.escopo) h += '<span class="data-ato">' + dataCurta(ed.data) + '</span>';
+      h += '<span class="orgao" title="' + esc(i.nome) + '">' + esc(i.sigla ? i.sigla + " · " + i.nome : i.nome) + '</span>';
+      if (a.categoria) h += '<span>' + esc(a.categoria) + '</span>';
+      h += '<span>' + esc(a.tipo) + '</span>';
+      h += '<a href="' + esc(ed.url_pdf) + '#page=' + a.pagina + '" target="_blank" rel="noopener">p. ' + a.pagina + (ed.extra ? " (extra " + esc(ed.numero) + ")" : "") + ' ↗</a>';
+      h += '<span title="Código identificador da matéria no diário">cód. ' + esc(a.codigo) + '</span>';
+      h += '</div></li>';
+      return h;
+    }).join("") : '<li class="vazio">Nenhum ato com esses filtros.</li>';
+  }
+
+  function tudo() { renderDias(); renderDia(); renderOrgaos(); renderLista(); }
+
+  function irPara(d) {
+    estado.data = d; estado.grupo = null; estado.ids = null; estado.orgao = "";
+    try { history.replaceState(null, "", "#" + d); } catch (e) {}
+    tudo();
+  }
+
+  // Eventos
+  $("dias").addEventListener("click", function (e) {
+    var b = e.target.closest(".dia"); if (b) irPara(b.dataset.data);
+  });
+  $("dia").addEventListener("click", function (e) {
+    var b = e.target.closest(".barra");
+    if (b) {
+      var mesmo = estado.grupo && estado.grupo.tipo === b.dataset.tipo && estado.grupo.valor === b.dataset.valor;
+      estado.grupo = mesmo ? null : { tipo: b.dataset.tipo, valor: b.dataset.valor };
+      estado.ids = null; estado.escopo = false; $("escopo").checked = false;
+      renderDia(); renderLista();
+      return;
+    }
+    var l = e.target.closest(".link-atos");
+    if (l) {
+      var set = {}; l.dataset.ids.split(",").forEach(function (x) { set[+x] = true; });
+      estado.ids = { num: l.dataset.num, set: set }; estado.grupo = null; estado.escopo = false; $("escopo").checked = false;
+      renderDia(); renderLista();
+      document.getElementById("titulo-atos").scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  });
+  $("ativos").addEventListener("click", function (e) {
+    var c = e.target.closest(".chip"); if (!c) return;
+    estado[c.dataset.limpar] = null; renderDia(); renderLista();
+  });
+  $("busca").addEventListener("input", function (e) { estado.q = e.target.value; renderLista(); });
+  $("orgao").addEventListener("change", function (e) { estado.orgao = e.target.value; renderLista(); });
+  $("so-alta").addEventListener("change", function (e) { estado.soAlta = e.target.checked; renderLista(); });
+  $("escopo").addEventListener("change", function (e) {
+    estado.escopo = e.target.checked; estado.ids = null; estado.grupo = null; estado.orgao = "";
+    renderDia(); renderOrgaos(); renderLista();
+  });
+
+  renderAtualizado();
+  var inicial = decodeURIComponent(location.hash.slice(1));
+  irPara(porData[inicial] ? inicial : datas[0]);
+})();
+</script>
+<style>.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }</style>
+</body>
+</html>
