@@ -1,3 +1,5 @@
 .cache/
 __pycache__/
 *.pdf
+# Painéis de referência com dados internos: não publicar
+PainelAbastecimento*.html
