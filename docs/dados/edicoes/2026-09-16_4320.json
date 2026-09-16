@@ -912,5 +912,12 @@
  ],
  "resumo": null,
  "resumo_origem": null,
- "processado_em": "2026-09-16T02:24:02-04:00"
+ "processado_em": "2026-09-16T02:24:02-04:00",
+ "conferencia": {
+  "site": 100,
+  "robo": 100,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-09-16T11:08-04:00"
+ }
 }
