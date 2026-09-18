@@ -28,8 +28,92 @@
    "trecho": "Regulamenta a concessão de bolsas de estímulo à\ninovação no âmbito do Município de Porto Velho,\nnos termos do art. 14 da Lei Complementar nº 1.061,\nde 27 de maio de 2026, e dá outras providências.\n\nO PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando da\natribuição que lhe é conferida no art. 87, inciso IV, da Lei Orgânica do\nMunicípio de Porto Velho e tendo em vista o que consta no Processo\nSEI nº 005.014937/2026-60.\nCONSIDERANDO os arts. 218, 219, 219-A e 219-B da Constituição\nFederal e o Marco Legal de Ciência, Tecnologia e Inovação, instituído\npela Lei Federal nº 10.973, de 2 de dezembro de 2004,"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Porto Velho regulamenta as parcerias de pesquisa e inovação e a concessão de bolsas de estímulo à inovação em dois decretos publicados em edição extraordinária",
+  "resumo": "A edição extraordinária nº 4318a traz apenas dois atos, ambos decretos normativos assinados pelo prefeito Leonardo Barreto de Moraes em 14 de setembro de 2026, que fecham a regulamentação da Política Municipal de Ciência, Tecnologia e Inovação (Lei Complementar nº 1.061/2026). O Decreto nº 22.458 cria as regras dos instrumentos de parceria para Pesquisa, Desenvolvimento e Inovação (termo de outorga, acordo de parceria e convênio), definindo como escolher o parceiro, o que deve constar do plano de trabalho, quem não pode celebrar e como prestar contas. O Decreto nº 22.459 disciplina as bolsas de estímulo à inovação, fixando modalidades, forma de seleção, valores, pagamento por entregas e hipóteses de suspensão e cancelamento. Não há nesta edição licitações, contratos, atos de pessoal ou prazos a cumprir. Para o controle interno, o ponto a acompanhar é que os dois decretos abrem hipóteses de contratação direta de parceiros e de escolha de bolsistas sem seleção pública, sempre condicionadas a decisão motivada e publicidade.",
+  "destaques": [
+   {
+    "titulo": "Regras para parcerias de inovação",
+    "texto": "O Decreto nº 22.458/2026 regulamenta os três instrumentos de parceria para Pesquisa, Desenvolvimento e Inovação do Município: termo de outorga (bolsa, auxílio ou subvenção), acordo de parceria (sem repasse de dinheiro público ao parceiro privado) e convênio (com repasse a instituições de ciência e tecnologia). O texto define plano de trabalho obrigatório, regras de propriedade intelectual, prestação de contas por resultados e guarda de documentos por no mínimo 10 anos.",
+    "atos": [
+     1
+    ]
+   },
+   {
+    "titulo": "Bolsas de inovação passam a ter regra própria",
+    "texto": "O Decreto nº 22.459/2026 cria quatro modalidades de bolsa de estímulo à inovação (desenvolvimento tecnológico, pesquisa, formação e difusão de conhecimento) e exige ato específico de cada programa com objetivos, critérios de seleção, valores, duração, fonte de custeio e metas. A bolsa não gera vínculo de emprego com a Prefeitura e o pagamento depende da comprovação das entregas, não de frequência.",
+    "atos": [
+     2
+    ]
+   },
+   {
+    "titulo": "Contratação direta de parceiro admitida em casos definidos",
+    "texto": "O Decreto nº 22.458/2026 permite fechar acordo de parceria sem licitação e sem publicação prévia quando a tecnologia ou a infraestrutura for detida por um único parceiro, quando decorrer de chamamento já divulgado ou quando houver manifestação espontânea de interesse. A escolha direta de instituição privada em convênio exige decisão motivada com demonstração de interesse público e mérito técnico.",
+    "atos": [
+     1
+    ]
+   },
+   {
+    "titulo": "Limites contra uso das bolsas como substituição de pessoal",
+    "texto": "Os dois decretos proíbem usar parcerias e bolsas para substituir força de trabalho, cobrir escalas de serviço, prover pessoal para atividades permanentes ou contornar a exigência de concurso público. O Decreto nº 22.459/2026 também veda que o próprio regulamento ou a tabela de bolsas seja entregue como produto de projeto pago pelo Município.",
+    "atos": [
+     1,
+     2
+    ]
+   },
+   {
+    "titulo": "Parecer obrigatório da SMTI em projetos de tecnologia",
+    "texto": "Quando o objeto envolver sistemas, bases de dados, serviços digitais, segurança da informação ou inteligência artificial, a manifestação técnica prévia da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) é obrigatória e vinculante nos aspectos técnicos. A regra vale tanto para as parcerias quanto para os programas de bolsas.",
+    "atos": [
+     1,
+     2
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 1,
+    "motivo": "O decreto dispensa licitação e prevê celebração direta de acordo de parceria, além de permitir a escolha direta de instituição privada em convênio sem publicação prévia do extrato, mediante decisão motivada."
+   },
+   {
+    "ato": 2,
+    "motivo": "O decreto admite, em caráter excepcional, a escolha fundamentada de bolsista sem processo seletivo público, inclusive para coordenação e supervisão, com valores definidos no ato específico de cada programa."
+   }
+  ],
+  "contratacoes": [],
+  "agenda": [],
+  "normas": [
+   {
+    "ato": 1,
+    "identificacao": "Decreto nº 22.458, de 14/09/2026",
+    "o_que_muda": "Passa a valer um conjunto único de regras para a Prefeitura de Porto Velho firmar parcerias de pesquisa, desenvolvimento e inovação por termo de outorga, acordo de parceria ou convênio, com plano de trabalho obrigatório, regras de propriedade intelectual, impedimentos para instituições privadas e prestação de contas orientada por resultados. Vale para todos os órgãos e entidades municipais e para as instituições de ciência e tecnologia que queiram firmar esses ajustes; contratos e parcerias anteriores continuam regidos pelas normas da época, mas as prorrogações e alterações seguem o novo decreto."
+   },
+   {
+    "ato": 2,
+    "identificacao": "Decreto nº 22.459, de 14/09/2026",
+    "o_que_muda": "Cria as regras para o Município conceder bolsas de estímulo à inovação, definindo quatro modalidades, exigindo ato específico publicado antes de qualquer seleção ou pagamento, Termo de Outorga assinado e plano individual de entregas, além de publicidade do nome do bolsista, valor e vigência. Atinge servidores, estudantes e colaboradores externos que participem de projetos de PD&I do Município, diretamente ou por meio de instituições de ciência e tecnologia."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [],
+   "rotina": ""
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.458, de 14/09/2026, regulamenta os instrumentos de parceria para Pesquisa, Desenvolvimento e Inovação em Porto Velho (termo de outorga, acordo de parceria e convênio), definindo instrução do processo, plano de trabalho, impedimentos, monitoramento e prestação de contas com guarda de documentos por no mínimo 10 anos; entra em vigor na data da publicação (Processo SEI nº 005.014937/2026-60)."
+   },
+   {
+    "id": 2,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.459, de 14/09/2026, regulamenta a concessão de bolsas de estímulo à inovação no Município, com quatro modalidades, seleção como regra por processo seletivo público, Termo de Outorga obrigatório, pagamento vinculado a entregas e hipóteses de suspensão, cancelamento e restituição; entra em vigor na data da publicação (Processo SEI nº 005.014937/2026-60)."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code)",
  "processado_em": "2026-09-14T20:46:34-04:00",
  "conferencia": {
   "site": 95,
@@ -37,5 +121,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-15T20:38-04:00"
- }
+ },
+ "resumo_formato": 2
 }

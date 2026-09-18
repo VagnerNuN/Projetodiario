@@ -695,34 +695,19 @@
   }
  ],
  "resumo": {
-  "manchete": "Prefeitura separa cinco terrenos municipais, somando cerca de 168 mil m², para doação a moradias populares do Minha Casa, Minha Vida",
-  "resumo": "O ato de maior peso da edição é o decreto do prefeito Leonardo Barreto de Moraes que separa cinco áreas urbanas nos bairros Aeroclube e Eldorado e no Loteamento Tropical para doação ao Fundo de Arrendamento Residencial (FAR), da Caixa, destinadas a conjuntos habitacionais do Minha Casa, Minha Vida. Nas contas públicas, sai crédito suplementar de R$ 3,6 milhões para manutenção de ruas asfaltadas (SEINFRA) e de R$ 1,58 milhão para a assistência social, além de seis remanejamentos de verbas. Em compras, a SEMAGRIC publica adesões a atas de preços que somam cerca de R$ 1,38 milhão em estrutura para a AGROTEC 2026; a SMCL homologa R$ 1,22 milhão em uniformes para a SEMTEL e marca pregões para o teste da orelhinha e para um gerador da Maternidade Mãe Esperança. Também saem o acordo de cooperação com o Banco do Brasil para digitalizar licenças e alvarás, sem custo para o Município, e a lei que cria a Semana Municipal de Conscientização sobre o TDAH. O restante é rotina: 19 portarias do IPAM, a maioria designando fiscais de contratos, substituições em cargos de chefia, diárias e a dispensa de ponto eletrônico de centenas de servidores da SEINFRA.",
+  "manchete": "Prefeitura destina cinco áreas municipais, com mais de 168 mil m², à construção de conjuntos habitacionais do Minha Casa, Minha Vida",
+  "resumo": "O Decreto nº 22.437 individualiza cinco terrenos públicos em Porto Velho — nos bairros Aeroclube, Eldorado e Loteamento Tropical — para doação ao Fundo de Arrendamento Residencial e implantação de empreendimentos do Minha Casa, Minha Vida, com cláusula de reversão se a finalidade não for cumprida. Na área de contratos, a SEMAGRIC publicou cinco adesões a atas de registro de preços que somam cerca de R$ 1,38 milhão em estruturas, som, climatização e alimentação da AGROTEC 2026, evento já realizado entre 26 e 30 de agosto, e a SMCL homologou R$ 1,22 milhão em uniformes e calçados para a SEMTEL. O IPAM concentrou 19 portarias redesignando gestores e fiscais de praticamente toda a sua carteira de contratos. Oito decretos orçamentários movimentaram recursos, com destaque para R$ 3,6 milhões suplementados à SEINFRA para locação de veículos pesados e R$ 1,58 milhão à assistência social. Merecem acompanhamento as adesões a atas de outros órgãos, as duas licitações da Maternidade Mãe Esperança reabertas com edital alterado e a dispensa de chamamento público de R$ 106 mil para reforma escolar.",
   "destaques": [
    {
-    "titulo": "Cinco áreas doadas para o Minha Casa, Minha Vida",
-    "texto": "Decreto nº 22.437 separa para doação ao FAR os terrenos dos residenciais Trilhos da Madeira (68.987,71 m²) e 2 de Outubro (27.091,46 m²), no Aeroclube, Travessia do Madeira (22.303,93 m²), no Eldorado, e Seringal (22.327,90 m²) e Ferrovia do Povo (27.778,52 m²), no Loteamento Tropical. Se a área não for usada para moradia popular, ela volta para o Município.",
+    "titulo": "Cinco terrenos públicos vão para o Minha Casa, Minha Vida",
+    "texto": "O Decreto nº 22.437, de 09/09/2026, individualiza cinco áreas urbanas do Município, somando 168.489,52 m², para doação ao Fundo de Arrendamento Residencial gerido pela Caixa. As áreas só podem ser usadas para habitação de interesse social e voltam ao Município se a finalidade for descumprida.",
     "atos": [
      26
     ]
    },
    {
-    "titulo": "R$ 5,18 milhões em créditos suplementares e seis remanejamentos",
-    "texto": "O orçamento ganha R$ 3,6 milhões do superávit de 2025 para manutenção da malha viária pavimentada (SEINFRA) e R$ 1,58 milhão de emendas federais para a SEMIAS. Seis decretos remanejam verbas, entre eles R$ 320 mil tirados de precatórios da PGM para indenizar desapropriação para o Fórum Digital em União Bandeirantes e R$ 220.615 para o Projeto Cine Escolar da SEMED.",
-    "atos": [
-     45,
-     71,
-     64,
-     65,
-     66,
-     67,
-     68,
-     69,
-     70
-    ]
-   },
-   {
-    "titulo": "Cerca de R$ 1,38 milhão em estrutura para a AGROTEC 2026",
-    "texto": "A SEMAGRIC aderiu a cinco atas de registro de preços para a feira, realizada de 26 a 30 de agosto: tendas, palco e piso (R$ 1.005.913,75, com Iele Saraiva Costa Frota), climatização e painéis de LED (R$ 276 mil), som (R$ 68 mil), marmitex e kit lanche (R$ 30.086) e banheiros químicos (R$ 3.826,90).",
+    "titulo": "R$ 1,38 milhão em adesões a atas para a AGROTEC 2026",
+    "texto": "A SEMAGRIC publicou cinco termos de adesão a atas de registro de preços para tendas, palco, som, climatizadores, painéis de LED, cabines sanitárias e alimentação da feira AGROTEC 2026, realizada de 26 a 30 de agosto. Três adesões usam atas da Assembleia Legislativa de Rondônia e a maior delas, de estruturas, chega a R$ 1.005.913,75.",
     "atos": [
      37,
      38,
@@ -732,485 +717,818 @@
     ]
    },
    {
-    "titulo": "Uniformes da SEMTEL e compras para a Maternidade Mãe Esperança",
-    "texto": "A SMCL homologou R$ 1.223.368,50 em uniformes e calçados para a SEMTEL (SC-Brindes e HLJ Negócios). Para a Maternidade Mãe Esperança, o pregão do teste da orelhinha (estimado em R$ 651.363,55) abre em 28/09, e o do grupo gerador reabre em 23/09.",
+    "titulo": "Duas compras da Maternidade Mãe Esperança voltam ao mercado",
+    "texto": "A SMCL republicou o pregão do teste da orelhinha (R$ 651.363,55 estimados), com abertura em 28/09, e reabriu o pregão do grupo gerador da maternidade em 23/09; nos dois casos o edital foi alterado, inclusive quanto a subcontratação e capacidade técnica.",
     "atos": [
-     42,
      43,
      44
     ]
    },
    {
-    "titulo": "Banco do Brasil vai digitalizar licenças e alvarás sem custo",
-    "texto": "Acordo de cooperação de 12 meses com o Banco do Brasil e a parceira Aprova Digital implanta a plataforma BB Governo Digital para pedidos online de alvarás, habite-se, licenças ambientais e sanitárias e outros serviços. Todo o custo fica com o banco, e a meta é reduzir pela metade o tempo de decisão dos processos de baixo risco.",
+    "titulo": "R$ 1,22 milhão em uniformes e calçados para a SEMTEL",
+    "texto": "O Pregão Eletrônico nº 90057/2026 foi adjudicado e homologado parcialmente à SC-Brindes (R$ 887.448,50) e à HLJ Negócios (R$ 335.920,00), para registro de preços de uniformes e calçados da Secretaria de Turismo, Esporte e Lazer.",
     "atos": [
-     63
+     42
     ]
    },
    {
-    "titulo": "Lei cria a Semana de Conscientização sobre o TDAH",
-    "texto": "A Lei nº 3.510, do vereador Gedeão Negreiros, cria a semana, a ser realizada todo ano na primeira semana de agosto, com palestras, campanhas em escolas e unidades de saúde e formação de professores.",
+    "titulo": "Oito decretos remexem o orçamento, com R$ 3,6 milhões para a malha viária",
+    "texto": "Os decretos nº 22.416 a 22.440 abriram créditos e movimentaram recursos entre programas: R$ 3,6 milhões para locação de veículos pesados na SEINFRA, R$ 1,58 milhão para a assistência social, R$ 320 mil para desapropriação em União Bandeirantes e R$ 220,6 mil para o Projeto Cine Escolar.",
     "atos": [
-     27
+     45,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70,
+     71
+    ]
+   },
+   {
+    "titulo": "IPAM troca gestores e fiscais de toda a carteira de contratos",
+    "texto": "Dezenove portarias do IPAM redesignaram gestores, fiscais e suplentes de contratos que vão de TI e previdência a vigilância, aluguel da sede e consignado, além de recompor a Comissão Permanente de Recebimento de Bens.",
+    "atos": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
     ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 37,
+    "motivo": "Adesão a ata de registro de preços de outro órgão para locação de cabines sanitárias de evento que já havia ocorrido entre 26 e 30 de agosto de 2026."
+   },
+   {
+    "ato": 38,
+    "motivo": "Adesão a ata de registro de preços da Assembleia Legislativa de Rondônia no valor de R$ 276.000,00, publicada após a realização do evento."
+   },
+   {
+    "ato": 39,
+    "motivo": "Adesão a ata de registro de preços para fornecimento de refeições em evento já realizado, no valor de R$ 30.086,00."
+   },
+   {
+    "ato": 40,
+    "motivo": "Adesão a ata da Assembleia Legislativa de Rondônia para sonorização, no valor de R$ 68.000,00, referente a evento já encerrado."
+   },
+   {
+    "ato": 41,
+    "motivo": "Adesão a ata da Assembleia Legislativa de Rondônia de R$ 1.005.913,75 em locação de estruturas, com diárias de tenda a R$ 40.000,00 e de piso deck a R$ 10.000,00."
+   },
+   {
+    "ato": 43,
+    "motivo": "Republicação de aviso de licitação de R$ 651.363,55 com alteração do termo de referência, que passou a vedar expressamente a subcontratação."
+   },
+   {
+    "ato": 44,
+    "motivo": "Reabertura de pregão de grupo gerador após modificação do edital quanto a subcontratação, assistência técnica e capacidade técnico-profissional."
+   },
+   {
+    "ato": 46,
+    "motivo": "Dispensa de chamamento público para repasse de R$ 106.000,00 a conselho escolar, com base em emenda parlamentar municipal."
+   },
+   {
+    "ato": 57,
+    "motivo": "Termo de rerratificação altera o Termo de Fomento nº 072/2026/PGM para incluir cláusula sobre bens permanentes e inalienabilidade."
+   },
+   {
+    "ato": 53,
+    "motivo": "Portaria torna sem efeito publicação feita na véspera, na edição 4315 do Diário Oficial."
+   },
+   {
+    "ato": 60,
+    "motivo": "Retificação eleva de 2,5 para 3,0 o número de diárias concedidas na Operação Acolher."
+   },
+   {
+    "ato": 61,
+    "motivo": "Diárias concedidas em caráter indenizatório após o fato, com reconhecimento expresso de exaurimento do prazo normal de tramitação prévia."
+   },
+   {
+    "ato": 63,
+    "motivo": "Acordo de cooperação técnica com o Banco do Brasil, sem licitação e sem ônus, coloca plataforma privada em fluxos de licenciamento urbano e ambiental por 12 meses."
+   },
+   {
+    "ato": 71,
+    "motivo": "Crédito suplementar de R$ 3.600.000,00 por superávit financeiro para locação de veículos pesados na SEINFRA."
+   },
+   {
+    "ato": 23,
+    "motivo": "Prorrogação de processo disciplinar que apura irregularidades na liquidação de despesas de contratos de credenciamento do IPAM."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 37,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 90388/2025 - Ata de Registro de Preços nº 036/2026",
+    "objeto": "Locação de cabines sanitárias, inclusive PcD, para a AGROTEC 2026",
+    "fornecedor": "LOC-MAQ LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS LTDA.",
+    "valor": 3826.9
+   },
+   {
+    "ato": 38,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 013/2025/CPP/ALE/RO - Ata de Registro de Preços nº 012/2025",
+    "objeto": "Locação de climatizadores, condicionadores de ar e painéis de LED para a AGROTEC 2026",
+    "fornecedor": "BARROS DA SILVA SERVIÇOS DE BUFFET LTDA",
+    "valor": 276000.0
+   },
+   {
+    "ato": 39,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 90009/2026/SMCL/PVH - Ata de Registro de Preços nº 005/2026",
+    "objeto": "Fornecimento de 1.400 marmitex e 1.400 kits lanche para a AGROTEC 2026",
+    "fornecedor": "VAM REFEIÇÕES E EVENTOS LTDA e ROCEL - COMÉRCIO DE ALIMENTAÇÃO E SERVIÇOS DE NUTRIÇÃO LTDA",
+    "valor": 30086.0
+   },
+   {
+    "ato": 40,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 013/2025/CPP/ALE/RO - Ata de Registro de Preços nº 013/2025",
+    "objeto": "Locação de sonorização, iluminação e proteção elétrica para a AGROTEC 2026",
+    "fornecedor": "LUAMARTE SONORIZAÇÃO EIRELI-ME",
+    "valor": 68000.0
+   },
+   {
+    "ato": 41,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 013/2025/CPP/ALE/RO - Ata de Registro de Preços nº 011/2025",
+    "objeto": "Locação de tendas, treliças, piso deck e palco para a AGROTEC 2026",
+    "fornecedor": "IELE SARAIVA COSTA FROTA",
+    "valor": 1005913.75
+   },
+   {
+    "ato": 42,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 90057/2026/SMCL/PMPV - SRP nº 032/2026",
+    "objeto": "Registro de preços para fornecimento de uniformes e calçados para a SEMTEL",
+    "fornecedor": "SC-BRINDES LTDA (R$ 887.448,50) e HLJ NEGOCIOS LTDA (R$ 335.920,00)",
+    "valor": 1223368.5
+   },
+   {
+    "ato": 43,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 90054/2026/SMCL/PVH (republicação)",
+    "objeto": "Exames otoacústicas evocadas para triagem auditiva (teste da orelhinha) na Maternidade Mãe Esperança",
+    "fornecedor": null,
+    "valor": 651363.55
+   },
+   {
+    "ato": 44,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 257/2026/SMCL/SEL (reabertura)",
+    "objeto": "Aquisição e instalação de grupo gerador para a Maternidade Mãe Esperança",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 46,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de chamamento público (Lei nº 13.019/2014)",
+    "objeto": "Termo de fomento para reforma predial da EMEI Moisés Ferreira Neto, com emenda parlamentar municipal nº 0009/2025",
+    "fornecedor": "Conselho Escolar da EMEI Moisés Ferreira Neto",
+    "valor": 106000.0
+   },
+   {
+    "ato": 47,
+    "etapa": "Contrato",
+    "modalidade": "Termo de Fomento nº 093/PGM/2026",
+    "objeto": "Reforma predial da E.M.E.F. São Pedro, com instalação de corrimãos, guarda-corpos e fechamento de portão lateral",
+    "fornecedor": "Conselho Escolar da E.M.E.F. São Pedro",
+    "valor": 106000.0
+   },
+   {
+    "ato": 57,
+    "etapa": "Aditivo",
+    "modalidade": "Termo de rerratificação ao Termo de Fomento nº 072/2026/PGM",
+    "objeto": "Inclusão de cláusula sobre bens permanentes do sistema eletrônico de pontuação de taekwondo, com inalienabilidade e reversão ao Município",
+    "fornecedor": "Federação de Taekwondo de Rondônia - FETRON",
+    "valor": null
+   },
+   {
+    "ato": 63,
+    "etapa": "Outro",
+    "modalidade": "Acordo de Cooperação Técnica nº 2026/0001",
+    "objeto": "Implantação, sem ônus, da plataforma BB Governo Digital para licenciamento urbanístico, ambiental, sanitário e de atividade econômica",
+    "fornecedor": "Banco do Brasil S.A., em parceria com Aprova Digital S.A.",
+    "valor": null
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-14",
+    "hora": null,
+    "evento": "Conselheiros tutelares participam da capacitação do SIPIA, até 16/09, com diárias concedidas pela SEMIAS.",
+    "ato": 49
+   },
+   {
+    "data": "2026-09-14",
+    "hora": null,
+    "evento": "Servidora da SEMED retorna ao trabalho com a interrupção da licença para tratar de interesse particular.",
+    "ato": 35
+   },
+   {
+    "data": "2026-09-21",
+    "hora": null,
+    "evento": "Conselho tutelar inicia atendimentos em comunidades da zona rural, até 26/09.",
+    "ato": 72
+   },
+   {
+    "data": "2026-09-21",
+    "hora": null,
+    "evento": "Conselho tutelar cumpre plano de ação em distritos e ramais, até 26/09.",
+    "ato": 73
+   },
+   {
+    "data": "2026-09-23",
+    "hora": "10:00",
+    "evento": "Reabertura do Pregão Eletrônico nº 257/2026, do grupo gerador da Maternidade Mãe Esperança, no gov.br/compras.",
+    "ato": 44
+   },
+   {
+    "data": "2026-09-28",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 90054/2026, dos exames de triagem auditiva, no gov.br/compras.",
+    "ato": 43
+   },
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Servidora assume interinamente a gerência da SEMEC até 30/10, em substituição por férias.",
+    "ato": 29
+   },
+   {
+    "data": "2026-10-13",
+    "hora": null,
+    "evento": "Servidora assume interinamente a gerência da Secretaria de Governo até 01/11, em substituição por férias.",
+    "ato": 30
+   }
+  ],
+  "normas": [
+   {
+    "ato": 26,
+    "identificacao": "Decreto nº 22.437, de 09/09/2026",
+    "o_que_muda": "Individualiza cinco áreas de terras do Município, com 168.489,52 m² no total, para doação ao Fundo de Arrendamento Residencial e construção de moradias do Minha Casa, Minha Vida. A transferência de cada imóvel depende de certificações prévias e a doação é revertida se a finalidade habitacional não for cumprida."
+   },
+   {
+    "ato": 27,
+    "identificacao": "Lei nº 3.510, de 08/09/2026",
+    "o_que_muda": "Cria a Semana Municipal de Conscientização sobre o TDAH, na primeira semana de agosto de cada ano, com palestras, oficinas e campanhas em escolas e unidades de saúde. O artigo 5º foi vetado e a lei já está em vigor."
+   },
+   {
+    "ato": 48,
+    "identificacao": "Resolução CMAS nº 437, de 08/09/2026",
+    "o_que_muda": "Aprova a atualização da inscrição da unidade Casa de Daniel Neri - Lar Fabiano de Cristo no Conselho Municipal de Assistência Social e reconhece que ela executa o Serviço de Convivência e Fortalecimento de Vínculos."
+   },
+   {
+    "ato": 20,
+    "identificacao": "Portaria IPAM nº 520, de 08/09/2026",
+    "o_que_muda": "Recompõe a Comissão Permanente de Recebimento de Bens, Materiais e Serviços do IPAM e fixa suas atribuições, exigindo assinatura de pelo menos três servidores para o recebimento definitivo e o atesto de notas fiscais."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 29,
+     "acao": "Designação",
+     "nome": "Sufia do Nascimento Rodrigues",
+     "cargo": "Gerente II, DAS-05, da Secretaria Municipal de Economia - SEMEC, de 01/10 a 30/10/2026"
+    },
+    {
+     "ato": 30,
+     "acao": "Designação",
+     "nome": "Maria Yolene da Silva",
+     "cargo": "Gerente II, DAS-05, da Secretaria de Governo - SGOV, de 13/10 a 01/11/2026"
+    },
+    {
+     "ato": 32,
+     "acao": "Designação",
+     "nome": "Valeria Ribeiro do Prado",
+     "cargo": "Gerente II, DAS-05, da Secretaria Municipal de Contratos, Convênios e Licitações - SMCL, de 25/08 a 22/12/2026"
+    },
+    {
+     "ato": 33,
+     "acao": "Designação",
+     "nome": "Hemile Ane Alves Maia Arquimim",
+     "cargo": "Diretor I, DAS-08, da Secretaria Municipal de Educação - SEMED, de 01/09 a 30/09/2026"
+    },
+    {
+     "ato": 34,
+     "acao": "Designação",
+     "nome": "Joao Victor Batista Silva Moreira",
+     "cargo": "Gerente II, DAS-05, da Secretaria Municipal de Saúde - SEMUSA, de 01/09 a 15/09/2026"
+    },
+    {
+     "ato": 36,
+     "acao": "Designação",
+     "nome": "Valeria Ribeiro do Prado",
+     "cargo": "Gerente II, DAS-05, da Secretaria Municipal de Contratos, Convênios e Licitações - SMCL, em agosto de 2026"
+    },
+    {
+     "ato": 51,
+     "acao": "Nomeação",
+     "nome": "Edneli Galdino Cerqueira",
+     "cargo": "Conselheira suplente do Conselho Municipal de Assistência Social - CMAS, pela Associação Pestalozzi"
+    },
+    {
+     "ato": 20,
+     "acao": "Designação",
+     "nome": "Francisco Diego de Oliveira Cordeiro",
+     "cargo": "Presidente da Comissão Permanente de Recebimento de Bens, Materiais e Serviços do IPAM"
+    },
+    {
+     "ato": 50,
+     "acao": "Substituição",
+     "nome": "Richarlisson Roberto Falcão Nogueira",
+     "cargo": "Membro da Comissão de Conferência e Atesto de Fornecimento de Kits Lanches e Marmitex da SEMIAS"
+    },
+    {
+     "ato": 50,
+     "acao": "Substituição",
+     "nome": "Andréia Fabiana Oliveira de Castro Costa",
+     "cargo": "Membro da Comissão de Conferência e Atesto de Fornecimento de Kits Lanches e Marmitex da SEMIAS"
+    },
+    {
+     "ato": 52,
+     "acao": "Substituição",
+     "nome": "Richarlisson Roberto Falcão Nogueira",
+     "cargo": "Membro da Comissão de Recebimento e Distribuição de Cestas Básicas da SEMIAS"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal traz férias na Câmara, licença-prêmio e interrupção de licença na SEMAD, designações de gestores e fiscais de contratos no IPAM e na EMDUR, diárias de conselheiros tutelares, da Defesa Civil e da SEINFRA, homologações de prestação de contas de diárias, dispensa de ponto eletrônico para servidores da SEINFRA e da SGOV, restabelecimento e retificação de pensão por morte no IPAM e prorrogações de processos disciplinares na Procuradoria."
+  },
   "atos": [
    {
     "id": 1,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara Municipal concede férias de 01/09/2026 a 30/09/2026 ao servidor comissionado Edilson Pereira da Silva, lotado no gabinete do vereador Marcio Pacele."
+    "resumo": "Portaria nº 180/CMPV-2026 concede férias de 01 a 30/09/2026 ao servidor comissionado Edilson Pereira da Silva, lotado no gabinete do vereador Marcio Pacele."
    },
    {
     "id": 2,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A EMDUR designa Poliana Pâmela Chaves Machado Paiva (gestora) e João Alfredo Alencar da Mata Filho (fiscal) para acompanhar o Contrato nº 05/2026, de capacitação no Projeto de Iluminação Pública em BIM, com efeitos desde 20/08/2026."
+    "resumo": "EMDUR designa Poliana Pâmela Chaves Machado Paiva como gestora e João Alfredo Alencar da Mata Filho como fiscal do Contrato nº 05/2026, de capacitação em 'Projeto de Iluminação Pública em BIM', com efeitos desde 20/08/2026."
    },
    {
     "id": 3,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora, a fiscal e a suplente do Contrato nº 03/2026 com a Ecos Turismo Ltda., de agenciamento de passagens aéreas nacionais, com vigência de 12 meses."
+    "resumo": "IPAM designa Lícia Cristine Nascimento Marques como gestora e Fabiane de Souza Almeida Medeiros como fiscal do Contrato nº 03/2026, de agenciamento de passagens aéreas com a ECOS TURISMO LTDA, vigente por 12 meses."
    },
    {
     "id": 4,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora, a fiscal e a suplente do Contrato nº 11/2026 com o IEL/RO, agente de integração para contratação e administração de estagiários de nível médio e superior, com vigência de 12 meses."
+    "resumo": "IPAM designa Nair Priscila Alves da Silva Gomes Mestre como gestora e Rayssa Neumann Fernandes como fiscal do Contrato nº 11/2026, de contratação de estagiários pelo IEL/RO, vigente por 12 meses."
    },
    {
     "id": 5,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora, o fiscal e o suplente do Contrato nº 07/2021 com a Dataprev, de serviços estratégicos de tecnologia da informação, com vigência de 5 anos."
+    "resumo": "IPAM designa Ana Maria Lessa Mariaca como gestora e Cristian Willen de Oliveira Ribeiro como fiscal do Contrato nº 07/2021, de serviços de TI da DATAPREV, com vigência de 5 anos."
    },
    {
     "id": 6,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora, o fiscal e o suplente do Contrato nº 06/2020 com a R&A Treinamento e Consultoria Empresarial Ltda., de guarda e organização do acervo documental, com vigência de 60 dias."
+    "resumo": "IPAM designa gestora e fiscais do Contrato nº 06/2020, de gestão do acervo documental com a R&A Treinamento e Consultoria Empresarial LTDA, cuja vigência é descrita como de 60 dias."
    },
    {
     "id": 7,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora e os fiscais do Contrato nº 10/2025 com a Lógica Assessoria e Consultoria Atuarial Ltda., de avaliação atuarial da previdência (RPPS) e do fundo de saúde (FAS) dos servidores, com vigência de 12 meses."
+    "relevancia": "media",
+    "resumo": "IPAM designa Ana Gabriela da Silva Almeida como gestora e fiscais dos fundos de previdência e assistência do Contrato nº 10/2025, de consultoria e avaliação atuarial do RPPS e do FAS com a Lógica Assessoria e Consultoria Atuarial LTDA."
    },
    {
     "id": 8,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor, a fiscal e os suplentes do Contrato nº 06/2024 com a Rezek Ferreira Informática Ltda., de sistema informatizado para a gestão da assistência médica, com vigência de 5 anos."
+    "resumo": "IPAM designa Marivaldo Rosa da Silva como gestor e Silvana Lima da Cruz como fiscal do Contrato nº 06/2024, do sistema de gestão da assistência médica com a Rezek Ferreira Informática LTDA, com vigência de 5 anos."
    },
    {
     "id": 9,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM restabelece, com efeitos desde 06/01/2026, a pensão por morte do gari João Elmir Barboza de Freitas para o filho João Marcos Passos de Freitas (cota de 50%), mantendo a outra metade com o filho João Elmir Barboza de Freitas Filho."
+    "resumo": "IPAM restabelece, com efeitos financeiros desde 06/01/2026, a pensão por morte de João Marcos Passos de Freitas, com cota de 50%, mantida a cota do irmão, decorrente do falecimento do gari João Elmir Barboza de Freitas."
    },
    {
     "id": 10,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e as fiscais do Contrato nº 017/2023 com a Fortt do Brasil Ltda., de telefonia PABX IP em nuvem e internet dedicada, com vigência de 12 meses."
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 017/2023, de plataforma PABX IP em nuvem e link de internet com a FORTT DO BRASIL LTDA, vigente por 12 meses."
    },
    {
     "id": 11,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora e os fiscais do Contrato nº 03/2020 com a GSG Engenharia Ltda., de aluguel do imóvel da Avenida Carlos Gomes, nº 1.645, bairro São Cristóvão, onde fica a sede do instituto, com vigência de 48 meses."
+    "resumo": "IPAM designa gestora e fiscais do Contrato nº 03/2020, de locação do imóvel da Avenida Carlos Gomes nº 1.645, bairro São Cristóvão, que abriga a sede do instituto, com vigência de 48 meses."
    },
    {
     "id": 12,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 01/2024 com a M. da S. Vasconcelos Ltda., de monitoramento eletrônico por câmeras e alarme 24 horas, com vigência de 12 meses."
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 01/2024, de monitoramento eletrônico de imagens e alarme 24 horas com a M. da S. Vasconcelos LTDA, vigente por 12 meses."
    },
    {
     "id": 13,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 02/2023 com a Sete Capital Consultoria Ltda., de consultoria na aplicação dos recursos da previdência, com vigência de 12 meses."
+    "relevancia": "media",
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 02/2023, de consultoria e assessoria de investimentos dos recursos previdenciários com a Sete Capital Consultoria LTDA, vigente por 12 meses."
    },
    {
     "id": 14,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 016/2023 com a Yes Way Comércio de Soluções Avançadas de Informática Ltda., de garantia e suporte do servidor de rede Dell PowerEdge, com vigência de 12 meses."
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 016/2023, de garantia e suporte técnico de hardware e software com a Yes Way Comércio de Soluções Avançadas de Informática LTDA, por 12 meses."
    },
    {
     "id": 15,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 01/2026 com a E&L Produções de Software Ltda., de licença e manutenção do sistema de gestão da previdência (RPPS), com vigência de 12 meses."
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 01/2026, de licença e manutenção do sistema de gestão do RPPS com a E&L Produções de Software LTDA, vigente por 12 meses."
    },
    {
     "id": 16,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 05/2024 com a Agenda Assessoria Planejamento e Informática Ltda., de gestão da carteira de empréstimo consignado com seguro prestamista, com vigência de 15 anos."
+    "relevancia": "media",
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 05/2024, de gestão da carteira de empréstimo consignado com a Agenda Assessoria Planejamento e Informática LTDA, com vigência de 15 anos."
    },
    {
     "id": 17,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa o gestor e os fiscais do Contrato nº 08/2025 com a A E Soluções Digitais, de licenças Google Workspace Business Starter, com vigência de 36 meses."
+    "resumo": "IPAM designa gestor e fiscais do Contrato nº 08/2025, de licenças Google Workspace Business Starter com a A E Soluções Digitais, vigente por 36 meses."
    },
    {
     "id": 18,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora e os fiscais do Contrato nº 002/2026 com a Belém Rio Segurança Ltda., de vigilância patrimonial (desarmada de dia e armada à noite), com vigência de 12 meses."
+    "resumo": "IPAM designa gestora e fiscais do Contrato nº 002/2026, de vigilância patrimonial diurna desarmada e noturna armada com a Belém Rio Segurança LTDA - RO, vigente por 12 meses."
    },
    {
     "id": 19,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "O IPAM designa a gestora e as fiscais do Contrato nº 002/2025 com a Asor Med Gestão e Projetos Ltda., que revisa as auditorias das contas médicas e odontológicas do instituto."
+    "relevancia": "media",
+    "resumo": "IPAM designa gestora e fiscais do Contrato nº 002/2025, de contra-auditoria das contas médicas e odontológicas com a ASOR MED Gestão e Projetos LTDA, para revisar auditorias e identificar inconsistências em pagamentos."
    },
    {
     "id": 20,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "O IPAM refaz a composição da Comissão Permanente de Recebimento de Bens, Materiais e Serviços, presidida por Francisco Diego de Oliveira Cordeiro, e define suas atribuições, como exigir a assinatura de pelo menos três membros para o recebimento definitivo."
+    "relevancia": "media",
+    "resumo": "Portaria nº 520 recompõe a Comissão Permanente de Recebimento de Bens, Materiais e Serviços do IPAM, presidida por Francisco Diego de Oliveira Cordeiro, e detalha suas atribuições de conferência, rejeição e atesto de notas fiscais."
    },
    {
     "id": 21,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM corrige a Portaria nº 496/2026, que concedeu pensão por morte deixada pela servidora Ana Maria Gomes Romano: onde se lia VII, passa a constar VIII."
+    "resumo": "IPAM retifica a Portaria nº 496/2026, de pensão por morte da instituidora Ana Maria Gomes Romano, para corrigir a indicação de inciso, de VII para VIII."
    },
    {
     "id": 22,
-    "categoria": "Pessoal",
+    "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A Procuradoria-Geral do Município prorroga por 60 dias o prazo da comissão do processo disciplinar nº 009.003626/2025-54."
+    "resumo": "Procuradoria-Geral prorroga por 60 dias a conclusão dos trabalhos da comissão do Processo Administrativo Disciplinar nº 009.003626/2025-54."
    },
    {
     "id": 23,
-    "categoria": "Pessoal",
+    "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "A Procuradoria-Geral prorroga por mais 30 dias o processo disciplinar que apura supostas irregularidades no pagamento de prestadores de serviço credenciados pelo IPAM."
+    "resumo": "Procuradoria-Geral prorroga por 30 dias a comissão que apura supostas irregularidades na liquidação de despesas de contratos de credenciamento de prestadores de serviços do IPAM."
    },
    {
     "id": 24,
-    "categoria": "Pessoal",
+    "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A Procuradoria-Geral prorroga por 30 dias, a partir de 08/09/2026, o prazo da comissão de sindicância do processo nº 009.008186/2026-11."
+    "resumo": "Procuradoria-Geral prorroga por 30 dias, a contar de 08/09/2026, os trabalhos da comissão sindicante do Processo nº 009.008186/2026-11."
    },
    {
     "id": 25,
-    "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A Procuradoria-Geral abre processo disciplinar para apurar irregularidades do processo nº 009.002657/2025-98, com prazo de 60 dias e comissão formada por José da Conceição Leite, Hailton Otero Ribeiro de Araújo e Marcelo Gonzaga Lellis; a portaria não detalha os fatos investigados."
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "Procuradoria-Geral instaura processo administrativo disciplinar no Processo nº 009.002657/2025-98, com comissão formada por José da Conceição Leite, Hailton Otero Ribeiro de Araújo e Marcelo Gonzaga Lellis e prazo de 60 dias, prorrogável."
    },
    {
     "id": 26,
     "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Decreto nº 22.437 separa cinco áreas municipais para doação ao Fundo de Arrendamento Residencial (FAR) para o Minha Casa, Minha Vida: Trilhos da Madeira e 2 de Outubro (Aeroclube), Travessia do Madeira (Eldorado), e Seringal e Ferrovia do Povo (Loteamento Tropical), somando cerca de 168 mil m². Se a área for usada para outro fim, ela volta para o Município."
+    "resumo": "Decreto nº 22.437 individualiza cinco áreas urbanas do Município, somando 168.489,52 m² nos bairros Aeroclube, Eldorado e Loteamento Tropical, para doação ao Fundo de Arrendamento Residencial e construção de conjuntos do Minha Casa, Minha Vida, com reversão ao Município em caso de desvio de finalidade."
    },
    {
     "id": 27,
     "categoria": "Legislação",
-    "relevancia": "media",
-    "resumo": "A Lei nº 3.510, de autoria do vereador Gedeão Negreiros, cria a Semana Municipal de Conscientização sobre o TDAH, todo ano na primeira semana de agosto, com palestras, campanhas em escolas e unidades de saúde e formação de professores; o art. 5º foi vetado."
+    "relevancia": "alta",
+    "resumo": "Lei nº 3.510, de 08/09/2026, institui a Semana Municipal de Conscientização sobre o TDAH na primeira semana de agosto, com palestras, oficinas e campanhas em escolas e unidades de saúde; o artigo 5º foi vetado."
    },
    {
     "id": 28,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Secretaria de Governo dispensa a servidora Natalia Ferreira (Assessor III) do ponto eletrônico, com registro em folha física, com efeitos desde 21/08/2026."
+    "resumo": "Secretaria de Governo dispensa do ponto eletrônico a assessora III Natalia Ferreira, autorizando folha física, com efeitos retroativos a 21/08/2026."
    },
    {
     "id": 29,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Sufia do Nascimento Rodrigues para ocupar o cargo de Gerente II da SEMEC de 01/10 a 30/10/2026, no lugar de Ana Leide Rodrigues de Souza, que estará de férias."
+    "resumo": "SEMAD designa Sufia do Nascimento Rodrigues para exercer o cargo de Gerente II, DAS-05, da SEMEC, de 01/10 a 30/10/2026, em substituição a Ana Leide Rodrigues de Souza, em férias."
    },
    {
     "id": 30,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Maria Yolene da Silva para ocupar o cargo de Gerente II da Secretaria de Governo de 13/10 a 01/11/2026, no lugar de Bruna Louise Queiroz Ignacio, que estará de férias."
+    "resumo": "SEMAD designa Maria Yolene da Silva para exercer o cargo de Gerente II, DAS-05, da Secretaria de Governo, de 13/10 a 01/11/2026, em substituição a Bruna Louise Queiroz Ignacio, em férias."
    },
    {
     "id": 31,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD concede três meses de licença-prêmio, de 08/09 a 06/12/2026, à servidora Ida Soares de Sena, artífice especializada lotada na SEMTEL."
+    "resumo": "SEMAD concede três meses de licença-prêmio à artífice especializada Ida Soares de Sena, da SEMTEL, de 08/09 a 06/12/2026."
    },
    {
     "id": 32,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Valeria Ribeiro do Prado para ocupar o cargo de Gerente II da SMCL de 25/08 a 22/12/2026, no lugar de Auriadine Gouvea Melo, em licença-maternidade."
+    "resumo": "SEMAD designa Valeria Ribeiro do Prado como Gerente II, DAS-05, da SMCL, de 25/08 a 22/12/2026, em substituição a Auriadine Gouvea Melo, em licença-maternidade."
    },
    {
     "id": 33,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Hemile Ane Alves Maia Arquimim para ocupar o cargo de Diretor I da SEMED de 01/09 a 30/09/2026, no lugar de Franklin dos Santos Batista, que está de férias."
+    "resumo": "SEMAD designa Hemile Ane Alves Maia Arquimim como Diretor I, DAS-08, da SEMED, de 01/09 a 30/09/2026, em substituição a Franklin dos Santos Batista, em férias."
    },
    {
     "id": 34,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa João Victor Batista Silva Moreira para ocupar o cargo de Gerente II da SEMUSA de 01/09 a 15/09/2026, no lugar de Ana Lucia Almeida de Souza Moriobo, que está de férias."
+    "resumo": "SEMAD designa Joao Victor Batista Silva Moreira como Gerente II, DAS-05, da SEMUSA, de 01/09 a 15/09/2026, em substituição a Ana Lucia Almeida de Souza Moriobo, em férias."
    },
    {
     "id": 35,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD encerra, a pedido, a partir de 14/09/2026, a licença para tratar de interesse particular de Ires Cristina Lima Abadia, agente de limpeza escolar da SEMED."
+    "resumo": "SEMAD interrompe, a pedido, a licença para tratar de interesse particular da agente de limpeza escolar Ires Cristina Lima Abadia, da SEMED, a partir de 14/09/2026."
    },
    {
     "id": 36,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Valeria Ribeiro do Prado para ocupar o cargo de Gerente II da SMCL de 04 a 08/08 e de 12 a 17/08/2026, no lugar de Auriadine Gouvea Melo, que estava em licença médica."
+    "resumo": "SEMAD designa Valeria Ribeiro do Prado como Gerente II, DAS-05, da SMCL, nos períodos de 04 a 08/08 e de 12 a 17/08/2026, em substituição a Auriadine Gouvea Melo, em licença médica."
    },
    {
     "id": 37,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMAGRIC aderiu à Ata de Registro de Preços nº 036/2026 para alugar banheiros químicos, comuns e adaptados para pessoas com deficiência, da Loc-Maq Locação de Máquinas e Equipamentos Ltda. durante a AGROTEC 2026 (26 a 30/08), num total de R$ 3.826,90."
+    "relevancia": "media",
+    "resumo": "SEMAGRIC adere à Ata de Registro de Preços nº 036/2026 para locação de cabines sanitárias, inclusive PcD, na AGROTEC 2026, junto à LOC-MAQ Locação de Máquinas e Equipamentos LTDA, no total de R$ 3.826,90."
    },
    {
     "id": 38,
     "categoria": "Licitações e contratos",
-    "relevancia": "media",
-    "resumo": "A SEMAGRIC aderiu à Ata nº 012/2025 da Assembleia Legislativa para alugar climatizadores, aparelhos de ar-condicionado e painéis de LED da Barros da Silva Serviços de Buffet Ltda. para a AGROTEC 2026, com itens que somam R$ 276 mil."
+    "relevancia": "alta",
+    "resumo": "SEMAGRIC adere à Ata de Registro de Preços nº 012/2025 da Assembleia Legislativa de Rondônia para locação de climatizadores, condicionadores de ar e painéis de LED na AGROTEC 2026, junto à Barros da Silva Serviços de Buffet LTDA, no total de R$ 276.000,00."
    },
    {
     "id": 39,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMAGRIC aderiu à Ata nº 005/2026 da SMCL para comprar 1.400 marmitex (R$ 19.586,00) e 1.400 kits lanche (R$ 10.500,00) da VAM Refeições e Eventos e da Rocel para a AGROTEC 2026."
+    "relevancia": "media",
+    "resumo": "SEMAGRIC adere à Ata de Registro de Preços nº 005/2026 da SMCL para 1.400 marmitex a R$ 13,99 e 1.400 kits lanche a R$ 7,50 na AGROTEC 2026, junto à VAM Refeições e Eventos LTDA e à ROCEL, somando R$ 30.086,00."
    },
    {
     "id": 40,
     "categoria": "Licitações e contratos",
-    "relevancia": "media",
-    "resumo": "A SEMAGRIC aderiu à Ata nº 013/2025 da Assembleia Legislativa para alugar equipamentos de som da Luamarte Sonorização Eireli-ME para a AGROTEC 2026, com itens que somam R$ 68 mil."
+    "relevancia": "alta",
+    "resumo": "SEMAGRIC adere à Ata de Registro de Preços nº 013/2025 da ALE/RO para sonorização, iluminação e proteção elétrica na AGROTEC 2026, junto à Luamarte Sonorização EIRELI-ME, no total de R$ 68.000,00."
    },
    {
     "id": 41,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SEMAGRIC aderiu à Ata nº 011/2025 da Assembleia Legislativa para alugar tendas-galpão, tendas, treliças, piso de madeira e palco da empresa Iele Saraiva Costa Frota para a AGROTEC 2026, com itens que somam R$ 1.005.913,75, dos quais R$ 775 mil só nas duas tendas-galpão."
+    "resumo": "SEMAGRIC adere à Ata de Registro de Preços nº 011/2025 da ALE/RO para locação de tendas, treliças, piso deck e palco na AGROTEC 2026, junto a Iele Saraiva Costa Frota, no total de R$ 1.005.913,75, com diárias de tenda galpão a R$ 40.000,00."
    },
    {
     "id": 42,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SMCL homologa parte do Pregão nº 90057/2026 (registro de preços de uniformes e calçados para a SEMTEL): SC-Brindes Ltda. venceu dez itens com R$ 887.448,50 e HLJ Negócios Ltda. venceu dois itens com R$ 335.920,00."
+    "resumo": "SMCL adjudica e homologa parcialmente o Pregão Eletrônico nº 90057/2026, de uniformes e calçados para a SEMTEL, à SC-Brindes LTDA por R$ 887.448,50 e à HLJ Negocios LTDA por R$ 335.920,00."
    },
    {
     "id": 43,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SMCL republica o Pregão nº 90054/2026 para contratar o teste da orelhinha (triagem auditiva de recém-nascidos) na Maternidade Municipal Mãe Esperança, estimado em R$ 651.363,55, com abertura em 28/09/2026 às 9h30 (horário de Brasília); o edital passou a proibir a subcontratação."
+    "resumo": "SMCL republica o Pregão Eletrônico nº 90054/2026, de exames otoacústicas para triagem auditiva na Maternidade Mãe Esperança, com valor estimado de R$ 651.363,55 e abertura das propostas em 28/09/2026 às 9h30; o edital passou a vedar a subcontratação."
    },
    {
     "id": 44,
     "categoria": "Licitações e contratos",
-    "relevancia": "media",
-    "resumo": "A SMCL alterou o edital e reabre em 23/09/2026, às 10h (horário de Brasília), o Pregão nº 257/2026 para comprar e instalar um grupo gerador na Maternidade Municipal Mãe Esperança; mudaram as regras de subcontratação, assistência técnica e qualificação técnica."
+    "relevancia": "alta",
+    "resumo": "SMCL reabre em 23/09/2026, às 10h, o Pregão Eletrônico nº 257/2026, de aquisição e instalação de grupo gerador para a Maternidade Mãe Esperança, após alterações no edital sobre subcontratação, assistência técnica e capacidade técnica."
    },
    {
     "id": 45,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Decreto nº 22.428 abre crédito suplementar de R$ 1.580.000,00 para a SEMIAS, com dinheiro de emendas parlamentares federais repassadas pelo Fundo Nacional de Assistência Social, aplicado na gestão do SUAS (IGD-SUAS)."
+    "resumo": "Decreto nº 22.428 abre crédito adicional suplementar de R$ 1.580.000,00 na SEMIAS, por excesso de arrecadação de transferências do Fundo Nacional de Assistência Social vindas de emendas parlamentares."
    },
    {
     "id": 46,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMED justifica a parceria sem chamamento público com o Conselho Escolar da EMEI Moisés Ferreira Neto, que receberá R$ 106.000,00 para reformar a escola, verba de emenda do vereador Militino Feber Junior; a parceria vale por um ano após a liberação do dinheiro."
+    "resumo": "SEMED justifica a dispensa de chamamento público para termo de fomento de R$ 106.000,00 ao Conselho Escolar da EMEI Moisés Ferreira Neto, destinado a reforma predial, com recursos da emenda parlamentar municipal nº 0009/2025."
    },
    {
     "id": 47,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMED assina o Termo de Fomento nº 093/PGM/2026, que repassa R$ 106.000,00 ao Conselho Escolar da EMEF São Pedro, no bairro Pedrinhas, para instalar corrimãos, guarda-corpos e fechar um portão lateral, com prazo de 12 meses a partir da liberação do dinheiro."
+    "resumo": "Termo de Fomento nº 093/PGM/2026 repassa R$ 106.000,00 ao Conselho Escolar da E.M.E.F. São Pedro para reforma predial com corrimãos, guarda-corpos e fechamento de portão lateral, com vigência de 12 meses após a liberação do recurso."
    },
    {
     "id": 48,
     "categoria": "Conselhos e participação social",
-    "relevancia": "baixa",
-    "resumo": "O Conselho Municipal de Assistência Social atualiza a inscrição da unidade Casa de Daniel Neri – Lar Fabiano de Cristo, que oferece o Serviço de Convivência e Fortalecimento de Vínculos, depois de visita de monitoramento."
+    "relevancia": "media",
+    "resumo": "Resolução CMAS nº 437 aprova a atualização da inscrição da unidade Casa de Daniel Neri - Lar Fabiano de Cristo e reconhece sua execução do Serviço de Convivência e Fortalecimento de Vínculos, após visita de monitoramento."
    },
    {
     "id": 49,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS paga 2,5 diárias a cada um dos conselheiros tutelares Denis Fernando Chaves Rodrigues, Mara Adriana da Silva e Paulo Acosta Marinho para uma capacitação no SIPIA de 14 a 16/09/2026."
+    "resumo": "SEMIAS concede 2,5 diárias aos conselheiros tutelares Denis Fernando Chaves Rodrigues, Mara Adriana da Silva e Paulo Acosta Marinho para capacitação do SIPIA, de 14 a 16/09/2026, em Porto Velho."
    },
    {
     "id": 50,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS troca dois membros da comissão que confere o fornecimento de kits lanche e marmitex: entram Richarlisson Roberto Falcão Nogueira e Andréia Fabiana Oliveira de Castro Costa, no lugar de Luciana Silva Nascimento e Waldemarina Galvão Lopes."
+    "resumo": "SEMIAS altera a Comissão de Conferência e Atesto de Fornecimento de Kits Lanches e Marmitex, substituindo Luciana Silva Nascimento por Richarlisson Roberto Falcão Nogueira e Waldemarina Galvão Lopes por Andréia Fabiana Oliveira de Castro Costa."
    },
    {
     "id": 51,
     "categoria": "Conselhos e participação social",
-    "relevancia": "baixa",
-    "resumo": "O prefeito nomeia, a partir de 02/09/2026, Edneli Galdino Cerqueira como suplente da Associação Pestalozzi de Porto Velho no Conselho Municipal de Assistência Social, no lugar de Sâmia Mota de Souza."
+    "relevancia": "media",
+    "resumo": "Portaria nº 289 nomeia, a partir de 02/09/2026, Edneli Galdino Cerqueira como suplente no Conselho Municipal de Assistência Social, representando a Associação Pestalozzi, em substituição a Sâmia Mota de Souza."
    },
    {
     "id": 52,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS troca um membro da comissão de recebimento e distribuição de cestas básicas: sai Luciana Silva Nascimento e entra Richarlisson Roberto Falcão Nogueira."
+    "resumo": "SEMIAS altera a Comissão de Recebimento e Distribuição de Cestas Básicas, substituindo Luciana Silva Nascimento por Richarlisson Roberto Falcão Nogueira."
    },
    {
     "id": 53,
     "categoria": "Outros",
-    "relevancia": "baixa",
-    "resumo": "A SEINFRA anula a publicação da Portaria nº 469/2026, feita na edição 4315 de 09/09/2026, sem informar o conteúdo dela."
+    "relevancia": "media",
+    "resumo": "SEINFRA torna sem efeito a publicação da Portaria nº 469/2026, divulgada na edição 4315 do Diário Oficial, de 09/09/2026."
    },
    {
     "id": 54,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA autoriza por um ano o servidor Carlos Jaco Aires Correa Junior, da Coordenadoria de Gestão Financeira, a dirigir veículo oficial."
+    "resumo": "SEMUSA autoriza o servidor Carlos Jaco Aires Correa Junior, da Coordenadoria de Gestão Financeira, a conduzir veículo oficial pelo prazo de um ano."
    },
    {
     "id": 55,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN cancela, a pedido da titular, a autorização de mototáxi nº 0049; o nome dela aparece parcialmente oculto."
+    "resumo": "SEMTRAN cancela, a pedido, a Autorização Administrativa Municipal de Mototáxi nº 0049."
    },
    {
     "id": 56,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza por cinco anos, de 25/08/2026 a 31/08/2031, um mototaxista (nome parcialmente oculto, Gelson) a prestar o serviço de mototáxi com a autorização AMM-0538."
+    "resumo": "SEMTRAN autoriza a exploração do serviço de mototáxi sob a Autorização Administrativa Municipal AMM-0538, com vigência de 25/08/2026 a 31/08/2031."
    },
    {
     "id": 57,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMTEL corrige o Termo de Fomento nº 072/2026 com a Federação de Taekwondo de Rondônia (FETRON) para proibir a venda ou cessão do sistema eletrônico de pontuação SPE TK3 comprado com a verba; ao fim da parceria o equipamento volta para o Município ou tem o destino decidido por ele."
+    "relevancia": "media",
+    "resumo": "Termo de rerratificação ao Termo de Fomento nº 072/2026/PGM com a Federação de Taekwondo de Rondônia inclui cláusula que grava com inalienabilidade os equipamentos do sistema eletrônico de pontuação comprados com a parceria e prevê sua reversão ao Município."
    },
    {
     "id": 58,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "A SEMA informa que pediu licença ambiental prévia para construir unidades educacionais em seis novos terrenos, nos bairros Socialista, Castanheira, Flodoaldo Pontes Pinto, Teixeirão, Rio Madeira e Três Marias, que substituem as áreas definidas em maio."
+    "resumo": "SEMA torna público requerimento de licença ambiental prévia para implantação de seis unidades educacionais nos bairros Socialista, Castanheira, Flodoaldo Pontes Pinto, Teixeirão, Rio Madeira e Três Marias, em substituição a seis áreas definidas antes."
    },
    {
     "id": 59,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMA aprova as prestações de contas de diárias dos servidores Francisco Zegarra Aguiar, Huslei Zegarra Aguiar, Josenilson Alves Ferreira e Paulo Rodrigues Viana."
+    "resumo": "SEMA homologa a prestação de contas de diárias dos servidores Francisco Zegarra Aguiar, Huslei Zegarra Aguiar, Josenilson Alves Ferreira e Paulo Rodrigues Viana."
    },
    {
     "id": 60,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A Defesa Civil corrige a Portaria nº 60/2026, das diárias da Operação Acolher nas comunidades de Silveira, Boca do Jamari, Mutuns e Itacuã (maio e junho de 2026): o número de diárias no texto passa de 2,5 para 3,0, e a tabela de servidores continua a mesma."
+    "relevancia": "media",
+    "resumo": "Defesa Civil retifica a Portaria nº 60/2026 para elevar de 2,5 para 3,0 o número de diárias indenizatórias da Operação Acolher, em deslocamentos às comunidades de Silveira, Boca do Jamari, Mutuns e Itacuã em maio e junho de 2026."
    },
    {
     "id": 61,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A Defesa Civil paga diárias a três servidores (1,5 para Marcelo Victor Duarte Correa e Natanael Machado Araujo, 0,5 para Deylla Larrisa da Silva Souza) pelo combate a um incêndio no Ramal dos Acreanos em 29 e 30/08/2026."
+    "relevancia": "media",
+    "resumo": "Defesa Civil concede até 1,5 diária a três servidores que atuaram no combate a incêndio no Ramal dos Acreanos em 29 e 30/08/2026, reconhecendo que o prazo normal de tramitação prévia foi exaurido pela urgência."
    },
    {
     "id": 62,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A Superintendência de Tecnologia da Informação (SMTI) aprova as prestações de contas de diárias de sete servidores, entre eles Anderson Fidel Alves Belarmino e Zelirio Dall Aglio Neto."
+    "resumo": "SMTI homologa a prestação de contas de diárias de sete servidores, entre eles Anderson Fidel Alves Belarmino e Luciano Duarte da Silva Filho."
    },
    {
     "id": 63,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SEMEC firma com o Banco do Brasil um acordo de cooperação de 12 meses, prorrogável por mais 12, para implantar sem custo para o Município a plataforma BB Governo Digital, da parceira Aprova Digital, com pedidos online de alvarás, habite-se, licenças ambientais e sanitárias e outros serviços. A meta é que 80% dos pedidos de licença sejam feitos online; a data de assinatura está em branco no texto publicado."
+    "resumo": "Acordo de Cooperação Técnica nº 2026/0001 com o Banco do Brasil implanta, sem custo para o Município, a plataforma BB Governo Digital para licenciamento urbanístico, ambiental, sanitário e de atividade econômica, com vigência de 12 meses, disponibilidade mínima de 99% e devolução integral dos dados no encerramento."
    },
    {
     "id": 64,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto nº 22.416 remaneja R$ 220.615,00 dentro do orçamento da SEMED para contratar a empresa que vai executar o Projeto Cine Escolar, com dinheiro tirado de bibliotecas, compra de equipamentos e formação de professores."
+    "resumo": "Decreto nº 22.416 transpõe R$ 220.615,00 dentro da SEMED para custear a contratação de empresa especializada na execução do Projeto Cine Escolar."
    },
    {
     "id": 65,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto nº 22.417 tira R$ 178.000,00 da manutenção operacional da Guarda Municipal e passa o valor para as despesas administrativas da SEMTRAN."
+    "resumo": "Decreto nº 22.417 transpõe R$ 178.000,00 da estruturação da Guarda Municipal para a administração da unidade na SEMTRAN."
    },
    {
     "id": 66,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto nº 22.423 remaneja R$ 30.000,00 na SEMAD para pagar os concursos de boas práticas Prêmio Servidor de Valor e Prêmio Inova Estágio PVH."
+    "resumo": "Decreto nº 22.423 transpõe R$ 30.000,00 na SEMAD para a realização dos concursos Prêmio Servidor de Valor e Prêmio Inova Estágio PVH."
    },
    {
     "id": 67,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto nº 22.424 remaneja R$ 10.000,00 na Controladoria-Geral do Município para comprar licenças do Google Workspace."
+    "resumo": "Decreto nº 22.424 transpõe R$ 10.000,00 na Controladoria-Geral do Município para a aquisição de licenças da plataforma Google Workspace."
    },
    {
     "id": 68,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto nº 22.425 remaneja R$ 14.000,00 na SEMTEL para trazer um convidado ao Projeto Construindo Campeões."
+    "resumo": "Decreto nº 22.425 transpõe R$ 14.000,00 na SEMTEL para custear a participação de convidado no Projeto Construindo Campeões."
    },
    {
     "id": 69,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto nº 22.426 remaneja R$ 12.000,00 na SEMA para contratar rastreamento e monitoramento dos veículos da secretaria."
+    "resumo": "Decreto nº 22.426 transfere R$ 12.000,00 na SEMA para contratação de serviços de telemetria, rastreamento e monitoramento veicular."
    },
    {
     "id": 70,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto nº 22.427 tira R$ 320.000,00 da verba de precatórios da PGM e passa para a SEMDEC indenizar a desapropriação de posse de lotes públicos onde será implantado o Fórum Digital no distrito de União Bandeirantes."
+    "resumo": "Decreto nº 22.427 remaneja R$ 320.000,00 de precatórios da Procuradoria para a SEMDEC, para indenização de desapropriação e regularização de lotes destinados ao Fórum Digital no Distrito de União Bandeirantes."
    },
    {
     "id": 71,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Decreto nº 22.440 abre crédito suplementar de R$ 3.600.000,00 para a SEINFRA, com dinheiro do superávit de 2025, para manter as ruas asfaltadas com aluguel de veículos pesados."
+    "resumo": "Decreto nº 22.440 abre crédito suplementar de R$ 3.600.000,00 na SEINFRA, com superávit financeiro de 2025, para contratação de locação de veículos pesados na manutenção da malha viária pavimentada."
    },
    {
     "id": 72,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS paga 5,5 diárias às conselheiras tutelares Carine C. Rodrigues e Márcia Ferreira de Sousa e ao motorista Charles Airton do Nascimento Ferreira para atendimentos de 21 a 26/09/2026 em comunidades rurais ao longo das BRs 364 e 319, como Nova Jerusalém, Jatuarana, Joana D'Arc e Aldeia Ipurana."
+    "resumo": "SEMIAS concede 5,5 diárias a duas conselheiras tutelares e um motorista para atendimentos e verificação de denúncias em comunidades rurais, de 21 a 26/09/2026."
    },
    {
     "id": 73,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS paga 5,5 diárias às conselheiras tutelares Alessandra de Freitas Pereira de Souza e Maria Josilene da Silva de Souza e ao condutor Clerivam Silva Abreu para cumprir o plano de ação de setembro, de 21 a 26/09/2026, em comunidades como Cujubim Grande, Aliança, Terra Santa e Vila Calderitas."
+    "resumo": "SEMIAS concede 5,5 diárias a duas conselheiras tutelares e um condutor para cumprir o plano de ação de setembro em distritos e ramais, de 21 a 26/09/2026."
    },
    {
     "id": 74,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A SEINFRA dispensa do ponto eletrônico centenas de servidores de campo e comissionados, entre eles garis, operadores de máquinas e motoristas, dos setores SEINFRA, DEV e SESB, por trabalharem na rua; eles passam a registrar a frequência em folha de ponto, e as portarias anteriores sobre o assunto ficam revogadas."
+    "resumo": "Portaria nº 468/2026 dispensa centenas de servidores da SEINFRA — garis, operadores de máquinas, motoristas, assessores e gerentes — do ponto eletrônico, passando o controle a folha de ponto física, e revoga as portarias anteriores sobre isenção de ponto."
    },
    {
     "id": 75,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEINFRA paga 20 diárias a cada um dos servidores Raimundo Ferreira Guimarães, Dário de Souza Carvalho e Darlindo Seixas Zeed, que farão, com o caminhão-oficina, manutenção de máquinas nos distritos de União Bandeirantes, Rio Pardo, Ponta do Abunã, Baixo Madeira e BR-319 em setembro de 2026."
+    "resumo": "SEINFRA concede 20 diárias a Raimundo Ferreira Guimarães, Dário de Souza Carvalho e Darlindo Seixas Zeed para manutenção de máquinas em distritos e ramais entre 3 e 30/09/2026."
    },
    {
     "id": 76,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "A SEMTRAN publica o Edital nº 177/2026, que notifica por edital os donos de dezenas de veículos multados em abril e maio de 2026, com multas de R$ 130,16 a R$ 880,41; o recurso à JARI pode ser apresentado em 30 dias. Alguns valores da tabela aparecem com erro de digitação."
+    "resumo": "Edital de Notificação de Penalidade nº 177/2026 da SEMTRAN notifica por edital proprietários e infratores de multas de trânsito, com multas de R$ 195,23 a R$ 293,47 e prazo de 30 dias para recurso à JARI."
    }
   ]
  },
@@ -1222,5 +1540,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-11T20:27-04:00"
- }
+ },
+ "resumo_formato": 2
 }

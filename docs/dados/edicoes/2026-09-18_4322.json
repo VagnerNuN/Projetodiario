@@ -514,14 +514,624 @@
    "trecho": "Porto Velho, 16 de setembro de 2026.\n\nConsiderando que o presente processo foi objeto de análise pela unidade executora de Controle Interno ou órgão equivalente, ou ainda, por comissão\nde servidores designada pelo ordenador de despesa – em cumprimento as atribuições do art. 10 do Decreto nº 15.403/2018, tendo sido constatado que\n\na despesa do processo Nº 005.015690/2026-07 - Exames Periodicos - Baixo Madeira, encontra-se, APTA para ser homologada nos termos do\nDecreto n.° 17.353, de 09 de Julho de 2021, e nos termos do art. 1º do Decreto nº 12.252, de 12 de julho de 2011.\n\nDECIDO: HOMOLOGAR a "
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura contrata por inexigibilidade R$ 430 mil em shows para o aniversário de 112 anos de Porto Velho e fecha locação de prédio para a SEMIAS por R$ 972 mil.",
+  "resumo": "A edição nº 4322 traz 56 atos de Porto Velho, com destaque para as contratações diretas da Fundação Cultural para a programação do 112º aniversário da cidade: três shows contratados por inexigibilidade que somam R$ 430 mil (Bruna Karla, Flávio Vitor Jr. e o espetáculo infantil Villa Kids). Também chama atenção o contrato de locação do imóvel da Avenida Pinheiro Machado, nº 1828, para unificar a sede da SEMIAS, o CadÚnico e a Casa dos Conselhos, por R$ 40.500 mensais e R$ 972 mil em 24 meses, igualmente por inexigibilidade e com eficácia condicionada à correção de vícios prediais. Na área orçamentária, o Prefeito abriu R$ 4.323.825,00 de crédito suplementar para a Saúde (Programa Aprimora SUS) e remanejou R$ 1.205.221,13 dentro do Fundo Municipal de Saúde para compra de medicamentos. A SEMIAS revogou definitivamente o Pregão Eletrônico nº 90122/2025 da embarcação do Baixo Madeira, e o Prefeito revogou o decreto que mantinha o GTAE da Procuradoria, após decisão do TCE-RO sobre jetons. O restante é rotina de pessoal (substituições por férias, cedências, reduções de jornada) e sete atas do Conselho Municipal de Assistência Social, que discutem emendas parlamentares e a reprogramação de R$ 18,4 milhões do Fundo Municipal de Assistência Social.",
+  "destaques": [
+   {
+    "titulo": "R$ 430 mil em shows do aniversário da cidade sem licitação",
+    "texto": "A FUNCULTURAL assinou três contratos por inexigibilidade para a programação dos 112 anos de Porto Velho: Bruna Karla por R$ 250 mil (1º de outubro, às 20h, na EFMM), Flávio Vitor Jr. por R$ 130 mil (1º de outubro) e o espetáculo infantil Villa Kids por R$ 50 mil (3 de outubro). Todos os eventos têm acesso gratuito à população.",
+    "atos": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "titulo": "SEMIAS aluga prédio por R$ 972 mil para reunir CadÚnico e Casa dos Conselhos",
+    "texto": "O Contrato nº 107/2026/PGM loca da SHELTON HOTEL LTDA EPP um imóvel de 1.850,19 m² na Avenida Pinheiro Machado, nº 1828, por R$ 40.500 mensais e R$ 972 mil em 24 meses, por inexigibilidade. A entrada em vigor depende da correção de todos os vícios estruturais apontados em vistoria, com multa diária de R$ 202,50 em caso de atraso.",
+    "atos": [
+     42
+    ]
+   },
+   {
+    "titulo": "Saúde recebe R$ 4,3 milhões novos e remaneja R$ 1,2 milhão para medicamentos",
+    "texto": "O Decreto nº 22.470 abriu crédito suplementar de R$ 4.323.825,00 por excesso de arrecadação para o Programa Aprimora SUS Porto Velho, e o Decreto nº 22.471 transpôs R$ 1.205.221,13 dentro do Fundo Municipal de Saúde para a compra de medicamentos da assistência farmacêutica.",
+    "atos": [
+     34,
+     52
+    ]
+   },
+   {
+    "titulo": "Pregão da embarcação do Baixo Madeira é revogado",
+    "texto": "A SEMIAS revogou definitivamente o Pregão Eletrônico nº 90122/2025/SML/PVH, que contrataria embarcação para levar equipes aos distritos de São Carlos, Nazaré e Calama, por fracasso do certame e necessidade de refazer o estudo técnico e o termo de referência.",
+    "atos": [
+     43
+    ]
+   },
+   {
+    "titulo": "Terço de férias dos vereadores é republicado",
+    "texto": "A Câmara republicou a Emenda à Lei Orgânica nº 086/CMPV/2025 e a Resolução nº 750/CMPV-2025, que garantem aos vereadores o terço constitucional de férias, pago em janeiro após 12 meses de mandato, com efeitos financeiros retroativos a 1º de janeiro de 2025.",
+    "atos": [
+     3,
+     4
+    ]
+   },
+   {
+    "titulo": "Conselho de Assistência Social aprova reprogramar R$ 18,4 milhões e analisa 24 emendas",
+    "texto": "As atas publicadas mostram o CMAS aprovando a reprogramação de R$ 14.905.770,00 de recursos federais e R$ 3.549.074,00 de estaduais do Fundo Municipal de Assistência Social, além da análise de 13 emendas municipais e 11 federais, entre elas R$ 1.485.000,00 para a Casa Família Roseta.",
+    "atos": [
+     36,
+     37,
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 5,
+    "motivo": "Contrato de R$ 130.000,00 com a ZION MUSIC PRODUÇÕES LTDA firmado por inexigibilidade de licitação."
+   },
+   {
+    "ato": 6,
+    "motivo": "Contrato de R$ 50.000,00 com PATRÍCIA ROBERTA SENA SANTIAGO – ME firmado por inexigibilidade de licitação."
+   },
+   {
+    "ato": 7,
+    "motivo": "Contrato de R$ 250.000,00 com a CRIATIVE MUSIC LTDA firmado por inexigibilidade de licitação."
+   },
+   {
+    "ato": 11,
+    "motivo": "Revogação do Decreto nº 19.010/2023 e extinção do GTAE/PGM após decisão do TCE-RO que manteve a suspensão de pagamento de jetons em estruturas sobrepostas."
+   },
+   {
+    "ato": 22,
+    "motivo": "Retificação que altera o prazo da licença-prêmio de servidor: o período publicado como 01/10/2026 a 29/12/2027 passa a 01/10/2026 a 29/12/2026."
+   },
+   {
+    "ato": 32,
+    "motivo": "Fiscalização de contratação decorrente de adesão à Ata de Registro de Preços nº 151/2025/SUPEL-RO, ata de outro órgão, para locação de estruturas de eventos."
+   },
+   {
+    "ato": 42,
+    "motivo": "Locação de imóvel por inexigibilidade, no valor global de R$ 972.000,00, com o próprio contrato registrando que o imóvel apresenta inconformidades físicas e estruturais a serem sanadas antes da ocupação."
+   },
+   {
+    "ato": 43,
+    "motivo": "Revogação definitiva do Pregão Eletrônico nº 90122/2025/SML/PVH por fracasso do certame e necessidade de readequação do ETP e do termo de referência."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 5,
+    "etapa": "Contrato",
+    "modalidade": "Inexigibilidade de licitação (Lei nº 14.133/2021) – Contrato nº 110/2026/PGM",
+    "objeto": "Show do artista Flávio Vitor Jr., de 90 minutos, em 1º de outubro de 2026, na programação dos 112 anos da cidade",
+    "fornecedor": "ZION MUSIC PRODUÇÕES LTDA",
+    "valor": 130000.0
+   },
+   {
+    "ato": 6,
+    "etapa": "Contrato",
+    "modalidade": "Inexigibilidade de licitação (Lei nº 14.133/2021) – Contrato nº 111/2026/PGM",
+    "objeto": "Apresentação teatral e musical infantil do espetáculo Villa Kids, em 3 de outubro de 2026",
+    "fornecedor": "PATRÍCIA ROBERTA SENA SANTIAGO – ME",
+    "valor": 50000.0
+   },
+   {
+    "ato": 7,
+    "etapa": "Contrato",
+    "modalidade": "Inexigibilidade de licitação (Lei nº 14.133/2021) – Contrato nº 115/2026/PGM",
+    "objeto": "Show da cantora Bruna Karla, de 90 minutos, em 1º de outubro de 2026, às 20h, na Estrada de Ferro Madeira-Mamoré",
+    "fornecedor": "CRIATIVE MUSIC LTDA",
+    "valor": 250000.0
+   },
+   {
+    "ato": 31,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação da comissão de fiscalização do Contrato nº 074/2026/PGM, vigente de 15/07/2026 a 15/07/2027",
+    "fornecedor": "T DA SILVA MOREIRA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 32,
+    "etapa": "Adesão a ata",
+    "modalidade": "Adesão à Ata de Registro de Preços nº 151/2025/SUPEL-RO e Ata SRP nº 038/2026 (Pregão Eletrônico nº 90035/2026/SCML/PVH)",
+    "objeto": "Locação de equipamentos e estruturas para eventos e serviços de coffee break, refeições e auditórios, inclusive para o 2º Feirão de Emprego",
+    "fornecedor": "IELE SARAIVA COSTA e LOC-MAQ LOCAÇÃO DE MÁQUINAS LTDA",
+    "valor": null
+   },
+   {
+    "ato": 33,
+    "etapa": "Outro",
+    "modalidade": "Ata de Registro de Preços nº 181/2026/SMCL-DGNA – SRP nº 011/2026 (Pregão Eletrônico nº 90020/2026/SMCL/PVH)",
+    "objeto": "Fornecimento de 110 camisetas personalizadas para o 2º Feirão de Emprego, com designação da comissão de recebimento",
+    "fornecedor": "NORTÃO EPIS COMÉRCIO E CONFECÇÕES LTDA",
+    "valor": null
+   },
+   {
+    "ato": 42,
+    "etapa": "Contrato",
+    "modalidade": "Inexigibilidade de licitação (art. 74, V, da Lei nº 14.133/2021), precedida do Edital de Chamamento Público nº 4/2026/SEMIAS-DA",
+    "objeto": "Locação de imóvel de 1.850,19 m² na Av. Pinheiro Machado, nº 1828, por 24 meses, para sede da SEMIAS, do CadÚnico e da Casa dos Conselhos",
+    "fornecedor": "SHELTON HOTEL LTDA EPP",
+    "valor": 972000.0
+   },
+   {
+    "ato": 43,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Pregão Eletrônico nº 90122/2025/SML/PVH",
+    "objeto": "Locação de embarcação para transporte fluvial de servidores da SEMIAS ao Baixo Madeira, com alimentação",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 50,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Retificação da designação do fiscal técnico substituto do Contrato nº 102/2026/PGM (objeto não informado no texto)",
+    "fornecedor": null,
+    "valor": null
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-21",
+    "hora": null,
+    "evento": "Começa a contar o prazo de 30 dias corridos para os oito prestadores notificados apresentarem recurso de glosa ao IPAM.",
+    "ato": 8
+   },
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Show do artista Flávio Vitor Jr. na programação do aniversário de 112 anos de Porto Velho.",
+    "ato": 5
+   },
+   {
+    "data": "2026-10-01",
+    "hora": "20:00",
+    "evento": "Show gratuito da cantora Bruna Karla na Av. 7 de Setembro com Av. Farquar, na Estrada de Ferro Madeira-Mamoré.",
+    "ato": 7
+   },
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Passa a valer a exoneração do Secretário Executivo de Licitações da Câmara Municipal.",
+    "ato": 2
+   },
+   {
+    "data": "2026-10-03",
+    "hora": null,
+    "evento": "Apresentação do espetáculo infantil Villa Kids, em local a definir pela Administração.",
+    "ato": 6
+   }
+  ],
+  "normas": [
+   {
+    "ato": 3,
+    "identificacao": "Resolução nº 750/CMPV-2025, de 21/10/2025 (republicação)",
+    "o_que_muda": "Regulamenta o pagamento do terço constitucional de férias aos vereadores: o benefício exige 12 meses de mandato em efetivo exercício, equivale a 1/3 do subsídio mensal e é pago em janeiro de cada ano. Os efeitos financeiros valem desde 1º de janeiro de 2025, e pagamentos de períodos anteriores dependem de processo próprio."
+   },
+   {
+    "ato": 4,
+    "identificacao": "Emenda à Lei Orgânica nº 086/CMPV/2025, de 21/10/2025 (republicação)",
+    "o_que_muda": "Altera o art. 54 da Lei Orgânica para garantir aos vereadores o terço constitucional de férias durante o recesso parlamentar, pago em janeiro, com efeitos a partir de 1º de janeiro de 2025."
+   },
+   {
+    "ato": 11,
+    "identificacao": "Decreto nº 22.475, de 17 de setembro de 2026",
+    "o_que_muda": "Revoga o Decreto nº 19.010/2023 e extingue o Grupo de Trabalho de Atuação Estratégica Institucional da Procuradoria-Geral do Município, cujas atribuições já são exercidas pela própria PGM, atendendo a decisão do TCE-RO sobre pagamento de jetons."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 2,
+     "acao": "Exoneração",
+     "nome": "Alef Augusto da Silva Meireles",
+     "cargo": "Secretário Executivo de Licitações (CC 14) da Câmara Municipal de Porto Velho, a partir de 01/10/2026"
+    },
+    {
+     "ato": 12,
+     "acao": "Designação",
+     "nome": "Gerlan Santos Alves Leite",
+     "cargo": "Assessor II da Superintendência Municipal de Distritos, designado para atuar na Secretaria Municipal de Saúde (SEMUSA)"
+    },
+    {
+     "ato": 14,
+     "acao": "Substituição",
+     "nome": "Fablicia Glauciane Santos Meneses",
+     "cargo": "Responsável Técnico, DAS-03, da SEMUSA, em substituição a Jaconeide Poubel Vieira (férias), de 01/09 a 30/09/2026"
+    },
+    {
+     "ato": 16,
+     "acao": "Substituição",
+     "nome": "Ketlen Hiuane Miranda de Souza",
+     "cargo": "Diretor I, DAS-08, da Secretaria Municipal de Economia (SEMEC), em substituição a Lucas Fernando Balbinot (férias), de 05/10 a 24/10/2026"
+    },
+    {
+     "ato": 17,
+     "acao": "Substituição",
+     "nome": "Gecilene Camila Barboza de Araujo",
+     "cargo": "Gerente II, DAS-05, da Controladoria Geral do Município (CGM), em substituição a Carol Araujo de Almeida (férias), de 13/10 a 27/10/2026"
+    },
+    {
+     "ato": 18,
+     "acao": "Substituição",
+     "nome": "Luiz Andre Pereira de Oliveira",
+     "cargo": "Gerente II, DAS-05, da SEMUSA, em substituição a Elizeth Gomes Pinto (férias), de 24/08 a 07/09/2026"
+    },
+    {
+     "ato": 19,
+     "acao": "Substituição",
+     "nome": "Jair Oliveira da Silva",
+     "cargo": "Gerente II, DAS-05, da SEMTRAN, em substituição a Edgar Araujo Goncalves (licença médica), de 18/08 a 31/10/2026"
+    },
+    {
+     "ato": 20,
+     "acao": "Substituição",
+     "nome": "Tania Regina dos Santos Paiva",
+     "cargo": "Gerente II, DAS-05, da SEMUSA, em substituição a Fredson Sales de Oliveira (férias), de 11/09 a 30/09/2026"
+    },
+    {
+     "ato": 26,
+     "acao": "Substituição",
+     "nome": "Elvis Antonio Rocha da Silva",
+     "cargo": "Chefe II, DAS-03, da SEMIAS, em substituição a Maria do Socorro Leite Ferreira (férias), de 16/09 a 30/09/2026"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal é rotina administrativa: quatro prorrogações de redução de jornada por motivo de saúde na família (SEMUSA, SEMIAS e SEMED), três cedências de servidores (ao COFEN, ao Governo de Rondônia e ao TRF da 1ª Região), uma declaração de vacância por posse em outro cargo, a retificação do prazo de uma licença-prêmio, concessões de diárias na ARDPV e na Defesa Civil, um suprimento de fundos de R$ 8.000,00 na SECOM e seis homologações de prestações de contas de diárias e suprimento de fundos na SEMA e na SEMUSA."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A ARDPV concede 2 diárias e meia mais auxílio deslocamento ao diretor Valdir Antônio de Vargas Junior para participar do Inova Amazônia Summit 2026 em Rio Branco/AC, de 17 a 19 de setembro de 2026."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "A Câmara Municipal exonera Alef Augusto da Silva Meireles do cargo em comissão de Secretário Executivo de Licitações (CC 14), a partir de 1º de outubro de 2026."
+   },
+   {
+    "id": 3,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Republicação da Resolução nº 750/CMPV-2025, que regulamenta o pagamento do terço constitucional de férias aos vereadores: 1/3 do subsídio mensal, pago em janeiro, após 12 meses de efetivo exercício, com efeitos financeiros desde 01/01/2025."
+   },
+   {
+    "id": 4,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Republicação da Emenda à Lei Orgânica nº 086/CMPV/2025, que inclui no art. 54 da Lei Orgânica a garantia do terço constitucional de férias aos vereadores, com efeitos a partir de 1º de janeiro de 2025."
+   },
+   {
+    "id": 5,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Contrato nº 110/2026/PGM da FUNCULTURAL com a ZION MUSIC PRODUÇÕES LTDA, por inexigibilidade, no valor de R$ 130.000,00, para show de 90 minutos do artista Flávio Vitor Jr. em 1º de outubro de 2026, na programação dos 112 anos da cidade."
+   },
+   {
+    "id": 6,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Contrato nº 111/2026/PGM da FUNCULTURAL com PATRÍCIA ROBERTA SENA SANTIAGO – ME, por inexigibilidade, no valor de R$ 50.000,00, para o espetáculo infantil Villa Kids em 3 de outubro de 2026."
+   },
+   {
+    "id": 7,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Contrato nº 115/2026/PGM da FUNCULTURAL com a CRIATIVE MUSIC LTDA, por inexigibilidade, no valor de R$ 250.000,00, para show da cantora Bruna Karla em 1º de outubro de 2026, às 20h, na Estrada de Ferro Madeira-Mamoré, com acesso gratuito."
+   },
+   {
+    "id": 8,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "O IPAM notifica por edital oito prestadores de serviços de saúde (entre eles FONO AUDIBILIDADE, LH SERVIÇOS MÉDICOS e SALUTARY) sobre o resultado das glosas apuradas em contra-auditoria e abre prazo de 30 dias corridos para recurso, pelo e-mail contra-auditoria@ipam.ro.gov.br."
+   },
+   {
+    "id": 9,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A Procuradoria-Geral do Município sobresta o Processo Disciplinar nº 009.003270/2025-59, instaurado para apurar supostas irregularidades administrativas, a partir da publicação da Portaria nº 167/CD/SPPD/PGM/2026."
+   },
+   {
+    "id": 10,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.473 torna sem efeito o Decreto nº 22.469, de 15/09/2026, que concedia diárias ao Secretário Municipal de Inclusão e Assistência Social."
+   },
+   {
+    "id": 11,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.475 revoga o Decreto nº 19.010/2023 e extingue o Grupo de Trabalho de Atuação Estratégica Institucional (GTAE) da Procuradoria-Geral, citando decisão do TCE-RO que manteve a suspensão de pagamento de jetons e parecer da Controladoria."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Secretaria de Governo designa o assessor II Gerlan Santos Alves Leite, da Superintendência Municipal de Distritos, para exercer suas atribuições na Secretaria Municipal de Saúde, com controle de frequência pela secretária da pasta."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga por um ano, de 25/04/2026 a 24/04/2027, a redução de 20% da jornada, sem perda de remuneração, da assistente administrativa Roseane Guimarães Uchoa, lotada na SEMUSA."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Fablicia Glauciane Santos Meneses para o cargo em comissão de Responsável Técnico (DAS-03) da SEMUSA, de 01/09 a 30/09/2026, em substituição a Jaconeide Poubel Vieira, em férias."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD declara a vacância do cargo de Agente de Limpeza Escolar ocupado por Delbla de Oliveira Monteiro Soares, na SEMED, de 11/09/2026 a 10/09/2029, por posse em outro cargo inacumulável."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Ketlen Hiuane Miranda de Souza para o cargo em comissão de Diretor I (DAS-08) da SEMEC, de 05/10 a 24/10/2026, em substituição a Lucas Fernando Balbinot, em férias."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Gecilene Camila Barboza de Araujo para o cargo em comissão de Gerente II (DAS-05) da Controladoria Geral do Município, de 13/10 a 27/10/2026, em substituição a Carol Araujo de Almeida, em férias."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Luiz Andre Pereira de Oliveira para o cargo em comissão de Gerente II (DAS-05) da SEMUSA, de 24/08 a 07/09/2026, em substituição a Elizeth Gomes Pinto, em férias."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Jair Oliveira da Silva para o cargo em comissão de Gerente II (DAS-05) da SEMTRAN, de 18/08 a 31/10/2026, em substituição a Edgar Araujo Goncalves, em licença médica."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Tania Regina dos Santos Paiva para o cargo em comissão de Gerente II (DAS-05) da SEMUSA, de 11/09 a 30/09/2026, em substituição a Fredson Sales de Oliveira, em férias."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga por um ano, de 12/08/2026 a 11/08/2027, a redução de 50% da jornada, sem perda de remuneração, do bioquímico Elysson Danilo Moretto, lotado na SEMUSA."
+   },
+   {
+    "id": 22,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "A SEMAD retifica a licença-prêmio do servidor Eliezer Alves Mota, da SEMIAS: onde se lia 01/10/2026 a 29/12/2027, leia-se 01/10/2026 a 29/12/2026."
+   },
+   {
+    "id": 23,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga por um ano, de 19/09/2026 a 18/09/2027, a redução de 50% da jornada, sem perda de remuneração, do psicólogo Tiago de Moura Siena, lotado na SEMIAS."
+   },
+   {
+    "id": 24,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD cede a enfermeira Marisa de Miranda Rodrigues, da SEMUSA, ao Conselho Federal de Enfermagem (COFEN), sem ônus para o Município, de 23/02/2026 a 31/12/2026."
+   },
+   {
+    "id": 25,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga por um ano, de 09/10/2026 a 08/10/2027, a redução de 50% da jornada, sem perda de remuneração, da professora Caroline Oliveira dos Santos, lotada na SEMED."
+   },
+   {
+    "id": 26,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Elvis Antonio Rocha da Silva para o cargo em comissão de Chefe II (DAS-03) da SEMIAS, de 16/09 a 30/09/2026, em substituição a Maria do Socorro Leite Ferreira, em férias."
+   },
+   {
+    "id": 27,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD cede o professor Walter Aparecido do Nascimento, da SEMED, ao Governo do Estado de Rondônia até 31/12/2026, com ônus para o Município e reembolso mensal pelo Estado."
+   },
+   {
+    "id": 28,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga de 01/01/2027 a 31/12/2027 a cedência da odontóloga Camila Oliveira de Paula Machado, da SEMUSA, ao Tribunal Regional Federal da 1ª Região, com reembolso das despesas ao Município."
+   },
+   {
+    "id": 29,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SEMAGRIC publica a certificação de registro nº 004 do Serviço de Inspeção Municipal em nome da FRIGO 10 FRIGORÍFICO LTDA EPP (Frigorífico Padre Cícero), CNPJ 08.895.954/0001-11, conforme o Laudo Técnico nº 015/2026."
+   },
+   {
+    "id": 30,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SECOM concede suprimento de fundos de R$ 8.000,00, em regime de adiantamento, à servidora Alecsandra Gonçalves Rodrigues, sendo R$ 4.000,00 para serviços de terceiros e R$ 4.000,00 para material de consumo, com 90 dias para aplicação e 20 dias para prestar contas."
+   },
+   {
+    "id": 31,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SMCL designa Fernando Henrique Ribeiro de Menezes Lagos como gestor e Virgínia Larissa Morais Jaeger e Junio Alves de Souza como fiscais do Contrato nº 074/2026/PGM, com a empresa T DA SILVA MOREIRA LTDA, vigente de 15/07/2026 a 15/07/2027."
+   },
+   {
+    "id": 32,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMDEC designa Ellen Cristiane Souza da Costa como gestora e uma comissão de fiscalização para contratos de locação de equipamentos e estruturas de eventos, decorrentes de adesão à Ata de Registro de Preços nº 151/2025/SUPEL-RO, e de coffee break e auditórios pela Ata SRP nº 038/2026, entre eles o 2º Feirão de Emprego."
+   },
+   {
+    "id": 33,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMDEC designa comissão (Vinicius Gonzato Hermes, Maiana Assunção da Silva e Joelma Vieira da Silva) para acompanhar o fornecimento de 110 camisetas personalizadas para o 2º Feirão de Emprego pela empresa NORTÃO EPIS COMÉRCIO E CONFECÇÕES LTDA, via Ata de Registro de Preços nº 181/2026/SMCL-DGNA."
+   },
+   {
+    "id": 34,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.470 abre crédito adicional suplementar de R$ 4.323.825,00 no Fundo Municipal de Saúde, por excesso de arrecadação de transferências estaduais do SUS, para o Acordo de Parceria do Programa Aprimora SUS Porto Velho na atenção primária."
+   },
+   {
+    "id": 35,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 69 da 33ª reunião ordinária do CMAS, de 20/05/2026: aprova pareceres de emendas parlamentares, autoriza remanejamento orçamentário para coffee break dos conselhos, suspende por 6 meses o registro do Centro Salesiano do Menor e define recomendações a entidades visitadas."
+   },
+   {
+    "id": 36,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 70 da 39ª reunião extraordinária do CMAS, de 27/05/2026: aprova por unanimidade as Programações nº 110020520260015 (R$ 231.000,00) e nº 110020520260016 (R$ 294.000,00), de emendas de comissão destinadas ao Fundo Municipal de Assistência Social."
+   },
+   {
+    "id": 37,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "alta",
+    "resumo": "Ata nº 71 da 40ª reunião extraordinária do CMAS, de 03/06/2026: o colegiado concorda com o Plano de Aplicação para reprogramar o superávit do Fundo Municipal de Assistência Social, de cerca de R$ 14.905.770,00 em recursos federais e R$ 3.549.074,00 em estaduais."
+   },
+   {
+    "id": 38,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 73 da 34ª reunião ordinária do CMAS, de 17/06/2026: aprova a criação de ação orçamentária específica para o PETI, com R$ 150.000,00 previstos (R$ 50.000,00 próprios e R$ 100.000,00 do FNAS), em cumprimento a ação civil pública do Ministério Público do Trabalho, e debate a instrução das emendas parlamentares."
+   },
+   {
+    "id": 39,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 74 da 42ª reunião extraordinária do CMAS, de 24/06/2026: apresenta a análise de 13 emendas parlamentares municipais e 11 federais, com três pareceres desfavoráveis entre as municipais, concede 20 dias úteis para adequações e aprova remanejamento para manutenção emergencial da unidade de acolhimento de crianças e adolescentes."
+   },
+   {
+    "id": 40,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 76 da 43ª reunião extraordinária do CMAS, de 05/08/2026: aprova movimentação de cerca de R$ 100.000,00 para diárias de reintegração familiar e planos de trabalho de emendas de comissão de R$ 294.000,00 (Casa Aurora) e R$ 231.000,00, além de devolver o Plano do Programa Crescendo Bem para ajustes."
+   },
+   {
+    "id": 41,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata nº 77 da 44ª reunião extraordinária do CMAS, de 17/08/2026: aprova a alteração de metas do plano de trabalho da Casa Família Roseta (R$ 1.485.000,00) e os planos da AVCC (R$ 100.000,00) e do NACC (R$ 200.000,00), após as entidades atenderem às ressalvas."
+   },
+   {
+    "id": 42,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Contrato nº 107/2026/PGM: a SEMIAS loca da SHELTON HOTEL LTDA EPP, por inexigibilidade, imóvel de 1.850,19 m² na Av. Pinheiro Machado, nº 1828, por R$ 40.500,00 mensais e R$ 972.000,00 em 24 meses, para reunir a sede da secretaria, o CadÚnico e a Casa dos Conselhos, com eficácia condicionada à correção dos vícios prediais apontados em vistoria."
+   },
+   {
+    "id": 43,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SEMIAS revoga definitivamente o Pregão Eletrônico nº 90122/2025/SML/PVH, que contrataria embarcação para 50 pessoas no Projeto Cidadania em Movimento no Baixo Madeira, por fracasso do certame e necessidade de readequação do ETP e do termo de referência."
+   },
+   {
+    "id": 44,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS autoriza os servidores Uirá Carvalho Fróes, Amarildo Ferreira Barros e Lucas Estolano Correa Andrade a conduzir veículo oficial da secretaria, nos termos da Lei nº 1.948/2011."
+   },
+   {
+    "id": 45,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMA homologa a prestação de contas do suprimento de fundos do servidor Filipe Jeferson Guedes Aragão, com R$ 7.999,97 aplicados dos R$ 8.000,00 concedidos, dispensado o recolhimento do saldo de R$ 0,03."
+   },
+   {
+    "id": 46,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMA homologa a prestação de contas de diárias do servidor Josenilson Alves Ferreira, com baixa da responsabilidade do beneficiário."
+   },
+   {
+    "id": 47,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMA homologa a prestação de contas de diárias dos servidores Ângela Balarez da Silva, Francisco de Assis Pinto Tavares, José Alexandre Balduíno Rodrigues e Redvilson Duran Pedraza Junior."
+   },
+   {
+    "id": 48,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A Defesa Civil concede 4,5 diárias a dois servidores para levar kits de roupas, hipoclorito de sódio e água às localidades rurais de Betel, Teotônio, Paulo Leal, Cujubimzinho e Jocuns, de 10 a 14 de setembro de 2026."
+   },
+   {
+    "id": 49,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A Defesa Civil concede 2 diárias à servidora Maria Teresa Castelo Branco Correia de Miranda para entrega de água, hipoclorito e cestas básicas em Boca do Jamari, Mutuns e Silveira, nos dias 3, 11, 17 e 19 de junho de 2026."
+   },
+   {
+    "id": 50,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SMTI retifica a Portaria nº 65/2026 apenas para corrigir o nome do fiscal técnico substituto do Contrato nº 102/2026/PGM, que passa a ser o servidor Robson da Costa Farias, cadastro 191445."
+   },
+   {
+    "id": 51,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.474 transpõe R$ 40.000,00 dentro do Fundo da Previdência (IPAM), realocando R$ 15.000,00 para material de consumo e R$ 25.000,00 para remuneração de pessoal ativo e encargos."
+   },
+   {
+    "id": 52,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.471 transpõe R$ 1.205.221,13 dentro do Fundo Municipal de Saúde, retirando recursos de ações administrativas e de obras para a aquisição de medicamentos da assistência farmacêutica."
+   },
+   {
+    "id": 53,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.472 abre crédito suplementar de R$ 59.875,00 na SEMIAS, por anulação de dotações do Fundo dos Direitos da Criança (R$ 54.560,00) e do Fundo de Segurança Alimentar (R$ 5.315,00), para custear coffee break, refeições e aluguel de auditórios pelo SRP nº 038/2026."
+   },
+   {
+    "id": 54,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA homologa a prestação de contas de diárias das servidoras Nilda de Oliveira Barros (R$ 5.000,00 mais R$ 500,00 de deslocamento) e Sônia Maria Dias de Lima (R$ 6.000,00 mais R$ 600,00), em viagem a Brasília/DF."
+   },
+   {
+    "id": 55,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA homologa a prestação de contas de meia diária, de R$ 100,00 cada, das servidoras Leticia Alves Gomes da Silva e Tassia Vale Barroso, em deslocamento a Itapuã do Oeste em 11/09/2026."
+   },
+   {
+    "id": 56,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA homologa a prestação de contas de 6,5 diárias dos servidores Breno Luiji Silva do Nascimento (R$ 1.300,00) e Ancelmo Vieira Viamonte (R$ 975,00), em exames periódicos nas comunidades do Baixo Madeira."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code)",
  "processado_em": "2026-09-18T02:17:38-04:00",
  "conferencia": {
   "site": 56,
   "robo": 56,
   "faltando": [],
   "sobrando": [],
-  "em": "2026-09-18T02:17-04:00"
- }
+  "em": "2026-09-18T08:18-04:00"
+ },
+ "resumo_formato": 2
 }

@@ -604,14 +604,1303 @@
    "trecho": "O SUPERINTENDENTE MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL, no uso de suas atribuições legais e tendo em vista o que consta no\nProcesso nº 001.000424/2026-10.\nRESOLVE:\nARBITRAR E CONCEDER: 4,5 (quatro e meia) diárias indenizatórias aos servidores abaixo relacionados, para se deslocarem às comunidades\nde São Carlos, Nazaré, Santa Catarina, Conceição da Galera, Tira Fogo, Bom Fim, Laranjal, São José da Praia, Pombal, Boa Vitória,\nCavalcante e Terra Caída, localizadas na zona rural do Município de Porto Velho, por meio de transporte terrestre e fluvial, utilizando veículos\noficiais da Superintendênci"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura registra ata de preços de R$ 11,95 milhões com a empresa A P M NINA e abre R$ 11,9 milhões em créditos orçamentários, enquanto a licitação da vigilância da saúde volta à fase de julgamento.",
+  "resumo": "A edição nº 4321 traz 66 atos de Porto Velho, com peso claro em contratações e orçamento. Os maiores números são a Ata de Registro de Preços SRP nº 076/2025, de R$ 11.950.165,00, firmada com a empresa A P M NINA, e a Ata nº 019/2026/EMDUR, de R$ 1.016.239,00, para materiais elétricos de iluminação pública. Cinco decretos da SEMEC movimentam cerca de R$ 11,9 milhões no orçamento, com destaque para R$ 7,5 milhões destinados a contratos de vigilância patrimonial e R$ 2,2 milhões para a EMDUR mediante anulação de R$ 1,95 milhão da revitalização da iluminação pública. Na área de pessoal, a Câmara Municipal nomeou 45 e exonerou 29 comissionados de uma só vez, e a Prefeitura fez uma sequência de trocas e correções de nomeações na SEMED e na SEINFRA. Merecem acompanhamento a sessão de retorno de fase da licitação da vigilância das unidades de saúde, marcada para 18/09, e a nova Instrução Normativa nº 05 da SEMA, que passa a valer imediatamente para os grandes geradores de resíduos.",
+  "destaques": [
+   {
+    "titulo": "Ata de R$ 11,95 milhões para sinalização viária",
+    "texto": "A SMCL assinou com a empresa A P M NINA a Ata de Registro de Preços SRP nº 076/2025, no valor de R$ 11.950.165,00, para 500 placas retroiluminadas de faixa de pedestre, 500 colunas cônicas e 500 braços projetados. O texto da ata descreve o objeto como materiais de premiação esportiva para a SEMTRAN, o que não corresponde aos itens registrados.",
+    "atos": [
+     58
+    ]
+   },
+   {
+    "titulo": "R$ 1 milhão em material elétrico para iluminação pública",
+    "texto": "A EMDUR registrou R$ 1.016.239,00 em cintas, parafusos, conectores e demais materiais elétricos com três empresas de fora do estado, pelo Pregão Eletrônico nº 027/EMDUR/2026, com validade de 12 meses.",
+    "atos": [
+     53
+    ]
+   },
+   {
+    "titulo": "Vigilância das unidades de saúde volta à fase de julgamento",
+    "texto": "A SMCL reabriu o julgamento do Lote 1 do Pregão Eletrônico nº 90051/2025 para negociar preços com a arrematante Columbia Segurança e Vigilância Patrimonial Ltda. A sessão pública ocorre em 18/09/2026, às 9h30.",
+    "atos": [
+     30
+    ]
+   },
+   {
+    "titulo": "Quase R$ 12 milhões movimentados no orçamento",
+    "texto": "Cinco decretos da SEMEC abrem créditos e remanejamentos que somam R$ 11.912.874,78, sendo R$ 7.547.493,00 para contratos de vigilância patrimonial, R$ 2.223.904,78 para a EMDUR, R$ 1.137.732,00 para a premiação do Programa Avalia Porto Velho, R$ 1 milhão para a folha de agosto e R$ 3.745,00 para headsets.",
+    "atos": [
+     32,
+     59,
+     60,
+     61,
+     62
+    ]
+   },
+   {
+    "titulo": "Câmara troca 74 cargos comissionados de uma vez",
+    "texto": "Os Decretos nº 507 e 508/CMPV-2026 exoneram 29 e nomeiam 45 servidores de cargos em comissão da Câmara, todos com efeito a partir de 01/09/2026, e o Decreto nº 509 ainda altera o cargo de outros quatro.",
+    "atos": [
+     1,
+     2,
+     52
+    ]
+   },
+   {
+    "titulo": "Nova regra para grandes geradores de resíduos",
+    "texto": "A Instrução Normativa nº 05/2026 da SEMA passa a valer já na publicação e organiza o cadastro obrigatório dos grandes geradores, com certificado anual, prazos de análise e de atualização e isenção da taxa de lixo domiciliar.",
+    "atos": [
+     50
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 30,
+    "motivo": "A licitação da vigilância das unidades de saúde retorna à fase de julgamento por determinação da autoridade superior, com a finalidade exclusiva de negociar preços com a arrematante, e a sessão foi marcada para apenas três dias depois da publicação (18/09/2026)."
+   },
+   {
+    "ato": 33,
+    "motivo": "Termo de fomento de R$ 50.000,00 celebrado sem chamamento público, com base em emenda parlamentar municipal, em favor do Conselho Escolar da EMEI Odília Pereira de Oliveira."
+   },
+   {
+    "ato": 34,
+    "motivo": "Retificação de portaria de viagem que amplia o período de 5 dias (17 a 21/08/2026) para 15 dias, incluindo as semanas de 24 a 28/08 e de 31/08 a 04/09/2026."
+   },
+   {
+    "ato": 35,
+    "motivo": "Plano de trabalho de R$ 50.000,00 da AMA-RO aprovado com ressalvas sobre cronograma físico-financeiro, classificação orçamentária, pesquisa de preços e economicidade, com prazo de 15 dias para retificação e dispensa de nova análise pelo conselho."
+   },
+   {
+    "ato": 36,
+    "motivo": "Parecer desfavorável ao plano de R$ 100.000,00 da Cáritas Arquidiocesana por inconsistências nas planilhas orçamentárias e ausência de comprovação das pesquisas de preços."
+   },
+   {
+    "ato": 37,
+    "motivo": "Décimo primeiro termo aditivo prorroga por mais 12 meses um contrato de locação firmado em 2014, com empenho de R$ 41.580,00 que cobre apenas até 30/11/2026, ficando o restante para apostilamento posterior."
+   },
+   {
+    "ato": 43,
+    "motivo": "Mantida multa de R$ 2.349,57 à HOSPDROGAS COMERCIAL LTDA por inexecução total no fornecimento de medicamentos para a rede municipal."
+   },
+   {
+    "ato": 53,
+    "motivo": "Ata de registro de preços de R$ 1.016.239,00 com validade de 12 meses, aberta a adesões de outros órgãos até o dobro do quantitativo registrado."
+   },
+   {
+    "ato": 58,
+    "motivo": "Ata de R$ 11.950.165,00 em que a descrição do objeto (premiação esportiva com troféus, medalhas e cinturões para a SEMTRAN) não corresponde aos itens efetivamente registrados, que são placas de faixa de pedestre, colunas cônicas e braços projetados."
+   },
+   {
+    "ato": 59,
+    "motivo": "Crédito suplementar de R$ 2.223.904,78 para a EMDUR obtido com a anulação de R$ 1.950.000,00 da ação de Revitalização de Iluminação Pública em Vias Urbanas."
+   },
+   {
+    "ato": 61,
+    "motivo": "Crédito suplementar de R$ 7.547.493,00 aberto por excesso de arrecadação para cobrir três processos de contratos continuados de vigilância patrimonial."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 30,
+    "etapa": "Outro",
+    "modalidade": "Pregão Eletrônico nº 90051/2025/SMCL/PVH",
+    "objeto": "Vigilância e segurança patrimonial armada e desarmada nas unidades de saúde e sede da SEMUSA",
+    "fornecedor": "Columbia Segurança e Vigilância Patrimonial Ltda",
+    "valor": null
+   },
+   {
+    "ato": 33,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de chamamento público (Lei Federal nº 13.019/2014)",
+    "objeto": "Termo de fomento para pintura e reparo da infraestrutura da EMEI Odília Pereira de Oliveira",
+    "fornecedor": "Conselho Escolar da EMEI Odília Pereira de Oliveira",
+    "valor": 50000.0
+   },
+   {
+    "ato": 37,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Locação do imóvel da Av. Pinheiro Machado, 1718, sede da SEMIAS, prorrogada por 12 meses",
+    "fornecedor": null,
+    "valor": 41580.0
+   },
+   {
+    "ato": 38,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação de gestora e fiscais da parceria com a APAE Porto Velho",
+    "fornecedor": "Associação de Pais e Amigos dos Excepcionais - APAE Porto Velho",
+    "valor": null
+   },
+   {
+    "ato": 39,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação de gestora e fiscais da parceria custeada por emenda federal",
+    "fornecedor": "Núcleo de Apoio a Crianças com Câncer - NACC",
+    "valor": null
+   },
+   {
+    "ato": 40,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação de gestora e fiscais da parceria socioassistencial",
+    "fornecedor": "Associação Lar Fabiano de Cristo - Casa Daniel Neri",
+    "valor": null
+   },
+   {
+    "ato": 41,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação de gestora e fiscais da parceria socioassistencial",
+    "fornecedor": "Associação Voluntária de Combate ao Câncer de Porto Velho - AVCC",
+    "valor": null
+   },
+   {
+    "ato": 42,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Locação de veículos administrativos da SEINFRA (Contratos nº 009/PGM/2024 e nº 027/PGM/2026)",
+    "fornecedor": "ART CAR VEÍCULOS LTDA e RECHE GALDEANO & CIA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 43,
+    "etapa": "Outro",
+    "modalidade": "Pregão Eletrônico nº 054/2024/SML/PVH",
+    "objeto": "Multa por não entrega de comprimidos de Enalapril e Nifedipino",
+    "fornecedor": "HOSPDROGAS COMERCIAL LTDA",
+    "valor": 2349.57
+   },
+   {
+    "ato": 45,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Locação de imóvel na Agrovila Nova Aliança para posto de saúde (Contrato nº 08/2022)",
+    "fornecedor": "Sandra de Miranda Caitano Ventura",
+    "valor": null
+   },
+   {
+    "ato": 47,
+    "etapa": "Outro",
+    "modalidade": "Acordo de Cooperação Técnica TRE-RO nº 04/2026",
+    "objeto": "Transporte especial de eleitores com deficiência ou mobilidade reduzida nas Eleições 2026",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 53,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão Eletrônico nº 027/EMDUR/2026",
+    "objeto": "Materiais elétricos para iluminação e manutenção de vias e espaços públicos",
+    "fornecedor": "D MARTINS ENGENHARIA E INFRAESTRUTURA LTDA EPP, M LUZ MATERIAIS ELETRICOS E CONSTRUÇÃO LTDA e LUMOS COMERCIO ILUMINAÇÃO LTDA",
+    "valor": 1016239.0
+   },
+   {
+    "ato": 58,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão Eletrônico nº 90098/2025/SMCL/PVH",
+    "objeto": "Placas retroiluminadas de faixa de pedestre, colunas cônicas e braços projetados (ata descreve o objeto como premiação esportiva para a SEMTRAN)",
+    "fornecedor": "A P M NINA",
+    "valor": 11950165.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-17",
+    "hora": null,
+    "evento": "Entra em vigor a Instrução Normativa nº 05/2026 da SEMA, que regula o Cadastro de Grandes Geradores de Resíduos.",
+    "ato": 50
+   },
+   {
+    "data": "2026-09-17",
+    "hora": null,
+    "evento": "Projeto Cidadania em Movimento atende o alistamento militar nas Linhas 05 a 11 do Assentamento Joana D'Arc, até 20/09/2026.",
+    "ato": 21
+   },
+   {
+    "data": "2026-09-17",
+    "hora": null,
+    "evento": "Equipe da SEMIAS inicia diligências técnicas em comunidades rurais, com término previsto em 03/10/2026.",
+    "ato": 63
+   },
+   {
+    "data": "2026-09-18",
+    "hora": "09:30",
+    "evento": "Sessão pública de retorno de fase do Lote 1 do Pregão Eletrônico nº 90051/2025 (vigilância da SEMUSA), no gov.br/compras.",
+    "ato": 30
+   },
+   {
+    "data": "2026-10-05",
+    "hora": null,
+    "evento": "Começa a designação de Diego Carlos Cortez Goes como Assessor Técnico I da SMCL, até 03/11/2026.",
+    "ato": 26
+   },
+   {
+    "data": "2026-10-15",
+    "hora": null,
+    "evento": "Passa a valer a prorrogação da redução de jornada da servidora Maria Leiliane de Brito, até 14/10/2027.",
+    "ato": 22
+   },
+   {
+    "data": "2026-11-30",
+    "hora": null,
+    "evento": "Fim da cobertura do empenho de R$ 41.580,00 do aditivo de locação da sede da SEMIAS; o restante depende de apostilamento.",
+    "ato": 37
+   },
+   {
+    "data": "2026-12-31",
+    "hora": null,
+    "evento": "Termina a vigência do Acordo de Cooperação Técnica TRE-RO nº 04/2026 do programa Seu Voto Importa.",
+    "ato": 47
+   }
+  ],
+  "normas": [
+   {
+    "ato": 50,
+    "identificacao": "Instrução Normativa nº 05, de 17/09/2026 (SEMA)",
+    "o_que_muda": "Empresas e pessoas enquadradas como grandes geradores de resíduos passam a ter de se cadastrar pelo Sistema Único de Licenciamento, apresentando plano de gerenciamento de resíduos e demais documentos, e recebem um Certificado GGR válido por um ano, renovável a partir de 60 dias antes do vencimento. O certificado dá direito à isenção da Taxa de Resíduos Sólidos Domiciliares, mas implica a suspensão da coleta pública no empreendimento, e pode ser cancelado em casos como informação falsa ou falta de atualização cadastral."
+   },
+   {
+    "ato": 64,
+    "identificacao": "Portaria nº 489/2026/ASTEC/SEINFRA, de 15/09/2026",
+    "o_que_muda": "Centenas de servidores da SEINFRA que trabalham em atividades externas ficam dispensados do ponto eletrônico e passam a ter a frequência controlada por folha de ponto pessoal, sob responsabilidade do próprio servidor e da chefia imediata. A portaria revoga as regras anteriores de isenção de ponto na secretaria."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Artemis Barros Vieira Leitão",
+     "cargo": "Assessor Especial de RH CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Estefany Karoline Nery Morais",
+     "cargo": "Secretário Executivo CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Camila Lima Silva",
+     "cargo": "Assessor Especial de Comissões CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Maysa Da Silva Portugal Antunes",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Cintia Livia Da Silva Gomes",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Marcelo Roberto De Sousa",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Carlos Martins De Almeida",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Marcos Daniel Santos",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Luana Lima Da Silva",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Eliesio Sousa Rufino",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Eliomar De Sousa Tobias",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Livia Kauane Dos Santos Torres",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Layane Ferreira Feitoza",
+     "cargo": "Assessor de Comunicação das Comissões CC-06 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Eliete Barroso Gomes De Oliveira",
+     "cargo": "Assessor de Comunicação das Comissões CC-06 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Jorrana Delfino De Lima Oliveira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Rafael Rodrigues De Souza",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Pedro Henrique Gomes Soli",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Rosa Maria Nunes Da Silva Lopes",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Cleilce Lima De Carvalho",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Lindomar Pereira De Oliveira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Valdemar Da Silva Rodrigues",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Justina Ines Dionisio",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Joselina Loiola Brito Lima",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Maria Da Conceição Matias",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Paulo Neves Correa De Matos",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Santiago Ayden",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Leonardo Afonso Lima De Oliveira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Caroline Anconi De Oliveira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Ana Cleia Santos Da Silva",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Gustavo Atila Rodrigues Silva",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Jackson Torquato Teixeira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Gleyciane Da Silva Barbosa De Menezes",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Elsina Rodrigues Barbosa",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Ricardo Saavedra Gonzales Junior",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Janaina Carvalho Aldunate",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Jeanilce Lima De Vasconcelos De Figueiredo",
+     "cargo": "Assessor Executivo da Escola do Legislativo CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Yasmim Bandeira Da Silva Alves",
+     "cargo": "Assistente Jurídico CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Raimundo Freitas De Oliveira",
+     "cargo": "Assistente Jurídico CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Antonio Valdecley Silva De Lima",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Noemi De Souza Furtado Assumpcao",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Donato Graciano Roberto Prantes",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Halice Pinheiro Marinho Da Silva",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Raissa Andrezza Evangelista Paes",
+     "cargo": "Assessor Técnico Nível I de Licitações CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Flaiza Almada Da Silva",
+     "cargo": "Membro da Comissão de Recebimento CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 1,
+     "acao": "Nomeação",
+     "nome": "Valeriana Moreira Do Nascimento Xavier",
+     "cargo": "Gerente Administrativo CC-33 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Tais Duarte da Silva",
+     "cargo": "Assessor Especial de RH CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Reinaldo De Souza Sá",
+     "cargo": "Secretário Executivo CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Daniel Márcio Da Silva",
+     "cargo": "Assessor Especial de Comissões CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Paulo Roberto Iglesias Rosa",
+     "cargo": "Assessor Especial de Comissões CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Joao Paulo Coitinho De Oliveira",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Matheus Felipe Alves Veiga De Almeida",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Felipe Araujo Diogo",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Gustavo Camilo Da Silva",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Evaldo Santos Guillen Junior",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Christian Passos Cunha",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Gabriel Henrique Da Silva Brandao",
+     "cargo": "Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Marcelo Willian Pedrosa De Souza",
+     "cargo": "Assessor de Comunicação das Comissões CC-06 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Jose Gustavo Pereira De Souza",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Victória Elizabete Macedo Roberto",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Leonardo Freitas Aguiar Araujo",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Maisa Da Cruz Silva",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Meiry Silva Costa",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Larissa Katiuscia Meira Hurtado",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Queila Rodrigues Alencar Ayden",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Ana Clara Teixeira De Oliveira Tavares",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Raimunda Rosas Vieira",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Taian Vagner Souza Costa",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Erisson Cerqueira Soares",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Thalya Gomes Moura",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Adriana De Souza Lima",
+     "cargo": "Assessor de Comissões Permanentes CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Hueliton Grantes Da Silva",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Aparecida Peixoto De Oliveira Santos",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Maria Beatriz Tales Soares",
+     "cargo": "Assessor de Cerimonial CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Cherlesson Vangler Lima Gil",
+     "cargo": "Assessor Técnico Nível I de Licitações CC-01 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 2,
+     "acao": "Outro",
+     "nome": "Alessa Natalia Mendes Martins",
+     "cargo": "Mudança de cargo de Assessor Executivo da Escola do Legislativo CC-10 para Assessor Especial de Comissões CC-24 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 2,
+     "acao": "Outro",
+     "nome": "Daiane Duarte Pereira",
+     "cargo": "Mudança de cargo de Assistente Jurídico CC-01 para Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 2,
+     "acao": "Outro",
+     "nome": "Alcides Silva Barbosa",
+     "cargo": "Mudança de cargo de Assessor de Comissões Permanentes CC-01 para Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 2,
+     "acao": "Outro",
+     "nome": "Taylane Izel Gadilha",
+     "cargo": "Mudança de cargo de Assessor de Cerimonial CC-01 para Assessor Técnico de Comissões CC-10 - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 3,
+     "acao": "Substituição",
+     "nome": "Maria Micarla de Brito Colaço",
+     "cargo": "Assessor Parlamentar Volante CC-09, em substituição a Jessica Losmila da Silva - Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 5,
+     "acao": "Substituição",
+     "nome": "Gabriely Carvalho de Andrade",
+     "cargo": "Gerente Financeiro, em substituição a Diego Ferrucio Marqueti (férias) - IPAM"
+    },
+    {
+     "ato": 6,
+     "acao": "Nomeação",
+     "nome": "Stanley Maloney Jorge",
+     "cargo": "Suplente em comissão de processo disciplinar - Procuradoria Geral do Município"
+    },
+    {
+     "ato": 7,
+     "acao": "Outro",
+     "nome": "Elaine Dias Pereira Carvalho",
+     "cargo": "Assessor II DAS-02 da Assessoria Técnica - SEMED (exoneração tornada sem efeito)"
+    },
+    {
+     "ato": 8,
+     "acao": "Outro",
+     "nome": "Danilo Martins dos Santos",
+     "cargo": "Assessor II DAS-02 da Assessoria Técnica - SEMED (nomeação tornada sem efeito)"
+    },
+    {
+     "ato": 9,
+     "acao": "Outro",
+     "nome": "Poliana Diniz Rodrigues",
+     "cargo": "Gerente II DAS-05 da Divisão de Orçamento e Planejamento - SEMED (exoneração tornada sem efeito)"
+    },
+    {
+     "ato": 10,
+     "acao": "Outro",
+     "nome": "Juliana Mello Sena Streit",
+     "cargo": "Gerente II DAS-05 da Divisão de Orçamento e Planejamento - SEMED (nomeação tornada sem efeito)"
+    },
+    {
+     "ato": 11,
+     "acao": "Outro",
+     "nome": "Eurides Borges Neves",
+     "cargo": "Secretária da EMEIEF Pequenos Talentos DAS-01 - SEMED (nomeação tornada sem efeito)"
+    },
+    {
+     "ato": 12,
+     "acao": "Outro",
+     "nome": "Rodolfo Costa Ferreira",
+     "cargo": "Assessor II DAS-02 do Departamento de Serviços de Limpeza Pública - SEINFRA (retificação do nome)"
+    },
+    {
+     "ato": 13,
+     "acao": "Nomeação",
+     "nome": "Evelin Souza de Abreu",
+     "cargo": "Assessor Executivo I DAS-08 do Gabinete do Prefeito - SGOV"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Gleidson da Silva de Moura",
+     "cargo": "Assessor I DAS-01 do Gabinete da Secretaria - SEMED"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Delcimar Fragoso Pimenta",
+     "cargo": "Vice-Diretor da Escola Municipal de Música Francisco Lázaro dos Santos DAS-02 - SEMED"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Danilo Martins dos Santos",
+     "cargo": "Gerente II DAS-05 da Divisão de Inspeção Escolar - SEMED"
+    },
+    {
+     "ato": 15,
+     "acao": "Exoneração",
+     "nome": "João Fernando Rudek",
+     "cargo": "Vice-Diretor da Escola Municipal de Música Francisco Lázaro dos Santos DAS-02 - SEMED"
+    },
+    {
+     "ato": 15,
+     "acao": "Exoneração",
+     "nome": "Jessica Campos",
+     "cargo": "Gerente II DAS-05 da Divisão de Inspeção Escolar - SEMED"
+    },
+    {
+     "ato": 15,
+     "acao": "Exoneração",
+     "nome": "Ednar Nonato da Piedade",
+     "cargo": "Diretor da EMEF União da Vitória DAS-02 - SEMED"
+    },
+    {
+     "ato": 16,
+     "acao": "Nomeação",
+     "nome": "Juliana Mello Sena Streit",
+     "cargo": "Assessor II DAS-02 do Departamento Administrativo - SECOM"
+    },
+    {
+     "ato": 17,
+     "acao": "Exoneração",
+     "nome": "Delcimar Fragoso Pimenta",
+     "cargo": "Assessor II DAS-02 do Departamento de Obras Rodoviárias - SEINFRA"
+    },
+    {
+     "ato": 18,
+     "acao": "Nomeação",
+     "nome": "João Fernando Rudek",
+     "cargo": "Assessor II DAS-02 do Departamento de Obras Rodoviárias - SEINFRA"
+    },
+    {
+     "ato": 23,
+     "acao": "Substituição",
+     "nome": "Tatiana Pereira da Silveira",
+     "cargo": "Gerente II DAS-05, em substituição a Luiz Carlos Candido Gonçalves (férias) - SEMUSA"
+    },
+    {
+     "ato": 25,
+     "acao": "Substituição",
+     "nome": "Francisco Carlos Soares Junior",
+     "cargo": "Gerente II DAS-05, em substituição a Dario Bandeira dos Santos (férias) - SMTI"
+    },
+    {
+     "ato": 26,
+     "acao": "Substituição",
+     "nome": "Diego Carlos Cortez Goes",
+     "cargo": "Assessor Técnico I DAS-06, em substituição a Alice Fernanda Souza Mesquita (férias) - SMCL"
+    },
+    {
+     "ato": 27,
+     "acao": "Outro",
+     "nome": "João Carlos Lima Tome",
+     "cargo": "Professor removido da SEMED para a Superintendência Municipal de Distritos - SMD, por determinação judicial"
+    },
+    {
+     "ato": 42,
+     "acao": "Designação",
+     "nome": "Waldemir de Oliveira Carneiro Junior",
+     "cargo": "Gestor dos contratos de locação de veículos 009/PGM/2024 e 027/PGM/2026 - SEINFRA"
+    },
+    {
+     "ato": 45,
+     "acao": "Designação",
+     "nome": "Aline Almeida da Costa",
+     "cargo": "Gestora do Contrato 08/2022/COJUSA/PGM/SEMUSA (locação de imóvel para posto de saúde) - SEMUSA"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal é rotina administrativa: diárias e prestações de contas de viagem na SGOV, SEMAGRIC, SEMUSA, SEMTEL, SEMIAS, SMPDC e EMDUR, três portarias de localização de servidores na SEMAD, vacância por falecimento, prorrogação de redução de jornada, dispensa de ponto eletrônico na SEINFRA e autorizações para conduzir veículo oficial na SEMUSA."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 508/CMPV-2026 nomeia 45 servidores para cargos em comissão da Câmara Municipal de Porto Velho, de Assessor de Comissões Permanentes CC-01 a Gerente Administrativo CC-33, com efeitos a partir de 01/09/2026."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Decreto nº 509/CMPV-2026 altera o cargo de quatro servidores comissionados da Câmara (Alessa Natalia Mendes Martins, Daiane Duarte Pereira, Alcides Silva Barbosa e Taylane Izel Gadilha), a partir de 01/09/2026."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 510/CMPV-2026 nomeia Maria Micarla de Brito Colaço como Assessor Parlamentar Volante CC-09 da Câmara, em substituição a Jessica Losmila da Silva, com efeito retroativo a 08/09/2026 por afastamento médico."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "EMDUR homologa a prestação de contas de diárias nº 045/2026 de oito empregados que foram à Vila Calderita acompanhar a instalação de 12 postes de iluminação para o Festival de Calderita."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 536 do IPAM designa Gabriely Carvalho de Andrade para responder pela Gerência Financeira de 08/09 a 17/09/2026, nas férias do titular Diego Ferrucio Marqueti."
+   },
+   {
+    "id": 6,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 168/CD/SPPD/PGM/2026 nomeia o servidor Stanley Maloney Jorge como suplente na comissão do processo disciplinar nº 009.009513/2026-43."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.711/I torna sem efeito a exoneração de Elaine Dias Pereira Carvalho do cargo de Assessor II DAS-02 da SEMED, a partir de 11/09/2026."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.712/I torna sem efeito a nomeação de Danilo Martins dos Santos como Assessor II DAS-02 da SEMED, a partir de 11/09/2026."
+   },
+   {
+    "id": 9,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.713/I torna sem efeito a exoneração de Poliana Diniz Rodrigues do cargo de Gerente II DAS-05 da Divisão de Orçamento e Planejamento da SEMED, a partir de 14/09/2026."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.714/I torna sem efeito a nomeação de Juliana Mello Sena Streit como Gerente II DAS-05 da Divisão de Orçamento e Planejamento da SEMED, a partir de 14/09/2026."
+   },
+   {
+    "id": 11,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.715/I torna sem efeito a nomeação de Eurides Borges Neves como secretária da EMEIEF Pequenos Talentos (DAS-01), a partir de 11/09/2026."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.716/I retifica o nome do servidor nomeado Assessor II DAS-02 do Departamento de Serviços de Limpeza Pública da SEINFRA: leia-se Rodolfo Costa Ferreira."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.717/I nomeia Evelin Souza de Abreu como Assessor Executivo I DAS-08 do Gabinete do Prefeito, a partir de 14/09/2026."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Decreto nº 3.718/I nomeia três servidores na SEMED a partir de 17/09/2026: Gleidson da Silva de Moura (Assessor I), Delcimar Fragoso Pimenta (Vice-Diretor da Escola de Música LAIO) e Danilo Martins dos Santos (Gerente II da Divisão de Inspeção Escolar)."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Decreto nº 3.719/I exonera João Fernando Rudek e Jessica Campos (a partir de 17/09/2026) e Ednar Nonato da Piedade, diretor da EMEF União da Vitória (a partir de 10/09/2026), de cargos da SEMED."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.720/I nomeia Juliana Mello Sena Streit como Assessor II DAS-02 do Departamento Administrativo da SECOM, a partir de 17/09/2026."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.721/I exonera Delcimar Fragoso Pimenta do cargo de Assessor II DAS-02 do Departamento de Obras Rodoviárias da SEINFRA, a partir de 17/09/2026."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.722/I nomeia João Fernando Rudek como Assessor II DAS-02 do Departamento de Obras Rodoviárias da SEINFRA, a partir de 17/09/2026."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 307/SGOV concede 7 diárias e meia a Hermínio Antônio da Silva Neto e Bernardo da Silva Lima Junior, que foram a Guajará-Mirim escoltar e transportar materiais doados pela Receita Federal para ações humanitárias."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 324/SGOV concede 7 diárias a Roberto Kleber Cordeiro Saldanha Junior e Alcimar Rodrigues da Silva para levantamentos territoriais e ambientais no Distrito de Vista Alegre do Abunã, de 16 a 19/09/2026."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 326/SGOV torna válidas 14 diárias a quatro servidores que atuarão no Projeto Cidadania em Movimento, com alistamento militar nas Linhas 05 a 11 do Assentamento Joana D'Arc, de 17 a 20/09/2026."
+   },
+   {
+    "id": 22,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1426/SEMAD prorroga, de 15/10/2026 a 14/10/2027, a redução de 50% da jornada, sem perda de remuneração, da biomédica Maria Leiliane de Brito, lotada na SEMUSA."
+   },
+   {
+    "id": 23,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1427/SEMAD designa Tatiana Pereira da Silveira como Gerente II DAS-05 da SEMUSA de 01/09 a 30/09/2026, nas férias de Luiz Carlos Candido Gonçalves."
+   },
+   {
+    "id": 24,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1428/SEMAD declara a vacância do cargo de merendeira escolar ocupado por Bernadete Morais, da SEMED, a contar de 02/09/2026, em razão de falecimento."
+   },
+   {
+    "id": 25,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1429/SEMAD designa Francisco Carlos Soares Junior como Gerente II DAS-05 da SMTI de 17/08 a 31/08/2026, nas férias de Dario Bandeira dos Santos."
+   },
+   {
+    "id": 26,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1430/SEMAD designa Diego Carlos Cortez Goes como Assessor Técnico I DAS-06 da SMCL de 05/10 a 03/11/2026, nas férias de Alice Fernanda Souza Mesquita."
+   },
+   {
+    "id": 27,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 1431/SEMAD remove o professor João Carlos Lima Tome da SEMED para a Superintendência Municipal de Distritos, por determinação judicial no processo nº 7028923-17.2026.8.22.0001, e dispensa adicionais ligados à lotação anterior."
+   },
+   {
+    "id": 28,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 266/SEMAGRIC concede duas meias diárias a Ana Luzia Souza Barros e Josikelle Sabrinna Souza Santos para vistoria do frigorífico COOPCUNIÃ, no RESEX Lago do Cuniã, distrito de São Carlos."
+   },
+   {
+    "id": 29,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 269/SEMAGRIC concede 10 diárias inteiras e 10 meias a Elissandra Regina Cavalcante e Licio Soares da Rocha para transporte da produção e apoio logístico em distritos e comunidades rurais, em agosto de 2026."
+   },
+   {
+    "id": 30,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SMCL reabre a fase de julgamento do Lote 1 do Pregão Eletrônico nº 90051/2025/SMCL/PVH (vigilância armada e desarmada em unidades de saúde da SEMUSA) para negociar preços com a arrematante Columbia Segurança e Vigilância Patrimonial Ltda; sessão pública em 18/09/2026, às 9h30, no gov.br/compras."
+   },
+   {
+    "id": 31,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 047/DA/SMCL concede ao servidor Diego Lemos Maus suprimento de fundos de R$ 8.000,00 (R$ 4.000,00 em material de consumo e R$ 4.000,00 em serviços de terceiros), com 90 dias para aplicação e 20 dias para prestar contas."
+   },
+   {
+    "id": 32,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.466 abre crédito suplementar de R$ 1.137.732,00 na SEMED, com superávit financeiro de 2025, para pagar a premiação de bicicletas das escolas do Programa Avalia Porto Velho."
+   },
+   {
+    "id": 33,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED justifica a dispensa de chamamento público para firmar termo de fomento de R$ 50.000,00 com o Conselho Escolar da EMEI Odília Pereira de Oliveira, com recursos da Emenda Parlamentar Municipal nº 0033/2025 do vereador Bruno Luciano Couto Araújo, para pintura e reparos na escola."
+   },
+   {
+    "id": 34,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 513/2026 da SEMED retifica a Portaria nº 462/2026 e amplia o período de viagem de 17 a 21/08/2026 para 17 a 21/08, 24 a 28/08 e 31/08 a 04/09/2026."
+   },
+   {
+    "id": 35,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Resolução CMAS nº 439 aprova dois planos de trabalho da AMA-RO (R$ 40.000,00 e R$ 50.000,00) e aprova com ressalvas um terceiro de R$ 50.000,00 (emenda do vereador Breno Mendes da Silva Farias), dando 15 dias para a entidade apresentar plano retificado."
+   },
+   {
+    "id": 36,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Resolução CMAS nº 438 aprova o plano de trabalho de R$ 100.000,00 da APAE Porto Velho e rejeita, por ora, o plano de R$ 100.000,00 da Cáritas Arquidiocesana, dando 15 dias para corrigir planilhas e apresentar pesquisas de preços."
+   },
+   {
+    "id": 37,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Extrato nº 31/SEMIAS: 11º termo aditivo ao Contrato nº 125/PGM/2014 prorroga por 12 meses, a partir de 09/09/2026, a locação do imóvel da Av. Pinheiro Machado, 1718, sede da SEMIAS, com empenho de R$ 41.580,00 para o período de 10/09 a 30/11/2026."
+   },
+   {
+    "id": 38,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário nº 12/2026/SEMIAS designa Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira e Lucas Gabriel de Almeida Veiga como fiscais da parceria com a APAE Porto Velho."
+   },
+   {
+    "id": 39,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário nº 13/2026/SEMIAS designa a mesma equipe de gestão e fiscalização para a parceria com o Núcleo de Apoio a Crianças com Câncer (NACC), custeada por emenda federal."
+   },
+   {
+    "id": 40,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário nº 14/2026/SEMIAS designa gestora e fiscais para a parceria com a Associação Lar Fabiano de Cristo - Casa Daniel Neri."
+   },
+   {
+    "id": 41,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário nº 15/2026/SEMIAS designa gestora e fiscais para a parceria com a Associação Voluntária de Combate ao Câncer de Porto Velho (AVCC)."
+   },
+   {
+    "id": 42,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 490/2026/SEINFRA designa Waldemir de Oliveira Carneiro Junior como gestor e Elissandro Nascimento dos Santos e Silvio Correia Leite como fiscais dos contratos de locação de veículos com ART CAR VEÍCULOS LTDA e RECHE GALDEANO & CIA LTDA, revogando a Portaria nº 396/2026."
+   },
+   {
+    "id": 43,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Decisão nº 18/2026/SEMUSA nega o recurso da HOSPDROGAS COMERCIAL LTDA e mantém multa de R$ 2.349,57 (10% de R$ 23.495,70) pela não entrega de 344.100 comprimidos de Enalapril e 88.470 de Nifedipino, do Pregão Eletrônico nº 054/2024/SML/PVH."
+   },
+   {
+    "id": 44,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 456/2026/SEMUSA concede 3 diárias e meia a Humberto de Holanda Bessa Junior e Onofre Rodrigues de Melo Júnior para oficina de secretarias executivas de conselhos de saúde em Ariquemes."
+   },
+   {
+    "id": 45,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 457/2026/SEMUSA designa Aline Almeida da Costa como gestora e Igor Domingos Araújo de Amorim como fiscal do Contrato nº 08/2022, de locação de imóvel em Nova Aliança usado como posto de saúde, e revoga a Portaria nº 06/2025."
+   },
+   {
+    "id": 46,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Resolução nº 45/2026 do Conselho Municipal de Saúde aprova o 1º Relatório Detalhado do Quadrimestre Anterior de 2026 (janeiro a abril) e recomenda à SEMUSA acompanhar as metas ali registradas."
+   },
+   {
+    "id": 47,
+    "categoria": "Outros",
+    "relevancia": "alta",
+    "resumo": "Extrato do Acordo de Cooperação Técnica TRE-RO nº 04/2026, assinado pelo Município de Porto Velho, TRE-RO, TJRO, Estado de Rondônia e AROM, implanta o programa Seu Voto Importa nas Eleições 2026, com transporte especial para eleitores com deficiência ou mobilidade reduzida; vigência até 31/12/2026."
+   },
+   {
+    "id": 48,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "Termo de Autorização nº 162/2026/SEMTRAN concede ao Sr. Gelson a autorização AMM-0538 para explorar serviço de mototáxi em Porto Velho, de 25/08/2026 a 31/08/2031."
+   },
+   {
+    "id": 49,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 123/2026/SEMTEL torna válida a concessão de 1 diária e meia a Ingrid Nunes Silva e Francisco Abreu Rosas pelo transporte de passageiros ao Distrito de Triunfo, de 13 a 14/06/2026."
+   },
+   {
+    "id": 50,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Instrução Normativa nº 05, de 17/09/2026, da SEMA regula o Cadastro de Grandes Geradores de Resíduos: cadastro obrigatório pelo sistema SUL, análise em até 30 dias, Certificado GGR válido por 1 ano (renovação a partir de 60 dias antes do vencimento), atualização cadastral em 30 dias, hipóteses de cancelamento e isenção da Taxa de Resíduos Sólidos Domiciliares."
+   },
+   {
+    "id": 51,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 71/2026/SMPDC concede meia diária a Efraim Oliveira Martins e João Antônio Barbosa de Souza para levantar poços e coletar amostras de água nas comunidades de Boca do Jamari e Brasileira, em 25/08/2026."
+   },
+   {
+    "id": 52,
+    "categoria": "Pessoal",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 507/CMPV-2026 exonera 29 servidores de cargos em comissão da Câmara Municipal de Porto Velho, a partir de 01/09/2026."
+   },
+   {
+    "id": 53,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Ata de Registro de Preços nº 019/2026/EMDUR, do Pregão Eletrônico nº 027/EMDUR/2026, registra R$ 1.016.239,00 em materiais elétricos para iluminação pública com D Martins Engenharia (R$ 195.400,00), M Luz Materiais Elétricos (R$ 759.839,00 em quatro lotes) e Lumos Comércio Iluminação (R$ 61.000,00), com validade de 12 meses."
+   },
+   {
+    "id": 54,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 176/2026/SEMAD localiza a servidora Barbara Ingrid de Melo Albuquerque, técnica em higiene dental, na Divisão de Cargos, Salários, Seleção e Recrutamento, a contar de 04/09/2026."
+   },
+   {
+    "id": 55,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 177/2026/SEMAD localiza o mecânico de automóvel Francisco Ramos Freire na Divisão de Gestão de Infraestrutura e Manutenção, a contar de 24/08/2026."
+   },
+   {
+    "id": 56,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 178/2026/SEMAD localiza o Assessor II Marcos Antônio Alves Oliveira na Divisão de Fiscalização de Convênios e Contratos, a contar de 03/09/2026."
+   },
+   {
+    "id": 57,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 271/SEMAGRIC concede 4 diárias inteiras e 11 meias a Ana Paula F Guimarães, Debliane Souza da Silva Oliveira e Leula Souza Barros para atender produtores da agricultura familiar em associações e comunidades rurais, em agosto de 2026."
+   },
+   {
+    "id": 58,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Ata de Registro de Preços SRP nº 076/2025, do Pregão Eletrônico nº 90098/2025/SMCL/PVH, registra R$ 11.950.165,00 com a empresa A P M NINA; o texto descreve o objeto como premiação esportiva para a SEMTRAN, mas os itens registrados são 500 placas retroiluminadas de faixa de pedestre (R$ 12.600,00 cada), 500 colunas cônicas e 500 braços projetados, com vigência de 1 ano."
+   },
+   {
+    "id": 59,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Republicação do Decreto nº 22.434 abre crédito suplementar de R$ 2.223.904,78 para a EMDUR, anulando R$ 1.950.000,00 da ação de Revitalização de Iluminação Pública em Vias Urbanas e R$ 273.904,78 do apoio à logística de serviços básicos."
+   },
+   {
+    "id": 60,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.465 remaneja R$ 3.745,00 dentro do orçamento da SMCL para a aquisição de headsets."
+   },
+   {
+    "id": 61,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.467 abre crédito suplementar de R$ 7.547.493,00 na SEMAD, por excesso de arrecadação, para cobrir contratos continuados de vigilância patrimonial."
+   },
+   {
+    "id": 62,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.468 abre crédito suplementar de R$ 1.000.000,00 na SEMAD, por anulação de dotação, para a folha de pagamento de agosto de 2026."
+   },
+   {
+    "id": 63,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 301/SEMIAS concede 16 diárias e meia a Fabiana Gonçalves do Nascimento Silva, Maria de Fátima de Oliveira Mello e Júlio Muniz Veloso para diligências técnicas de demandas judiciais da proteção social básica em mais de 30 comunidades rurais, de 17/09 a 03/10/2026."
+   },
+   {
+    "id": 64,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 489/2026/SEINFRA dispensa do ponto eletrônico centenas de servidores da SEINFRA que exercem atividades externas (garis, motoristas, operadores de máquinas, gerentes e assessores), passando o controle para folha de ponto, e revoga as portarias anteriores sobre o tema."
+   },
+   {
+    "id": 65,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 442/2026/SEMUSA autoriza seis servidores das UBS de Abunã e Terra Santa a conduzir veículo oficial pelo prazo de um ano, inclusive em plantões extraordinários."
+   },
+   {
+    "id": 66,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 72/2026/SMPDC concede 4,5 diárias a nove servidores e meia diária a outros dois para a 2ª fase da Ação PREV-ESTIAGEM em 12 comunidades ribeirinhas, com vistorias, mapeamento de risco e diagnóstico de abastecimento de água, de 17 a 21/08/2026."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code)",
  "processado_em": "2026-09-17T02:25:02-04:00",
  "conferencia": {
   "site": 66,
   "robo": 66,
   "faltando": [],
   "sobrando": [],
-  "em": "2026-09-18T02:17-04:00"
- }
+  "em": "2026-09-18T08:18-04:00"
+ },
+ "resumo_formato": 2
 }

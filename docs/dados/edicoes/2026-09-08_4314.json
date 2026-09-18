@@ -704,53 +704,19 @@
   }
  ],
  "resumo": {
-  "manchete": "EMDUR abre pregão para manutenção das estações públicas de hidratação de água, com disputa marcada para 30 de setembro, e IPAM busca consultoria para rever a tabela de pagamentos do IPAM-Saúde",
-  "resumo": "A edição nº 4314 traz 77 atos de Porto Velho, com predomínio de rotina administrativa: 16 portarias da Secretaria de Administração (SEMAD) recompõem comissões de fiscalização de contratos, 12 decretos do prefeito Leonardo Barreto de Moraes mexem em cargos comissionados e seis termos da SEMTRAN renovam autorizações de táxi. Entre as contratações, a EMDUR lança pregão eletrônico (orçamento sigiloso) para manutenção das estações públicas de hidratação, e o IPAM abre duas dispensas, uma delas para consultoria que vai subsidiar a revisão da tabela de remuneração do IPAM-Saúde. A Educação homologa o resultado da convocação complementar para diretores e vice-diretores de escolas municipais, com uma candidata classificada em primeiro lugar sub judice. Também merecem atenção a ata do Conselho de Administração da EMDUR, que discutiu compra de energia no Mercado Livre e o evento Outubro Urbano, o decreto que renomeia unidades da FUNCULTURAL sem aumento de despesa e o edital da SEMTRAN com 136 notificações de multa de trânsito.",
+  "manchete": "Decreto 22.430 reorganiza a estrutura da Fundação Cultural de Porto Velho, que fica com 28 cargos em comissão, sem criação de despesa",
+  "resumo": "A edição foi dominada por atos de pessoal e de gestão de contratos: 12 decretos do Prefeito mexeram em cargos comissionados da SEMEC, SEMAGRIC, SEMUSA, SEMED, SECOM e SGOV, e a SEMAD republicou 16 portarias refazendo as comissões de fiscalização de contratos de energia, telefonia, vigilância, água, impressão e ar-condicionado, todas válidas até 31/12/2026. Na parte normativa, o Decreto nº 22.430 redefine a estrutura e as nomenclaturas da FUNCULTURAL, que passa a ter 28 cargos em comissão sem aumento de despesa. Em contratações, a EMDUR abriu o Pregão Eletrônico nº 32/2026 para registro de preços da manutenção das estações públicas de hidratação (sessão em 30/09), e saíram três contratações diretas por dispensa: nobreaks para a SEMEC (R$ 9.120,00) e, no IPAM, crachás eletrônicos e uma consultoria para revisar a tabela remuneratória do IPAM-Saúde, estas duas sem valor estimado no aviso. Merecem acompanhamento o 2º aditivo que prorroga por 12 meses o contrato de rastreamento via satélite da SEMTEL com a RADIONET e o registro, na ata do Conselho da EMDUR, de que o processo de contratação de equipes terceirizadas de eletricistas está suspenso pelo Tribunal de Contas. A SEMED também homologou o resultado final da seleção complementar de diretores e vice-diretores escolares, com errata e uma candidata sub judice.",
   "destaques": [
    {
-    "titulo": "Pregão para manutenção das estações de hidratação",
-    "texto": "A EMDUR abriu o Pregão Eletrônico nº 32/EMDUR/2026, por registro de preços, para contratar manutenção preventiva, corretiva e emergencial das estações públicas de hidratação de água, com mão de obra, filtros e peças. A disputa será em 30/09/2026, às 10h (horário de Brasília), no LicitaNet; o orçamento estimado é sigiloso.",
+    "titulo": "Nova estrutura da FUNCULTURAL",
+    "texto": "O Decreto nº 22.430, de 04/09/2026, altera o Decreto nº 21.133/2025 e redefine unidades e nomenclaturas da Fundação Cultural, que passa a ter dois gabinetes separados (Diretor Presidente e Diretor Vice-Presidente) e total de 28 cargos em comissão. O texto afirma que não há criação de cargos nem aumento de despesa e dispensa exoneração e nova nomeação dos atuais ocupantes.",
     "atos": [
-     4
+     71
     ]
    },
    {
-    "titulo": "IPAM contrata estudo para rever tabela do IPAM-Saúde",
-    "texto": "O IPAM abriu dispensa para contratar consultoria que fará diagnóstico, pesquisa de mercado e estudo de impacto financeiro para revisar a tabela de remuneração de prestadores do IPAM-Saúde, e outra para comprar crachás com cartões de proximidade, cordões e porta-crachás. As propostas vão por e-mail (scl@ipam.ro.gov.br) em até 5 dias úteis após a publicação; os avisos não trazem o valor total.",
-    "atos": [
-     70,
-     69
-    ]
-   },
-   {
-    "titulo": "Resultado da seleção de diretores e vice-diretores escolares",
-    "texto": "A SEMED homologou o resultado final da convocação complementar do processo seletivo para diretor e vice-diretor de escolas municipais das zonas urbana e rural, como EMEIEF Nova República, EMEF Jerusalém da Amazônia e EMEF 13 de Maio. Uma errata corrigiu notas e incluiu Araceli da Silva Souza em primeiro lugar sub judice na EMEF Jerusalém da Amazônia.",
-    "atos": [
-     75,
-     76
-    ]
-   },
-   {
-    "titulo": "12 decretos de nomeação, exoneração e retificação",
-    "texto": "O prefeito publicou 12 decretos sobre cargos comissionados na SGOV, SECOM, SEMEC, SEMAGRIC, SEMUSA e SEMED, com efeitos a partir de 08/09/2026 na maioria. Entre eles, a troca da direção da EMEIEF Pequenos Talentos (sai Cheslana Oliveira da Silva, entra Roziely Barros Vieira Melo) e novos gerentes nas Divisões de Revisão e de Patrimônio da SGOV.",
-    "atos": [
-     12,
-     13,
-     14,
-     15,
-     16,
-     17,
-     18,
-     19,
-     20,
-     21,
-     22,
-     23
-    ]
-   },
-   {
-    "titulo": "SEMAD recompõe 16 comissões de fiscalização de contratos",
-    "texto": "Portarias da SEMAD designam novas comissões para fiscalizar, até 31/12/2026, contratos com Energisa, CAERD, empresas de vigilância, telefonia fixa e móvel, locação de impressoras, ar-condicionado, o próprio Diário Oficial (DOMER) e convênios com o CREA-RO e a SEJUS, revogando as portarias anteriores.",
+    "titulo": "SEMAD refaz 16 comissões de fiscalização de contratos",
+    "texto": "As Portarias 154 a 169/2026/DIFC/DEAD/GAB/SEMAD designaram novos gestores e fiscais para contratos de energia (Energisa), telefonia (Oi e Telefônica), vigilância (Colúmbia, Impactual e G.J), água (CAERD), locação de imóvel e de impressoras, ar-condicionado, publicação no DOMER e convênios com o CREA-RO e a SEJUS. Todas revogam as portarias de junho de 2026 e valem até 31/12/2026.",
     "atos": [
      30,
      31,
@@ -771,475 +737,967 @@
     ]
    },
    {
-    "titulo": "EMDUR estuda energia mais barata e evento Outubro Urbano",
-    "texto": "O Conselho de Administração da EMDUR mandou para análise da diretoria um estudo sobre compra de energia no Mercado Livre e compensação com energia solar para reduzir a conta de luz do Município. Também aprovou em caráter preliminar o Outubro Urbano, com atividade prevista para 31 de outubro no Complexo da Estrada de Ferro Madeira-Mamoré.",
+    "titulo": "Troca de comissionados em seis secretarias",
+    "texto": "Doze decretos do Prefeito exoneraram e nomearam assessores e gerentes na SEMEC, SEMAGRIC, SEMUSA, SEMED e SGOV, incluindo a troca da direção da EMEIEF Pequenos Talentos e das gerências das Divisões de Revisão e de Patrimônio da Secretaria de Governo, com efeitos a partir de 08/09/2026. Outros decretos tornaram sem efeito ou retificaram nomeações e exonerações anteriores da SECOM e do Gabinete Militar.",
+    "atos": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "titulo": "Licitação da EMDUR e três dispensas",
+    "texto": "A EMDUR abriu o Pregão Eletrônico nº 32/EMDUR/2026 para registrar preços da manutenção das estações públicas de hidratação de água, com propostas e disputa em 30/09/2026. No mesmo dia foram publicadas a Dispensa Eletrônica nº 322/2026/SMCL (4 nobreaks para a SEMEC, R$ 9.120,00, sessão em 14/09) e duas dispensas do IPAM, para crachás eletrônicos e para consultoria de revisão da tabela do IPAM-Saúde.",
+    "atos": [
+     4,
+     53,
+     69,
+     70
+    ]
+   },
+   {
+    "titulo": "Seleção de diretores escolares homologada",
+    "texto": "A SEMED homologou o resultado final da convocação complementar do processo seletivo de diretores e vice-diretores escolares (Edital nº 7/2026) e, no mesmo ato, publicou errata corrigindo notas e classificações de três escolas rurais. A candidata Araceli da Silva Souza aparece sub judice em duas unidades, por decisão no Processo nº 7045827-15.2026.8.22.0001.",
+    "atos": [
+     75,
+     76
+    ]
+   },
+   {
+    "titulo": "Conselho da EMDUR estuda energia mais barata e registra suspensão do TCE",
+    "texto": "A ata do Conselho de Administração da EMDUR de 13/08/2026 encaminhou à Presidência o estudo sobre compra de energia no Mercado Livre e geração solar, apontando potencial de economia para todo o Município, e acolheu em caráter preliminar o projeto Outubro Urbano para 31/10/2026. A diretoria informou que a contratação de equipes terceirizadas de eletricistas está suspensa pelo Tribunal de Contas, com pedido de reconsideração pendente.",
     "atos": [
      3
     ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 3,
+    "motivo": "A ata registra que o processo de contratação de equipes terceirizadas de eletricistas da EMDUR foi suspenso pelo Tribunal de Contas e aguarda análise de pedido de reconsideração."
+   },
+   {
+    "ato": 14,
+    "motivo": "Retificação que muda o início da nomeação de Lucivane Faustino dos Santos de 1º de julho para 1º de setembro de 2026, alterando dois meses de exercício no cargo DAS 10."
+   },
+   {
+    "ato": 29,
+    "motivo": "Portaria de 04/09/2026 designa servidor com efeitos retroativos a 01/05/2026 e vigência encerrada em 31/05/2026, ou seja, período já vencido na data da publicação."
+   },
+   {
+    "ato": 53,
+    "motivo": "Contratação direta por dispensa de licitação (art. 75, II, da Lei 14.133/2021) para aquisição de nobreaks, no valor estimado de R$ 9.120,00."
+   },
+   {
+    "ato": 55,
+    "motivo": "Resolução anula o ato de instauração do Processo Ético nº 02/CE/CMDCA/2026 e torna sem efeito os atos já praticados pela Comissão, determinando nova apuração."
+   },
+   {
+    "ato": 66,
+    "motivo": "Termo de autorização de táxi declara prazo de 5 anos, mas indica início em 31/08/2026 e término em 31/08/2026, com prazo de vigência inconsistente."
+   },
+   {
+    "ato": 67,
+    "motivo": "Segundo termo aditivo prorroga por 12 meses, a partir de 25/09/2026, o Contrato nº 065/PGM/2024 com a RADIONET LTDA, com pré-empenho de R$ 9.293,61 para agosto a dezembro de 2026."
+   },
+   {
+    "ato": 69,
+    "motivo": "Dispensa de licitação com base no art. 75, II, da Lei 14.133/2021 para compra de crachás e cartões de proximidade, sem valor estimado preenchido no aviso publicado."
+   },
+   {
+    "ato": 70,
+    "motivo": "Dispensa de licitação com base no art. 75, II, da Lei 14.133/2021 para contratar consultoria em economia da saúde, sem valor estimado preenchido no aviso publicado."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 2,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Gestão e fiscalização da ata de registro de preços de manutenção das centrais de climatização da Câmara Municipal",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 4,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 32/EMDUR/2026",
+    "objeto": "Registro de preços para manutenção preventiva, corretiva e emergencial das estações públicas de hidratação de água da EMDUR",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 24,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Troca da gestora interina do Contrato nº 015/PGM/2026 da Secretaria de Governo",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 30,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 042/PGM/2015, de locação de imóvel para o Departamento de Recursos Logísticos",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 31,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do contrato de adesão DESC/014/2020, de fornecimento de energia em baixa tensão",
+    "fornecedor": "Energisa Rondônia Distribuidora de Energia S/A",
+    "valor": null
+   },
+   {
+    "ato": 32,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de acompanhamento dos contratos DESC horossazonais de energia elétrica de 2022",
+    "fornecedor": "Energisa Rondônia Distribuidora de Energia S/A",
+    "valor": null
+   },
+   {
+    "ato": 33,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização dos contratos DESC de energia elétrica de 2020 (optante)",
+    "fornecedor": "Energisa Rondônia Distribuidora de Energia S/A",
+    "valor": null
+   },
+   {
+    "ato": 34,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 039/PGM/2023, de telefonia fixa",
+    "fornecedor": "Telefônica Oi S.A.",
+    "valor": null
+   },
+   {
+    "ato": 35,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 041/PGM/2021, de telefonia móvel",
+    "fornecedor": "Telefônica Brasil S/A",
+    "valor": null
+   },
+   {
+    "ato": 36,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 009/PGM/2023, de segurança e vigilância patrimonial",
+    "fornecedor": "Colúmbia Segurança e Vigilância Patrimonial EIRELI",
+    "valor": null
+   },
+   {
+    "ato": 37,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 003/PGM/2024, de vigilância e segurança",
+    "fornecedor": "Impactual Vigilância e Segurança LTDA",
+    "valor": null
+   },
+   {
+    "ato": 38,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 008/PGM/2023, de segurança e vigilância",
+    "fornecedor": "G.J Segurança e Vigilância LTDA – ME",
+    "valor": null
+   },
+   {
+    "ato": 39,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 047/PGM/2023, de publicação no Diário Oficial dos Municípios",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 40,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 037/2022, de fornecimento de água e esgoto",
+    "fornecedor": "Companhia de Águas e Esgoto de Rondônia – CAERD",
+    "valor": null
+   },
+   {
+    "ato": 41,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 059/PGM/2021, de locação de máquinas multifuncionais a laser",
+    "fornecedor": "Acronet Corporativo Comércio e Serviços Eireli",
+    "valor": null
+   },
+   {
+    "ato": 42,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 002/PGM/2024, de serviços de saúde e segurança no trabalho",
+    "fornecedor": "Total Life Assistência à Vida LTDA",
+    "valor": null
+   },
+   {
+    "ato": 43,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do contrato de manutenção e instalação de aparelhos de ar-condicionado da SEMAD",
+    "fornecedor": "CAPUCHE TECNOCLIMA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 44,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Convênio nº 004/PGM/2025, de intercâmbio de informações com o CREA-RO",
+    "fornecedor": "Conselho Regional de Engenharia e Agronomia do estado de Rondônia",
+    "valor": null
+   },
+   {
+    "ato": 45,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Convênio nº 510/2024/PGE-SEJUS, de uso de mão de obra de reeducados",
+    "fornecedor": "Secretaria de Estado de Justiça de Rondônia – SEJUS",
+    "valor": null
+   },
+   {
+    "ato": 53,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa Eletrônica nº 322/2026/SMCL/PVH",
+    "objeto": "Quatro nobreaks senoidais de 2.000VA/1.300W para a Secretaria Municipal de Economia",
+    "fornecedor": null,
+    "valor": 9120.0
+   },
+   {
+    "ato": 60,
+    "etapa": "Outro",
+    "modalidade": "Pregão Eletrônico nº 90090/2025/SMCL/PVH",
+    "objeto": "Gestão e fiscalização dos processos derivados da Ata de Registro de Preços SRP nº 068/2025 na SEMTRAN",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 67,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Prorrogação por 12 meses do Contrato nº 065/PGM/2024, de comunicação via satélite e rastreamento por GPS da SEMTEL",
+    "fornecedor": "RADIONET LTDA",
+    "valor": 9293.61
+   },
+   {
+    "ato": 69,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de Licitação nº 07/2026/IPAM-SCL",
+    "objeto": "Cartões de proximidade (smart cards), cordões personalizados e porta-crachás para o IPAM",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 70,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de Licitação nº 08/2026/IPAM-SCL",
+    "objeto": "Consultoria técnica para estudo e revisão da tabela remuneratória do IPAM-Saúde",
+    "fornecedor": null,
+    "valor": null
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-14",
+    "hora": "09:00",
+    "evento": "Sessão da Dispensa Eletrônica nº 322/2026/SMCL para compra de nobreaks, com lances das 9h às 15h no portal gov.br/compras",
+    "ato": 53
+   },
+   {
+    "data": "2026-09-14",
+    "hora": null,
+    "evento": "Reunião em Porto Velho dos encarregados das regiões de endemias para apresentar resultados do combate à malária, até 15/09",
+    "ato": 56
+   },
+   {
+    "data": "2026-09-25",
+    "hora": null,
+    "evento": "Começa a prorrogação de 12 meses do contrato de rastreamento via satélite da SEMTEL com a RADIONET",
+    "ato": 67
+   },
+   {
+    "data": "2026-09-30",
+    "hora": "10:00",
+    "evento": "Abertura das propostas e disputa do Pregão Eletrônico nº 32/EMDUR/2026, no sistema LICITANET",
+    "ato": 4
+   },
+   {
+    "data": "2026-10-31",
+    "hora": null,
+    "evento": "Data prevista pelo Conselho da EMDUR para a atividade presencial do projeto Outubro Urbano, no Complexo da Estrada de Ferro Madeira Mamoré",
+    "ato": 3
+   }
+  ],
+  "normas": [
+   {
+    "ato": 71,
+    "identificacao": "Decreto nº 22.430, de 04/09/2026",
+    "o_que_muda": "Altera o Decreto nº 21.133/2025 para redefinir a estrutura da Fundação Cultural de Porto Velho: o antigo Gabinete da Fundação vira Gabinete do Diretor Presidente e Gabinete do Diretor Vice-Presidente, e a fundação fica com 28 cargos em comissão. Os atuais ocupantes não precisam ser exonerados e renomeados, e o decreto afirma não haver criação de cargos nem aumento de despesa."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 5,
+     "acao": "Nomeação",
+     "nome": "Fanny Fabiola Pessoa Bacelar Matos",
+     "cargo": "Gerente de Compliance da EMDUR"
+    },
+    {
+     "ato": 12,
+     "acao": "Outro",
+     "nome": "Deidvan Costa de Oliveira",
+     "cargo": "Assessor III, DAS 03, do Gabinete da SECOM (exoneração tornada sem efeito)"
+    },
+    {
+     "ato": 13,
+     "acao": "Outro",
+     "nome": "Helberth Raiol de Oliveira",
+     "cargo": "Assessor III, DAS 03, do Gabinete da SECOM (nomeação tornada sem efeito)"
+    },
+    {
+     "ato": 14,
+     "acao": "Outro",
+     "nome": "Lucivane Faustino dos Santos",
+     "cargo": "Assessor Executivo III, DAS 10, do Gabinete Militar da SGOV (nomeação retificada para 1º/09/2026)"
+    },
+    {
+     "ato": 15,
+     "acao": "Outro",
+     "nome": "Tayla Karoline Samaritano Pereira",
+     "cargo": "Assessor I, DAS 01, da Secretaria de Governo (exoneração retificada de SECOM para SGOV)"
+    },
+    {
+     "ato": 16,
+     "acao": "Exoneração",
+     "nome": "Flavia Almeida Gonçalves",
+     "cargo": "Assessor Tributário, DAS 03, do Departamento de Gestão Tributária da SEMEC"
+    },
+    {
+     "ato": 17,
+     "acao": "Exoneração",
+     "nome": "Ronaldo da Silva Lima",
+     "cargo": "Assessor I, DAS 01, do Gabinete da SEMAGRIC"
+    },
+    {
+     "ato": 18,
+     "acao": "Nomeação",
+     "nome": "Carolina Braga de Paiva",
+     "cargo": "Assessor I, DAS 01, do Gabinete da SEMAGRIC"
+    },
+    {
+     "ato": 19,
+     "acao": "Nomeação",
+     "nome": "Juliana Cassia Melo de Souza",
+     "cargo": "Assessor I, DAS 01, do Gabinete da SEMUSA"
+    },
+    {
+     "ato": 19,
+     "acao": "Nomeação",
+     "nome": "Jose da Conceição Silva",
+     "cargo": "Assessor I, DAS 01, do Gabinete da SEMUSA"
+    },
+    {
+     "ato": 20,
+     "acao": "Exoneração",
+     "nome": "Cheslana Oliveira da Silva",
+     "cargo": "Diretora da EMEIEF Pequenos Talentos, DAS 03, da SEMED"
+    },
+    {
+     "ato": 21,
+     "acao": "Nomeação",
+     "nome": "Roziely Barros Vieira Melo",
+     "cargo": "Diretora da EMEIEF Pequenos Talentos, DAS 03, da SEMED"
+    },
+    {
+     "ato": 22,
+     "acao": "Exoneração",
+     "nome": "Fanny Fabiola Pessoa Bacelar Matos",
+     "cargo": "Gerente II, DAS 05, da Divisão de Revisão da SGOV"
+    },
+    {
+     "ato": 22,
+     "acao": "Exoneração",
+     "nome": "Kemia Cristina Silva de Oliveira",
+     "cargo": "Gerente II, DAS 05, da Divisão de Patrimônio da SGOV"
+    },
+    {
+     "ato": 23,
+     "acao": "Nomeação",
+     "nome": "Marcelo Gomes de Souza",
+     "cargo": "Gerente II, DAS 05, da Divisão de Revisão da SGOV"
+    },
+    {
+     "ato": 23,
+     "acao": "Nomeação",
+     "nome": "Pedro Henrique Barbosa",
+     "cargo": "Gerente II, DAS 05, da Divisão de Patrimônio da SGOV"
+    },
+    {
+     "ato": 24,
+     "acao": "Substituição",
+     "nome": "Thays Romão Rocha",
+     "cargo": "Gestora interina do Contrato nº 015/PGM/2026, na Secretaria de Governo"
+    },
+    {
+     "ato": 25,
+     "acao": "Designação",
+     "nome": "Tatiana Lara Silva do Amaral Carratte",
+     "cargo": "Assessor II, DAS 02, da SEMIAS, com exercício na Secretaria de Governo"
+    },
+    {
+     "ato": 26,
+     "acao": "Designação",
+     "nome": "Luis Claudio Carratte",
+     "cargo": "Assessor Técnico II, DAS 07, da SEINFRA, com exercício na Secretaria de Governo"
+    },
+    {
+     "ato": 27,
+     "acao": "Designação",
+     "nome": "Emily Kauana Martins Gomes",
+     "cargo": "Assessor II, DAS 02, da SEINFRA, com exercício na Secretaria de Governo"
+    },
+    {
+     "ato": 28,
+     "acao": "Designação",
+     "nome": "Laura Rafaela Marques Vieira",
+     "cargo": "Assessor Técnico I, DAS 06, da SGOV, com exercício na SEMUSA"
+    },
+    {
+     "ato": 29,
+     "acao": "Designação",
+     "nome": "Cristiano Fernandes Oliveira",
+     "cargo": "Assessor Técnico I, DAS 06, da SEMDEC, com exercício na FUNCULTURAL"
+    },
+    {
+     "ato": 46,
+     "acao": "Exoneração",
+     "nome": "Andrey Marcel Botelho Fiori",
+     "cargo": "Especialista em Educação da SEMED (exoneração a pedido)"
+    },
+    {
+     "ato": 47,
+     "acao": "Exoneração",
+     "nome": "Eliazer Bruno Cavalheiro",
+     "cargo": "Técnico em Enfermagem da SEMUSA (exoneração a pedido)"
+    },
+    {
+     "ato": 48,
+     "acao": "Outro",
+     "nome": "Edson Souza Epifanio",
+     "cargo": "Professor da SEMED (vacância do cargo por falecimento)"
+    },
+    {
+     "ato": 49,
+     "acao": "Exoneração",
+     "nome": "Maria Ivaneide de Sousa",
+     "cargo": "Enfermeiro da SEMUSA (exoneração a pedido)"
+    },
+    {
+     "ato": 50,
+     "acao": "Substituição",
+     "nome": "Irismar Borges Trindade",
+     "cargo": "Chefe II, DAS-03, da SEMIAS, em substituição à titular em férias"
+    },
+    {
+     "ato": 51,
+     "acao": "Outro",
+     "nome": "Uanna Ramos dos Santos",
+     "cargo": "Especialista em Educação da SEMED (vacância por posse em outro cargo)"
+    },
+    {
+     "ato": 52,
+     "acao": "Exoneração",
+     "nome": "Caren Rodrigues Pereira",
+     "cargo": "Gari da SEINFRA (exoneração a pedido)"
+    },
+    {
+     "ato": 74,
+     "acao": "Outro",
+     "nome": "Katarina Moraes Costa de Souza",
+     "cargo": "Coordenador I da Coordenadoria de Programas Institucionais da SEMAD (mudança de localização)"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal é rotina: férias de servidora da Câmara, diárias da EMDUR, da SEMUSA (combate à malária) e da Defesa Civil, quatro pensões por morte concedidas pelo IPAM, duas progressões funcionais (uma delas retificada) e autorizações para conduzir veículo oficial na SEMUSA."
+  },
   "atos": [
    {
     "id": 1,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara Municipal concede férias de 01/09/2026 a 30/09/2026 a Andreia Alves da Silva, servidora comissionada lotada no gabinete do vereador Macário Barros."
+    "resumo": "Portaria nº 178/CMPV-2026 concede férias de 01 a 30/09/2026 à servidora comissionada Andreia Alves da Silva, do gabinete do vereador Macário Barros, na Câmara Municipal."
    },
    {
     "id": 2,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A Câmara Municipal designa Hamilton Fernandes Medeiros como gestor e Valcimarque Celestino da Silva como fiscal da ata de registro de preços para manutenção preventiva e corretiva das centrais de climatização da Casa."
+    "resumo": "Portaria nº 179/2026 da Câmara designa Hamilton Fernandes Medeiros como gestor e Valcimarque Celestino da Silva como fiscal da ata de registro de preços de manutenção das centrais de climatização da Casa."
    },
    {
     "id": 3,
     "categoria": "Conselhos e participação social",
     "relevancia": "media",
-    "resumo": "Ata da reunião de 13/08/2026 do Conselho de Administração da EMDUR: o conselho analisou os relatórios de julho (tempo médio de atendimento da iluminação pública de cerca de 6,7 dias e economia de quase R$ 400.000,00 com garantia de materiais), enviou à diretoria estudo sobre compra de energia no Mercado Livre e compensação de energia e aprovou preliminarmente o Outubro Urbano, previsto para 31 de outubro no Complexo da Estrada de Ferro Madeira-Mamoré."
+    "resumo": "Ata do Conselho de Administração da EMDUR de 13/08/2026 encaminha à Presidência estudo sobre compra de energia no Mercado Livre e geração solar, acolhe em caráter preliminar o projeto Outubro Urbano para 31/10/2026 e registra que a contratação de equipes terceirizadas de eletricistas está suspensa pelo Tribunal de Contas, além de economia de quase R$ 400.000,00 obtida pela Gerência de Garantia Total."
    },
    {
     "id": 4,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A EMDUR publica o Pregão Eletrônico nº 32/EMDUR/2026, por registro de preços e menor valor global, para contratar manutenção preventiva, corretiva e emergencial das estações públicas de hidratação de água sob sua gestão; abertura e disputa em 30/09/2026, às 10h, no LicitaNet, com orçamento estimado sigiloso."
+    "resumo": "A EMDUR abre o Pregão Eletrônico nº 32/EMDUR/2026 (Processo 015.000604/2026-34) para registro de preços da manutenção preventiva, corretiva e emergencial das estações públicas de hidratação de água, com propostas e disputa em 30/09/2026 às 10h no sistema LICITANET; o orçamento estimativo é sigiloso."
    },
    {
     "id": 5,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A EMDUR nomeia Fanny Fabiola Pessoa Bacelar Matos para o cargo em comissão de Gerente de Compliance a partir de 04/09/2026."
+    "resumo": "Portaria nº 185/2026/GAB/EMDUR nomeia Fanny Fabiola Pessoa Bacelar Matos para o cargo em comissão de Gerente de Compliance da EMDUR, a contar de 04/09/2026."
    },
    {
     "id": 6,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A EMDUR homologa a prestação de contas de 2 diárias e meia do diretor-presidente Bruno Oliveira de Holanda, que viajou a Goiânia (GO) para conhecer o Projeto Brilha Goiânia, parceria público-privada de iluminação pública."
+    "resumo": "A EMDUR homologa a prestação de contas de 2 diárias e meia do diretor-presidente Bruno Oliveira de Holanda para visita técnica ao projeto Brilha Goiânia, PPP de iluminação pública, em Goiânia (GO)."
    },
    {
     "id": 7,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM concede pensão por morte vitalícia, com cota de 100%, a Luís Felipe Romano Castelo Branco, filho da aposentada Ana Maria Gomes Romano, falecida em 25/11/2025, com efeito retroativo à data do óbito."
+    "resumo": "Portaria nº 496/2026 do IPAM concede pensão por morte vitalícia, cota de 100%, a Luís Felipe Romano Castelo Branco, filho da aposentada Ana Maria Gomes Romano, retroativa ao óbito em 25/11/2025."
    },
    {
     "id": 8,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM concede pensão por morte ao companheiro Antônio Matos da Silva (vitalícia, 50%) e ao filho Antônio Cauê da Silva Pinheiro (temporária, 50%) da gari Fátima Gomes Martins, da SEINFRA, falecida em 28/05/2026."
+    "resumo": "Portaria nº 497/2026 do IPAM concede pensão por morte a Antônio Matos da Silva (vitalícia, 50%) e a Antônio Cauê da Silva Pinheiro (temporária, 50%), dependentes da gari Fátima Gomes Martins, falecida em 28/05/2026."
    },
    {
     "id": 9,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM concede pensão por morte vitalícia, com cota de 100%, a Rosilda Allyene Gonzaga, viúva do operador de máquinas pesadas aposentado José de Freitas Gonzaga, falecido em 04/07/2026."
+    "resumo": "Portaria nº 499/2026 do IPAM concede pensão por morte vitalícia de 100% a Rosilda Allyene Gonzaga, viúva do aposentado José de Freitas Gonzaga, retroativa ao óbito em 04/07/2026."
    },
    {
     "id": 10,
-    "categoria": "Pessoal",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "O IPAM concede pensão por morte vitalícia, com cota de 100%, a Maria Lúcia da Silva Brito, companheira do auxiliar de serviços gerais aposentado Manoel Augusto Couto dos Santos, falecido em 04/07/2026."
+    "resumo": "Portaria nº 500/2026 do IPAM concede pensão por morte vitalícia de 100% a Maria Lúcia da Silva Brito, companheira do aposentado Manoel Augusto Couto dos Santos, retroativa ao óbito em 04/07/2026."
    },
    {
     "id": 11,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "O IPAM reconstitui, sob a presidência de Luciana de Sousa Rodrigues, a comissão que revisa a minuta de lei complementar da nova estrutura do instituto, com prazo improrrogável de 60 dias para entregar minuta final, organograma, quadro de cargos e estudo de impacto financeiro."
+    "resumo": "Portaria nº 503/2026 do IPAM reconstitui a comissão que vai revisar a minuta de lei complementar da estrutura organizacional do instituto, sob coordenação de Luciana de Sousa Rodrigues, com prazo improrrogável de 60 dias e entrega obrigatória de minuta final, organograma, quadro de cargos e estudo de impacto financeiro."
    },
    {
     "id": 12,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto do prefeito torna sem efeito a exoneração de Deidvan Costa de Oliveira do cargo de Assessor III (DAS 03) no gabinete da Secretaria Municipal de Comunicação (SECOM)."
+    "resumo": "Decreto nº 3.640/I torna sem efeito a exoneração de Deidvan Costa de Oliveira do cargo de Assessor III, DAS 03, da SECOM, que constava do Decreto nº 3.597/I com efeitos desde 20/08/2026."
    },
    {
     "id": 13,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto do prefeito torna sem efeito a nomeação de Helberth Raiol de Oliveira para o cargo de Assessor III (DAS 03) no gabinete da SECOM."
+    "resumo": "Decreto nº 3.641/I torna sem efeito a nomeação de Helberth Raiol de Oliveira para Assessor III, DAS 03, da SECOM, constante do Decreto nº 3.598/I, com efeitos desde 20/08/2026."
    },
    {
     "id": 14,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto retifica a data de nomeação de Lucivane Faustino dos Santos como Assessor Executivo III (DAS 10) no Gabinete Militar da SGOV, que passa de 1º de julho para 1º de setembro de 2026."
+    "resumo": "Decreto nº 3.642/I retifica a nomeação de Lucivane Faustino dos Santos como Assessor Executivo III, DAS 10, do Gabinete Militar da SGOV: onde se lia 1º de julho de 2026, passa a valer 1º de setembro de 2026."
    },
    {
     "id": 15,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto retifica a exoneração de Tayla Karoline Samaritano Pereira (Assessor I, DAS 01) para registrar que o cargo era da Secretaria de Governo (SGOV), e não da SECOM."
+    "resumo": "Decreto nº 3.643/I corrige a exoneração de Tayla Karoline Samaritano Pereira do cargo de Assessor I, DAS 01: o órgão correto é a Secretaria de Governo (SGOV) e não a SECOM, com efeitos desde 1º/08/2026."
    },
    {
     "id": 16,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto exonera Flavia Almeida Gonçalves do cargo de Assessor Tributário (DAS 03) no Departamento de Gestão Tributária da Secretaria Municipal de Economia (SEMEC), a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.644/I exonera Flavia Almeida Gonçalves do cargo de Assessor Tributário, DAS 03, do Departamento de Gestão Tributária da SEMEC, a partir de 08/09/2026."
    },
    {
     "id": 17,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto exonera Ronaldo da Silva Lima do cargo de Assessor I (DAS 01) no gabinete da Secretaria de Agricultura, Pecuária e Abastecimento (SEMAGRIC), a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.645/I exonera Ronaldo da Silva Lima do cargo de Assessor I, DAS 01, do gabinete da SEMAGRIC, a partir de 08/09/2026."
    },
    {
     "id": 18,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto nomeia Carolina Braga de Paiva como Assessor I (DAS 01) no gabinete da SEMAGRIC, a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.646/I nomeia Carolina Braga de Paiva para o cargo de Assessor I, DAS 01, do gabinete da SEMAGRIC, a partir de 08/09/2026."
    },
    {
     "id": 19,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Decreto nomeia Juliana Cassia Melo de Souza e José da Conceição Silva como Assessor I (DAS 01) no gabinete da Secretaria Municipal de Saúde (SEMUSA), a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.647/I nomeia Juliana Cassia Melo de Souza e Jose da Conceição Silva para cargos de Assessor I, DAS 01, do gabinete da Secretaria Municipal de Saúde, a partir de 08/09/2026."
    },
    {
     "id": 20,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Decreto exonera Cheslana Oliveira da Silva do cargo de diretora da EMEIEF Pequenos Talentos (tipologia C, DAS 03), da SEMED, a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.648/I exonera Cheslana Oliveira da Silva da direção da EMEIEF Pequenos Talentos (tipologia C, DAS 03), da SEMED, a partir de 08/09/2026."
    },
    {
     "id": 21,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Decreto nomeia Roziely Barros Vieira Melo para o cargo de diretora da EMEIEF Pequenos Talentos (tipologia C, DAS 03), da SEMED, a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.649/I nomeia Roziely Barros Vieira Melo para dirigir a EMEIEF Pequenos Talentos (tipologia C, DAS 03), da SEMED, a partir de 08/09/2026."
    },
    {
     "id": 22,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Decreto exonera Fanny Fabiola Pessoa Bacelar Matos (Divisão de Revisão) e Kemia Cristina Silva de Oliveira (Divisão de Patrimônio) dos cargos de Gerente II (DAS 05) da SGOV, a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.650/I exonera Fanny Fabiola Pessoa Bacelar Matos (Divisão de Revisão) e Kemia Cristina Silva de Oliveira (Divisão de Patrimônio) dos cargos de Gerente II, DAS 05, da Secretaria de Governo, a partir de 08/09/2026."
    },
    {
     "id": 23,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Decreto nomeia Marcelo Gomes de Souza (Divisão de Revisão) e Pedro Henrique Barbosa (Divisão de Patrimônio) como Gerente II (DAS 05) da SGOV, a partir de 08/09/2026."
+    "resumo": "Decreto nº 3.651/I nomeia Marcelo Gomes de Souza para a Divisão de Revisão e Pedro Henrique Barbosa para a Divisão de Patrimônio, ambos Gerente II, DAS 05, da Secretaria de Governo, a partir de 08/09/2026."
    },
    {
     "id": 24,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SGOV designa Thays Romão Rocha como gestora interina do Contrato nº 015/PGM/2026, no lugar de Pedro Henrique Barbosa Lima."
+    "relevancia": "media",
+    "resumo": "Portaria nº 292/2026 da SGOV designa Thays Romão Rocha como gestora interina do Contrato nº 015/PGM/2026, em substituição a Pedro Henrique Barbosa Lima, alterando a Portaria nº 83/2026/SGOV-DEA."
    },
    {
     "id": 25,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SGOV designa Tatiana Lara Silva do Amaral Carratte, Assessor II da SEMIAS, para trabalhar na Secretaria de Governo, com efeito retroativo a 23/07/2026."
+    "resumo": "Portaria nº 297/2026 designa Tatiana Lara Silva do Amaral Carratte, Assessor II da SEMIAS, para exercer suas atribuições na Secretaria de Governo, com efeitos retroativos a 23/07/2026."
    },
    {
     "id": 26,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SGOV designa Luis Claudio Carratte, Assessor Técnico II da SEINFRA, para trabalhar na Secretaria de Governo, com efeito retroativo a 23/07/2026."
+    "resumo": "Portaria nº 298/2026 designa Luis Claudio Carratte, Assessor Técnico II da SEINFRA, para exercer suas atribuições na Secretaria de Governo, com efeitos retroativos a 23/07/2026."
    },
    {
     "id": 27,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SGOV designa Emily Kauana Martins Gomes, Assessor II da SEINFRA, para trabalhar na Secretaria de Governo, com efeito retroativo a 01/09/2026."
+    "resumo": "Portaria nº 313/2026 designa Emily Kauana Martins Gomes, Assessor II da SEINFRA, para exercer suas atribuições na Secretaria de Governo, com efeitos retroativos a 01/09/2026."
    },
    {
     "id": 28,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SGOV designa Laura Rafaela Marques Vieira, Assessor Técnico I da SGOV, para trabalhar na Secretaria Municipal de Saúde, com efeito retroativo a 07/08/2026."
+    "resumo": "Portaria nº 314/2026 designa Laura Rafaela Marques Vieira, Assessor Técnico I da SGOV, para exercer suas atribuições na Secretaria Municipal de Saúde, com efeitos retroativos a 07/08/2026."
    },
    {
     "id": 29,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SGOV designa Cristiano Fernandes Oliveira, Assessor Técnico I da SEMDEC, para atuar na FUNCULTURAL apenas no período já passado de 01/05/2026 a 31/05/2026, com efeito retroativo."
+    "resumo": "Portaria nº 315/2026 designa Cristiano Fernandes Oliveira, Assessor Técnico I da SEMDEC, para atuar na Fundação Cultural, com efeitos retroativos a 01/05/2026 e vigência até 31/05/2026 — período já encerrado na data da publicação."
    },
    {
     "id": 30,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Contrato nº 042/PGM/2015, de locação do imóvel do Departamento de Recursos Logísticos."
+    "resumo": "Portaria nº 154/2026/SEMAD designa Marcio Barbosa Duarte como gestor e três fiscais para o Contrato nº 042/PGM/2015, de locação do imóvel do Departamento de Recursos Logísticos, revogando a Portaria nº 97/2026 e valendo até 31/12/2026."
    },
    {
     "id": 31,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Eliã Victor Alves Aguirre como gestor, para fiscalizar o contrato de baixa tensão DESC/014/2020 com a Energisa Rondônia; o texto sobre a validade está truncado, mas indica vigência até 31/12/2026."
+    "resumo": "Portaria nº 155/2026/SEMAD designa Eliã Victor Alves Aguirre como gestor e três fiscais do contrato de adesão DESC/014/2020 de energia em baixa tensão com a Energisa Rondônia, válida até 31/12/2026."
    },
    {
     "id": 32,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Eliã Victor Alves Aguirre como gestor, para acompanhar até 31/12/2026 dezoito contratos horossazonais de energia com a Energisa Rondônia."
+    "resumo": "Portaria nº 156/2026/SEMAD designa comissão, sob Eliã Victor Alves Aguirre, para acompanhar 18 contratos DESC horossazonais de 2022 com a Energisa Rondônia, válida até 31/12/2026."
    },
    {
     "id": 33,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Eliã Victor Alves Aguirre como gestor, para fiscalizar até 31/12/2026 sete contratos de energia (modalidade optante) com a Energisa Rondônia."
+    "resumo": "Portaria nº 157/2026/SEMAD designa comissão para fiscalizar sete contratos DESC de 2020 (optante) de energia com a Energisa Rondônia, revogando a Portaria nº 102/2026 e valendo até 31/12/2026."
    },
    {
     "id": 34,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Frankcilene Garcia Galvão como gestora, para fiscalizar até 31/12/2026 o Contrato nº 039/PGM/2023 de telefonia fixa com a Telefônica Oi S.A."
+    "resumo": "Portaria nº 158/2026/SEMAD designa Frankcilene Garcia Galvão como gestora e três fiscais do Contrato nº 039/PGM/2023, de telefonia fixa com a Telefônica Oi S.A., até 31/12/2026."
    },
    {
     "id": 35,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Frankcilene Garcia Galvão como gestora, para fiscalizar até 31/12/2026 o Contrato nº 041/PGM/2021 de telefonia móvel com a Telefônica Brasil S/A."
+    "resumo": "Portaria nº 159/2026/SEMAD designa Frankcilene Garcia Galvão como gestora e três fiscais do Contrato nº 041/PGM/2021, de telefonia móvel com a Telefônica Brasil S/A, até 31/12/2026."
    },
    {
     "id": 36,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Contrato nº 009/PGM/2023 com a Colúmbia Segurança e Vigilância Patrimonial."
+    "resumo": "Portaria nº 160/2026/SEMAD designa Marcio Barbosa Duarte como gestor e quatro fiscais do Contrato nº 009/PGM/2023, com a Colúmbia Segurança e Vigilância Patrimonial EIRELI, até 31/12/2026."
    },
    {
     "id": 37,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Contrato nº 003/PGM/2024 com a Impactual Vigilância e Segurança."
+    "resumo": "Portaria nº 161/2026/SEMAD designa Marcio Barbosa Duarte como gestor e quatro fiscais do Contrato nº 003/PGM/2024, com a Impactual Vigilância e Segurança LTDA, até 31/12/2026."
    },
    {
     "id": 38,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Contrato nº 008/PGM/2023 com a G.J Segurança e Vigilância."
+    "resumo": "Portaria nº 162/2026/SEMAD designa Marcio Barbosa Duarte como gestor e quatro fiscais do Contrato nº 008/PGM/2023, com a G.J Segurança e Vigilância LTDA – ME, até 31/12/2026."
    },
    {
     "id": 39,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Danielle Marcelino de Souza Leão como gestora, para fiscalizar até 31/12/2026 o Contrato nº 047/PGM/2023 de publicações no Diário Oficial dos Municípios de Rondônia (DOMER)."
+    "resumo": "Portaria nº 163/2026/SEMAD designa Danielle Marcelino de Souza Leão como gestora e três fiscais do Contrato nº 047/PGM/2023, dos serviços de publicação no Diário Oficial dos Municípios, até 31/12/2026."
    },
    {
     "id": 40,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Shaian do Carmo Bastos como gestor, para fiscalizar até 31/12/2026 o Contrato nº 037/2022 com a Companhia de Águas e Esgoto de Rondônia (CAERD)."
+    "resumo": "Portaria nº 164/2026/SEMAD designa Shaian do Carmo Bastos como gestor e três fiscais do Contrato nº 037/2022 com a CAERD, companhia estadual de águas e esgoto, até 31/12/2026."
    },
    {
     "id": 41,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Letícia de Souza Cavalcante como gestora, para fiscalizar até 31/12/2026 o Contrato nº 059/PGM/2021 de locação de impressoras multifuncionais com a Acronet Corporativo."
+    "resumo": "Portaria nº 165/2026/SEMAD designa Letícia de Souza Cavalcante como gestora e três fiscais do Contrato nº 059/PGM/2021, de locação de multifuncionais a laser com a Acronet Corporativo, até 31/12/2026."
    },
    {
     "id": 42,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Contrato nº 002/PGM/2024 de saúde e segurança no trabalho com a Total Life Assistência à Vida."
+    "resumo": "Portaria nº 166/2026/SEMAD designa Marcio Barbosa Duarte como gestor e três fiscais do Contrato nº 002/PGM/2024, de saúde e segurança no trabalho com a Total Life Assistência à Vida LTDA, até 31/12/2026."
    },
    {
     "id": 43,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Letícia de Souza Cavalcante como gestora, para fiscalizar até 31/12/2026 o contrato de manutenção, instalação e desinstalação de ar-condicionado com a Capuche Tecnoclima (o número do contrato aparece de forma confusa no texto: 099/2026/PGM/2020)."
+    "resumo": "Portaria nº 167/2026/SEMAD designa Letícia de Souza Cavalcante como gestora e três fiscais do contrato de manutenção e instalação de ar-condicionado com a Capuche Tecnoclima LTDA; a numeração do contrato aparece confusa no texto (099/2026/PGM/2020)."
    },
    {
     "id": 44,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Marcio Barbosa Duarte como gestor, para fiscalizar até 31/12/2026 o Convênio nº 004/PGM/2025 de cooperação e troca de informações com o CREA-RO."
+    "resumo": "Portaria nº 168/2026/SEMAD designa Marcio Barbosa Duarte como gestor e três fiscais do Convênio nº 004/PGM/2025, de cooperação e troca de informações entre o Município e o CREA-RO, até 31/12/2026."
    },
    {
     "id": 45,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa comissão, com Danielle Marcelino de Souza Leão como gestora, para fiscalizar até 31/12/2026 o convênio com a Secretaria de Estado de Justiça (SEJUS) para uso de mão de obra de reeducandos dos regimes aberto e semiaberto."
+    "resumo": "Portaria nº 169/2026/SEMAD designa Danielle Marcelino de Souza Leão como gestora e quatro fiscais do Convênio nº 510/2024/PGE-SEJUS, que permite usar mão de obra de reeducados em regime aberto e semiaberto, até 31/12/2026."
    },
    {
     "id": 46,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD exonera, a pedido, Andrey Marcel Botelho Fiori, especialista em educação da SEMED, a partir de 24/08/2026."
+    "resumo": "Portaria nº 1381/2026/SEMAD exonera, a pedido, o servidor efetivo Andrey Marcel Botelho Fiori do cargo de Especialista em Educação da SEMED, a partir de 24/08/2026."
    },
    {
     "id": 47,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD exonera, a pedido, Eliazer Bruno Cavalheiro, técnico em enfermagem da SEMUSA, a partir de 27/08/2026."
+    "resumo": "Portaria nº 1382/2026/SEMAD exonera, a pedido, o servidor efetivo Eliazer Bruno Cavalheiro do cargo de Técnico em Enfermagem da SEMUSA, a partir de 27/08/2026."
    },
    {
     "id": 48,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD declara vago, a partir de 06/08/2026, o cargo de professor ocupado por Edson Souza Epifanio, da SEMED, em razão de seu falecimento."
+    "resumo": "Portaria nº 1383/2026/SEMAD declara a vacância, desde 06/08/2026, do cargo de Professor ocupado por Edson Souza Epifanio na SEMED, em razão de seu falecimento."
    },
    {
     "id": 49,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD exonera, a pedido, Maria Ivaneide de Sousa, enfermeira da SEMUSA, a partir de 01/09/2026."
+    "resumo": "Portaria nº 1384/2026/SEMAD exonera, a pedido, a servidora efetiva Maria Ivaneide de Sousa do cargo de Enfermeiro da SEMUSA, a partir de 01/09/2026."
    },
    {
     "id": 50,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD designa Irismar Borges Trindade para ocupar o cargo de Chefe II (DAS 03) da SEMIAS de 01/09/2026 a 30/09/2026, substituindo Raimunda Monteiro Evangelista durante as férias."
+    "resumo": "Portaria nº 1385/2026/SEMAD designa Irismar Borges Trindade para exercer, de 01 a 30/09/2026, o cargo de Chefe II, DAS-03, da SEMIAS, em substituição à titular Raimunda Monteiro Evangelista, em férias."
    },
    {
     "id": 51,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD declara vago o cargo de especialista em educação de Uanna Ramos dos Santos, da SEMED, de 30/07/2026 a 28/07/2029, porque ela tomou posse em outro cargo que não pode acumular."
+    "resumo": "Portaria nº 1386/2026/SEMAD declara a vacância do cargo de Especialista em Educação ocupado por Uanna Ramos dos Santos na SEMED, de 30/07/2026 a 28/07/2029, por posse em outro cargo inacumulável."
    },
    {
     "id": 52,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD exonera, a pedido, Caren Rodrigues Pereira, gari da SEINFRA, a partir de 26/08/2026."
+    "resumo": "Portaria nº 1387/2026/SEMAD exonera, a pedido, a servidora efetiva Caren Rodrigues Pereira do cargo de Gari da SEINFRA, a partir de 26/08/2026."
    },
    {
     "id": 53,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SMCL abre a Dispensa Eletrônica nº 322/2026 para comprar 4 nobreaks senoidais de 2.000VA para a SEMEC, com valor estimado de R$ 9.120,00 e lances em 14/09/2026, das 9h às 15h, no portal gov.br/compras."
+    "relevancia": "media",
+    "resumo": "Dispensa Eletrônica nº 322/2026/SMCL/PVH, com base no art. 75, II, da Lei 14.133/2021, para comprar 4 nobreaks senoidais de 2.000VA/1.300W para a SEMEC, no valor estimado de R$ 9.120,00, com sessão em 14/09/2026 e lances das 9h às 15h no portal gov.br/compras."
    },
    {
     "id": 54,
-    "categoria": "Licitações e contratos",
+    "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMED comunica à IIN Tecnologias Ltda o cancelamento da nota fiscal nº 762, do serviço de vigilância por monitoramento eletrônico, por ter sido lançada em duplicidade, sem prejuízo ao contrato ou aos cofres públicos."
+    "resumo": "A SEMED comunica à IIN Tecnologias LTDA o cancelamento da nota fiscal de serviço eletrônica nº 762, de 16/06/2026, ligada ao 2º Termo Aditivo nº 05/2026 do contrato de vigilância por monitoramento eletrônico, por lançamento em duplicidade, sem prejuízo ao erário segundo o texto."
    },
    {
     "id": 55,
     "categoria": "Conselhos e participação social",
     "relevancia": "media",
-    "resumo": "O Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA) anula a abertura do Processo Ético nº 02/CE/CMDCA/2026 contra o conselheiro tutelar identificado como F. X. C. e determina a instauração de novo processo, mantendo as provas já reunidas."
+    "resumo": "Resolução nº 340/2026 do CMDCA anula a instauração do Processo Ético nº 02/CE/CMDCA/2026 contra o conselheiro tutelar F. X. C., torna sem efeito os atos já praticados (salvo as provas documentais) e determina a abertura de novo processo ético-disciplinar."
    },
    {
     "id": 56,
-    "categoria": "Finanças e orçamento",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA concede 1,5 diária a seis agentes de combate a endemias que virão a Porto Velho em 14 e 15/09/2026, de regiões como Jaci Paraná, Extrema e Calama, para apresentar resultados do controle da malária."
+    "resumo": "Portaria nº 423/2026 da SEMUSA concede 1,5 diária a seis agentes de combate a endemias das regiões de Jaci Paraná, Nova Califórnia, São Carlos, Extrema, Rio Pardo e Calama para reunião em Porto Velho sobre a redução dos casos de malária, de 14 a 15/09/2026."
    },
    {
     "id": 57,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA autoriza Alecsandro Assunção Guimarães e William Carlos da Costa Barbosa a dirigir veículo oficial da Unidade de Saúde da Família Hamilton Raulino Gondim, por um ano."
+    "resumo": "Portaria nº 427/2026 da SEMUSA autoriza Alecsandro Assunção Guimarães e William Carlos da Costa Barbosa a conduzir veículo oficial da USF Hamilton Raulino Gondim, por um ano."
    },
    {
     "id": 58,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA autoriza Aline Almeida da Costa, diretora do Departamento de Atenção Básica, a dirigir veículo oficial do departamento, por um ano."
+    "resumo": "Portaria nº 428/2026 da SEMUSA autoriza Aline Almeida da Costa, diretora do Departamento de Atenção Básica, a conduzir veículo oficial do DAB pelo prazo de um ano."
    },
    {
     "id": 59,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN cancela a autorização de táxi AAM-0112, concedida a uma permissionária de nome parcialmente ocultado (Maria), sem informar o motivo; o número do processo aparece mascarado."
+    "resumo": "Portaria nº 137/2026 da SEMTRAN cancela a Autorização Administrativa Municipal AAM-0112 para exploração de serviço de táxi; o número do processo aparece mascarado no texto publicado."
    },
    {
     "id": 60,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN designa Gilberto Antônio Alves Vigiato como gestor e Vinícius dos Santos Feitosa, Gabriela Maria de Mattos Lopes e Marinaldo Barbosa Lima Junior como fiscais dos contratos derivados da ata de registro de preços nº 068/2025 (Pregão Eletrônico nº 90090/2025)."
+    "resumo": "Portaria nº 142/2026 da SEMTRAN designa Gilberto Antônio Alves Vigiato como gestor e três fiscais dos processos derivados da Ata de Registro de Preços SRP nº 068/2025 (Pregão Eletrônico nº 90090/2025/SMCL), e exige que façam quatro cursos da ENAP sobre a Lei 14.133/2021."
    },
    {
     "id": 61,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza Elizangela (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0690, válida de 31/10/2024 a 31/10/2029."
+    "resumo": "Termo de Autorização nº 153/2026/SEMTRAN-DISTAX concede a AAM-0690 para exploração de serviço de táxi em Porto Velho, com vigência de 31/10/2024 a 31/10/2029; o nome do autorizado está mascarado na publicação."
    },
    {
     "id": 62,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza David (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0578, com vigência de 21/08/2025 a 31/08/2030."
+    "resumo": "Termo de Autorização nº 155/2026/SEMTRAN-DISTAX concede a AAM-0578 para exploração de serviço de táxi, com vigência de 21/08/2025 a 31/08/2030; o nome do autorizado está mascarado na publicação."
    },
    {
     "id": 63,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza Cleonice (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0048; o texto tem falhas, pois a cláusula de prazo traz o número da autorização como xxxxx e datas de 31/08/2024 a 31/08/2030, embora fale em cinco anos."
+    "resumo": "Termo de Autorização nº 156/2026/SEMTRAN-DISTAX concede a AAM-0048 para exploração de serviço de táxi, com vigência de 31/08/2024 a 31/08/2030; uma das cláusulas traz o número da autorização em branco ('AAM xxxxx')."
    },
    {
     "id": 64,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza Rodrigo (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0148, válida de 31/08/2026 a 31/08/2031."
+    "resumo": "Termo de Autorização nº 159/2026/SEMTRAN-DISTAX concede a AAM-0148 para exploração de serviço de táxi, com vigência de 31/08/2026 a 31/08/2031; o nome do autorizado está mascarado na publicação."
    },
    {
     "id": 65,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza Alexsander (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0374, válida de 30/04/2026 a 30/04/2031."
+    "resumo": "Termo de Autorização nº 160/2026/SEMTRAN-DISTAX concede a AAM-0374 para exploração de serviço de táxi, com vigência de 30/04/2026 a 30/04/2031; o nome do autorizado está mascarado na publicação."
    },
    {
     "id": 66,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN autoriza Vanusa (sobrenome ocultado) a explorar o serviço de táxi com a autorização AAM-0588 por cinco anos; o texto tem erro, pois indica início e fim da vigência na mesma data, 31/08/2026."
+    "resumo": "Termo de Autorização nº 161/2026/SEMTRAN-DISTAX concede a AAM-0588 para exploração de serviço de táxi; o texto fala em prazo de cinco anos, mas registra início em 31/08/2026 e término em 31/08/2026, o que deixa a vigência confusa."
    },
    {
     "id": 67,
     "categoria": "Licitações e contratos",
-    "relevancia": "media",
-    "resumo": "A SEMTEL prorroga por 12 meses, a partir de 25/09/2026, o Contrato nº 065/PGM/2024 com a Radionet Ltda, de comunicação via satélite e rastreamento por GPS, com pré-empenho de R$ 9.293,61 para agosto a dezembro de 2026."
+    "relevancia": "alta",
+    "resumo": "Extrato do 2º Termo Aditivo ao Contrato nº 065/PGM/2024 prorroga por 12 meses, a partir de 25/09/2026, os serviços de comunicação via satélite e rastreamento GPS prestados à SEMTEL pela RADIONET LTDA, com pré-empenho de R$ 9.293,61 para as despesas de agosto a dezembro de 2026."
    },
    {
     "id": 68,
-    "categoria": "Finanças e orçamento",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Defesa Civil concede diárias a três servidores (Deylla Larrisa da Silva Souza, Marcelo Victor Duarte Correa e Natanael Machado Araujo) que atuaram no combate a incêndio no Ramal dos Acreanos em 29 e 30/08/2026."
+    "resumo": "Portaria nº 65/2026 da Defesa Civil arbitra e concede diárias a três servidores que atuaram no combate a focos de incêndio no Ramal dos Acreanos entre 29 e 30/08/2026, em missão emergencial com saída às 17h e retorno às 4h41."
    },
    {
     "id": 69,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "O IPAM abre a Dispensa nº 07/2026 para comprar 300 cartões de proximidade (servidores, estagiários e visitantes), 200 cordões e 200 porta-crachás, com propostas por e-mail (scl@ipam.ro.gov.br) em até 5 dias úteis; o aviso não informa o valor total."
+    "resumo": "Aviso de Dispensa de Licitação nº 07/2026/IPAM-SCL, pelo art. 75, II, da Lei 14.133/2021, para comprar 300 cartões de proximidade (smart cards), 200 cordões personalizados e 200 porta-crachás; as propostas vão por e-mail em até 5 dias úteis e a tabela de valores saiu em branco na publicação."
    },
    {
     "id": 70,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "O IPAM abre a Dispensa nº 08/2026 para contratar consultoria em economia da saúde que fará estudo técnico-financeiro e de mercado para revisar a tabela de remuneração de prestadores do IPAM-Saúde, com propostas por e-mail (scl@ipam.ro.gov.br) em até 5 dias úteis; o aviso não informa o valor."
+    "resumo": "Aviso de Dispensa de Licitação nº 08/2026/IPAM-SCL, pelo art. 75, II, da Lei 14.133/2021, para contratar consultoria em gestão e economia da saúde que subsidiará a revisão da tabela remuneratória do IPAM-Saúde, com propostas por e-mail em até 5 dias úteis e valor total não preenchido no aviso."
    },
    {
     "id": 71,
     "categoria": "Legislação",
-    "relevancia": "media",
-    "resumo": "Decreto nº 22.430 altera a estrutura da Fundação Cultural de Porto Velho (FUNCULTURAL), dividindo o antigo Gabinete da Fundação em gabinetes do diretor-presidente e do vice-presidente, mantendo 28 cargos em comissão e sem aumento de despesa."
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.430, de 04/09/2026, altera o Decreto nº 21.133/2025 e redefine a estrutura da FUNCULTURAL: o Gabinete da Fundação é desdobrado em Gabinete do Diretor Presidente e Gabinete do Diretor Vice-Presidente, o total fica em 28 cargos em comissão e os atuais ocupantes seguem sem exoneração e nova nomeação, sem aumento de despesa."
    },
    {
     "id": 72,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD concede progressão funcional à professora Neide Terezinha de Lima, da referência 3 à 10, com datas de 01/11/2012 a 01/11/2024."
+    "resumo": "Portaria de Progressão nº 152, de 01/09/2026, concede progressão funcional à professora Neide Terezinha de Lima, da referência 3 à 10, em etapas de 01/11/2012 a 01/11/2024."
    },
    {
     "id": 73,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD retifica a progressão funcional do técnico de radiologia Rozevaldo Teixeira Lopes para incluir as etapas da referência III à VIII, de 11/10/2017 a 27/12/2025."
+    "resumo": "Portaria de Progressão nº 154, de 02/09/2026, retifica a Portaria nº 151/2026 para detalhar as progressões do técnico de radiologia Rozevaldo Teixeira Lopes, da referência III à VIII, entre 11/10/2017 e 27/12/2025."
    },
    {
     "id": 74,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD lota Katarina Moraes Costa de Souza, Coordenador I comissionada, na Coordenadoria de Programas Institucionais, a partir de 07/08/2026."
+    "resumo": "Portaria nº 153/2026/DIGP/SEMAD localiza a servidora comissionada Katarina Moraes Costa de Souza, Coordenador I, na Coordenadoria de Programas Institucionais (COPI), a contar de 07/08/2026."
    },
    {
     "id": 75,
     "categoria": "Concursos e seleções",
     "relevancia": "alta",
-    "resumo": "A SEMED homologa o resultado final da convocação complementar do processo seletivo (Edital nº 7/2026) para diretor e vice-diretor de escolas municipais urbanas e rurais, como EMEIEF Nova República, EMEIEF Bom Princípio, EMEF Manoel Pedro Pereira e EMEF 13 de Maio; Araceli da Silva Souza aparece classificada sub judice."
+    "resumo": "Publicação nº 4/2026/SEMED-DGE homologa o resultado final da convocação complementar do processo seletivo de diretores e vice-diretores escolares (Edital nº 7/2026), listando aprovados em escolas urbanas e rurais, entre elas as EMEIEF Nova República, Nossa Senhora do Amparo, Bom Princípio, São Miguel e as EMEF Jerusalém da Amazônia e Manoel Pedro Pereira; a candidata Araceli da Silva Souza consta sub judice no Processo nº 7045827-15.2026.8.22.0001."
    },
    {
     "id": 76,
     "categoria": "Concursos e seleções",
     "relevancia": "media",
-    "resumo": "A SEMED publica errata do resultado da seleção de diretores publicado em 31/08/2026: inclui Araceli da Silva Souza (sub judice) em primeiro lugar na EMEF Jerusalém da Amazônia e na lista da EMEF Flor do Cupuaçu, e corrige a nota final de Francisco Luciney da Silva Carvalho de 10,50 para 10,13."
+    "resumo": "Resultado nº 3/2026/SEMED-DGE publica errata ao resultado final divulgado em 31/08/2026, corrigindo notas e classificações nas EMEF Jerusalém da Amazônia, Manoel Pedro Pereira e Flor do Cupuaçu, com inclusão da candidata sub judice Araceli da Silva Souza."
    },
    {
     "id": 77,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "A SEMTRAN publica edital com 136 notificações de multa de trânsito, a maioria de R$ 293,47, para donos de veículos que não foram localizados pelo correio; o prazo para recurso à JARI é de 30 dias, na sede da SEMTRAN, Av. Amazonas, 698, bairro Santa Bárbara."
+    "resumo": "Edital de Notificação de Penalidade nº 176/2026 da SEMTRAN notifica por edital proprietários e condutores de cerca de 150 veículos multados entre fevereiro e maio de 2026, com multas de R$ 130,16 a R$ 293,47 e prazo de 30 dias para recurso à JARI."
    }
   ]
  },
@@ -1251,5 +1709,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-11T12:31-04:00"
- }
+ },
+ "resumo_formato": 2
 }

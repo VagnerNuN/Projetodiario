@@ -578,28 +578,37 @@
   }
  ],
  "resumo": {
-  "manchete": "Prefeitura contrata o IBGP por R$ 2,41 milhões, sem licitação, para organizar os concursos públicos da Educação e da Saúde",
-  "resumo": "O ato de maior peso da edição é o contrato de R$ 2,41 milhões, feito com dispensa de licitação, com o Instituto Brasileiro de Gestão e Pesquisa (IBGP) para realizar os concursos públicos da SEMED e da SEMUSA. Já saiu também a comissão que vai fiscalizar esse contrato. Na cultura, a FUNCULTURAL repassou R$ 485,4 mil em emendas de vereador à Associação Raízes do Madeira para dois eventos populares. O prefeito renovou a composição de três colegiados (COMTRANS, COMDEMA e o novo Comitê de Previdência Complementar), e a Semad credenciou o Banco Daycoval para oferecer empréstimo consignado aos servidores. A maior parte da edição, porém, é rotina: 18 termos de revelia de contribuintes que não se defenderam de autos de infração, portarias de pessoal (inclusive uma demissão por abandono de cargo e um afastamento cautelar de professor) e autorizações de mototáxi.",
+  "manchete": "Prefeitura contrata o instituto IBGP por dispensa de licitação, ao custo de R$ 2,41 milhões, para organizar os concursos públicos da Educação e da Saúde.",
+  "resumo": "A edição nº 4313 traz como fato central o Contrato nº 098/2026/PGM, de R$ 2.410.000,00, firmado por dispensa de licitação com o Instituto Brasileiro de Gestão e Pesquisa (IBGP) para planejar e executar os concursos públicos da SEMED e da SEMUSA, com comissão de fiscalização designada na mesma edição. Também pesam nas contas três aditivos de prorrogação de contratos antigos (alimentação da SGOV, comunicação via satélite da SEMTEL e guarda de documentos do IPAM) e duas parcerias culturais com a Associação Raízes do Madeira que somam R$ 497.451,00. Na área de conselhos, o Prefeito recompôs o COMDEMA, instituiu o Comitê de Assessoramento de Previdência Complementar e nomeou os 24 membros do COMTRANS a partir de 13 de outubro. O grosso da edição é rotina: 18 termos de revelia da SEMEC encaminhando créditos tributários para a dívida ativa, movimentações de pessoal na Câmara e na Prefeitura, diárias e autorizações de mototáxi. Merecem acompanhamento do controle interno a dispensa de licitação de alto valor, os aditivos de prazo e a divergência de numeração de contrato no aditivo da SEMTEL.",
   "destaques": [
    {
-    "titulo": "R$ 2,41 milhões para os concursos da SEMED e da SEMUSA",
-    "texto": "O IBGP foi contratado sem licitação para planejar e aplicar os concursos da Educação (R$ 765 mil, até 10 mil inscritos) e da Saúde (R$ 1,645 milhão, até 15 mil inscritos), com provas objetivas, discursivas e de títulos. A Semad designou quatro servidores para gerir e fiscalizar o contrato.",
+    "titulo": "Concursos da Educação e da Saúde custarão R$ 2,41 milhões",
+    "texto": "O Município contratou o Instituto Brasileiro de Gestão e Pesquisa (IBGP) por dispensa de licitação para organizar os concursos da SEMED (R$ 765.000,00, até 10 mil inscritos) e da SEMUSA (R$ 1.645.000,00, até 15 mil inscritos). Na mesma edição a SEMAD designou a comissão que vai fiscalizar o contrato.",
     "atos": [
      17,
      18
     ]
    },
    {
-    "titulo": "R$ 485,4 mil em emendas para eventos culturais",
-    "texto": "A FUNCULTURAL assinou dois termos de fomento com a Associação Raízes do Madeira: R$ 335.451,00 para a Amostra Cultural de Rua e Feira Gastronômica (21 a 23/08, no Espaço Alternativo) e R$ 150.000,00 para o Festival de Praia em Vila Calderita (5 e 6/09, na Praia da Calderita), os dois pagos com emendas de vereador.",
+    "titulo": "R$ 497 mil em parcerias culturais com a mesma associação",
+    "texto": "A FUNCULTURAL firmou dois termos de fomento com a Associação Raízes do Madeira: R$ 347.451,00 para a Amostra Cultural de Rua e Feira Gastronômica, já realizada em agosto, e R$ 150.000,00 para o Festival de Praia em Vila Calderita, nos dias 5 e 6 de setembro. Ambos usam recursos de emenda de vereador.",
     "atos": [
      6,
      7
     ]
    },
    {
-    "titulo": "Novos membros em conselhos municipais",
-    "texto": "O prefeito nomeou os membros do Conselho Municipal de Transporte Coletivo (COMTRANS), presidido por Iremar Torres Lima, a partir de 13/10/2026, trocou representantes no Conselho de Meio Ambiente (COMDEMA) e criou o Comitê de Assessoramento de Previdência Complementar, presidido por Felipe Ampuero Marques.",
+    "titulo": "Três contratos prorrogados por termo aditivo",
+    "texto": "Foram prorrogados o contrato de alimentação da Secretaria de Governo com a F F Azzi Paranhos (12 meses, empenho de R$ 20.000,00), o de comunicação via satélite da SEMTEL com a DESCNET (12 meses, R$ 6.575,08 pré-empenhados) e o de guarda documental do IPAM com a R&A Treinamentos (60 meses de contrato desde 2020, agora mais 60 dias, valor total de R$ 364.841,12).",
+    "atos": [
+     15,
+     54,
+     61
+    ]
+   },
+   {
+    "titulo": "Conselhos municipais recompostos",
+    "texto": "O Prefeito trocou quatro representantes do COMDEMA, instituiu o Comitê de Assessoramento de Previdência Complementar (CAPC) e nomeou os 24 membros do Conselho Municipal de Transporte Coletivo (COMTRANS) a partir de 13 de outubro de 2026, além de corrigir a substituição de conselheiro tutelar.",
     "atos": [
      11,
      12,
@@ -608,25 +617,10 @@
     ]
    },
    {
-    "titulo": "Banco Daycoval credenciado para consignado de servidores",
-    "texto": "A Semad credenciou o Banco Daycoval por 12 meses para oferecer empréstimo pessoal e cartão de crédito com desconto em folha. O limite é de 30% da remuneração para empréstimos, mais 10% para cartão benefício e 10% para cartão de crédito consignado.",
+    "titulo": "18 termos de revelia encaminham devedores à dívida ativa",
+    "texto": "A Secretaria Municipal de Economia declarou revéis 18 contribuintes que não apresentaram defesa nem pagaram autos de infração, entre eles a Chagas Neto Construções (6 autos), a LV Administração de Bens e a associação do Porto Velho Shopping; os créditos seguem para inscrição em dívida ativa. Outro termo de revelia foi tornado sem efeito porque a defesa havia sido protocolada em prazo.",
     "atos": [
-     16
-    ]
-   },
-   {
-    "titulo": "Processos disciplinares, demissão e afastamento",
-    "texto": "Uma gari da SEINFRA foi demitida por abandono de cargo, e a PGM abriu processo contra uma merendeira pelo mesmo motivo. Um professor da escola Henrique Dias, no distrito de São Carlos, foi afastado das funções por cautela, sem perder o salário.",
-    "atos": [
-     9,
-     10,
-     21
-    ]
-   },
-   {
-    "titulo": "18 termos de revelia na Secretaria de Economia",
-    "texto": "A SEMEC declarou revéis 18 contribuintes que não se defenderam nem pagaram autos de infração no prazo. Os débitos vão para a dívida ativa após a cobrança administrativa. Seis dos termos são contra a Chagas Neto Construções e Incorporações.",
-    "atos": [
+     28,
      29,
      30,
      31,
@@ -646,386 +640,843 @@
      45,
      46
     ]
+   },
+   {
+    "titulo": "Comissão vai apurar retirada de terra em Vista Alegre do Abunã",
+    "texto": "A SEINFRA designou dois servidores para vistoriar in loco e apurar, em 30 dias, a suposta retirada de terra e cascalho de área comunitária destinada a campo de futebol no distrito, após ofício do Ministério Público de Rondônia.",
+    "atos": [
+     48
+    ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 17,
+    "motivo": "Contrato de R$ 2.410.000,00 firmado por dispensa de licitação, com fundamento no art. 75, inciso XV, da Lei nº 14.133/2021, e vigência prorrogável automaticamente até a conclusão dos concursos."
+   },
+   {
+    "ato": 15,
+    "motivo": "Segundo termo aditivo prorroga por mais 12 meses, a partir de 12/09/2026, contrato de fornecimento de alimentação firmado em 2024, com empenho de apenas R$ 20.000,00 e os demais recursos a serem apostilados depois."
+   },
+   {
+    "ato": 54,
+    "motivo": "O extrato do aditivo ao Contrato nº 065/PGM/2024 informa, no corpo do texto, prorrogação do Contrato nº 059/PGM/2024, divergência de numeração que precisa ser esclarecida."
+   },
+   {
+    "ato": 61,
+    "motivo": "Sexto termo aditivo ao contrato de 2020 do IPAM, prorrogando a vigência por mais 60 dias (20/08 a 18/10/2026), com valor total de R$ 364.841,12."
+   },
+   {
+    "ato": 47,
+    "motivo": "Termo aditivo ao Termo de Fomento nº 042/PGM/2025 autoriza a OSC a usar recursos remanescentes e rendimentos de aplicações sem que o extrato informe valores."
+   },
+   {
+    "ato": 6,
+    "motivo": "Termo de fomento de R$ 347.451,00 assinado em 21/08/2026, mesmo dia do início do evento, que ocorreu de 21 a 23 de agosto de 2026, e publicado apenas em 04/09."
+   },
+   {
+    "ato": 7,
+    "motivo": "Segunda parceria com a mesma OSC na mesma edição, de R$ 150.000,00, assinada em 03/09/2026 para evento marcado para 5 e 6 de setembro de 2026, com prazo muito curto entre assinatura e execução."
+   },
+   {
+    "ato": 24,
+    "motivo": "Retificação de portaria de designação altera o nível do cargo em comissão de COORDENADOR IV de DAS-20 para DAS-11, com efeito sobre período já encerrado (19 a 28/06/2026)."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 6,
+    "etapa": "Contrato",
+    "modalidade": "Termo de Fomento nº 085/PGM/2026 (Lei Federal nº 13.019/2014)",
+    "objeto": "Projeto cultural Amostra Cultural de Rua e Feira Gastronômica, no Espaço Alternativo",
+    "fornecedor": "Associação Raízes do Madeira",
+    "valor": 347451.0
+   },
+   {
+    "ato": 7,
+    "etapa": "Contrato",
+    "modalidade": "Termo de Fomento nº 095/2026/PGM (Lei Federal nº 13.019/2014)",
+    "objeto": "Projeto cultural Festival de Praia em Vila Calderita 2026, na zona rural",
+    "fornecedor": "Associação Raízes do Madeira",
+    "valor": 150000.0
+   },
+   {
+    "ato": 15,
+    "etapa": "Aditivo",
+    "modalidade": "Segundo Termo Aditivo ao Contrato nº 062/PGM/2024",
+    "objeto": "Fornecimento de alimentação para a Secretaria de Governo e a Coordenadoria de Políticas Públicas para Mulheres",
+    "fornecedor": "F F Azzi Paranhos Comercial LTDA",
+    "valor": 20000.0
+   },
+   {
+    "ato": 16,
+    "etapa": "Contrato",
+    "modalidade": "Contrato de credenciamento (art. 151 do Decreto nº 11.824/2010)",
+    "objeto": "Empréstimo pessoal e cartão de crédito com desconto em folha dos servidores",
+    "fornecedor": "Banco Daycoval S.A.",
+    "valor": null
+   },
+   {
+    "ato": 17,
+    "etapa": "Contrato",
+    "modalidade": "Dispensa de licitação (art. 75, inciso XV, da Lei nº 14.133/2021) - Contrato nº 098/2026/PGM",
+    "objeto": "Organização e execução dos concursos públicos da SEMED e da SEMUSA",
+    "fornecedor": "Instituto Brasileiro de Gestão e Pesquisa - IBGP",
+    "valor": 2410000.0
+   },
+   {
+    "ato": 47,
+    "etapa": "Aditivo",
+    "modalidade": "Termo aditivo ao Termo de Fomento nº 042/PGM/2025",
+    "objeto": "Proteção integral de até 50 migrantes e refugiados estrangeiros",
+    "fornecedor": "Agência Adventista de Desenvolvimento e Recursos Assistenciais - ADRA Rondônia",
+    "valor": null
+   },
+   {
+    "ato": 54,
+    "etapa": "Aditivo",
+    "modalidade": "Segundo Termo Aditivo ao Contrato nº 065/PGM/2024",
+    "objeto": "Solução tecnológica de comunicação via satélite e dados de GPS para a SEMTEL",
+    "fornecedor": "DESCNET Telecomunicações LTDA",
+    "valor": 6575.08
+   },
+   {
+    "ato": 61,
+    "etapa": "Aditivo",
+    "modalidade": "Sexto Termo Aditivo ao Contrato nº 006/2020/PROGER/IPAM",
+    "objeto": "Gestão do acervo documental do IPAM, com guarda, tratamento técnico e indexação",
+    "fornecedor": "R&A Treinamentos e Consultoria Empresarial LTDA",
+    "valor": 364841.12
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-05",
+    "hora": null,
+    "evento": "Festival de Praia em Vila Calderita 2026, na Praia da Calderita, zona rural de Porto Velho (5 e 6 de setembro).",
+    "ato": 7
+   },
+   {
+    "data": "2026-09-12",
+    "hora": null,
+    "evento": "Começa a prorrogação de 12 meses do contrato de alimentação da Secretaria de Governo.",
+    "ato": 15
+   },
+   {
+    "data": "2026-09-21",
+    "hora": null,
+    "evento": "Viagem de dois servidores da SEMTRAN a São Paulo para a Paving Expo 2026, até 25 de setembro.",
+    "ato": 63
+   },
+   {
+    "data": "2026-09-24",
+    "hora": null,
+    "evento": "IV Congresso Nacional de Contabilidade Municipal, na sede da CNM em Brasília, com participação do Secretário Executivo de Finanças e Contabilidade (24 e 25 de setembro).",
+    "ato": 27
+   },
+   {
+    "data": "2026-10-04",
+    "hora": null,
+    "evento": "Prazo final dos 30 dias da comissão da SEINFRA para vistoriar e entregar relatório sobre a retirada de terra em Vista Alegre do Abunã.",
+    "ato": 48
+   },
+   {
+    "data": "2026-10-13",
+    "hora": null,
+    "evento": "Entra em vigor a nomeação dos 24 membros do Conselho Municipal de Transporte Coletivo (COMTRANS).",
+    "ato": 14
+   },
+   {
+    "data": "2026-10-18",
+    "hora": null,
+    "evento": "Termina a prorrogação de 60 dias do contrato de guarda documental do IPAM.",
+    "ato": 61
+   }
+  ],
+  "normas": [
+   {
+    "ato": 12,
+    "identificacao": "Decreto nº 22.420, de 03/09/2026",
+    "o_que_muda": "Cria o Comitê de Assessoramento de Previdência Complementar (CAPC) do Município, previsto na Lei Complementar nº 870/2021, e define seus quatro integrantes. O comitê passa a conduzir as medidas de implantação do regime de previdência complementar dos servidores."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 1,
+     "acao": "Exoneração",
+     "nome": "Mavros Antonio de Resende",
+     "cargo": "Chefe de Gabinete (CC-35) do Gabinete do Vereador Bruno Luciano - Câmara Municipal"
+    },
+    {
+     "ato": 2,
+     "acao": "Nomeação",
+     "nome": "Emellin Freitas Nunes",
+     "cargo": "Chefe de Gabinete (CC-35) do Gabinete do Vereador Bruno Luciano - Câmara Municipal"
+    },
+    {
+     "ato": 3,
+     "acao": "Exoneração",
+     "nome": "João Bosco de Araújo",
+     "cargo": "Chefe de Gabinete (CC-35) do Gabinete do Vereador Marcos Combate - Câmara Municipal"
+    },
+    {
+     "ato": 4,
+     "acao": "Nomeação",
+     "nome": "Anderson dos Santos Mendes",
+     "cargo": "Chefe de Gabinete (CC-35) do Gabinete do Vereador Marcos Combate - Câmara Municipal"
+    },
+    {
+     "ato": 8,
+     "acao": "Designação",
+     "nome": "Oziel Mucua Lima",
+     "cargo": "Função de Confiança de Assistente Intermediário - IPAM"
+    },
+    {
+     "ato": 10,
+     "acao": "Outro",
+     "nome": "José Almir Viamonte",
+     "cargo": "Professor da Escola Municipal Henrique Dias, Distrito de São Carlos - afastamento preventivo por 60 dias"
+    },
+    {
+     "ato": 11,
+     "acao": "Nomeação",
+     "nome": "Davi Ariel Barros das Neves",
+     "cargo": "Suplente no COMDEMA, representante da Secretaria Executiva de Planejamento"
+    },
+    {
+     "ato": 11,
+     "acao": "Nomeação",
+     "nome": "Francilei de Jesus Dias",
+     "cargo": "Titular no COMDEMA, representante da SEMUSA"
+    },
+    {
+     "ato": 11,
+     "acao": "Nomeação",
+     "nome": "Dayana Tamiris Brito dos Santos Catâneo",
+     "cargo": "Suplente no COMDEMA, representante da Associação Ecológica ECOPORÉ"
+    },
+    {
+     "ato": 11,
+     "acao": "Nomeação",
+     "nome": "Ideval Cruz Rocha",
+     "cargo": "Suplente no COMDEMA, representante da Associação KANINDÉ"
+    },
+    {
+     "ato": 12,
+     "acao": "Designação",
+     "nome": "Felipe Ampuero Marques",
+     "cargo": "Presidente do Comitê de Assessoramento de Previdência Complementar - CAPC"
+    },
+    {
+     "ato": 12,
+     "acao": "Designação",
+     "nome": "Bruna Tailine Rodrigues de Carvalho",
+     "cargo": "Membro do Comitê de Assessoramento de Previdência Complementar - CAPC"
+    },
+    {
+     "ato": 12,
+     "acao": "Designação",
+     "nome": "Sergio Luiz Pacifico",
+     "cargo": "Membro do Comitê de Assessoramento de Previdência Complementar - CAPC"
+    },
+    {
+     "ato": 12,
+     "acao": "Designação",
+     "nome": "Odilon José de Santana Junior",
+     "cargo": "Membro do CAPC e Gestor de Investimentos do Regime Próprio de Previdência Social"
+    },
+    {
+     "ato": 13,
+     "acao": "Substituição",
+     "nome": "Sandra Regina Cunha Araujo Lima",
+     "cargo": "10ª Suplente do Conselho Tutelar, no II Conselho Tutelar de Porto Velho, de 02 a 30/09/2026"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Iremar Torres Lima",
+     "cargo": "Presidente Titular do COMTRANS, representante da SEMTRAN"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Adriana Rosa de Souza",
+     "cargo": "Presidente Suplente do COMTRANS, representante da SEMTRAN"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "João Vitor Santos da Conceição",
+     "cargo": "Titular no COMTRANS, representante da SEMTRAN"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Creuziane França Laborda",
+     "cargo": "Suplente no COMTRANS, representante da SEMTRAN"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Raimundo José Zacarias da Costa Júnior",
+     "cargo": "Titular no COMTRANS, representante da SEINFRA"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Gustavo Portela Veras",
+     "cargo": "Suplente no COMTRANS, representante da SEINFRA"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Raísa Tavares Thomaz",
+     "cargo": "Titular no COMTRANS, representante da SEMEC"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Fabiana de Oliveira",
+     "cargo": "Suplente no COMTRANS, representante da SEMEC"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Franklin dos Santos Batista",
+     "cargo": "Titular no COMTRANS, representante da SEMED"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Márcia da Silva Ferreira",
+     "cargo": "Suplente no COMTRANS, representante da SEMED"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Márcio Pacele",
+     "cargo": "Titular no COMTRANS, representante da Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Vinicius Meireles de Lima",
+     "cargo": "Titular no COMTRANS, representante do Grupo Comunitário da Zona Sul - G14"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Ramiro Batista dos Santos Silva",
+     "cargo": "Suplente no COMTRANS, representante do Grupo Comunitário da Zona Sul - G14"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Sarah Quésia Peixoto Magno",
+     "cargo": "Titular no COMTRANS, representante da União Rondoniense dos Estudantes - URES"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Cleiton Roque Júnior",
+     "cargo": "Suplente no COMTRANS, representante da União Rondoniense dos Estudantes - URES"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Valdemarina Barbosa Lacerda",
+     "cargo": "Titular no COMTRANS, representante da Casa do Ancião São Vicente de Paula"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Tainá Pereira da Silva",
+     "cargo": "Suplente no COMTRANS, representante da Casa do Ancião São Vicente de Paula"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "José Roberto",
+     "cargo": "Titular no COMTRANS, representante da Federação dos Deficientes de Rondônia - FEDER"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Joemilson Brito da Silva",
+     "cargo": "Suplente no COMTRANS, representante da Federação dos Deficientes de Rondônia - FEDER"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Alcides Pio de Souza Machado",
+     "cargo": "Titular no COMTRANS, representante da Concessionária JTP Transportes"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Geremias Sousa da Costa",
+     "cargo": "Suplente no COMTRANS, representante da Concessionária JTP Transportes"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Alcides Roque Chaves",
+     "cargo": "Titular no COMTRANS, representante dos autorizados do transporte coletivo"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Sidnei Ramos da Cruz",
+     "cargo": "Titular no COMTRANS, representante do sindicato SITETUPERON"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Glauber Ribeiro Soares",
+     "cargo": "Suplente no COMTRANS, representante do sindicato SITETUPERON"
+    },
+    {
+     "ato": 18,
+     "acao": "Designação",
+     "nome": "Kétury Kelsy Nogueira Tavares",
+     "cargo": "Gestora da Comissão de Fiscalização do Contrato nº 098/2026/PGM - SEMAD"
+    },
+    {
+     "ato": 18,
+     "acao": "Designação",
+     "nome": "Demétrio Laino Justo Filho",
+     "cargo": "Fiscal da Comissão de Fiscalização do Contrato nº 098/2026/PGM - SEMAD"
+    },
+    {
+     "ato": 18,
+     "acao": "Designação",
+     "nome": "Carla Araújo Gomes",
+     "cargo": "Fiscal da Comissão de Fiscalização do Contrato nº 098/2026/PGM - SEMAD"
+    },
+    {
+     "ato": 18,
+     "acao": "Designação",
+     "nome": "Marcele Noboa dos Santos",
+     "cargo": "Fiscal da Comissão de Fiscalização do Contrato nº 098/2026/PGM - SEMAD"
+    },
+    {
+     "ato": 20,
+     "acao": "Outro",
+     "nome": "Maria Alcirene da Silva Costa",
+     "cargo": "Professora da SEMED - vacância do cargo por posse em outro cargo inacumulável"
+    },
+    {
+     "ato": 21,
+     "acao": "Outro",
+     "nome": "Ana Cristina Geraldo dos Santos",
+     "cargo": "Gari da SEINFRA - demissão por transgressão disciplinar"
+    },
+    {
+     "ato": 22,
+     "acao": "Substituição",
+     "nome": "Leila Nascimento Izel",
+     "cargo": "Gerente II, DAS-05, da SEMEC, de 11 a 30/09/2026"
+    },
+    {
+     "ato": 23,
+     "acao": "Substituição",
+     "nome": "Zeno Ramos Gomes",
+     "cargo": "Gerente II, DAS-05, da SEMED, de 11 a 30/09/2026"
+    },
+    {
+     "ato": 24,
+     "acao": "Substituição",
+     "nome": "Marcel Vinicius Teixeira de Oliveira",
+     "cargo": "Coordenador IV, DAS-11 (retificado de DAS-20), da Procuradoria Geral do Município"
+    },
+    {
+     "ato": 25,
+     "acao": "Outro",
+     "nome": "Sandra Rosa Lima Gomes",
+     "cargo": "Biomédica contratada em caráter emergencial na SEMUSA - rescisão a pedido"
+    }
+   ],
+   "rotina": "Completam os atos de pessoal a concessão de férias e de licença-prêmio, diárias para Brasília, São Paulo e Rio Branco, uma progressão funcional na área da saúde, a instauração de processo disciplinar por abandono de cargo e uma autorização para conduzir veículo oficial."
+  },
   "atos": [
    {
     "id": 1,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara exonera Mavros Antonio de Resende do cargo de chefe de gabinete (CC-35) do gabinete do vereador Bruno Luciano, a partir de 01/09/2026."
+    "resumo": "Decreto nº 471/CMPV-2026 exonera Mavros Antonio de Resende do cargo de Chefe de Gabinete (CC-35) do Gabinete do Vereador Bruno Luciano, a partir de 01/09/2026."
    },
    {
     "id": 2,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara nomeia Emellin Freitas Nunes chefe de gabinete (CC-35) do gabinete do vereador Bruno Luciano, a partir de 01/09/2026."
+    "resumo": "Decreto nº 472/CMPV-2026 nomeia Emellin Freitas Nunes como Chefe de Gabinete (CC-35) do Gabinete do Vereador Bruno Luciano, a partir de 01/09/2026."
    },
    {
     "id": 3,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara exonera João Bosco de Araújo do cargo de chefe de gabinete (CC-35) do gabinete do vereador Marcos Combate, com efeito retroativo a 01/08/2026."
+    "resumo": "Decreto nº 473/CMPV-2026 exonera João Bosco de Araújo do cargo de Chefe de Gabinete (CC-35) do Gabinete do Vereador Marcos Combate, com efeito retroativo a 01/08/2026."
    },
    {
     "id": 4,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara nomeia Anderson dos Santos Mendes chefe de gabinete (CC-35) do gabinete do vereador Marcos Combate, com efeito retroativo a 01/08/2026."
+    "resumo": "Decreto nº 474/CMPV-2026 nomeia Anderson dos Santos Mendes como Chefe de Gabinete (CC-35) do Gabinete do Vereador Marcos Combate, com efeito retroativo a 01/08/2026."
    },
    {
     "id": 5,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara concede férias ao oficial legislativo Sandro Euzébio Lima Santos de 10/09 a 09/10/2026, referentes ao exercício 2024/2025."
+    "resumo": "Portaria nº 177/CMPV-2026 concede férias ao Oficial Legislativo Sandro Euzébio Lima Santos, matrícula 701, de 10/09/2026 a 09/10/2026, referentes ao exercício 2024/2025."
    },
    {
     "id": 6,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A FUNCULTURAL firma termo de fomento com a Associação Raízes do Madeira para a Amostra Cultural de Rua e Feira Gastronômica, evento gratuito de 21 a 23/08/2026 no Espaço Alternativo, no valor global de R$ 347.451,00: R$ 335.451,00 do Município (emenda de vereador) e R$ 12.000,00 de contrapartida da entidade."
+    "resumo": "Termo de Fomento nº 085/PGM/2026 repassa R$ 335.451,00 da FUNCULTURAL à Associação Raízes do Madeira (contrapartida de R$ 12.000,00, total de R$ 347.451,00) para a Amostra Cultural de Rua e Feira Gastronômica, realizada de 21 a 23/08/2026 no Espaço Alternativo; vigência de 6 meses e prestação de contas em até 90 dias."
    },
    {
     "id": 7,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A FUNCULTURAL repassa R$ 150.000,00 (emenda de vereador) à Associação Raízes do Madeira para o Festival de Praia em Vila Calderita 2026, evento gratuito em 5 e 6/09/2026 na Praia da Calderita, zona rural de Porto Velho."
+    "resumo": "Termo de Fomento nº 095/2026/PGM repassa R$ 150.000,00 da FUNCULTURAL à Associação Raízes do Madeira, em parcela única, para o Festival de Praia em Vila Calderita 2026, nos dias 5 e 6 de setembro na Praia da Calderita, zona rural; assinado em 03/09/2026 com recursos de emenda de vereador."
    },
    {
     "id": 8,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "O IPAM concede ao servidor Oziel Mucua Lima a gratificação de função de confiança de Assistente Intermediário a partir de 01/09/2026."
+    "resumo": "Portaria nº 498/2026/IPAM concede ao servidor Oziel Mucua Lima, matrícula 32913-0, a gratificação de Função de Confiança de Assistente Intermediário do IPAM, a partir de 01/09/2026."
    },
    {
     "id": 9,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A PGM abre processo disciplinar, com prazo de 30 dias, para apurar possível abandono de cargo por uma merendeira identificada só pelas iniciais C. L. de S. S., que falta sem justificativa desde janeiro de 2025; a comissão é presidida por Eduardo Pinheiro Dias (o número de matrícula aparece cortado no texto)."
+    "resumo": "Portaria nº 164/CD/SPPD/PGM/2026 instaura processo disciplinar e cria comissão, presidida por Eduardo Pinheiro Dias, para apurar em 30 dias suposto abandono de cargo de servidora merendeira com faltas desde janeiro de 2025."
    },
    {
     "id": 10,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A PGM afasta por cautela, sem corte de salário, o professor José Almir Viamonte, da Escola Municipal Henrique Dias, no distrito de São Carlos, e o proíbe de entrar no órgão e usar seus sistemas; o texto dá o prazo como \"60 (trinta) dias\", o que é contraditório."
+    "resumo": "Portaria nº 165/CD/SPPD/PGM/2026 afasta preventivamente, sem prejuízo da remuneração e por 60 dias, o professor José Almir Viamonte, lotado na Escola Municipal Henrique Dias, no Distrito de São Carlos, e proíbe seu acesso às dependências e sistemas do órgão."
    },
    {
     "id": 11,
     "categoria": "Conselhos e participação social",
     "relevancia": "media",
-    "resumo": "O prefeito nomeia, a partir de 26/08/2026, novos membros do Conselho Municipal de Defesa do Meio Ambiente (COMDEMA): Davi Ariel Barros das Neves (SEMEC-SEPLAN), Francilei de Jesus Dias (SEMUSA), Dayana Tamiris Brito dos Santos Catâneo (Ecoporé) e Ideval Cruz Rocha (Kanindé)."
+    "resumo": "Decreto nº 22.419 nomeia, a partir de 26/08/2026, quatro membros do Conselho Municipal de Defesa do Meio Ambiente (COMDEMA): Davi Ariel Barros das Neves e Francilei de Jesus Dias, em substituição a conselheiros anteriores, além de representantes da ECOPORÉ e da KANINDÉ."
    },
    {
     "id": 12,
     "categoria": "Conselhos e participação social",
-    "relevancia": "media",
-    "resumo": "O prefeito institui o Comitê de Assessoramento de Previdência Complementar (CAPC), presidido por Felipe Ampuero Marques e integrado por Bruna Tailine Rodrigues de Carvalho, Sergio Luiz Pacifico e Odilon José de Santana Junior."
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.420 institui o Comitê de Assessoramento de Previdência Complementar (CAPC), previsto na Lei Complementar nº 870/2021, presidido por Felipe Ampuero Marques e com mais três membros, para viabilizar o regime de previdência complementar do Município."
    },
    {
     "id": 13,
     "categoria": "Conselhos e participação social",
     "relevancia": "baixa",
-    "resumo": "O prefeito corrige o decreto anterior e indica Sandra Regina Cunha Araujo Lima, 10ª suplente, em vez de Arlindo Souza Monteiro, para substituir o conselheiro Felipe Lopes Vieira de Mello no II Conselho Tutelar de 02/09 a 30/09/2026, durante as férias dele."
+    "resumo": "Decreto nº 22.421 retifica o Decreto nº 22.204/2026 para que a substituição do conselheiro tutelar Felipe Lopes Vieira de Mello, de 02 a 30/09/2026, seja feita por Sandra Regina Cunha Araujo Lima, e não por Arlindo Souza Monteiro."
    },
    {
     "id": 14,
     "categoria": "Conselhos e participação social",
     "relevancia": "media",
-    "resumo": "O prefeito nomeia os membros do Conselho Municipal de Transporte Coletivo (COMTRANS) a partir de 13/10/2026, com Iremar Torres Lima (SEMTRAN) na presidência e representantes de secretarias, da Câmara (Márcio Pacele), de estudantes, idosos, pessoas com deficiência, da concessionária JTP Transportes e dos trabalhadores do setor."
+    "resumo": "Decreto nº 22.422 nomeia, a partir de 13/10/2026, os 24 membros do Conselho Municipal de Transporte Coletivo (COMTRANS), com a presidência na SEMTRAN (Iremar Torres Lima) e representantes de secretarias, da Câmara, de entidades comunitárias, da concessionária JTP e do sindicato SITETUPERON."
    },
    {
     "id": 15,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A Secretaria de Governo prorroga por 12 meses, a partir de 12/09/2026, o contrato com a F F Azzi Paranhos Comercial Ltda. para fornecimento de alimentação à SGOV e à Coordenadoria de Políticas para Mulheres, com empenho inicial de R$ 20.000,00."
+    "resumo": "Segundo Termo Aditivo ao Contrato nº 062/PGM/2024 prorroga por 12 meses, a partir de 12/09/2026, o fornecimento de alimentação à Secretaria de Governo e à Coordenadoria de Políticas Públicas para Mulheres pela F F Azzi Paranhos Comercial LTDA, com empenho de R$ 20.000,00."
    },
    {
     "id": 16,
-    "categoria": "Pessoal",
+    "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A Semad credencia o Banco Daycoval por 12 meses para oferecer empréstimo pessoal e cartão de crédito consignados aos servidores, respeitando a margem de 30% da remuneração para empréstimos e margens extras de 10% para cartão benefício e 10% para cartão de crédito."
+    "resumo": "Contrato de credenciamento do Banco Daycoval S.A., assinado em 20/08/2026 e com vigência de 12 meses, permite empréstimo pessoal e cartão de crédito com desconto em folha dos servidores, respeitada a margem de 30% mais 10% para cartão benefício e 10% para cartão consignado."
    },
    {
     "id": 17,
-    "categoria": "Concursos e seleções",
+    "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "O Município contrata, com dispensa de licitação, o Instituto Brasileiro de Gestão e Pesquisa (IBGP) por R$ 2.410.000,00 para organizar os concursos públicos da SEMED (R$ 765.000,00, até 10 mil inscritos) e da SEMUSA (R$ 1.645.000,00, até 15 mil inscritos), com vigência até a conclusão dos dois certames."
+    "resumo": "Contrato nº 098/2026/PGM contrata o Instituto Brasileiro de Gestão e Pesquisa (IBGP) por dispensa de licitação (art. 75, XV, da Lei nº 14.133/2021) por R$ 2.410.000,00 para organizar os concursos públicos da SEMED (R$ 765.000,00) e da SEMUSA (R$ 1.645.000,00), com vigência até a conclusão dos certames."
    },
    {
     "id": 18,
-    "categoria": "Concursos e seleções",
+    "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A Semad designa a comissão que vai fiscalizar o contrato com o IBGP para os concursos da SEMED e da SEMUSA, com Kétury Kelsy Nogueira Tavares como gestora e Demétrio Laino Justo Filho, Carla Araújo Gomes e Marcele Noboa dos Santos como fiscais (o artigo sobre a vigência da portaria está confuso no texto)."
+    "resumo": "Portaria nº 152/2026/DEAD/GAB/SEMAD designa Kétury Kelsy Nogueira Tavares como gestora e Demétrio Laino Justo Filho, Carla Araújo Gomes e Marcele Noboa dos Santos como fiscais do Contrato nº 098/2026/PGM, firmado com o IBGP."
    },
    {
     "id": 19,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad concede três meses de licença-prêmio à agente de trânsito Elaine Cristina Nunes Medeiros (SEMTRAN), a serem gozados de 01/10 a 29/12/2026."
+    "resumo": "Portaria nº 1374/2026/SEMAD concede 3 meses de licença-prêmio à agente municipal de trânsito Elaine Cristina Nunes Medeiros, da SEMTRAN, para gozo de 01/10/2026 a 29/12/2026."
    },
    {
     "id": 20,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad declara vago o cargo de professor da servidora Maria Alcirene da Silva Costa (SEMED), de 28/08/2026 a 26/08/2029, porque ela tomou posse em outro cargo que não pode ser acumulado."
+    "resumo": "Portaria nº 1375/2026/SEMAD declara a vacância do cargo de Professor ocupado por Maria Alcirene da Silva Costa, da SEMED, de 28/08/2026 a 26/08/2029, por posse em outro cargo inacumulável."
    },
    {
     "id": 21,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A Semad demite a gari Ana Cristina Geraldo dos Santos, da SEINFRA, por abandono de cargo, a partir de 25/08/2026."
+    "resumo": "Portaria nº 1376/2026/SEMAD demite a servidora Ana Cristina Geraldo dos Santos, gari lotada na SEINFRA, a partir de 25/08/2026, por transgressão disciplinar prevista no art. 156, III, da Lei Complementar nº 385/2010."
    },
    {
     "id": 22,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad designa Leila Nascimento Izel como Gerente II (DAS-05) na SEMEC de 11/09 a 30/09/2026, no lugar de Tania Maria Gomes Donato Silva, que estará de férias."
+    "resumo": "Portaria nº 1377/2026/SEMAD designa Leila Nascimento Izel para exercer o cargo de Gerente II, DAS-05, da SEMEC, de 11 a 30/09/2026, em substituição à titular Tania Maria Gomes Donato Silva, em férias."
    },
    {
     "id": 23,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad designa Zeno Ramos Gomes como Gerente II (DAS-05) na SEMED de 11/09 a 30/09/2026, no lugar de Girlene Lima Oliveira Castro, que estará de férias."
+    "resumo": "Portaria nº 1378/2026/SEMAD designa Zeno Ramos Gomes para exercer o cargo de Gerente II, DAS-05, da SEMED, de 11 a 30/09/2026, em substituição à titular Girlene Lima Oliveira Castro, em férias."
    },
    {
     "id": 24,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A Semad corrige a portaria que designou Marcel Vinicius Teixeira de Oliveira como substituto de Coordenador IV na PGM, trocando o símbolo do cargo de DAS-20 para DAS-11."
+    "relevancia": "media",
+    "resumo": "Portaria nº 1379/2026/SEMAD retifica a Portaria nº 1105/2026 para corrigir o nível do cargo em comissão exercido por Marcel Vinicius Teixeira de Oliveira na PGM, de COORDENADOR IV DAS-20 para DAS-11, referente ao período de 19 a 28/06/2026."
    },
    {
     "id": 25,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad rescinde, a pedido, o contrato emergencial da biomédica Sandra Rosa Lima Gomes, da SEMUSA, a partir de 03/08/2026, sem cumprimento de aviso prévio."
+    "resumo": "Portaria nº 1380/2026/SEMAD rescinde, a pedido e a partir de 03/08/2026, o contrato emergencial da biomédica Sandra Rosa Lima Gomes na SEMUSA, que optou por não cumprir aviso prévio."
    },
    {
     "id": 26,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A Semad inclui o salão Studio Multi (Multimakeup), na Rua Sete de Setembro, 761, no programa Ben+Servidor, com 10% de desconto e combos promocionais para servidores, como manicure e pedicure de R$ 75 por R$ 65."
+    "resumo": "Termo de Adesão nº 20/2026 inclui a empresa Ana Carolayne Pereira Juventino (Studio Multi/Multimakeup) no programa BEN+SERVIDOR, com 10% de desconto e combos a partir de R$ 65,00 para servidores municipais; não há pagamento pelo Município."
    },
    {
     "id": 27,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMEC concede 1,5 diária e auxílio-deslocamento a Luiz Henrique Gonçalves, secretário executivo de Finanças e Contabilidade, para participar do IV Congresso Nacional de Contabilidade Municipal em Brasília, em 24 e 25/09/2026."
+    "resumo": "Portaria nº 79/2026/SEMEC concede 1½ diária e auxílio deslocamento ao Secretário Executivo de Finanças e Contabilidade Luiz Henrique Gonçalves para participar do IV Congresso Nacional de Contabilidade Municipal, em Brasília, de 24 a 25/09/2026."
    },
    {
     "id": 28,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC anula o Termo de Revelia nº 0123/2026, referente ao Auto de Infração nº 03/2026, porque o contribuinte tinha apresentado defesa dentro do prazo."
+    "resumo": "Retificação nº 006/2026 torna sem efeito o Termo de Revelia nº 0123/2026, referente ao Auto de Infração nº 03/2026, porque o contribuinte apresentou defesa em tempo hábil."
    },
    {
     "id": 29,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Sebastião Vergilio Costa (Rua Petrolina, bairro Airton Senna) por não se defender do Auto de Infração nº 85/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0217/2026 declara revel Sebastião Vergílio Costa (Auto de Infração nº 85/2026), que não apresentou defesa até 15/07/2026; o crédito tributário seguirá para dívida ativa."
    },
    {
     "id": 30,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Empresa Colibri Transportes Ltda. (bairro Industrial) por não se defender do Auto de Infração nº 95/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0218/2026 declara revel a Empresa Colibri Transportes LTDA (Auto de Infração nº 95/2026), sem defesa até 15/07/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 31,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Perolina Alves de Jesus Ferreira (bairro Areal) por não se defender do Auto de Infração nº 96/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0219/2026 declara revel Perolina Alves de Jesus Ferreira (Auto de Infração nº 96/2026), sem defesa até 15/07/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 32,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Plácido de Moura Filho (bairro Nossa Senhora das Graças) por não se defender do Auto de Infração nº 84/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0220/2026 declara revel Plácido de Moura Filho (Auto de Infração nº 84/2026), sem defesa até 15/07/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 33,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. (bairro Lagoinha) por não se defender do Auto de Infração nº 15192/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0221/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15192/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 34,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. por não se defender do Auto de Infração nº 15193/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0222/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15193/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 35,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. por não se defender do Auto de Infração nº 15194/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0223/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15194/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 36,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. por não se defender do Auto de Infração nº 15195/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0224/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15195/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 37,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. por não se defender do Auto de Infração nº 15196/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0225/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15196/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 38,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Chagas Neto Construções e Incorporações Ltda. por não se defender do Auto de Infração nº 15197/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0226/2026 declara revel a Chagas Neto Construções e Incorporações LTDA (Auto de Infração nº 15197/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 39,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a LV Administração de Bens Ltda. (Rua Piratini, bairro Três Marias) por não se defender do Auto de Infração nº 15215/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0227/2026 declara revel a LV Administração de Bens LTDA (Auto de Infração nº 15215/2026), sem defesa até 21/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 40,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a LV Administração de Bens Ltda. por não se defender do Auto de Infração nº 15214/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0228/2026 declara revel a LV Administração de Bens LTDA (Auto de Infração nº 15214/2026), sem defesa até 21/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 41,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Dalva Maria Lopes do Carmo (bairro Olaria) por não se defender do Auto de Infração nº 7611/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0229/2026 declara revel Dalva Maria Lopes do Carmo (Auto de Infração nº 7611/2026), sem defesa até 24/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 42,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Associação do Fundo de Promoções Coletivas do Porto Velho Shopping por não se defender do Auto de Infração nº 39600/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0230/2026 declara revel a Associação do Fundo de Promoções Coletivas do Porto Velho Shopping (Auto de Infração nº 39600/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 43,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel a Associação do Fundo de Promoções Coletivas do Porto Velho Shopping por não se defender do Auto de Infração nº 39601/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0231/2026 declara revel a Associação do Fundo de Promoções Coletivas do Porto Velho Shopping (Auto de Infração nº 39601/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 44,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Gilberto José Moreira (bairro São Cristóvão) por não se defender da Notificação Fiscal nº 017/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0232/2026 declara revel Gilberto José Moreira (Notificação Fiscal nº 017/2026), sem defesa até 24/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 45,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Matheus Carvalho Dantas (bairro Aeroclube) por não se defender da Notificação Fiscal nº 015/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0233/2026 declara revel Matheus Carvalho Dantas (Notificação Fiscal nº 015/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 46,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMEC declara revel Carlos Junior dos Santos Neres (bairro Aeroclube) por não se defender da Notificação Fiscal nº 014/2026; o débito irá para a dívida ativa após a cobrança administrativa."
+    "resumo": "Termo de Revelia nº 0234/2026 declara revel Carlos Junior dos Santos Neres (Notificação Fiscal nº 014/2026), sem defesa até 31/08/2026; o crédito seguirá para dívida ativa."
    },
    {
     "id": 47,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMIAS faz termo aditivo ao Termo de Fomento nº 042/PGM/2025 com a ADRA Rondônia, que acolhe até 50 migrantes e refugiados, e autoriza a entidade a usar os rendimentos e os recursos que sobraram para concluir as metas."
+    "resumo": "Termo aditivo ao Termo de Fomento nº 042/PGM/2025, assinado em 21/08/2026 pela SEMIAS e pela ADRA Rondônia, garante a continuidade do acolhimento de até 50 migrantes e refugiados e autoriza o uso dos recursos remanescentes e dos rendimentos de aplicações; o extrato não informa valores."
    },
    {
     "id": 48,
     "categoria": "Outros",
     "relevancia": "media",
-    "resumo": "A SEINFRA cria comissão com 30 dias de prazo, formada por Guilherme Ritter Baldin e Eduardo de Moura Borges, para vistoriar e apurar a suposta retirada de terra e cascalho de área comunitária reservada a um campo de futebol no distrito de Vista Alegre do Abunã, caso questionado pelo Ministério Público."
+    "resumo": "Portaria nº 466/2026/SEINFRA designa Guilherme Ritter Baldin e Eduardo de Moura Borges para vistoriar in loco e apurar, em 30 dias, a suposta retirada de terra e cascalho de área comunitária destinada a campo de futebol no Distrito de Vista Alegre do Abunã, após ofício do Ministério Público."
    },
    {
     "id": 49,
-    "categoria": "Pessoal",
+    "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA autoriza por um ano o assessor Leonardo Pereira dos Santos Filho a dirigir veículo oficial do gabinete da secretária."
+    "resumo": "Portaria nº 426/2026/SEMUSA autoriza o assessor Leonardo Pereira dos Santos Filho a conduzir veículo oficial do gabinete da Secretaria de Saúde pelo prazo de 1 ano."
    },
    {
     "id": 50,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN cancela a autorização de mototáxi nº 0538, que era de um permissionário identificado apenas como Ezequiel."
+    "resumo": "Portaria nº 134/2026/SEMTRAN cancela a Autorização Administrativa Municipal de Mototáxi nº 0538, antes outorgada a um permissionário cujos dados foram anonimizados no texto."
    },
    {
     "id": 51,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN concede a autorização de mototáxi nº AMM 0538 a um novo permissionário identificado apenas como Gelson."
+    "resumo": "Portaria nº 135/2026/SEMTRAN outorga a Autorização Administrativa Municipal de Mototáxi nº 0538 ao Sr. Gelson (dados anonimizados), nos termos do Decreto nº 11.553/2010."
    },
    {
     "id": 52,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN assina termo de autorização de mototáxi (AMM-0538) com Gelson, válido de 25/08/2026 a 31/08/2031."
+    "resumo": "Termo de Autorização nº 152/2026/SEMTRAN formaliza a exploração do serviço de mototáxi sob a AMM-0538 pelo Sr. Gelson, com vigência de 5 anos, de 25/08/2026 a 31/08/2031."
    },
    {
     "id": 53,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN assina termo de autorização de mototáxi (AMM-0668) com Rodrigo, com vigência de 31/08/2025 a 31/08/2030, segundo o texto."
+    "resumo": "Termo de Autorização nº 157/2026/SEMTRAN formaliza a exploração do serviço de mototáxi sob a AMM-0668 pelo Sr. Rodrigo, por 5 anos; o texto indica início de vigência em 31/08/2025 e término em 31/08/2030, embora o termo tenha data de 31/08/2026."
    },
    {
     "id": 54,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMTEL prorroga por 12 meses, a partir de 03/09/2026, o contrato com a Descnet Telecomunicações para comunicação via satélite e rastreamento por GPS, com pré-empenho de R$ 6.575,08 para agosto a dezembro de 2026; o extrato cita o contrato 065/PGM/2024 no título e o 059/PGM/2024 no corpo."
+    "relevancia": "media",
+    "resumo": "Segundo Termo Aditivo ao Contrato nº 065/PGM/2024 prorroga por 12 meses, a partir de 03/09/2026, os serviços de comunicação via satélite e GPS prestados à SEMTEL pela DESCNET Telecomunicações LTDA, com pré-empenho de R$ 6.575,08 para agosto a dezembro de 2026; o corpo do texto cita o Contrato nº 059/PGM/2024."
    },
    {
     "id": 55,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMTEL valida 1,5 diária ao motorista José Gomes de Mendonça pela viagem a Rio Branco (AC) em 28 e 29/07/2026, para levar atletas do projeto Construindo Campeões."
+    "resumo": "Portaria nº 167/2026/SEMTEL torna válida 1½ diária ao assessor e motorista José Gomes de Mendonça pela viagem a Rio Branco/AC, de 28 a 29/07/2026, no transporte de atletas do Projeto Construindo Campeões."
    },
    {
     "id": 56,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMTEL valida 2,5 diárias ao motorista Leonardo Amora Couceiro pela viagem a Rio Branco (AC) de 30/07 a 01/08/2026, para levar atletas do projeto Construindo Campeões."
+    "resumo": "Portaria nº 170/2026/SEMTEL torna válidas 2½ diárias ao coordenador e motorista Leonardo Amora Couceiro pela viagem a Rio Branco/AC, de 30/07 a 01/08/2026, no transporte de atletas do Projeto Construindo Campeões."
    },
    {
     "id": 57,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMA cita por edital Bruno Cezar Almeida do Nascimento Botelho, multado em 50 UPFM (UPFM de R$ 108,52) por maus-tratos a animais na Rua Novo Horizonte, bairro Nova Esperança, e dá 20 dias para ele apresentar defesa."
+    "resumo": "Edital nº 124/2026/SEMA cita Bruno Cezar Almeida do Nascimento Botelho sobre o Auto de Infração nº 647/2026, por maus-tratos a animais, com multa de 50 UPFM (UPFM de R$ 108,52 em 2026) e prazo de 20 dias corridos para defesa administrativa."
    },
    {
     "id": 58,
     "categoria": "Outros",
-    "relevancia": "baixa",
-    "resumo": "A SEMA cita por edital o Condomínio Residencial Vila Verde, na Av. José Vieira Caúla (bairro Teixeirão), multado em 500 UPFM (UPFM de R$ 108,52) por funcionar sem licença ambiental, e dá 20 dias para defesa ou pagamento da multa."
+    "relevancia": "media",
+    "resumo": "Edital nº 126/2026/SEMA cita o Condomínio Residencial Vila Verde sobre o Auto de Infração nº 033/2026, por obra ou atividade potencialmente poluidora sem licenciamento, com multa de 500 UPFM (UPFM de R$ 108,52) e prazo de 20 dias corridos para defesa ou pagamento."
    },
    {
     "id": 59,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMA dá quitação à Polícia Civil de Rondônia pelo Auto de Infração Ambiental nº 813/2025, de 125 UPFM, que já foi pago."
+    "resumo": "Termo de Quitação de Débitos Ambientais nº 37/2026/SEMA dá quitação plena à Polícia Civil do Estado de Rondônia pelo pagamento do Auto de Infração Ambiental nº 813/2025, no valor de 125 UPFM."
    },
    {
     "id": 60,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "Repete o Termo de Quitação nº 37/2026 da SEMA (ato 59), agora com data de 02/09/2026: a Polícia Civil de Rondônia está quitada do Auto de Infração Ambiental nº 813/2025, de 125 UPFM."
+    "resumo": "Republicação, com data de 02/09/2026, do mesmo Termo de Quitação de Débitos Ambientais nº 37/2026/SEMA em favor da Polícia Civil de Rondônia, referente ao Auto de Infração nº 813/2025 (125 UPFM); o conteúdo é idêntico ao do ato anterior."
    },
    {
     "id": 61,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "O IPAM prorroga por 60 dias, de 20/08 a 18/10/2026, o contrato de gestão do seu arquivo de documentos com a R&A Treinamentos e Consultoria Empresarial, que custa R$ 30.403,43 por mês (valor total de R$ 364.841,12), com empenho de R$ 60.806,86."
+    "resumo": "Sexto Termo Aditivo ao Contrato nº 006/2020/PROGER/IPAM prorroga por 60 dias, de 20/08 a 18/10/2026, a gestão do acervo documental do IPAM pela R&A Treinamentos e Consultoria Empresarial LTDA; valor total de R$ 364.841,12, mensalidade de R$ 30.403,43 e empenho de R$ 60.806,86."
    },
    {
     "id": 62,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Semad concede progressões funcionais ao técnico de enfermagem Raimundo Nascimento de Lima, da referência III até a VI, com efeitos em 04/05/2020, 07/05/2022 e 07/05/2024."
+    "resumo": "Portaria de Progressão nº 156/2026/SEMAD concede progressão funcional retroativa ao técnico de enfermagem Raimundo Nascimento de Lima, das referências III para IV (04/05/2020), IV para V (07/05/2022) e V para VI (07/05/2024)."
    },
    {
     "id": 63,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A SEMTRAN concede 4,5 diárias (R$ 5.000,00 para cada um, com auxílio-deslocamento) aos servidores Vinícius dos Santos Feitosa e Tiago Luís Veloso da Costa para a visita técnica à feira Paving Expo 2026, em São Paulo, de 21 a 25/09/2026."
+    "relevancia": "media",
+    "resumo": "Portaria nº 140/2026/SEMTRAN concede 4½ diárias, a R$ 1.000,00 cada, aos servidores Vinícius dos Santos Feitosa e Tiago Luís Veloso da Costa para visita técnica à Paving Expo 2026, em São Paulo, de 21 a 25/09/2026, somando R$ 10.000,00."
    }
   ]
  },
@@ -1037,5 +1488,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-11T12:31-04:00"
- }
+ },
+ "resumo_formato": 2
 }

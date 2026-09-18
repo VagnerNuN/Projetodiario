@@ -847,8 +847,1168 @@
    "trecho": "ANEXO XXXVII DO DECRETO Nº 22.270, DE 27/07/2026\nTERMO DE DISPENSA DE LICITAÇÃO\nNº01/2026\n\n1. IDENTIFICAÇÃO\nProcesso Administrativo:003.000337/2026-34\nUnidade Orçamentária:Superintendência Municipal de Tecnologia da Informação e Pesquisa - SMTI\nProjeto/Atividade/Operação Especial:2.884 - Modernizar as Soluções de TI\n\n2. DESCRIÇÃO DOS PRODUTOS (OU SERVIÇOS)\nITEM\nESPECIFICAÇÃO\nUNID. MEDIDA\nQTDADE\nVALOR UNITÁRIO\nVALOR TOTAL\n01\nContratação de empresa especializada para o fornecimento de subscrições de\nlicenças Microsoft Power BI Pro e Microsoft Power BI Premium Per User\n(PPU), na modalidade Softwa"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Porto Velho republica a lei que cria a Superintendência de Fiscalização Integrada (SUFIS) e a Junta Revisora de Penalidades, e a Secretaria de Economia já publica a instrução normativa que rege a transição do alvará de funcionamento.",
+  "resumo": "A edição é dominada por normas de peso: a republicação da Lei Complementar nº 1.080/2026, que cria a SUFIS e a JURPA e unifica o contencioso do poder de polícia; a Instrução Normativa SEMEC nº 10/2026, com 83 artigos disciplinando vistoria e fiscalização do alvará até a SUFIS funcionar; o Decreto nº 22.448/2026, que aprova a metodologia municipal de gestão de riscos; e a Resolução nº 5/ARDPV, que cria o processo sancionador da agência reguladora. Foram sancionadas quatro leis de origem parlamentar, entre elas a Lei Marta Isabelle dos Santos, que institui o protocolo de busca ativa e classificação de risco de crianças e adolescentes. Em contratações, destacam-se a homologação de R$ 972.943,50 para grama sintética da EMDUR, a dispensa de R$ 129.856,36 para o gradil da escola do Cristal da Calama e a homologação de R$ 78.507,00 para análise da qualidade da água. Merece acompanhamento a anulação da Dispensa Eletrônica nº 300/2026 do seguro da frota da Controladoria, por erro de parametrização do valor no Compras.gov.br, com relançamento imediato sob o nº 332/2026, além da cotação para contratação emergencial de mobiliário da Casa Aurora. O restante é rotina de pessoal: cerca de 25 decretos e portarias de nomeação, exoneração, designação e substituição, diárias e remanejamentos orçamentários que somam mais de R$ 5,4 milhões.",
+  "destaques": [
+   {
+    "titulo": "Nova estrutura de fiscalização e licenciamento do Município",
+    "texto": "A republicação da Lei Complementar nº 1.080/2026 cria a Superintendência Municipal de Fiscalização Integrada (SUFIS), órgão central do Licenciamento Integrado Municipal, e a Junta Revisora de Penalidades Administrativas (JURPA), instância recursal única do poder de polícia. A Instrução Normativa SEMEC nº 10/2026 disciplina, em 83 artigos, como a Secretaria de Economia fará vistoria e fiscalização do alvará até a SUFIS entrar em funcionamento efetivo.",
+    "atos": [
+     29,
+     70
+    ]
+   },
+   {
+    "titulo": "Quatro leis sancionadas e novas regras de vista de processo",
+    "texto": "Entram em vigor a Lei nº 3.513/2026 (Lei Marta Isabelle dos Santos), que institui o protocolo municipal de busca ativa e classificação de risco de crianças e adolescentes, além de leis sobre informação de benefícios fiscais para pessoas com deficiência nas concessionárias, inclusão em competições esportivas e o Dia Municipal do Trabalhador Rural. A Lei Complementar nº 1.082/2026 garante ao advogado vista de processos administrativos municipais sem procuração, com vigência em 120 dias.",
+    "atos": [
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "titulo": "Gestão de riscos passa a ser obrigatória no Executivo",
+    "texto": "O Decreto nº 22.448/2026 aprova a metodologia de gestão de riscos para todos os órgãos e entidades do Executivo municipal, com matriz de severidade, planos de ação e Matriz de Responsabilidades (RACI) obrigatória em todos os processos. A implantação usará o sistema UAI Risk, cedido pela Controladoria-Geral de Minas Gerais.",
+    "atos": [
+     12
+    ]
+   },
+   {
+    "titulo": "Seguro da frota da Controladoria: licitação anulada e relançada",
+    "texto": "A SMCL anulou a Dispensa Eletrônica nº 300/2026 porque o Compras.gov.br registrou o valor estimado como R$ 6,9980 em vez de R$ 6.998,00, comprometendo a comparação das propostas. No mesmo dia foi publicada a Dispensa Eletrônica nº 332/2026, com o mesmo objeto e abertura em 18/09/2026.",
+    "atos": [
+     62,
+     64
+    ]
+   },
+   {
+    "titulo": "Contratações e dispensas somam mais de R$ 1,3 milhão",
+    "texto": "A EMDUR homologou R$ 972.943,50 à Castor Eventos para grama sintética de espaços públicos; a SMCL homologou R$ 78.507,00 à BAX para análise da qualidade de igarapés e balneários; e a SEMED contratou por dispensa R$ 129.856,36 em gradil para a escola do Conjunto Cristal da Calama e R$ 61.920,00 em transmissão audiovisual de eventos.",
+    "atos": [
+     9,
+     68,
+     89,
+     90,
+     93
+    ]
+   },
+   {
+    "titulo": "Remanejamentos orçamentários acima de R$ 5,4 milhões",
+    "texto": "Decretos movimentam R$ 2,7 milhões no IPAM para atendimento hospitalar e ambulatorial, R$ 2,71 milhões e R$ 487.820,43 na EMDUR para iluminação pública e logística, e R$ 242.496,76 na SEMEC para diárias e locação de imóvel.",
+    "atos": [
+     82,
+     84,
+     85,
+     86,
+     87,
+     88
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 62,
+    "motivo": "Anulação da Dispensa Eletrônica nº 300/2026 do seguro da frota da CGM por vício de parametrização que registrou o valor estimado como R$ 6,9980 em vez de R$ 6.998,00."
+   },
+   {
+    "ato": 63,
+    "motivo": "Cotação para contratação direta emergencial de mobiliário, eletrodomésticos e equipamentos da Casa Aurora, com prazo de 5 dias úteis para propostas e 5 dias corridos para entrega após o empenho."
+   },
+   {
+    "ato": 64,
+    "motivo": "Nova dispensa eletrônica (nº 332/2026) para o mesmo objeto e processo da dispensa anulada, com abertura em 18/09/2026 e valor estimado de R$ 6.998,00."
+   },
+   {
+    "ato": 76,
+    "motivo": "Segundo termo aditivo prorroga por 12 meses o contrato de seguro de 27 veículos da SEMUSA sem indicar o valor total do aditivo, apenas empenhos parciais de R$ 22.358,15, R$ 594,43 e R$ 4.994,22."
+   },
+   {
+    "ato": 86,
+    "motivo": "O decreto indica crédito suplementar de R$ 2.711.725,21 no art. 1º, mas o quadro detalhado totaliza R$ 2.223.904,78, divergência que consta do próprio texto."
+   },
+   {
+    "ato": 89,
+    "motivo": "Dispensa de licitação de R$ 129.856,36 para gradil de escola em obra, com registro no próprio termo de que é preciso afastar sobreposição de fornecimento com o contrato da obra principal."
+   },
+   {
+    "ato": 90,
+    "motivo": "Dispensa por valor de R$ 61.920,00 para transmissão audiovisual, próxima do limite de R$ 65.492,11 informado no termo, e com campos de processo e unidade orçamentária não preenchidos."
+   },
+   {
+    "ato": 93,
+    "motivo": "Contratação direta por dispensa de licenças Microsoft Power BI no valor de R$ 4.344,59, sem procedimento competitivo."
+   },
+   {
+    "ato": 36,
+    "motivo": "Designação de servidora publicada em setembro de 2026 com efeitos retroativos a 15/01/2025, mais de um ano e meio antes."
+   },
+   {
+    "ato": 81,
+    "motivo": "Retificação de portaria de diárias que muda destinos, datas e quantidades já concedidas a dez servidores da Defesa Civil, inclusive incluindo viagem a Humaitá/AM."
+   },
+   {
+    "ato": 83,
+    "motivo": "Retificação eleva de 14,5 para 16 o número de diárias concedidas a um único servidor da Secretaria de Governo."
+   },
+   {
+    "ato": 11,
+    "motivo": "A Portaria nº 527/2026/IPAM-DRFP repete integralmente o conteúdo da Portaria nº 526/2026, criando duas vezes a mesma Comissão Permanente de Avaliação de Documentos."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 9,
+    "etapa": "Homologação",
+    "modalidade": "Licitação da EMDUR sob a Lei nº 13.303/2016, processo 015.000112/2025-68",
+    "objeto": "Grama sintética e grama sintética esportiva para espaços públicos",
+    "fornecedor": "CASTOR EVENTOS COMÉRCIO E SERVIÇOS LTDA",
+    "valor": 972943.5
+   },
+   {
+    "ato": 39,
+    "etapa": "Contrato",
+    "modalidade": "Pregão Eletrônico nº 90088/2025/SMCL/PVH",
+    "objeto": "Locação de impressoras com manutenção e insumos para a SEMAD",
+    "fornecedor": "Acronet Corporativo Comércio e Serviços LTDA-EPP",
+    "valor": 21499.8
+   },
+   {
+    "ato": 58,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Termo de adesão de empresa parceira ao programa BEN+SERVIDOR, com descontos em curso de inglês para servidores",
+    "fornecedor": "HIGHER CHALLENGE SCHOOL LTDA (HC School)",
+    "valor": null
+   },
+   {
+    "ato": 62,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Dispensa Eletrônica nº 300/2026/SMCL/PVH",
+    "objeto": "Seguro veicular da frota oficial da Controladoria-Geral do Município",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 63,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa emergencial, processo nº 012.003238/2026-03",
+    "objeto": "Mobiliário, eletrodomésticos, informática e enxoval para a Unidade de Acolhimento Casa Aurora (SEMIAS)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 64,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa Eletrônica nº 332/2026/SMCL/PVH",
+    "objeto": "Seguro veicular da frota oficial da Controladoria-Geral do Município",
+    "fornecedor": null,
+    "valor": 6998.0
+   },
+   {
+    "ato": 65,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 325/2026/SMCL/PVH",
+    "objeto": "Equipamentos audiovisuais e materiais de apoio técnico para a SECOM",
+    "fornecedor": null,
+    "valor": 147859.79
+   },
+   {
+    "ato": 66,
+    "etapa": "Chamamento público",
+    "modalidade": "Credenciamento nº 295/2026/SMCL/PVH",
+    "objeto": "Serviços médicos complementares para a rede de saúde municipal",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 67,
+    "etapa": "Resultado",
+    "modalidade": "Qualificação de Organizações Sociais de Saúde (LC nº 721/2018)",
+    "objeto": "Qualificação de sete entidades sem fins lucrativos como Organizações Sociais de Saúde",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 68,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 303/2026/SMCL/PVH",
+    "objeto": "Coleta, análise laboratorial e relatórios da qualidade da água de igarapés e balneários",
+    "fornecedor": "BAX - SERVICOS DE ANALISES QUIMICAS E BIOLOGICAS LTDA",
+    "valor": 78507.0
+   },
+   {
+    "ato": 73,
+    "etapa": "Outro",
+    "modalidade": "Termo de Fomento nº 096/2026/PGM",
+    "objeto": "Repasse para execução do Programa Alvorecer, de fortalecimento de vínculos familiares",
+    "fornecedor": "ASSOCIAÇÃO LUZ DO ALVORECER - ALUZ",
+    "valor": 50000.0
+   },
+   {
+    "ato": 76,
+    "etapa": "Aditivo",
+    "modalidade": "Segundo termo aditivo ao Contrato nº 011/2024/COJUSA/PGM",
+    "objeto": "Prorrogação por 12 meses do seguro total de 27 veículos da SEMUSA",
+    "fornecedor": "GENTE SEGURADORA S/A",
+    "valor": null
+   },
+   {
+    "ato": 89,
+    "etapa": "Dispensa",
+    "modalidade": "Termo de Dispensa de Licitação nº 6/2026 (SEMED)",
+    "objeto": "Painéis de gradil, postes e fixadores para fechamento da escola do Conjunto Cristal da Calama",
+    "fornecedor": "A. PEREIRA ARAMES LTDA",
+    "valor": 129856.36
+   },
+   {
+    "ato": 90,
+    "etapa": "Dispensa",
+    "modalidade": "Termo de Dispensa de Licitação nº 7/2026 (SEMED), art. 75, II, da Lei nº 14.133/2021",
+    "objeto": "Transmissão ao vivo e cobertura audiovisual de até 24 eventos da SEMED",
+    "fornecedor": "CLEDSON CARVALHO DE PAIVA",
+    "valor": 61920.0
+   },
+   {
+    "ato": 93,
+    "etapa": "Dispensa",
+    "modalidade": "Termo de Dispensa de Licitação nº 01/2026 (SMTI), art. 75, II, da Lei nº 14.133/2021",
+    "objeto": "Subscrições de licenças Microsoft Power BI Pro e Premium Per User por 12 meses",
+    "fornecedor": "T&M SOLUCOES EM TECNOLOGIAS LTDA",
+    "valor": 4344.59
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-14",
+    "hora": null,
+    "evento": "Início das oficinas do programa PETI nas comunidades de Rio Pardo, Vila da Penha, Fortaleza do Abunã e Abunã (até 19/09).",
+    "ato": 75
+   },
+   {
+    "data": "2026-09-16",
+    "hora": null,
+    "evento": "Secretária de Saúde participa da 8ª Reunião Ordinária da CIB em Cacoal (RO), até 18/09.",
+    "ato": 13
+   },
+   {
+    "data": "2026-09-16",
+    "hora": null,
+    "evento": "Equipe da EMDUR executa manutenção de iluminação pública na BR-319, km 17, até 18/09.",
+    "ato": 8
+   },
+   {
+    "data": "2026-09-18",
+    "hora": "09:00",
+    "evento": "Abertura das propostas da Dispensa Eletrônica nº 332/2026 do seguro veicular da CGM, no Compras.gov.br.",
+    "ato": 64
+   },
+   {
+    "data": "2026-09-22",
+    "hora": "08:00",
+    "evento": "Início do acolhimento das manifestações de interesse no Credenciamento nº 295/2026 de serviços médicos para a SEMUSA.",
+    "ato": 66
+   },
+   {
+    "data": "2026-09-29",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 325/2026, de equipamentos audiovisuais para a SECOM.",
+    "ato": 65
+   },
+   {
+    "data": "2026-10-04",
+    "hora": null,
+    "evento": "Prazo final para a comissão técnica da SEMUSA concluir a revisão do protocolo de infecção urinária em gestantes.",
+    "ato": 78
+   },
+   {
+    "data": "2026-10-13",
+    "hora": null,
+    "evento": "Início da substituição de Assessor Técnico I da SEMEC por férias da titular, até 01/11/2026.",
+    "ato": 54
+   }
+  ],
+  "normas": [
+   {
+    "ato": 1,
+    "identificacao": "Resolução nº 5/ARDPV, de 28 de julho de 2026",
+    "o_que_muda": "Cria o Processo Administrativo Sancionador Regulatório da agência reguladora municipal, com regras de dosimetria das multas, medidas cautelares, multa diária coercitiva, acordos (TAC, TAG e TAR) e desconsideração da personalidade jurídica. Vale para concessionárias, permissionárias e demais prestadores de serviços públicos delegados em Porto Velho, e proíbe repassar multas e custos de ineficiência para tarifas e taxas."
+   },
+   {
+    "ato": 12,
+    "identificacao": "Decreto nº 22.448, de 11 de setembro de 2026",
+    "o_que_muda": "Aprova a metodologia de gestão de riscos para todos os órgãos e entidades do Executivo municipal, com etapas obrigatórias de identificação, análise, tratamento e monitoramento, classificação de severidade e planos de ação. Torna obrigatória a Matriz de Responsabilidades (RACI) em todos os processos e veda acumular execução e aprovação na mesma pessoa em atividades críticas."
+   },
+   {
+    "ato": 29,
+    "identificacao": "Lei Complementar nº 1.080, de 28 de agosto de 2026 (republicação)",
+    "o_que_muda": "Cria a Superintendência Municipal de Fiscalização Integrada (SUFIS), que passa a concentrar o licenciamento e a fiscalização ambiental, urbanística, sanitária, de obras, posturas e transporte, e a Junta Revisora de Penalidades Administrativas (JURPA), instância recursal única para quem receber multa ou penalidade do poder de polícia municipal. Altera quatro leis complementares e a Lei nº 1.562/2003, com efeitos escalonados conforme a instalação de cada órgão."
+   },
+   {
+    "ato": 30,
+    "identificacao": "Lei Complementar nº 1.082, de 10 de setembro de 2026",
+    "o_que_muda": "Assegura ao advogado o direito de examinar presencialmente processos administrativos em qualquer órgão municipal, arquivados ou em andamento, mesmo sem procuração, salvo nos casos de sigilo. Entra em vigor 120 dias após a publicação."
+   },
+   {
+    "ato": 31,
+    "identificacao": "Lei nº 3.511, de 10 de setembro de 2026",
+    "o_que_muda": "Obriga concessionárias de veículos de Porto Velho a informar, em suas lojas, sites e aplicativos, os direitos e benefícios fiscais na compra de veículos por pessoas com deficiência, em formatos acessíveis (letra ampliada, digital, Libras e braile). As empresas têm 90 dias para se adequar."
+   },
+   {
+    "ato": 32,
+    "identificacao": "Lei nº 3.512, de 10 de setembro de 2026",
+    "o_que_muda": "Estabelece diretrizes para incluir pessoas com deficiência em competições esportivas realizadas no Município, permitindo categorias adaptadas e ações de incentivo, conforme a disponibilidade administrativa e orçamentária."
+   },
+   {
+    "ato": 33,
+    "identificacao": "Lei nº 3.513, de 10 de setembro de 2026 (Lei Marta Isabelle dos Santos)",
+    "o_que_muda": "Institui o Protocolo Municipal de Busca Ativa e Monitoramento Contínuo de crianças e adolescentes, com quatro níveis de risco (Atenção, Alerta, Alerta Elevado e Alerta Vermelho) e acompanhamento que não pode parar em férias, recessos ou greves. Vale para toda a rede de proteção municipal e não cria cargos nem novas despesas."
+   },
+   {
+    "ato": 34,
+    "identificacao": "Lei nº 3.514, de 10 de setembro de 2026",
+    "o_que_muda": "Institui o Dia Municipal do Trabalhador Rural, em 25 de maio, e o inclui no Calendário Oficial de Porto Velho."
+   },
+   {
+    "ato": 70,
+    "identificacao": "Instrução Normativa SEMEC nº 10, de 9 de setembro de 2026",
+    "o_que_muda": "Define, em 83 artigos, como a Secretaria de Economia fará vistoria e fiscalização do alvará de funcionamento até a SUFIS começar a operar, com fiscalização orientadora, dupla visita, prioridade à regularização e proibição de exigências sem base legal. Também organiza a transferência dos processos e acervos para a nova superintendência."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 2,
+     "acao": "Exoneração",
+     "nome": "Nicoli Ferreira Pescador",
+     "cargo": "Assessor Parlamentar Volante CC-09, Gabinete do Vereador Nilton Souza - Câmara Municipal"
+    },
+    {
+     "ato": 3,
+     "acao": "Nomeação",
+     "nome": "Elisson Pinheiro de Abreu",
+     "cargo": "Assessor Parlamentar Volante CC-14, Gabinete do Vereador Nilton Souza - Câmara Municipal"
+    },
+    {
+     "ato": 3,
+     "acao": "Nomeação",
+     "nome": "Helderson Souza da Cunha",
+     "cargo": "Assessor Parlamentar Volante CC-05, Gabinete do Vereador Nilton Souza - Câmara Municipal"
+    },
+    {
+     "ato": 4,
+     "acao": "Outro",
+     "nome": "Juacir da Silva Teles",
+     "cargo": "Assessor Parlamentar Volante, alterado de CC-32 para CC-30 - Câmara Municipal"
+    },
+    {
+     "ato": 4,
+     "acao": "Outro",
+     "nome": "José Beltino de Queiroz Neto",
+     "cargo": "Assessor Parlamentar Volante, alterado de CC-08 para CC-05 - Câmara Municipal"
+    },
+    {
+     "ato": 4,
+     "acao": "Outro",
+     "nome": "Hugo Soares Gomes",
+     "cargo": "Assessor Parlamentar Volante, alterado de CC-18 para CC-14 - Câmara Municipal"
+    },
+    {
+     "ato": 7,
+     "acao": "Substituição",
+     "nome": "Tania Valeria Ribeiro Pereira",
+     "cargo": "Gerente de Tecnologia da Informação da EMDUR, em substituição por férias de 15/09 a 14/10/2026"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Sávio Gomes de Brito",
+     "cargo": "Presidente da Comissão Permanente de Avaliação de Documentos do IPAM"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Fernanda Rocha Rodrigues",
+     "cargo": "Membro da Comissão Permanente de Avaliação de Documentos do IPAM"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Lucas Lima Valverde",
+     "cargo": "Membro da Comissão Permanente de Avaliação de Documentos do IPAM"
+    },
+    {
+     "ato": 11,
+     "acao": "Designação",
+     "nome": "Sávio Gomes de Brito",
+     "cargo": "Presidente da Comissão Permanente de Avaliação de Documentos do IPAM (portaria repetida)"
+    },
+    {
+     "ato": 14,
+     "acao": "Outro",
+     "nome": "Lidiane Cardoso Viana Cruz de Carvalho",
+     "cargo": "Chefe II DAS-03 do CRAS - SEMIAS, excluída do decreto que tornara sem efeito sua nomeação"
+    },
+    {
+     "ato": 15,
+     "acao": "Outro",
+     "nome": "Miriam Melo dos Santos",
+     "cargo": "Assessor I DAS-01 do Gabinete da SEMDEC, nomeação retificada para 1º/09/2026"
+    },
+    {
+     "ato": 16,
+     "acao": "Outro",
+     "nome": "Simone Mello Muniz",
+     "cargo": "Assessor Especial II DAS-12 do Gabinete do Prefeito, nomeação retificada para 1º/09/2026"
+    },
+    {
+     "ato": 17,
+     "acao": "Exoneração",
+     "nome": "Poliana Diniz Rodrigues",
+     "cargo": "Gerente II DAS-05 da Divisão de Orçamento e Planejamento - SEMED"
+    },
+    {
+     "ato": 18,
+     "acao": "Nomeação",
+     "nome": "Juliana Mello Sena Streit",
+     "cargo": "Gerente II DAS-05 da Divisão de Orçamento e Planejamento - SEMED"
+    },
+    {
+     "ato": 19,
+     "acao": "Exoneração",
+     "nome": "Valeria Fernandes da Silva",
+     "cargo": "Assessor II DAS-02 do Gabinete da SEMEC"
+    },
+    {
+     "ato": 20,
+     "acao": "Nomeação",
+     "nome": "Elisomildo do Carmo Brasil",
+     "cargo": "Assessor II DAS-02 do Gabinete da SEMEC"
+    },
+    {
+     "ato": 21,
+     "acao": "Exoneração",
+     "nome": "Estrela Maria Martins Coelho",
+     "cargo": "Gerente II DAS-05 da Divisão de Serviços Gerais - SEMAD"
+    },
+    {
+     "ato": 22,
+     "acao": "Nomeação",
+     "nome": "Wellyta Gomes de Almeida Franca",
+     "cargo": "Gerente II DAS-05 da Divisão de Serviços Gerais - SEMAD"
+    },
+    {
+     "ato": 23,
+     "acao": "Exoneração",
+     "nome": "Jordan Mattheus Gomes dos Santos",
+     "cargo": "Assessor Técnico I DAS-06 da Assessoria Técnica - SEMDEC"
+    },
+    {
+     "ato": 23,
+     "acao": "Exoneração",
+     "nome": "Rafael Ferreira Guedes",
+     "cargo": "Assessor III DAS-03 da Assessoria Técnica - SEMDEC"
+    },
+    {
+     "ato": 24,
+     "acao": "Nomeação",
+     "nome": "Michele da Silva Melo Alencar",
+     "cargo": "Assessor Técnico I DAS-06 da Assessoria Técnica - SEMDEC"
+    },
+    {
+     "ato": 24,
+     "acao": "Nomeação",
+     "nome": "Alef Augusto da Silva Meireles",
+     "cargo": "Assessor III DAS-03 da Assessoria Técnica - SEMDEC"
+    },
+    {
+     "ato": 25,
+     "acao": "Exoneração",
+     "nome": "Wellyta Gomes de Almeida Franca",
+     "cargo": "Assessor I DAS-01 do Gabinete da SEMUSA"
+    },
+    {
+     "ato": 26,
+     "acao": "Nomeação",
+     "nome": "Vanderlea Barbosa Lacerda",
+     "cargo": "Assessor I DAS-01 do Gabinete da SEMUSA"
+    },
+    {
+     "ato": 27,
+     "acao": "Nomeação",
+     "nome": "Erotilde Rodrigues da Silva Marques",
+     "cargo": "Assessor V DAS-05 da Secretaria Executiva de Gestão de Gastos Públicos - SMCL"
+    },
+    {
+     "ato": 28,
+     "acao": "Nomeação",
+     "nome": "Robisson Alencar de Souza",
+     "cargo": "Assessor I DAS-01 do Gabinete da Procuradoria Geral do Município"
+    },
+    {
+     "ato": 35,
+     "acao": "Designação",
+     "nome": "Daniel Hugo Silva Oliveira",
+     "cargo": "Assessor Técnico I DAS-06 da SGOV, designado para atuar na SEMUSA (retificação)"
+    },
+    {
+     "ato": 36,
+     "acao": "Designação",
+     "nome": "Emilly Alves Monteiro",
+     "cargo": "Assessor Técnico II DAS-07 da SEMEC, designada para atuar na SEMUSA"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Andrieli Dilvania Araujo Brito",
+     "cargo": "Assessor II DAS-02 da SEMAD, designada para atuar na SEMED"
+    },
+    {
+     "ato": 38,
+     "acao": "Designação",
+     "nome": "Dielison Furtunato de Souza",
+     "cargo": "Assessor V DAS-05 da SECOM, designado para atuar na SEINFRA"
+    },
+    {
+     "ato": 46,
+     "acao": "Outro",
+     "nome": "Vanessa Cristine da Silva",
+     "cargo": "Vacância do cargo de Professor da SEMED por posse em cargo inacumulável"
+    },
+    {
+     "ato": 53,
+     "acao": "Outro",
+     "nome": "Camila Raquel Silva",
+     "cargo": "Demissão do cargo de Merendeira Escolar da SEMED por transgressão disciplinar"
+    },
+    {
+     "ato": 54,
+     "acao": "Substituição",
+     "nome": "Lazaro Benedito Vidal Junior",
+     "cargo": "Assessor Técnico I DAS-06 da SEMEC, em substituição por férias de 13/10 a 01/11/2026"
+    },
+    {
+     "ato": 55,
+     "acao": "Outro",
+     "nome": "Jacilene Mendonca Gutzeit",
+     "cargo": "Demissão do cargo de Professor da SEMED por transgressão disciplinar"
+    },
+    {
+     "ato": 56,
+     "acao": "Substituição",
+     "nome": "Geovani da Costa Nogueira",
+     "cargo": "Diretor I DAS-08 da SEMDEC, em substituição por férias de 08 a 27/09/2026"
+    },
+    {
+     "ato": 57,
+     "acao": "Substituição",
+     "nome": "Cahio Sherighan Benjamin Lima",
+     "cargo": "Subprocurador DAS-07 da Procuradoria Geral do Município, em substituição por férias"
+    },
+    {
+     "ato": 59,
+     "acao": "Designação",
+     "nome": "Douglas Lopes da Silva",
+     "cargo": "Gestor titular de contrato da SEMAGRIC (processo 018.000841/2026-75)"
+    },
+    {
+     "ato": 69,
+     "acao": "Designação",
+     "nome": "Kauê Cristinan da Costa Ribeiro",
+     "cargo": "Presidente da Comissão de Sindicância Administrativa Investigativa da SEMDEC"
+    },
+    {
+     "ato": 74,
+     "acao": "Designação",
+     "nome": "Tatiana Socorro Barros Araújo",
+     "cargo": "Gestora titular de contratos e parcerias da SEMIAS"
+    },
+    {
+     "ato": 78,
+     "acao": "Designação",
+     "nome": "Lucineide Honorato Silva do Carmo",
+     "cargo": "Presidente da Comissão Técnica de revisão do protocolo de infecção urinária em gestantes - SEMUSA"
+    },
+    {
+     "ato": 79,
+     "acao": "Substituição",
+     "nome": "Fabiula Gomes dos Santos",
+     "cargo": "Fiscal técnica do Contrato nº 102/PGM/2019 da SEMUSA, em substituição a Uirá Carvalho Fróes"
+    },
+    {
+     "ato": 92,
+     "acao": "Designação",
+     "nome": "Regenildo de Queiroz Silva",
+     "cargo": "Gestor titular do Contrato nº 102/2026/PGM da SMTI (licenças Power BI)"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal é rotina administrativa: férias e alterações de férias na Câmara, diárias de servidores da EMDUR, SECOM, SEMIAS, SEMUSA, Defesa Civil e Secretaria de Governo, cedências e cessação de cedência para Guajará-Mirim, Ouro Preto do Oeste e Assembleia Legislativa, remoção de professora para a SEMTEL, quatro prorrogações de redução de 50% da jornada, auxílios de mutirão de R$ 450,00 a duas garis, autorização de teletrabalho, liberações de acesso ao sistema de gestão de pessoal e autorizações para conduzir veículo oficial."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Resolução nº 5/ARDPV cria o Processo Administrativo Sancionador Regulatório da agência reguladora municipal, com 102 artigos sobre dosimetria de multas, medidas cautelares, multa diária coercitiva, TAC, TAG e TAR, e veda repassar multas e custos de ineficiência às tarifas."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 476/CMPV-2026 exonera Nicoli Ferreira Pescador do cargo de Assessor Parlamentar Volante CC-09 do Gabinete do Vereador Nilton Souza, a partir de 1º/09/2026."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 477/CMPV-2026 nomeia Elisson Pinheiro de Abreu (CC-14) e Helderson Souza da Cunha (CC-05) como Assessores Parlamentares Volantes no Gabinete do Vereador Nilton Souza, a partir de 1º/09/2026."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 478/CMPV-2026 altera o nível do cargo de três assessores parlamentares volantes do Gabinete do Vereador Nilton Souza, todos para níveis inferiores (CC-30, CC-05 e CC-14), a partir de 1º/09/2026."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 184/CMPV-2026 concede férias de 01 a 30/10/2026 a três servidores efetivos da Câmara Municipal, exercício 2025/2026."
+   },
+   {
+    "id": 6,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 185/CMPV-2026 antecipa as férias da servidora Yanna Gessica Souza da Silva, do Gabinete do Vereador Jeovane Ibiza, de novembro para 14/09 a 03/10/2026."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 190/2026/GAB/EMDUR nomeia Tania Valeria Ribeiro Pereira como Gerente de Tecnologia da Informação da EMDUR, em substituição a Gisele Rocha Merces, de 15/09 a 14/10/2026, por férias."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 191/2026/GAB/EMDUR concede 3 meias diárias a quatro empregados públicos para serviços de manutenção da iluminação pública na BR-319, km 17, de 16 a 18/09/2026."
+   },
+   {
+    "id": 9,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A EMDUR adjudica e homologa à CASTOR EVENTOS COMÉRCIO E SERVIÇOS LTDA (CNPJ 49.975.935/0001-82) os lotes 01 e 02 da aquisição de grama sintética e grama sintética esportiva para espaços públicos, no valor total de R$ 972.943,50."
+   },
+   {
+    "id": 10,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Portaria nº 526/2026/IPAM-DRFP institui a Comissão Permanente de Avaliação de Documentos do IPAM, presidida por Sávio Gomes de Brito, depois que a comissão anterior foi extinta por ausência de resultados; a comissão decidirá o que vai para guarda permanente e o que pode ser eliminado."
+   },
+   {
+    "id": 11,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Portaria nº 527/2026/IPAM-DRFP repete, com o mesmo texto e os mesmos três membros, a instituição da Comissão Permanente de Avaliação de Documentos do IPAM feita na portaria anterior, o que sugere duplicidade na publicação."
+   },
+   {
+    "id": 12,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.448/2026 aprova a Metodologia de Gestão de Riscos do Executivo municipal, define escalas de probabilidade e impacto, níveis de severidade (de baixo a extremo), planos de ação e torna obrigatória a Matriz RACI, com implantação pelo sistema UAI Risk cedido pela Controladoria-Geral de Minas Gerais."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.457/2026 concede 2,5 diárias à Secretária Municipal de Saúde, Sandra Maria Petillo Cardoso, para ir a Cacoal (RO) de 16 a 18/09/2026 participar da 8ª Reunião Ordinária da Comissão Intergestores Bipartite."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.683/I exclui Lidiane Cardoso Viana Cruz de Carvalho, Chefe II DAS-03 do CRAS na SEMIAS, do decreto que havia tornado sem efeito sua nomeação, restabelecendo a nomeação desde 1º/08/2026."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.684/I retifica a data de nomeação de Miriam Melo dos Santos como Assessor I DAS-01 do Gabinete da SEMDEC, de 14/08 para 1º/09/2026."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.685/I retifica a data de nomeação de Simone Mello Muniz como Assessor Especial II DAS-12 do Gabinete do Prefeito, de 22/08 para 1º/09/2026."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.686/I exonera Poliana Diniz Rodrigues do cargo de Gerente II DAS-05 da Divisão de Orçamento e Planejamento da SEMED, a partir de 14/09/2026."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.687/I nomeia Juliana Mello Sena Streit como Gerente II DAS-05 da Divisão de Orçamento e Planejamento da SEMED, a partir de 14/09/2026."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.688/I exonera Valeria Fernandes da Silva do cargo de Assessor II DAS-02 do Gabinete da SEMEC, a partir de 14/09/2026."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.689/I nomeia Elisomildo do Carmo Brasil como Assessor II DAS-02 do Gabinete da SEMEC, a partir de 14/09/2026."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.690/I exonera Estrela Maria Martins Coelho do cargo de Gerente II DAS-05 da Divisão de Serviços Gerais da SEMAD, a partir de 14/09/2026."
+   },
+   {
+    "id": 22,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.691/I nomeia Wellyta Gomes de Almeida Franca como Gerente II DAS-05 da Divisão de Serviços Gerais da SEMAD, a partir de 14/09/2026."
+   },
+   {
+    "id": 23,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.692/I exonera Jordan Mattheus Gomes dos Santos (Assessor Técnico I DAS-06) e Rafael Ferreira Guedes (Assessor III DAS-03) da Assessoria Técnica da SEMDEC, a partir de 14/09/2026."
+   },
+   {
+    "id": 24,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.693/I nomeia Michele da Silva Melo Alencar (Assessor Técnico I DAS-06) e Alef Augusto da Silva Meireles (Assessor III DAS-03) na Assessoria Técnica da SEMDEC, a partir de 14/09/2026."
+   },
+   {
+    "id": 25,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.694/I exonera Wellyta Gomes de Almeida Franca do cargo de Assessor I DAS-01 do Gabinete da SEMUSA, a partir de 14/09/2026, no mesmo dia em que ela assume gerência na SEMAD."
+   },
+   {
+    "id": 26,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.695/I nomeia Vanderlea Barbosa Lacerda como Assessor I DAS-01 do Gabinete da SEMUSA, a partir de 14/09/2026."
+   },
+   {
+    "id": 27,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.696/I nomeia Erotilde Rodrigues da Silva Marques como Assessor V DAS-05 da Secretaria Executiva de Gestão de Gastos Públicos da SMCL, a partir de 14/09/2026."
+   },
+   {
+    "id": 28,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 3.697/I nomeia Robisson Alencar de Souza como Assessor I DAS-01 do Gabinete da Procuradoria Geral do Município, a partir de 14/09/2026."
+   },
+   {
+    "id": 29,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Republicação da Lei Complementar nº 1.080/2026, que cria a SUFIS (fiscalização e licenciamento integrados nas áreas ambiental, urbanística, sanitária, de obras, posturas e transporte) e a JURPA (instância recursal única do poder de polícia), altera quatro leis complementares e a Lei nº 1.562/2003 e traz o quadro de cargos comissionados do Município."
+   },
+   {
+    "id": 30,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Lei Complementar nº 1.082/2026 garante a advogados o exame presencial de processos administrativos municipais, físicos ou eletrônicos, mesmo sem procuração, exceto nos sigilosos; entra em vigor em 120 dias. Projeto de autoria do Vereador Thiago Tezzari."
+   },
+   {
+    "id": 31,
+    "categoria": "Legislação",
+    "relevancia": "media",
+    "resumo": "Lei nº 3.511/2026 obriga concessionárias de veículos de Porto Velho a divulgar benefícios fiscais para pessoas com deficiência em cartazes, site e aplicativo, em formatos acessíveis, com prazo de 90 dias para adequação; vários dispositivos foram vetados. Autoria do Vereador Nilton Souza."
+   },
+   {
+    "id": 32,
+    "categoria": "Legislação",
+    "relevancia": "media",
+    "resumo": "Lei nº 3.512/2026 fixa diretrizes para incluir pessoas com deficiência em competições esportivas no Município, permitindo categorias adaptadas conforme disponibilidade orçamentária. Autoria do Vereador Nilton Souza."
+   },
+   {
+    "id": 33,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Lei nº 3.513/2026, chamada Lei Marta Isabelle dos Santos, institui o Protocolo Municipal de Busca Ativa e Monitoramento Contínuo de crianças e adolescentes, com quatro níveis de risco, prioridade para casos de Alerta Vermelho e acompanhamento que continua em férias, recessos e greves. Autoria do Vereador Dr. Breno Mendes."
+   },
+   {
+    "id": 34,
+    "categoria": "Legislação",
+    "relevancia": "baixa",
+    "resumo": "Lei nº 3.514/2026 institui o Dia Municipal do Trabalhador Rural, em 25 de maio, e o inclui no Calendário Oficial do Município. Autoria do Vereador Adalto de Bandeirantes."
+   },
+   {
+    "id": 35,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 319/2026/SGOV-DGP retifica designação anterior: Daniel Hugo Silva Oliveira, Assessor Técnico I DAS-06 da SGOV, passa a atuar na SEMUSA e não na SEMDEC, com efeitos desde 1º/08/2026."
+   },
+   {
+    "id": 36,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 321/2026 designa Emilly Alves Monteiro, Assessor Técnico II DAS-07 da SEMEC, para atuar na SEMUSA, com efeitos retroativos a 15/01/2025 — mais de um ano e meio antes da publicação."
+   },
+   {
+    "id": 37,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 322/2026 designa Andrieli Dilvania Araujo Brito, Assessor II DAS-02 da SEMAD, para atuar na SEMED, com efeitos retroativos a 04/09/2026."
+   },
+   {
+    "id": 38,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 323/2026 designa Dielison Furtunato de Souza, Assessor V DAS-05 da SECOM, para atuar na SEINFRA, com efeitos retroativos a 06/08/2026."
+   },
+   {
+    "id": 39,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Extrato do Contrato nº 101/2026/PGM com a Acronet Corporativo Comércio e Serviços LTDA-EPP para locação de impressoras novas com manutenção, toner e insumos para a SEMAD, no valor global de R$ 21.499,80 e vigência de 12 meses, decorrente do Pregão Eletrônico nº 90088/2025."
+   },
+   {
+    "id": 40,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 38/2026/DGP/GAB/SEMAD libera acesso ao Sistema de Gestão Pública Integrado à servidora Ingrid Beatriz Gomes Prado, para lançamentos de gestão de pessoal da SEMED."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 39/2026/DGP/GAB/SEMAD libera acesso ao Sistema de Gestão Pública Integrado à servidora Stefhany Gomes dos Santos, para lançamentos de gestão de pessoal da SEINFRA."
+   },
+   {
+    "id": 42,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1398/2026 cede a técnica em enfermagem Udarque Auana Cortez Forest, da SEMUSA, para a Prefeitura de Guajará-Mirim de 12/08 a 31/12/2026, com ônus para Porto Velho mediante reembolso."
+   },
+   {
+    "id": 43,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1399/2026 remove a professora Edislene Castro Barreto Machado da SEMED para a Secretaria de Turismo, Esporte e Lazer, dispensando adicionais ligados à lotação anterior."
+   },
+   {
+    "id": 44,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1400/2026 cessa, a partir de 31/08/2026, a cedência do enfermeiro Roberto Dilamite Sousa, da SEMUSA, à Assembleia Legislativa de Rondônia."
+   },
+   {
+    "id": 45,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1401/2026 prorroga por um ano, de 12/09/2026 a 11/09/2027, a redução de 50% da jornada, sem perda de remuneração, da professora Cledenice Blackman, da SEMED."
+   },
+   {
+    "id": 46,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1402/2026 declara a vacância do cargo de Professor ocupado por Vanessa Cristine da Silva, na SEMED, de 13/08/2026 a 11/08/2029, por posse em outro cargo inacumulável."
+   },
+   {
+    "id": 47,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1403/2026 prorroga por um ano, de 19/09/2026 a 18/09/2027, a redução de 50% da jornada do assistente administrativo Luiz Carlos Paes da Mota, da SEMUSA."
+   },
+   {
+    "id": 48,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1404/2026 prorroga por um ano, de 21/10/2026 a 20/10/2027, a redução de 50% da jornada da auxiliar de serviços gerais Sandra Maria dos Santos Onesio, da SEMIAS."
+   },
+   {
+    "id": 49,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1405/2026 prorroga por um ano, de 03/08/2026 a 02/08/2027, a redução de 50% da jornada da professora Camila Regina Mendes da Silva, da SEMED."
+   },
+   {
+    "id": 50,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1406/2026 prorroga a cedência do gari Eugenio Rabelo Santos Meirelis à Prefeitura de Ouro Preto do Oeste (RO) de 01/01/2027 a 31/12/2027, sem ônus para Porto Velho."
+   },
+   {
+    "id": 51,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1407/2026 concede auxílio de mutirão especial de R$ 450,00 à gari Gisleni Cardoso de Sá, da SEINFRA, a partir de 1º/09/2026."
+   },
+   {
+    "id": 52,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1408/2026 concede auxílio de mutirão especial de R$ 450,00 à gari Iza Nascimento Ribeiro, da SEINFRA, a partir de 1º/07/2026."
+   },
+   {
+    "id": 53,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 1409/2026 demite a merendeira escolar Camila Raquel Silva, da SEMED, a partir de 04/06/2026, por transgressão disciplinar do art. 156, III, §1º, da LC nº 385/2010."
+   },
+   {
+    "id": 54,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1410/2026 designa Lazaro Benedito Vidal Junior para exercer o cargo de Assessor Técnico I DAS-06 da SEMEC de 13/10 a 01/11/2026, em substituição à titular em férias."
+   },
+   {
+    "id": 55,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 1411/2026 demite a professora Jacilene Mendonca Gutzeit, da SEMED, a partir de 29/07/2026, por transgressão disciplinar do art. 156, III, §1º, da LC nº 385/2010."
+   },
+   {
+    "id": 56,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1412/2026 designa Geovani da Costa Nogueira para exercer o cargo de Diretor I DAS-08 da SEMDEC de 08 a 27/09/2026, em substituição à titular em férias."
+   },
+   {
+    "id": 57,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1413/2026 designa Cahio Sherighan Benjamin Lima para exercer o cargo de Subprocurador DAS-07 da PGM de 20 a 29/07/2026, em substituição ao titular em férias."
+   },
+   {
+    "id": 58,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Termo de Adesão nº 16/2026 inclui a HIGHER CHALLENGE SCHOOL LTDA (HC School) no programa BEN+SERVIDOR, com 50% de desconto em curso de inglês em grupo (18 parcelas de R$ 174,50) e 20% na modalidade individual (12 parcelas de R$ 375,20), pagos pelos próprios servidores."
+   },
+   {
+    "id": 59,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 318/2026 da SEMAGRIC altera portaria anterior e designa Douglas Lopes da Silva como gestor e Roberto Chaves Albano Filho e Felix Ferreira de Souza Júnior como fiscais técnico e administrativo do contrato do processo 018.000841/2026-75."
+   },
+   {
+    "id": 60,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 36/DA/SECOM torna válida a viagem de sete servidores à Vila Calderita em 06/09/2026, com meia diária cada, para apoiar a participação do Prefeito no Festival da Vila Calderita."
+   },
+   {
+    "id": 61,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 37/DA/SECOM torna válida a viagem do motorista William Jordan de Melo Nascimento à Vila Calderita, de 05 a 06/09/2026, com uma diária."
+   },
+   {
+    "id": 62,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SMCL anula a Dispensa Eletrônica nº 300/2026, do seguro da frota da Controladoria-Geral do Município, porque o Compras.gov.br registrou o valor estimado como R$ 6,9980 em vez de R$ 6.998,00, vício considerado insanável que comprometeu a comparação das propostas; será aberto novo procedimento."
+   },
+   {
+    "id": 63,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Aviso de cotação de preços para contratação direta emergencial de mobiliário, eletrodomésticos, informática, utensílios, enxoval e climatização da Unidade de Acolhimento Casa Aurora (SEMIAS); propostas em até 5 dias úteis e entrega em 5 dias corridos após o empenho."
+   },
+   {
+    "id": 64,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Aviso da Dispensa Eletrônica nº 332/2026, que relança a contratação de seguro veicular da frota da CGM pelo valor estimado de R$ 6.998,00, com abertura das propostas em 18/09/2026 às 09h no Compras.gov.br."
+   },
+   {
+    "id": 65,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Aviso do Pregão Eletrônico nº 325/2026 para aquisição de equipamentos audiovisuais e materiais de apoio técnico para a SECOM, valor estimado de R$ 147.859,79, com abertura das propostas em 29/09/2026 às 09h30."
+   },
+   {
+    "id": 66,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Aviso de reabertura do Credenciamento nº 295/2026 para empresas de serviços médicos em caráter complementar à SEMUSA; o acolhimento das manifestações começa em 22/09/2026 às 08h, com vigência de 12 meses prorrogáveis."
+   },
+   {
+    "id": 67,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Resultado da qualificação de Organizações Sociais de Saúde qualifica sete entidades sem fins lucrativos (entre elas Santa Casa de Chavantes, INDSH, INSIDE e Associação Tristão da Cunha), com prazo de 3 dias úteis para recurso; a qualificação não implica contrato de gestão."
+   },
+   {
+    "id": 68,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Termo de adjudicação e homologação do Pregão Eletrônico nº 303/2026 à BAX - Serviços de Análises Químicas e Biológicas LTDA, no valor de R$ 78.507,00, para coleta e análise da qualidade da água de igarapés e balneários de Porto Velho, a pedido da SEMA."
+   },
+   {
+    "id": 69,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "Portaria nº 36/2026/GAB/SEMDEC institui comissão de sindicância investigativa, com prazo de 30 dias prorrogáveis, para apurar acidente de trânsito de 29/05/2026 entre veículo oficial Fiat Strada e um Honda HR-V, com dano estimado em R$ 4.300,00 e ação judicial em curso contra o Município."
+   },
+   {
+    "id": 70,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Instrução Normativa SEMEC nº 10/2026 disciplina, em 83 artigos, a vistoria e a fiscalização do alvará de funcionamento na Secretaria de Economia até a SUFIS entrar em operação, com fiscalização orientadora, dupla visita, proibição de exigências sem base legal e regras para transferir processos e acervos à nova superintendência."
+   },
+   {
+    "id": 71,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 83/2026 da SEMEC autoriza a assistente administrativa Fernanda Soares Silva a trabalhar em teletrabalho integral por 10 meses, com efeitos desde 30/08/2026."
+   },
+   {
+    "id": 72,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Republicação da Resolução nº 33/CME/2026 concede por três anos a manutenção do reconhecimento à EMEI Cosme e Damião, no bairro Embratel, que atende 193 crianças e 21 alunos da educação especial; o parecer recomenda à SEMED instalar piso tátil, sinalização acessível e completar o calçamento."
+   },
+   {
+    "id": 73,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Extrato do Termo de Fomento nº 096/2026/PGM repassa R$ 50.000,00 em parcela única à Associação Luz do Alvorecer para o Programa Alvorecer, de fortalecimento de vínculos familiares, com vigência de 12 meses e recursos de emenda parlamentar do Vereador Breno Mendes."
+   },
+   {
+    "id": 74,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário nº 11/2026 da SEMIAS indica Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira e Lucas Gabriel de Almeida Veiga como fiscais técnica e administrativo de três parcerias, entre elas o Termo de Fomento nº 078/PGM/2026."
+   },
+   {
+    "id": 75,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 294/DA/GAB/SEMIAS concede 11 diárias a cinco servidores para oficinas e palestras do Programa PETI em Rio Pardo, Vila da Penha, Fortaleza do Abunã e Abunã, de 14 a 19/09 e de 28/09 a 03/10/2026."
+   },
+   {
+    "id": 76,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Segundo termo aditivo ao Contrato nº 011/2024/COJUSA/PGM, com a GENTE SEGURADORA S/A, prorroga por 12 meses, a partir de 03/09/2026, o seguro total de 27 veículos da frota da SEMUSA; o extrato traz apenas empenhos de R$ 22.358,15, R$ 594,43 e R$ 4.994,22, sem valor global."
+   },
+   {
+    "id": 77,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 435/2026 da SEMUSA autoriza Gilberto Pereira Raposo e Elijane Batista Monteiro de Menezes a conduzir veículos oficiais nas UBS Lago do Cuniã e Terra Santa, com validade de um ano."
+   },
+   {
+    "id": 78,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "Portaria nº 436/2026 da SEMUSA amplia para doze membros e prorroga por 30 dias, até 04/10/2026, o prazo da comissão técnica que revisa o protocolo de diagnóstico e tratamento de infecção urinária em gestantes na atenção primária."
+   },
+   {
+    "id": 79,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 440/2026 da SEMUSA substitui o fiscal técnico do Contrato nº 102/PGM/2019, de locação de imóvel de 4.115 m² da GGK Negócios Imobiliário LTDA, designando Fabiula Gomes dos Santos no lugar de Uirá Carvalho Fróes."
+   },
+   {
+    "id": 80,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 72/SMD/2026 autoriza o assessor Igor Ribamar Neto Rebouças a conduzir veículos oficiais da Superintendência Municipal de Distritos de 11/09 a 31/12/2026."
+   },
+   {
+    "id": 81,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 60/2026/SMPDC retifica concessão de diárias a dez servidores da Defesa Civil, mudando destinos, datas e quantidades: além das comunidades de Silveira, Boca do Jamari, Mutuns e Itacuã, passam a constar os distritos de São Carlos e Calama e o município de Humaitá (AM), com deslocamento também fluvial."
+   },
+   {
+    "id": 82,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.449/2026 movimenta R$ 2.700.000,00 por transposição na Unidade da Assistência à Saúde do IPAM, retirando da ação de atendimento hospitalar, laboratorial e ambulatorial e realocando R$ 2 milhões para outros serviços de terceiros e R$ 700 mil para administração da unidade."
+   },
+   {
+    "id": 83,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 320/2026 da SGOV retifica concessão de diárias ao assessor técnico Matheus Serrate de Araújo Carvalho, elevando de 14,5 para 16 o total de diárias para visitas a distritos, linhas e ramais entre 03 e 28/09/2026."
+   },
+   {
+    "id": 84,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.429/2026 abre crédito adicional suplementar de R$ 242.496,76 na SEMEC, por anulação de dotações, para cobrir despesas com diárias e locação de imóvel."
+   },
+   {
+    "id": 85,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.433/2026 abre crédito suplementar de R$ 24.500,00 na Defesa Civil, por anulação de dotação, para contratar manutenção de embarcações fluviais."
+   },
+   {
+    "id": 86,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.434/2026 abre crédito suplementar para a EMDUR indicando R$ 2.711.725,21 no art. 1º, embora o quadro detalhado some R$ 2.223.904,78, remanejando R$ 1,95 milhão da revitalização da iluminação pública em vias urbanas para material de consumo."
+   },
+   {
+    "id": 87,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.438/2026 transpõe R$ 487.820,43 da revitalização de iluminação pública em vias urbanas para o apoio à logística dos serviços básicos da EMDUR."
+   },
+   {
+    "id": 88,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.439/2026 transfere R$ 30.000,00 na SEMEC, de equipamentos e material permanente para diárias de pessoal civil."
+   },
+   {
+    "id": 89,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Termo de Dispensa de Licitação nº 6/2026 contrata a A. PEREIRA ARAMES LTDA por R$ 129.856,36 para fornecer e instalar 140 painéis de gradil, 142 postes e fixadores na Escola de 12 Salas padrão FNDE do Conjunto Cristal da Calama, obra com mais de 88% de execução e investimento superior a R$ 5 milhões."
+   },
+   {
+    "id": 90,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Termo de Dispensa de Licitação nº 7/2026 contrata Cledson Carvalho de Paiva por R$ 61.920,00 para transmissão ao vivo e cobertura audiovisual de até 24 eventos da SEMED em 12 meses, ao custo de R$ 2.580,00 por evento, com base no art. 75, II, da Lei nº 14.133/2021; o formulário não traz o número do processo nem a unidade orçamentária."
+   },
+   {
+    "id": 91,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 438/2026 da SEMUSA concede 1,5 diária a quatro servidores, totalizando R$ 1.125,00, para abastecimento e conferência de medicamentos nas unidades de saúde ao longo da BR-364 (Abunã, Vila da Penha, Fortaleza do Abunã, Vista Alegre, Nova Califórnia e Extrema)."
+   },
+   {
+    "id": 92,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 65 da SMTI designa Regenildo de Queiroz Silva como gestor e Igor Kamis Vogt e Elizabete da Silva Beleza Uchoa como fiscais do Contrato nº 102/2026/PGM, de licenças Microsoft Power BI com a T&M Soluções em Tecnologia, com vigência de 12 meses."
+   },
+   {
+    "id": 93,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Termo de Dispensa de Licitação nº 01/2026 da SMTI contrata a T&M Soluções em Tecnologias LTDA por R$ 4.344,59 para subscrições de licenças Microsoft Power BI Pro (1) e Premium Per User (2) por 12 meses, com base no art. 75, II, da Lei nº 14.133/2021."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code)",
  "processado_em": "2026-09-14T02:42:07-04:00",
  "conferencia": {
   "site": 95,
@@ -856,5 +2016,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-15T20:38-04:00"
- }
+ },
+ "resumo_formato": 2
 }

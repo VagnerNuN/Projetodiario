@@ -587,34 +587,26 @@
   }
  ],
  "resumo": {
-  "manchete": "Prefeitura de Porto Velho homologa licitação de R$ 11,95 milhões para iluminar faixas de pedestres e registra R$ 8,3 milhões em banheiros químicos para os distritos",
-  "resumo": "A edição foi dominada por licitações e contratos: a SMCL homologou a compra de placas iluminadas para faixas de pedestres (R$ 11,95 milhões), registrou preços de banheiros químicos para unidades de saúde dos distritos (R$ 8,29 milhões) e de troféus e medalhas para a SEMTEL (cerca de R$ 1,14 milhão somando cinco fornecedores). A SEMIAS decidiu alugar sem licitação o antigo Hotel Shelton por R$ 972 mil em 24 meses para reunir sede, CadÚnico e Casa dos Conselhos, com a promessa de economizar R$ 603,7 mil por ano em vigilância. O prefeito qualificou sete entidades como Organizações Sociais de Saúde, o que as habilita a disputar futuros contratos de gestão na saúde. A EMDUR abriu pregão para uma árvore de Natal digital de 40 metros no Parque da Cidade, com orçamento sigiloso. O restante são atos de pessoal (nomeações, exonerações, promoções), diárias para viagens aos distritos e designações de fiscais e comissões.",
+  "manchete": "Prefeitura homologa R$ 11,95 milhões para placas iluminadas de faixa de pedestre e registra R$ 8,2 milhões em banheiros químicos para as unidades de saúde",
+  "resumo": "A edição nº 4315 concentra decisões de peso nas contratações: a SMCL homologou, em favor da A P M NINA, o registro de preços de R$ 11.950.165,00 para placas de sinalização iluminadas de faixa de pedestre da SEMTRAN, e publicou a Ata de Registro de Preços nº 049/2026, de R$ 8.215.314,96, com a CLC Comércio e Locação de Máquinas, para banheiros químicos nas unidades de saúde dos distritos. Também aparecem uma inexigibilidade de R$ 972.000,00 para locar o antigo Hotel Shelton como sede única da SEMIAS e do CadÚnico por 24 meses e um aditivo que eleva em R$ 266.542,31 o contrato do Instituto Alicerce na Educação. Na área normativa, o Prefeito qualificou sete entidades como Organizações Sociais de Saúde, abrindo caminho para futuros contratos de gestão na saúde, e a SEMAD disciplinou a perícia médica domiciliar e por telessaúde. O restante é rotina administrativa: nomeações e exonerações em comissão, designações de gestores e fiscais de contrato, diárias para os distritos e promoções funcionais.",
   "destaques": [
    {
-    "titulo": "R$ 11,95 milhões para faixas de pedestres iluminadas",
-    "texto": "A SMCL homologou em favor da empresa A P M NINA o registro de preços para fornecer e instalar placas de sinalização iluminadas por LED, com colunas metálicas, em faixas de pedestres da cidade, a pedido da SEMTRAN, pelo valor total de R$ 11.950.165,00.",
+    "titulo": "R$ 11,95 milhões em placas iluminadas de faixa de pedestre",
+    "texto": "A SMCL adjudicou e homologou à empresa A P M NINA o registro de preços do Pregão Eletrônico nº 90098/2025 (SRP nº 076/2025), no valor de R$ 11.950.165,00, para fornecer e instalar placas verticais iluminadas com pictograma de faixa de pedestre nas vias de Porto Velho, atendendo à SEMTRAN.",
     "atos": [
      30
     ]
    },
    {
-    "titulo": "Banheiros químicos para distritos custam R$ 8,29 milhões",
-    "texto": "Atas de registro de preços com a CLC Comércio e Locação de Máquinas (R$ 8.215.314,96) e a EMOPS (R$ 75.234,88) preveem locação de banheiros químicos, inclusive adaptados, para unidades de saúde de Jaci-Paraná, Extrema, Vila Calderita, Nova Mutum, União Bandeirantes e outros distritos.",
+    "titulo": "Ata de R$ 8,2 milhões para banheiros químicos nos distritos",
+    "texto": "A Ata de Registro de Preços nº 049/2026, firmada com a CLC Comércio e Locação de Máquinas Ltda, registra R$ 8.215.314,96 em locação, higienização e sucção de sanitários químicos para unidades de saúde de Jaci Paraná, Nova Califórnia, União Bandeirantes, Rio Pardo e outras localidades.",
     "atos": [
      59
     ]
    },
    {
-    "titulo": "SEMIAS vai alugar antigo Hotel Shelton por R$ 972 mil",
-    "texto": "Por inexigibilidade de licitação, a SEMIAS alugará por R$ 40.500,00 mensais (24 meses) o imóvel da Av. Pinheiro Machado, 1828, para unificar sede, Central do CadÚnico e Casa dos Conselhos; a secretaria calcula economia líquida de R$ 50.312,60 por mês com o fim de quatro postos de vigilância, e o aluguel só começa após reformas e Habite-se em até 60 dias.",
-    "atos": [
-     60,
-     40
-    ]
-   },
-   {
     "titulo": "Sete entidades qualificadas como Organizações Sociais de Saúde",
-    "texto": "Três decretos qualificam como OSS a Santa Casa de Misericórdia de Chavantes, a Associação Ubaíra (S3 Gestão em Saúde), o INDSH, a Associação Senhor Bom Jesus, a Beneficência Hospitalar de Cesário Lange, o INSIDE e a Associação Tristão da Cunha. A qualificação permite disputar futuros contratos de gestão, mas não garante contratação.",
+    "texto": "Três decretos do Prefeito qualificaram como OSS a Santa Casa de Chavantes, a S3 Gestão em Saúde, o INDSH, a Associação Senhor Bom Jesus, a Beneficência Hospitalar de Cesário Lange, o INSIDE e a Associação Tristão da Cunha. A qualificação só habilita a disputar futuros contratos de gestão, sem gerar direito à contratação.",
     "atos": [
      10,
      11,
@@ -622,406 +614,864 @@
     ]
    },
    {
-    "titulo": "Árvore de Natal digital de 40 metros no Parque da Cidade",
-    "texto": "A EMDUR abriu o Pregão Eletrônico 033/2026 para contratar projeto, montagem, operação e retirada de uma árvore natalina de LED com no mínimo 40 metros na ilha central do lago do Parque da Cidade, para o Natal Porto Velho Luz 2026; a disputa será em 23/09/2026 às 10h no Licitanet e o orçamento é sigiloso.",
+    "titulo": "Nova sede da SEMIAS por inexigibilidade: R$ 972 mil em 24 meses",
+    "texto": "A SEMIAS reconheceu a inexigibilidade de licitação para locar o prédio da Avenida Pinheiro Machado, 1828 (antigo Hotel Shelton), da Shelton Hotel Ltda EPP, por R$ 40.500,00 mensais, unificando sede, CadÚnico e Casa dos Conselhos; a secretaria estima economia líquida de R$ 50.312,60 por mês.",
     "atos": [
-     6
+     60,
+     40
     ]
    },
    {
-    "titulo": "Educação: aditivo com Instituto Alicerce e câmeras em escolas",
-    "texto": "A SEMED acrescentou R$ 266.542,31 ao contrato do Instituto Alicerce, que passa a R$ 3.107.825,11, e firmou termos de fomento de R$ 200.624,00 e R$ 200.000,00 com os conselhos escolares do Centro Jorge Andrade e da Escola de Música Som na Leste para instalar alarme e CFTV.",
+    "titulo": "Três pregões e uma dispensa abertos ao mercado",
+    "texto": "Estão em disputa a árvore natalina digital de 40 metros do Parque da Cidade (EMDUR, orçamento sigiloso), os kits maternidade da Maternidade Mãe Esperança (R$ 296.280,00) e os manequins de treinamento da SEMUSA (R$ 79.900,53); a SEMED reabriu dispensa para videoconferência e Smart TVs com propostas apenas por e-mail.",
     "atos": [
-     35,
-     36,
-     37
+     6,
+     28,
+     29,
+     34
+    ]
+   },
+   {
+    "titulo": "Movimentação em cargos comissionados e designações de fiscais",
+    "texto": "Sete decretos nomearam, exoneraram ou tornaram sem efeito exonerações na PGM, SEMEC, SEMAGRIC, SEMDEC e SEINFRA, e portarias designaram gerentes de transportes, gestores e fiscais de contrato na SEMAD, SEMDEC, SEMAGRIC, SEMIAS e SEMA.",
+    "atos": [
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     21,
+     24,
+     25,
+     26,
+     32,
+     40,
+     51
     ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 1,
+    "motivo": "Contratação direta por inexigibilidade (art. 74, III, da Lei 14.133/2021) para filiação da ARDPV à ABAR, no valor de R$ 12.400,00."
+   },
+   {
+    "ato": 60,
+    "motivo": "Contratação por inexigibilidade (art. 74, V, da Lei 14.133/2021) da locação do antigo Hotel Shelton por R$ 40.500,00 mensais e R$ 972.000,00 em 24 meses, com eficácia condicionada a reformas prediais em até 60 dias."
+   },
+   {
+    "ato": 34,
+    "motivo": "Dispensa de licitação para compra de equipamentos de videoconferência e Smart TVs, com recebimento de propostas exclusivamente por e-mail e prazo de apenas 5 dias úteis após a publicação."
+   },
+   {
+    "ato": 35,
+    "motivo": "Termo aditivo com acréscimo líquido de R$ 266.542,31 (9,3819%), elevando o contrato com o Instituto Alicerce de R$ 2.841.282,80 para R$ 3.107.825,11."
+   },
+   {
+    "ato": 30,
+    "motivo": "Homologação de registro de preços de R$ 11.950.165,00 a uma única empresa vencedora do lote único, sem detalhamento de itens na publicação."
+   },
+   {
+    "ato": 59,
+    "motivo": "Ata de registro de preços de R$ 8.215.314,96 para locação de banheiros químicos, com diária unitária de R$ 4.315,00 e R$ 4.674,48."
+   },
+   {
+    "ato": 6,
+    "motivo": "Aviso de licitação da árvore natalina digital publica orçamento estimado como sigiloso, com base no art. 34 da Lei 13.303/2016."
+   },
+   {
+    "ato": 44,
+    "motivo": "Retificação altera o destino da diária concedida na Portaria nº 412/2026, de Itapuã do Oeste para comunidades do Baixo Madeira."
+   },
+   {
+    "ato": 46,
+    "motivo": "Portaria de cancelamento de autorização de táxi com efeitos retroativos a 30 de setembro de 2019, quase sete anos antes da publicação."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 1,
+    "etapa": "Inexigibilidade",
+    "modalidade": null,
+    "objeto": "Filiação da ARDPV à Associação Brasileira de Agências Reguladoras (anuidade 2026)",
+    "fornecedor": "Associação Brasileira de Agências Reguladoras – ABAR",
+    "valor": 12400.0
+   },
+   {
+    "ato": 6,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 033/EMDUR/2026",
+    "objeto": "Árvore natalina digital de 40 metros com pixel LED para o Natal Porto Velho Luz 2026, na Ilha Central do Parque da Cidade",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 27,
+    "etapa": "Outro",
+    "modalidade": "Pregão Eletrônico nº 294/2026/SMCL/PVH",
+    "objeto": "Esclarecimento sobre fornecimento de refeições preparadas e transportadas para servidores de plantão da SEMUSA",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 28,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 320/2026/SMCL/PVH",
+    "objeto": "Registro de preços para kits maternidade, enxoval e higiene de bebê da Maternidade Mãe Esperança",
+    "fornecedor": null,
+    "valor": 296280.0
+   },
+   {
+    "ato": 29,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 321/2026/SMCL/PVH",
+    "objeto": "Aquisição de manequins de treinamento para unidades de urgência e emergência da SEMUSA",
+    "fornecedor": null,
+    "valor": 79900.53
+   },
+   {
+    "ato": 30,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 90098/2025/SMCL/PVH – SRP nº 076/2025",
+    "objeto": "Placas de sinalização verticais iluminadas com pictograma de faixa de pedestre para as vias do município",
+    "fornecedor": "A P M NINA",
+    "valor": 11950165.0
+   },
+   {
+    "ato": 31,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 245/2026/SMCL/PVH",
+    "objeto": "Manutenção preventiva e corretiva de ar-condicionado e ventilação da PGM por 60 meses",
+    "fornecedor": "CAPUCHE TECNOCLIMA LTDA",
+    "valor": 198074.4
+   },
+   {
+    "ato": 34,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa nº 01/2026/SEMED/PVH",
+    "objeto": "Sistemas de videoconferência, Smart TVs de 65 polegadas e suportes para a SEMED",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 35,
+    "etapa": "Aditivo",
+    "modalidade": "Contrato nº 039/PGM/2025",
+    "objeto": "Serviços educacionais de recomposição de aprendizagens na rede municipal de ensino",
+    "fornecedor": "Instituto Alicerce",
+    "valor": 3107825.11
+   },
+   {
+    "ato": 36,
+    "etapa": "Outro",
+    "modalidade": "Termo de Fomento nº 092/PGM/2026",
+    "objeto": "Implantação de sistema de alarme e CFTV IP com cabeamento no Centro Municipal de Arte e Cultura Escolar Jorge Andrade",
+    "fornecedor": "Conselho Escolar Centro Municipal de Arte e Cultura Escolar Jorge Andrade",
+    "valor": 200624.0
+   },
+   {
+    "ato": 37,
+    "etapa": "Outro",
+    "modalidade": "Termo de Fomento nº 094/PGM/2026",
+    "objeto": "Implantação de sistema de alarme e CFTV IP com cabeamento na escola de música Som na Leste",
+    "fornecedor": "Conselho Escolar de Música Som na Leste",
+    "valor": 200000.0
+   },
+   {
+    "ato": 58,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão Eletrônico nº 246/2026/SMCL/PVH – ARP nº 047/2026",
+    "objeto": "Troféus, medalhas, placas de homenagem e comendas para premiação esportiva da SEMTEL",
+    "fornecedor": "LC LOS COSTAS ARTIGOS MILITARES",
+    "valor": 243061.55
+   },
+   {
+    "ato": 59,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão Eletrônico nº 90025/2026/SMCL/PVH – ARP nº 049/2026",
+    "objeto": "Locação, montagem, higienização e sucção de banheiros químicos para unidades de saúde dos distritos",
+    "fornecedor": "CLC COMERCIO E LOCACAO DE MAQUINAS LTDA",
+    "valor": 8215314.96
+   },
+   {
+    "ato": 60,
+    "etapa": "Inexigibilidade",
+    "modalidade": "Termo de Inexigibilidade nº 2/2026/SEMIAS",
+    "objeto": "Locação por 24 meses do imóvel da Avenida Pinheiro Machado, 1828, para sede da SEMIAS, CadÚnico e Casa dos Conselhos",
+    "fornecedor": "SHELTON HOTEL LTDA EPP",
+    "valor": 972000.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-09",
+    "hora": "06:00",
+    "evento": "Saída da equipe da Defesa Civil para entrega de kits doados pela Receita Federal nas comunidades do Baixo Madeira, até 22/09.",
+    "ato": 64
+   },
+   {
+    "data": "2026-09-10",
+    "hora": "09:30",
+    "evento": "Sessão pública do Pregão Eletrônico nº 294/2026, de refeições para servidores de plantão da SEMUSA, no gov.br/compras.",
+    "ato": 27
+   },
+   {
+    "data": "2026-09-11",
+    "hora": null,
+    "evento": "Começam os efeitos da nomeação de George Alessandro Gonçalves Braga como Diretor-Presidente interino da ARDPV, até 30/09.",
+    "ato": 2
+   },
+   {
+    "data": "2026-09-11",
+    "hora": null,
+    "evento": "Começam os efeitos da nomeação de Patrícia Scherer Fernandes como Diretora Administrativa e Financeira da ARDPV, até 30/09.",
+    "ato": 3
+   },
+   {
+    "data": "2026-09-14",
+    "hora": null,
+    "evento": "Capacitação do SIPIA para conselheiros tutelares, de 14 a 16/09, em Porto Velho.",
+    "ato": 39
+   },
+   {
+    "data": "2026-09-21",
+    "hora": null,
+    "evento": "Viagem de conselheiros tutelares da SEMIAS às comunidades rurais para cumprir o plano de ação de setembro, de 21 a 26/09.",
+    "ato": 38
+   },
+   {
+    "data": "2026-09-22",
+    "hora": null,
+    "evento": "Reunião conjunta proposta entre o Conselho Fiscal e o CONSAD da EMDUR, preferencialmente presencial, em horário a definir.",
+    "ato": 5
+   },
+   {
+    "data": "2026-09-23",
+    "hora": "10:00",
+    "evento": "Abertura das propostas e disputa do Pregão Eletrônico nº 033/EMDUR/2026, da árvore natalina digital, no sistema Licitanet.",
+    "ato": 6
+   },
+   {
+    "data": "2026-09-23",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 321/2026, de manequins de treinamento para a SEMUSA, no gov.br/compras.",
+    "ato": 29
+   },
+   {
+    "data": "2026-09-24",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 320/2026, dos kits maternidade da Maternidade Mãe Esperança, no gov.br/compras.",
+    "ato": 28
+   },
+   {
+    "data": "2026-12-31",
+    "hora": null,
+    "evento": "Fim do prazo de cedência da servidora Gilmara Silva de Araujo à AGEVISA, com reembolso ao Município.",
+    "ato": 23
+   }
+  ],
+  "normas": [
+   {
+    "ato": 8,
+    "identificacao": "Portaria nº 501, de 03/09/2026 (IPAM)",
+    "o_que_muda": "A unidade do sistema SEI do IPAM chamada Divisão de Governança, Projetos e Compliance passa a se chamar Assessoria Especial de Compliance e Normas Licitatórias, para alinhar o sistema à estrutura criada pela Lei Complementar nº 940/2026."
+   },
+   {
+    "ato": 10,
+    "identificacao": "Decreto nº 22.432, de 08/09/2026",
+    "o_que_muda": "Qualifica como Organizações Sociais de Saúde cinco entidades sem fins lucrativos (Santa Casa de Chavantes, S3 Gestão em Saúde, INDSH, Associação Senhor Bom Jesus e Beneficência Hospitalar de Cesário Lange), habilitando-as a disputar futuros contratos de gestão com o Município, sem direito automático à contratação."
+   },
+   {
+    "ato": 11,
+    "identificacao": "Decreto nº 22.435, de 08/09/2026",
+    "o_que_muda": "Qualifica o Instituto Nacional de Saúde, Inovação, Desenvolvimento e Educação (INSIDE) como Organização Social de Saúde, permitindo que participe de futuras seleções para contratos de gestão na saúde municipal."
+   },
+   {
+    "ato": 12,
+    "identificacao": "Decreto nº 22.436, de 08/09/2026",
+    "o_que_muda": "Qualifica a Associação Tristão da Cunha como Organização Social de Saúde, após chamamento público e parecer favorável da Procuradoria, habilitando-a a disputar contratos de gestão."
+   },
+   {
+    "ato": 22,
+    "identificacao": "Portaria nº 03/2026 - DSO/GAB/SEMAD, de 08/09/2026",
+    "o_que_muda": "Cria regras para que servidores e dependentes que não possam se deslocar por motivo de saúde façam perícia médica por análise documental, telessaúde ou visita domiciliar, nos pedidos de conversão de licença-prêmio ou férias em dinheiro. A escolha da modalidade cabe exclusivamente ao médico perito."
+   },
+   {
+    "ato": 25,
+    "identificacao": "Portaria nº 301, de 04/09/2026 (SEMAGRIC)",
+    "o_que_muda": "Institui na SEMAGRIC uma comissão permanente para conferir e receber materiais de consumo e serviços comprados sem contrato formal, como pequenas compras e dispensas por valor, com atuação mínima de três membros por recebimento."
+   },
+   {
+    "ato": 47,
+    "identificacao": "Portaria nº 147, de 08/09/2026 (SEMTRAN)",
+    "o_que_muda": "Fiscais de Transporte da SEMTRAN ficam dispensados de bater o ponto eletrônico de saída por atuarem em campo, mas continuam obrigados a registrar a entrada e a ter a frequência acompanhada pelas chefias por escalas e relatórios."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 2,
+     "acao": "Nomeação",
+     "nome": "George Alessandro Gonçalves Braga",
+     "cargo": "Diretor-Presidente da ARDPV, de 11 a 30/09/2026, em substituição por férias"
+    },
+    {
+     "ato": 3,
+     "acao": "Nomeação",
+     "nome": "Patrícia Scherer Fernandes",
+     "cargo": "Diretora Administrativa e Financeira da ARDPV, de 11 a 30/09/2026"
+    },
+    {
+     "ato": 7,
+     "acao": "Substituição",
+     "nome": "Iago da Rocha Leite",
+     "cargo": "Diretor Técnico interino da EMDUR, de 24/08 a 06/09/2026, no lugar de Paulo Henrique Vieira da Costa"
+    },
+    {
+     "ato": 13,
+     "acao": "Outro",
+     "nome": "Flavia Almeida Gonçalves",
+     "cargo": "Assessor Tributário DAS-03 da SEMEC – exoneração tornada sem efeito"
+    },
+    {
+     "ato": 14,
+     "acao": "Nomeação",
+     "nome": "Hermes Rafael",
+     "cargo": "Assessor I (DAS 01) do Departamento Administrativo da PGM"
+    },
+    {
+     "ato": 15,
+     "acao": "Exoneração",
+     "nome": "Taina Kainne Soares Vieira",
+     "cargo": "Assessor II (DAS 02) do Gabinete da SEMAGRIC"
+    },
+    {
+     "ato": 16,
+     "acao": "Nomeação",
+     "nome": "Laurence de Lacerda",
+     "cargo": "Assessor II (DAS 02) do Gabinete da SEMAGRIC"
+    },
+    {
+     "ato": 17,
+     "acao": "Exoneração",
+     "nome": "Rafael Nascimento de Aquino",
+     "cargo": "Assessor III (DAS 03) do Gabinete da SEMDEC"
+    },
+    {
+     "ato": 17,
+     "acao": "Exoneração",
+     "nome": "Serginaldo Morais de Araujo",
+     "cargo": "Assessor III (DAS 03) do Gabinete da SEMDEC"
+    },
+    {
+     "ato": 18,
+     "acao": "Nomeação",
+     "nome": "Arthur Gabriel Soares Souza",
+     "cargo": "Assessor III (DAS 03) do Gabinete da SEMDEC"
+    },
+    {
+     "ato": 18,
+     "acao": "Nomeação",
+     "nome": "Lucinaldo Silva Gomes",
+     "cargo": "Assessor III (DAS 03) do Gabinete da SEMDEC"
+    },
+    {
+     "ato": 19,
+     "acao": "Nomeação",
+     "nome": "Emanuel Neri Piedade",
+     "cargo": "Secretário Executivo III (DAS 15) de Obras e Pavimentação da SEINFRA"
+    },
+    {
+     "ato": 21,
+     "acao": "Designação",
+     "nome": "Francisco Teixeira de Melo",
+     "cargo": "Gerente de Transportes titular da SEMAD, para o Contrato nº 068/PGM/2023"
+    },
+    {
+     "ato": 21,
+     "acao": "Designação",
+     "nome": "Ana Beatriz Mascarenhas Martins",
+     "cargo": "Gerente de Transportes substituta imediata da SEMAD"
+    },
+    {
+     "ato": 23,
+     "acao": "Outro",
+     "nome": "Gilmara Silva de Araujo",
+     "cargo": "Auxiliar de Laboratório da SEMUSA cedida à AGEVISA até 31/12/2026, com reembolso"
+    },
+    {
+     "ato": 24,
+     "acao": "Designação",
+     "nome": "Roberto Chaves Albano Filho",
+     "cargo": "Gestor do contrato do Processo nº 018.000841/2026-75, na SEMAGRIC"
+    },
+    {
+     "ato": 24,
+     "acao": "Designação",
+     "nome": "Daniel Emanuel Pinheiro de Souza",
+     "cargo": "Fiscal técnico do contrato do Processo nº 018.000841/2026-75, na SEMAGRIC"
+    },
+    {
+     "ato": 24,
+     "acao": "Designação",
+     "nome": "Felix Ferreira de Souza Júnior",
+     "cargo": "Fiscal administrativo do contrato do Processo nº 018.000841/2026-75, na SEMAGRIC"
+    },
+    {
+     "ato": 25,
+     "acao": "Designação",
+     "nome": "Aisla Caal da Costa Vieira",
+     "cargo": "Presidente da Comissão de Recebimento de Materiais e Serviços da SEMAGRIC"
+    },
+    {
+     "ato": 26,
+     "acao": "Designação",
+     "nome": "Felix Ferreira de Souza Júnior",
+     "cargo": "Gestor do contrato da AGROTEC 2026 com o Complexo da Estrada de Ferro Madeira-Mamoré, na SEMAGRIC"
+    },
+    {
+     "ato": 26,
+     "acao": "Designação",
+     "nome": "Adirleide Dias dos Santos",
+     "cargo": "Fiscal do contrato da AGROTEC 2026, na SEMAGRIC"
+    },
+    {
+     "ato": 32,
+     "acao": "Designação",
+     "nome": "Adnelson Silvestre Lopes",
+     "cargo": "Gerente de Transportes titular da SEMDEC, para o Contrato nº 068/PGM/2023"
+    },
+    {
+     "ato": 32,
+     "acao": "Designação",
+     "nome": "Kesia Cristina de Oliveira Pinheiro",
+     "cargo": "Gerente de Transportes suplente da SEMDEC"
+    },
+    {
+     "ato": 40,
+     "acao": "Designação",
+     "nome": "Ronis da Silva Chaves",
+     "cargo": "Gestor da Comissão de Recebimento do contrato de locação da sede da SEMIAS"
+    },
+    {
+     "ato": 40,
+     "acao": "Designação",
+     "nome": "Alessandra Oliveira de Alencas Gomes",
+     "cargo": "Fiscal da Comissão de Recebimento do contrato de locação da sede da SEMIAS"
+    },
+    {
+     "ato": 51,
+     "acao": "Designação",
+     "nome": "Filipe Jeferson Guedes Aragão",
+     "cargo": "Presidente da Comissão de Planejamento e Instrução da locação de imóvel da SEMA"
+    },
+    {
+     "ato": 55,
+     "acao": "Outro",
+     "nome": "Eloisa Carla Souza Domanski",
+     "cargo": "Chefe I do Núcleo de Processos de Cedência da SEMAD – localização a contar de 07/08/2026"
+    },
+    {
+     "ato": 56,
+     "acao": "Outro",
+     "nome": "Kauã Gabriel Bandeira da Silva",
+     "cargo": "Chefe do Núcleo de Publicações Oficiais da SEMAD – localização a contar de 14/08/2026"
+    },
+    {
+     "ato": 57,
+     "acao": "Outro",
+     "nome": "Debora Galvan Flores",
+     "cargo": "Coordenador I da Coordenadoria de Contratos, Convênios e Credenciamentos da SEMAD – localização a contar de 20/08/2026"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal traz concessões de diárias para viagens a distritos e ao Baixo Madeira (SGOV, SEMIAS, SEINFRA, SEMA e Defesa Civil), duas homologações de prestação de contas de diárias da SEMUSA, duas promoções funcionais na carreira jurídica, uma progressão de faixa na Câmara e autorizações de condução de veículo oficial."
+  },
   "atos": [
    {
     "id": 1,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A Agência Reguladora (ARDPV) torna pública a contratação sem licitação da filiação à Associação Brasileira de Agências Reguladoras (ABAR), por R$ 12.400,00, referente à anuidade proporcional de 2026."
+    "relevancia": "media",
+    "resumo": "A ARDPV tornou pública a contratação direta por inexigibilidade da filiação à Associação Brasileira de Agências Reguladoras (ABAR), por R$ 12.400,00, referente à anuidade proporcional de 2026."
    },
    {
     "id": 2,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "George Alessandro Gonçalves Braga responderá pela Diretoria-Presidência da ARDPV de 11 a 30/09/2026, durante as férias de Oscar Dias de Souza Netto."
+    "relevancia": "media",
+    "resumo": "George Alessandro Gonçalves Braga foi nomeado para responder pela Diretoria-Presidência da ARDPV de 11 a 30/09/2026, durante as férias de Oscar Dias de Souza Netto."
    },
    {
     "id": 3,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Patrícia Scherer Fernandes responderá pelo cargo de Diretora Administrativa e Financeira da ARDPV de 11 a 30/09/2026."
+    "resumo": "Patrícia Scherer Fernandes foi nomeada para responder pelo cargo de Diretor Administrativo e Financeiro da ARDPV de 11 a 30/09/2026."
    },
    {
     "id": 4,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A Câmara Municipal concede ao servidor Jadson Souza Mota progressão da faixa 17 para a 18 no cargo de Auxiliar de Atividades Administrativas, com efeitos a partir de 01/09/2026."
+    "resumo": "A Câmara Municipal concedeu progressão de faixa ao servidor Jadson Souza Mota, de Auxiliar de Atividades Administrativas N.XV-FX.17 para FX.18, com efeitos desde 01/09/2026."
    },
    {
     "id": 5,
     "categoria": "Conselhos e participação social",
     "relevancia": "media",
-    "resumo": "Ata do Conselho Fiscal da EMDUR (reunião de 03/09/2026) registra pedidos ainda sem resposta da empresa, inclusive sobre decisões do Tribunal de Contas, sede e contratos continuados, cobra dados de patrimônio, indenizações por serviços prestados e desvinculação da COSIP, e propõe reunião conjunta com o Conselho de Administração em 22/09/2026."
+    "resumo": "Ata da 9ª reunião ordinária do Conselho Fiscal da EMDUR: os conselheiros apontaram solicitações sem resposta sobre decisões do TCE, sede da empresa e contratos continuados, pediram complementação de informações de Patrimônio e Contabilidade e propuseram reunião conjunta com o CONSAD em 22/09/2026."
    },
    {
     "id": 6,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A EMDUR abre o Pregão Eletrônico 033/2026 para contratar a árvore natalina digital de LED com no mínimo 40 metros na ilha do lago do Parque da Cidade (Natal Porto Velho Luz 2026); propostas e disputa em 23/09/2026 às 10h no Licitanet, com orçamento sigiloso."
+    "resumo": "A EMDUR abriu o Pregão Eletrônico nº 033/EMDUR/2026 para projetar, fornecer, instalar e operar uma árvore natalina digital de no mínimo 40 metros com pixel LED na Ilha Central do Parque da Cidade, para o Natal Porto Velho Luz 2026; propostas em 23/09/2026 às 10h no Licitanet, com orçamento estimado sigiloso."
    },
    {
     "id": 7,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A EMDUR corrige portaria anterior e nomeia interinamente Iago da Rocha Leite como Diretor Técnico de 24/08 a 06/09/2026, substituindo Paulo Henrique Vieira da Costa em férias."
+    "resumo": "A EMDUR alterou a Portaria nº 177/2026 para nomear interinamente o servidor Iago da Rocha Leite como Diretor Técnico, em substituição a Paulo Henrique Vieira da Costa, de 24/08 a 06/09/2026, por férias."
    },
    {
     "id": 8,
-    "categoria": "Outros",
+    "categoria": "Legislação",
     "relevancia": "baixa",
-    "resumo": "O IPAM muda o nome da unidade no sistema SEI de Divisão de Governança, Projetos e Compliance para Assessoria Especial de Compliance e Normas Licitatórias (IPAM-AECNL)."
+    "resumo": "O IPAM alterou no sistema SEI o nome da unidade IPAM-DGPC (Divisão de Governança, Projetos e Compliance) para IPAM-AECNL (Assessoria Especial de Compliance e Normas Licitatórias), adequando o sistema à Lei Complementar nº 940/2026."
    },
    {
     "id": 9,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "O prefeito concede 5 diárias e meia e adicional de deslocamento à secretária de Saúde, Sandra Maria Petillo Cardoso, para viagem a São Paulo de 08 a 13/09/2026 com visitas técnicas sobre transformação digital da saúde."
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.431 concedeu 5 diárias e meia e adicional de deslocamento à Secretária de Saúde, Sandra Maria Petillo Cardoso, para viagem a São Paulo de 08 a 13/09/2026, em visitas técnicas sobre transformação digital da saúde."
    },
    {
     "id": 10,
-    "categoria": "Licitações e contratos",
+    "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Decreto 22.432 qualifica como Organizações Sociais de Saúde a Santa Casa de Misericórdia de Chavantes, a Associação Ubaíra (S3 Gestão em Saúde), o INDSH, a Associação de Benemerência Senhor Bom Jesus e a Beneficência Hospitalar de Cesário Lange, habilitando-as a disputar futuros contratos de gestão."
+    "resumo": "O Decreto nº 22.432 qualificou como Organizações Sociais de Saúde a Santa Casa de Misericórdia de Chavantes, a S3 Gestão em Saúde, o INDSH, a Associação de Benemerência Senhor Bom Jesus e a Beneficência Hospitalar de Cesário Lange, habilitando-as a disputar contratos de gestão com o Município."
    },
    {
     "id": 11,
-    "categoria": "Licitações e contratos",
+    "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Decreto 22.435 qualifica o Instituto Nacional de Saúde, Inovação, Desenvolvimento e Educação (INSIDE) como Organização Social de Saúde, apto a participar de seleções para contratos de gestão, sem direito garantido à contratação."
+    "resumo": "O Decreto nº 22.435 qualificou o Instituto Nacional de Saúde, Inovação, Desenvolvimento e Educação – INSIDE (CNPJ 97.531.894/0001-88) como Organização Social de Saúde do Município."
    },
    {
     "id": 12,
-    "categoria": "Licitações e contratos",
+    "categoria": "Legislação",
     "relevancia": "alta",
-    "resumo": "Decreto 22.436 qualifica a Associação Tristão da Cunha como Organização Social de Saúde após chamamento público e análise da comissão CQOSS, habilitando-a a disputar futuros contratos de gestão."
+    "resumo": "O Decreto nº 22.436 qualificou a Associação Tristão da Cunha (CNPJ 21.163.811/0001-83) como Organização Social de Saúde, após chamamento público, certificação da comissão CQOSS e parecer favorável da PGM."
    },
    {
     "id": 13,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "O prefeito torna sem efeito a exoneração de Flavia Almeida Gonçalves do cargo de Assessora Tributária (DAS 03) na SEMEC, feita pelo Decreto 3.644/I de 04/09/2026."
+    "resumo": "O Decreto nº 3.652/I tornou sem efeito, a partir de 08/09/2026, a exoneração de Flavia Almeida Gonçalves do cargo de Assessor Tributário DAS-03 da SEMEC, que constava do Decreto nº 3.644/I."
    },
    {
     "id": 14,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Hermes Rafael é nomeado Assessor I (DAS 01) no Departamento Administrativo da Procuradoria-Geral do Município a partir de 09/09/2026."
+    "resumo": "O Decreto nº 3.653/I nomeou Hermes Rafael para o cargo em comissão de Assessor I (DAS 01) do Departamento Administrativo da Procuradoria Geral do Município, a partir de 09/09/2026."
    },
    {
     "id": 15,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Taina Kainne Soares Vieira é exonerada do cargo de Assessora II (DAS 02) no gabinete da SEMAGRIC a partir de 09/09/2026."
+    "resumo": "O Decreto nº 3.654/I exonerou Taina Kainne Soares Vieira do cargo de Assessor II (DAS 02) do Gabinete da SEMAGRIC, a partir de 09/09/2026."
    },
    {
     "id": 16,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Laurence de Lacerda é nomeada Assessora II (DAS 02) no gabinete da SEMAGRIC a partir de 09/09/2026."
+    "resumo": "O Decreto nº 3.655/I nomeou Laurence de Lacerda para o cargo de Assessor II (DAS 02) do Gabinete da SEMAGRIC, a partir de 09/09/2026."
    },
    {
     "id": 17,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Rafael Nascimento de Aquino e Serginaldo Morais de Araujo são exonerados dos cargos de Assessor III (DAS 03) no gabinete da SEMDEC a partir de 09/09/2026."
+    "resumo": "O Decreto nº 3.656/I exonerou Rafael Nascimento de Aquino e Serginaldo Morais de Araujo dos cargos de Assessor III (DAS 03) do Gabinete da SEMDEC, a partir de 09/09/2026."
    },
    {
     "id": 18,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "Arthur Gabriel Soares Souza e Lucinaldo Silva Gomes são nomeados Assessores III (DAS 03) no gabinete da SEMDEC a partir de 09/09/2026."
+    "resumo": "O Decreto nº 3.657/I nomeou Arthur Gabriel Soares Souza e Lucinaldo Silva Gomes para cargos de Assessor III (DAS 03) do Gabinete da SEMDEC, a partir de 09/09/2026."
    },
    {
     "id": 19,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "Emanuel Neri Piedade é nomeado Secretário Executivo III (DAS 15) da Secretaria Executiva de Obras e Pavimentação da SEINFRA, com efeito a partir de 02/09/2026."
+    "resumo": "O Decreto nº 3.658/I nomeou Emanuel Neri Piedade para o cargo de Secretário Executivo III (DAS 15) da Secretaria Executiva de Obras e Pavimentação da SEINFRA, com efeitos desde 02/09/2026."
    },
    {
     "id": 20,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A Secretaria de Governo concede 14 diárias e meia ao assessor Matheus Serrate de Araújo Carvalho para levantar demandas em União Bandeirantes, Nova Califórnia, Rio Pardo, Extrema, linhas da BR-364 e BR-319 e ramais São Sebastião e Maravilha, entre 03 e 28/09/2026."
+    "relevancia": "media",
+    "resumo": "A Portaria nº 316/SGOV concedeu 14 diárias e meia ao assessor técnico II Matheus Serrate de Araújo Carvalho para levantar demandas em União Bandeirantes, Nova Califórnia, Rio Pardo, Extrema e linhas e ramais das BR-364 e BR-319, entre 03 e 28/09/2026."
    },
    {
     "id": 21,
-    "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMAD designa Francisco Teixeira de Melo (titular) e Ana Beatriz Mascarenhas Martins (substituta) como Gerentes de Transportes para controlar a frota oficial e os abastecimentos do contrato de combustíveis 068/PGM/2023."
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "A Portaria nº 173/2026 designou Francisco Teixeira de Melo como Gerente de Transportes titular e Ana Beatriz Mascarenhas Martins como substituta na SEMAD, responsáveis pelo controle da frota e dos abastecimentos do Contrato nº 068/PGM/2023."
    },
    {
     "id": 22,
-    "categoria": "Pessoal",
-    "relevancia": "media",
-    "resumo": "A SEMAD cria regras para perícia médica fora da unidade (análise documental, telessaúde ou visita domiciliar) quando o servidor ou dependente não puder se deslocar, em pedidos de conversão de licença-prêmio ou férias em dinheiro por doença."
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "A Portaria nº 03/2026-DSO/SEMAD disciplina a perícia médica de servidores e dependentes que não possam se deslocar, admitindo avaliação documental, por telessaúde ou domiciliar nos pedidos de conversão de licença-prêmio ou férias em pecúnia, sempre por decisão do médico perito."
    },
    {
     "id": 23,
     "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A auxiliar de laboratório Gilmara Silva de Araujo, da SEMUSA, é cedida à Agência Estadual de Vigilância em Saúde (AGEVISA) até 31/12/2026, com reembolso do salário ao Município."
+    "relevancia": "media",
+    "resumo": "A Portaria nº 1388/2026 cedeu a servidora Gilmara Silva de Araujo, Auxiliar de Laboratório da SEMUSA, à Agência Estadual de Vigilância em Saúde (AGEVISA) até 31/12/2026, com ônus para o Município mediante reembolso mensal."
    },
    {
     "id": 24,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAGRIC altera a Portaria 274/2026 e designa gestor (Roberto Chaves Albano Filho), fiscal técnico (Daniel Emanuel Pinheiro de Souza) e fiscal administrativo (Felix Ferreira de Souza Júnior), com substitutos, para contrato do processo 018.000841/2026-75, cujo objeto não é informado."
+    "resumo": "A Portaria nº 299/SEMAGRIC alterou a Portaria nº 274/2026 e redesignou gestor e fiscais do contrato do Processo nº 018.000841/2026-75, tendo Roberto Chaves Albano Filho como gestor titular."
    },
    {
     "id": 25,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMAGRIC cria comissão de nove servidores, presidida por Aisla Caal da Costa Vieira, para conferir e receber materiais e serviços de compras rotineiras sem contrato formal, atuando com no mínimo três membros por recebimento."
+    "relevancia": "media",
+    "resumo": "A Portaria nº 301/SEMAGRIC instituiu Comissão de Recebimento de Materiais de Uso e Consumo e de Serviços para aquisições rotineiras sem contrato formal, com nove servidores e atuação mínima de três por recebimento, presidida por Aisla Caal da Costa Vieira."
    },
    {
     "id": 26,
     "categoria": "Licitações e contratos",
     "relevancia": "baixa",
-    "resumo": "A SEMAGRIC nomeia gestor, fiscal e comissão para o contrato de aluguel de espaços do Complexo da Estrada de Ferro Madeira-Mamoré para a AGROTEC 2026, realizada de 26 a 30/08/2026; a portaria é datada de 04/09, depois do evento."
+    "resumo": "A Portaria nº 302/SEMAGRIC nomeou Felix Ferreira de Souza Júnior como gestor e Adirleide Dias dos Santos como fiscal do contrato de locação dos espaços do Complexo da Estrada de Ferro Madeira-Mamoré para a AGROTEC 2026, realizada entre 26 e 30 de agosto de 2026."
    },
    {
     "id": 27,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SMCL esclarece o Pregão 294/2026 de refeições para servidores de plantão da SEMUSA: a certidão do Conselho Regional de Nutrição deve ser entregue no prazo de mobilização, antes da ordem de serviço; a sessão fica mantida para 10/09/2026 às 9h30 (Brasília) no gov.br/compras."
+    "resumo": "Aviso de esclarecimento nº 01/2026 sobre o Pregão Eletrônico nº 294/2026, de fornecimento de refeições a servidores de plantão da SEMUSA: ajusta o momento de apresentação da certidão do Conselho Regional de Nutrição, sem alterar o objeto, e mantém a sessão pública para 10/09/2026 às 9h30."
    },
    {
     "id": 28,
     "categoria": "Licitações e contratos",
-    "relevancia": "media",
-    "resumo": "Aberto o Pregão Eletrônico 320/2026 para registro de preços de materiais para kits maternidade, enxoval e higiene de bebê da Maternidade Municipal Mãe Esperança, estimado em R$ 296.280,00, com abertura em 24/09/2026 às 9h30 (Brasília)."
+    "relevancia": "alta",
+    "resumo": "Aviso do Pregão Eletrônico nº 320/2026, registro de preços para materiais de kits maternidade, enxoval e higiene de bebê da Maternidade Mãe Esperança, com valor estimado de R$ 296.280,00 e abertura das propostas em 24/09/2026 às 9h30."
    },
    {
     "id": 29,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "Aberto o Pregão Eletrônico 321/2026 para comprar manequins de treinamento para as unidades de urgência e emergência da SEMUSA, com recurso de emenda parlamentar, estimado em R$ 79.900,53, com abertura em 23/09/2026 às 9h30 (Brasília)."
+    "resumo": "Aviso do Pregão Eletrônico nº 321/2026 para aquisição de manequins de treinamento das unidades de urgência e emergência da SEMUSA com recurso de emenda parlamentar, valor estimado de R$ 79.900,53 e abertura em 23/09/2026 às 9h30."
    },
    {
     "id": 30,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SMCL homologa o Pregão 90098/2025 em favor da A P M NINA, por R$ 11.950.165,00, para registro de preços de placas iluminadas com LED e colunas metálicas em faixas de pedestres, a pedido da SEMTRAN."
+    "resumo": "A SMCL adjudicou e homologou à empresa A P M NINA (CNPJ 24.385.614/0001-05) o lote único do Pregão Eletrônico nº 90098/2025 (SRP nº 076/2025), no valor total de R$ 11.950.165,00, para fornecimento e instalação de placas iluminadas de faixa de pedestre nas vias urbanas, atendendo à SEMTRAN."
    },
    {
     "id": 31,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SMCL homologa o Pregão 245/2026 em favor da Capuche Tecnoclima Ltda, por R$ 198.074,40, para manutenção dos aparelhos de ar-condicionado e ventilação da Procuradoria-Geral do Município por 60 meses."
+    "resumo": "A SMCL adjudicou e homologou à CAPUCHE TECNOCLIMA LTDA (CNPJ 30.419.926/0001-87) o Pregão Eletrônico nº 245/2026, no valor de R$ 198.074,40, para manutenção de ar-condicionado, ventilação e exaustão da PGM pelo período de 60 meses."
    },
    {
     "id": 32,
-    "categoria": "Licitações e contratos",
+    "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMDEC designa Adnelson Silvestre Lopes (titular) e Kesia Cristina de Oliveira Pinheiro (suplente) como Gerentes de Transportes da frota e dos abastecimentos do contrato 068/PGM/2023, revogando a Portaria 29/2026."
+    "resumo": "A Portaria nº 34/2026/SEMDEC designou Adnelson Silvestre Lopes como Gerente de Transportes titular e Kesia Cristina de Oliveira Pinheiro como suplente, para controlar a frota e os abastecimentos do Contrato nº 068/PGM/2023."
    },
    {
     "id": 33,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMDEC autoriza os engenheiros civis Mauro Sérgio Martins Frade e Tiago Dambros Costa Beber a dirigir veículos oficiais por um ano."
+    "resumo": "A Portaria nº 35/2026/SEMDEC autorizou os engenheiros civis Mauro Sérgio Martins Frade e Tiago Dambros Costa Beber a conduzir veículos oficiais da secretaria, com validade de um ano."
    },
    {
     "id": 34,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMED publica segundo aviso de dispensa de licitação para comprar 2 sistemas de videoconferência, 10 smart TVs de 65 polegadas e 10 suportes; propostas só por e-mail (diccsemed@gmail.com) em até 5 dias úteis. O título fala em dispensa nº 2 e o texto em dispensa nº 01/2026, e o aviso é datado de 10/08/2026."
+    "resumo": "Segundo aviso da Dispensa nº 01/2026/SEMED para aquisição de 2 sistemas de videoconferência, 10 Smart TVs de 65 polegadas e 10 suportes; as propostas devem ser enviadas exclusivamente por e-mail em até 5 dias úteis após a publicação, sem valor estimado divulgado."
    },
    {
     "id": 35,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "Terceiro aditivo ao contrato da SEMED com o Instituto Alicerce (recomposição de aprendizagens na rede municipal) acrescenta R$ 491.525,54 em pessoal e suporte pedagógico e corta R$ 224.983,23 em custos operacionais, elevando o contrato de R$ 2.841.282,80 para R$ 3.107.825,11 com recursos do FUNDEB."
+    "resumo": "O terceiro termo aditivo ao Contrato nº 039/PGM/2025 com o Instituto Alicerce acrescenta R$ 491.525,54 em recursos humanos e suporte pedagógico e suprime R$ 224.983,23 em custos operacionais, com acréscimo líquido de R$ 266.542,31 (9,3819%), elevando o contrato de R$ 2.841.282,80 para R$ 3.107.825,11."
    },
    {
     "id": 36,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMED firma termo de fomento de R$ 200.624,00 com o Conselho Escolar do Centro Municipal de Arte e Cultura Escolar Jorge Andrade (bairro Olaria) para instalar sistema de alarme e câmeras (CFTV IP), com vigência de 180 dias após a liberação do recurso."
+    "resumo": "Termo de Fomento nº 092/PGM/2026 repassa R$ 200.624,00 ao Conselho Escolar do Centro Municipal de Arte e Cultura Escolar Jorge Andrade para implantar sistema de alarme e CFTV IP com cabeamento, com vigência de 180 dias após a liberação do recurso."
    },
    {
     "id": 37,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMED firma termo de fomento de R$ 200.000,00 com o Conselho Escolar de Música Som na Leste (bairro Tiradentes) para instalar alarme e câmeras (CFTV IP), com vigência de seis meses após a liberação do recurso."
+    "resumo": "Termo de Fomento nº 094/PGM/2026 repassa R$ 200.000,00 ao Conselho Escolar de Música Som na Leste para implantar sistema de alarme e CFTV IP com cabeamento, com vigência de 6 meses após a liberação do recurso."
    },
    {
     "id": 38,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS concede 5 diárias e meia às conselheiras tutelares Alessandra de Freitas Pereira de Souza e Maria Josilene da Silva de Souza e ao condutor Clerivam Silva Abreu para atendimentos de 21 a 26/09/2026 na Estrada da Penal, Cujubim Grande, Vale do Jamari, Vila Calderita e outras localidades."
+    "resumo": "A Portaria nº 286/SEMIAS concedeu 5 diárias e meia a duas conselheiras tutelares e a um condutor para cumprir o plano de ação de setembro em comunidades rurais como Cujubim Grande, Vale do Jamari e Vila Calderita, de 21 a 26/09/2026."
    },
    {
     "id": 39,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMIAS concede 2 diárias e meia aos conselheiros tutelares Denis Fernando Chaves Rodrigues, Mara Adriana da Silva e Paulo Acosta Marinho para capacitação no sistema SIPIA de 14 a 16/09/2026, com destino a Porto Velho."
+    "resumo": "A Portaria nº 287/SEMIAS concedeu 2 diárias e meia a três conselheiros tutelares para participar da capacitação do SIPIA, em Porto Velho, de 14 a 16/09/2026."
    },
    {
     "id": 40,
     "categoria": "Licitações e contratos",
-    "relevancia": "baixa",
-    "resumo": "A SEMIAS designa Alessandra Oliveira de Alencas Gomes (fiscal) e Ronis da Silva Chaves (gestor) para receber o imóvel alugado para a nova sede da secretaria e da Central do CadÚnico."
+    "relevancia": "media",
+    "resumo": "A Portaria nº 288/SEMIAS designou Ronis da Silva Chaves como gestor e Alessandra Oliveira de Alencas Gomes como fiscal da comissão de recebimento do contrato de locação do imóvel que abrigará a sede da SEMIAS e a Central do CadÚnico."
    },
    {
     "id": 41,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEINFRA concede 15 diárias aos operadores de máquinas Donhatan Breguedo Messias e Josué Soares para levar máquinas em caminhão prancha à recuperação de estradas vicinais em União Bandeirantes, Rio Pardo, Ponta do Abunã, Baixo Madeira e BR-319 ao longo de setembro."
+    "resumo": "A Portaria nº 470/2026/SEINFRA concedeu 15 diárias a dois operadores de máquinas pesadas para transportar maquinário às frentes de recuperação de estradas vicinais em União Bandeirantes, Rio Pardo, Ponta do Abunã e Baixo Madeira, nos dias 08 a 30/09/2026."
    },
    {
     "id": 42,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEINFRA (Portaria 471) concede 15 diárias a cinco servidores para abastecer, com caminhões comboio, as máquinas que recuperam estradas, pontes e bueiros na Ponta do Abunã, União Bandeirantes, Rio Pardo, Bacia Leiteira e Setor Chacareiro em setembro."
+    "resumo": "A Portaria nº 471/2026/SEINFRA concedeu 15 diárias a servidores para abastecer maquinários em atividade de recuperação de vias na Ponta do Abunã, União Bandeirantes, Rio Pardo, Bacia Leiteira e Setor Chacareiro, nos dias 08 a 30/09/2026; a lista de servidores aparece truncada no texto publicado."
    },
    {
     "id": 43,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA corrige o número do processo citado na Portaria 421/2026, que passa a ser 005.016505/2026-93."
+    "resumo": "A SEMUSA retificou a Portaria nº 421/2026/DTIT, publicada na edição 4312, apenas para corrigir o número do processo de 005.015725/2026-08 para 005.016505/2026-93."
    },
    {
     "id": 44,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA corrige o destino da Portaria 412/2026: em vez de Itapuã do Oeste, a viagem é ao Baixo Madeira (Demarcação, Rio Preto, Calama, Nova Esperança e Papagaios)."
+    "resumo": "A SEMUSA retificou a Portaria nº 412/2026/DTIT, publicada na edição 4311, para trocar o destino da diária de Itapuã do Oeste para as comunidades do Baixo Madeira (Demarcação, Rio Preto, Calama, Nova Esperança e Papagaios)."
    },
    {
     "id": 45,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN cancela a autorização de táxi AAM-0208 de um permissionário identificado como Renato (dados parcialmente ocultos)."
+    "resumo": "A Portaria nº 138/SEMTRAN cancelou a Autorização Administrativa Municipal AAM-0208 de serviço de táxi outorgada a um permissionário identificado apenas pelas iniciais, com efeitos a partir da publicação."
    },
    {
     "id": 46,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN cancela a autorização de táxi AMS-0008 de um permissionário identificado como Renato, com efeito retroativo a 30/09/2019."
+    "resumo": "A Portaria nº 143/SEMTRAN cancelou a Autorização Administrativa Municipal AMS-0008 de táxi, com efeitos retroativos a 30 de setembro de 2019."
    },
    {
     "id": 47,
-    "categoria": "Pessoal",
-    "relevancia": "baixa",
-    "resumo": "A SEMTRAN dispensa os Fiscais de Transporte de registrar o ponto eletrônico na saída, por trabalharem em campo, mantendo o registro na entrada e o controle pelas chefias."
+    "categoria": "Legislação",
+    "relevancia": "media",
+    "resumo": "A Portaria nº 147/SEMTRAN dispensou os Fiscais de Transporte do registro do ponto eletrônico de saída, por atuarem em campo, mantendo obrigatório o registro de entrada e o acompanhamento de frequência pelas chefias."
    },
    {
     "id": 48,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "A SEMTRAN concede a autorização de táxi AAM-0208 a uma permissionária identificada como Michele (dados parcialmente ocultos)."
+    "resumo": "A Portaria nº 150/SEMTRAN outorgou a Autorização Administrativa Municipal AAM-0208 para exploração do serviço de táxi a permissionária identificada apenas pelo primeiro nome, conforme o Processo nº 023.006002/2026-91."
    },
    {
     "id": 49,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "Termo autoriza um taxista identificado como Adelmo a explorar o serviço de táxi com a autorização AMU-0007 por cinco anos; o texto traz a mesma data (31/07/2031) para início e fim da vigência, o que parece erro."
+    "resumo": "Termo de Autorização nº 158/2026/SEMTRAN-DISTAX autoriza permissionário identificado apenas pelo primeiro nome a explorar o serviço de táxi em Porto Velho, nos termos da Lei Complementar nº 716/2018."
    },
    {
     "id": 50,
     "categoria": "Outros",
     "relevancia": "baixa",
-    "resumo": "Termo autoriza uma permissionária identificada como Michele a explorar o serviço de táxi com a autorização AAM-0208 de 26/08/2026 a 31/08/2031."
+    "resumo": "Termo de Autorização nº 163/2026/SEMTRAN-DISTAX formaliza a autorização AAM-0208 para exploração do serviço de táxi por permissionária identificada apenas pelo primeiro nome."
    },
    {
     "id": 51,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "A SEMA cria comissão presidida por Filipe Jeferson Guedes Aragão para preparar o aluguel de um novo imóvel para a secretaria, porque o contrato atual (003/PGM/2022, que também abriga a SEMTEL) termina em janeiro de 2027 sem possibilidade de prorrogação."
+    "resumo": "A Portaria nº 134/DA/SEMA criou comissão presidida por Filipe Jeferson Guedes Aragão para planejar e instruir a contratação de novo imóvel para a SEMA, já que o Contrato nº 003/PGM/2022, sob a Lei 8.666/1993, se encerra em janeiro de 2027 sem possibilidade de nova prorrogação."
    },
    {
     "id": 52,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMA valida 2 diárias e meia para cinco servidores que fizeram ações de educação ambiental no Festival de Calderita, na Vila Calderita, de 05 a 07/09/2026."
+    "resumo": "A Portaria nº 135/DA/SEMA tornou válidas 2 diárias e meia a cinco servidores que atuaram em ações de educação ambiental durante o Festival de Calderita, de 05 a 07/09/2026."
    },
    {
     "id": 53,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD promove o procurador municipal Luiz Duarte Freitas Júnior da faixa B-IV para C-I, com efeitos a partir de 19/02/2026."
+    "resumo": "Portaria nº 158 concedeu promoção funcional ao Procurador Municipal Luiz Duarte Freitas Júnior, da faixa B-IV para C-I, a partir de 19/02/2026."
    },
    {
     "id": 54,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD promove a analista jurídica Thalita Duarte Barbosa da faixa B-IV para C-I, a partir de 30/08/2026."
+    "resumo": "Portaria nº 157 concedeu promoção funcional à Analista Jurídica Thalita Duarte Barbosa, da faixa B-IV para C-I, a partir de 30/08/2026."
    },
    {
     "id": 55,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD lota a comissionada Eloisa Carla Souza Domanski (Chefe I) no Núcleo de Processos de Cedência a partir de 07/08/2026."
+    "resumo": "A Portaria nº 170/2026 localizou a servidora comissionada Eloisa Carla Souza Domanski como Chefe I do Núcleo de Processos de Cedência da SEMAD, a contar de 07/08/2026."
    },
    {
     "id": 56,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD lota o comissionado Kauã Gabriel Bandeira da Silva como Chefe do Núcleo de Publicações Oficiais a partir de 14/08/2026."
+    "resumo": "A Portaria nº 171/2026 localizou o servidor comissionado Kauã Gabriel Bandeira da Silva como Chefe do Núcleo de Publicações Oficiais da SEMAD, a contar de 14/08/2026."
    },
    {
     "id": 57,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEMAD lota a comissionada Debora Galvan Flores (Coordenadora I) na Coordenadoria de Contratos, Convênios e Credenciamentos a partir de 20/08/2026."
+    "resumo": "A Portaria nº 172/2026 localizou a servidora comissionada Debora Galvan Flores como Coordenador I da Coordenadoria de Contratos, Convênios e Credenciamentos da SEMAD, a contar de 20/08/2026."
    },
    {
     "id": 58,
     "categoria": "Licitações e contratos",
     "relevancia": "media",
-    "resumo": "Atas de registro de preços do Pregão 246/2026 para troféus, medalhas, placas, comendas e cinturões da SEMTEL com LC Los Costas (R$ 243.061,55), Roger André Braun ME (R$ 359.892,22), Guimarães Lima (R$ 273.160,00), RK Magazine (R$ 190.594,90) e Geração 2000 (R$ 77.520,00), somando cerca de R$ 1,14 milhão, válidas por um ano."
+    "resumo": "Ata de Registro de Preços nº 047/2026, do Pregão Eletrônico nº 246/2026, firmada com a LC LOS COSTAS ARTIGOS MILITARES (CNPJ 50.282.249/0001-05), no total de R$ 243.061,55, para troféus, medalhas, placas de homenagem e comendas da SEMTEL, com validade de um ano."
    },
    {
     "id": 59,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "Atas de registro de preços do Pregão 90025/2026 para locação e limpeza de banheiros químicos, comuns e adaptados, para unidades de saúde dos distritos: CLC Comércio e Locação de Máquinas (R$ 8.215.314,96) e EMOPS (R$ 75.234,88), válidas por um ano."
+    "resumo": "Ata de Registro de Preços nº 049/2026, do Pregão Eletrônico nº 90025/2026, firmada com a CLC Comércio e Locação de Máquinas Ltda (CNPJ 09.203.106/0001-67), no total de R$ 8.215.314,96, para locação e higienização de banheiros químicos nas unidades de saúde de distritos como Jaci Paraná, União Bandeirantes e Nova Califórnia, com diárias de R$ 4.315,00 e R$ 4.674,48."
    },
    {
     "id": 60,
     "categoria": "Licitações e contratos",
     "relevancia": "alta",
-    "resumo": "A SEMIAS reconhece a inexigibilidade de licitação para alugar o antigo Hotel Shelton (Av. Pinheiro Machado, 1828) por R$ 40.500,00 mensais, R$ 972.000,00 em 24 meses, unificando sede, CadÚnico e Casa dos Conselhos, com economia estimada de R$ 603.751,20 por ano e pagamento condicionado a reformas, Habite-se e AVCB em até 60 dias."
+    "resumo": "Termo de Inexigibilidade nº 2/2026/SEMIAS autoriza a locação do imóvel da Avenida Pinheiro Machado, 1828 (antigo Hotel Shelton), da Shelton Hotel Ltda EPP, por R$ 40.500,00 mensais e R$ 972.000,00 em 24 meses, para unificar sede da SEMIAS, CadÚnico e Casa dos Conselhos; a eficácia depende de reformas prediais concluídas em até 60 dias, com habite-se e AVCB."
    },
    {
     "id": 61,
     "categoria": "Pessoal",
     "relevancia": "baixa",
-    "resumo": "A SEINFRA (Portaria 469) concede 15 diárias aos mesmos cinco servidores e para o mesmo serviço de abastecimento de máquinas da Portaria 471, com o mesmo processo; parece publicação duplicada."
+    "resumo": "A Portaria nº 469/2026/SEINFRA concedeu 15 diárias a servidores para abastecimento de maquinários na Ponta do Abunã, União Bandeirantes, Rio Pardo, Bacia Leiteira e Setor Chacareiro, nos dias 08 a 30/09/2026; a relação de servidores aparece truncada no texto publicado."
    },
    {
     "id": 62,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA aprova a prestação de contas de diárias, somando R$ 1.500,00, de quatro servidores que entregaram medicamentos em unidades da BR-364, BR-319 e Estrada da Penal de 25 a 28/08/2026."
+    "resumo": "Termo de Homologação nº 10/2026/SEMUSA aprovou a prestação de contas de quatro meias diárias por servidor (R$ 300,00 a R$ 600,00 cada) referentes à entrega de medicamentos em unidades da BR-364, BR-319 e Estrada da Penal entre 25 e 28/08/2026."
    },
    {
     "id": 63,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "A SEMUSA aprova a prestação de contas de diárias, somando R$ 1.125,00, de quatro servidores que entregaram medicamentos em Abunã, Fortaleza do Abunã, Vista Alegre, Nova Califórnia e Extrema em 31/08 e 01/09/2026."
+    "resumo": "Termo de Homologação nº 11/2026/SEMUSA aprovou a prestação de contas de 1 diária e meia por servidor (R$ 225,00 a R$ 450,00 cada) pela entrega de medicamentos em unidades de Abunã, Fortaleza do Abunã, Vista Alegre, Nova Califórnia e Extrema, em 31/08 e 01/09/2026."
    },
    {
     "id": 64,
     "categoria": "Pessoal",
     "relevancia": "media",
-    "resumo": "A Defesa Civil concede 13 diárias e meia a cinco servidores, R$ 12.150,00 no total, para distribuir de 09 a 22/09/2026 kits doados pela Receita Federal a comunidades do Baixo Madeira, como São Carlos, Nazaré, Calama e Demarcação."
+    "resumo": "A Portaria nº 66/2026/SMPDC concedeu 13,5 diárias a cinco servidores da Defesa Civil, totalizando R$ 12.150,00, para distribuir kits doados pela Receita Federal em 19 comunidades do Baixo Madeira entre 09 e 22/09/2026, com saída às 6h do dia 09."
    }
   ]
  },
@@ -1033,5 +1483,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-11T12:31-04:00"
- }
+ },
+ "resumo_formato": 2
 }

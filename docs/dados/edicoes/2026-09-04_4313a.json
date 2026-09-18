@@ -101,108 +101,139 @@
   }
  ],
  "resumo": {
-  "manchete": "Prefeitura de Porto Velho abre crédito de R$ 16 milhões para pagar dívida e reforçar a previdência, em edição só de ajustes no orçamento",
-  "resumo": "A edição extraordinária traz 10 decretos do prefeito Leonardo Barreto de Moraes, todos de mudanças no orçamento de 2026, assinados entre 1º e 3 de setembro. O maior deles abre R$ 16.043.388,78 para pagar a dívida do Município e repassar recursos ao IPAM, o instituto de previdência dos servidores. A Saúde recebe R$ 7.706.081,98 para vigilância patrimonial nas unidades e R$ 565.345,84 para a compra de ambulância, e a Assistência Social ganha R$ 1.485.000,00 de emenda do senador Marcos Rogério para a Residência Inclusiva Casa Família Ana Teresa Cappello. Chama atenção o remanejamento de R$ 2.622.851,00 na EMDUR, que tira dinheiro da reforma da sede, da logística e da verba de concurso público para bancar praças, obras viárias e o Natal Porto Velho Luz 2026. Somando os créditos que trazem dinheiro novo (excesso de arrecadação e superávit de 2025), são cerca de R$ 26,6 milhões a mais no orçamento.",
+  "manchete": "Edição extraordinária abre R$ 29,4 milhões em créditos adicionais, com R$ 16 milhões para a dívida e aportes ao IPAM e R$ 8,2 milhões para a Saúde",
+  "resumo": "A edição extraordinária nº 4313a traz apenas decretos orçamentários da Secretaria Municipal de Economia, assinados entre 1º e 3 de setembro de 2026, que movimentam ao todo cerca de R$ 29,5 milhões. O maior deles, o Decreto nº 22.404, abre R$ 16.043.388,78 por excesso de arrecadação para pagar principal, juros e encargos da dívida fundada e aportes ao IPAM. A Saúde recebe R$ 8,27 milhões em dois decretos, para compra de ambulância, material permanente e serviços de vigilância patrimonial, e a Assistência Social recebe R$ 1.485.000,00 para o convênio da Residência Inclusiva Casa Família Ana Teresa Cappello, com emenda parlamentar. Chamam atenção os R$ 2.622.851,00 remanejados na EMDUR por anulação de dotações — inclusive de obras da sede, de concurso público e de folha — para obras urbanas e para o Natal Porto Velho Luz 2026. Não há licitações, contratos nem atos de pessoal nesta edição.",
   "destaques": [
    {
-    "titulo": "R$ 16 milhões para dívida e previdência",
-    "texto": "O Decreto 22.404 abre R$ 16.043.388,78, vindos de excesso de arrecadação, para pagar principal, juros e encargos da dívida do Município (R$ 14.791.943,78) e fazer aportes ao regime próprio de previdência dos servidores, o IPAM (R$ 1.251.445,00).",
+    "titulo": "R$ 16 milhões para dívida e IPAM",
+    "texto": "O Decreto nº 22.404 abre crédito suplementar de R$ 16.043.388,78, com base em excesso de arrecadação, para pagamento de principal, juros e encargos da dívida fundada (R$ 14,79 milhões) e aporte ao Regime Próprio de Previdência - IPAM (R$ 1.251.445,00).",
     "atos": [
      1
     ]
    },
    {
-    "titulo": "Saúde recebe R$ 8,3 milhões",
-    "texto": "São R$ 7.706.081,98 para vigilância patrimonial em postos de atenção primária, unidades especializadas, Maternidade Municipal, SAMU 192 e vigilância epidemiológica, e mais R$ 565.345,84 para a compra de ambulância e para serviços administrativos, tudo com o superávit de 2025.",
+    "titulo": "Saúde reforçada em R$ 8,27 milhões",
+    "texto": "Dois decretos usam superávit financeiro de 2025 para a SEMUSA: R$ 565.345,84 para aquisição de ambulância e material permanente e R$ 7.706.081,98 para serviços de vigilância patrimonial em unidades de saúde, maternidade, atenção primária e SAMU.",
     "atos": [
-     3,
-     2
+     2,
+     3
     ]
    },
    {
-    "titulo": "EMDUR corta sede e concurso para bancar praças e Natal Luz",
-    "texto": "A EMDUR remaneja R$ 2.622.851,00, cortando verbas da reforma da sede, da logística e do concurso público, para praças (Padre João Nicoletti e do Contorno), a rotatória da Avenida Imigrantes, a Estrada dos Periquitos, o Parque Circuito e o Natal Porto Velho Luz 2026.",
+    "titulo": "EMDUR remaneja R$ 2,6 milhões para obras e Natal 2026",
+    "texto": "O Decreto nº 22.418 anula R$ 2.622.851,00 de dotações da EMDUR — incluindo obras da sede, concurso público e remuneração de pessoal — para custear a Praça Padre João Nicoletti, a rotatória da Avenida Imigrantes, a Praça do Contorno, a Estrada dos Periquitos, o Parque Circuito e o Natal Porto Velho Luz 2026.",
     "atos": [
      10
     ]
    },
    {
-    "titulo": "R$ 1,48 milhão para residência inclusiva",
-    "texto": "Emenda do senador Marcos Rogério libera R$ 1.485.000,00 para a Assistência Social custear um convênio, ainda a ser firmado, com a Casa Família Rosetta para acolher pessoas com deficiência neurológica na Residência Inclusiva Casa Família Ana Teresa Cappello.",
+    "titulo": "R$ 1,48 milhão para a Residência Inclusiva",
+    "texto": "O Decreto nº 22.415 abre R$ 1.485.000,00 por superávit financeiro para o convênio entre a SEMIAS e a Casa Família Rosetta, custeado por emenda do senador Marcos Rogério, para o acolhimento de pessoas com deficiência neurológica.",
     "atos": [
      9
     ]
    },
    {
-    "titulo": "Mais dinheiro para merenda, limpeza urbana e aniversário da cidade",
-    "texto": "R$ 221.230,00 saem da compra de uniformes escolares e vão para a alimentação escolar, R$ 589.063,00 pagam a mão de obra de presos (reeducandos) na limpeza de ruas e cemitérios e R$ 179.474,18 cobrem o evento dos 112 anos de Porto Velho.",
+    "titulo": "Educação, Defesa Civil, Cultura e limpeza urbana",
+    "texto": "Decretos menores remanejam R$ 221.230,00 de uniformes escolares para a alimentação escolar, R$ 14.025,00 no Conselho Municipal de Educação e R$ 50.000,00 na Defesa Civil, ambos para diárias, além de R$ 179.474,18 para os 112 anos de Porto Velho e R$ 589.063,00 para limpeza e conservação com mão de obra reeducanda.",
     "atos": [
+     4,
      5,
-     8,
-     4
+     6,
+     7,
+     8
     ]
    }
   ],
+  "atencao": [
+   {
+    "ato": 10,
+    "motivo": "Anulação de R$ 2.622.851,00 em dotações da EMDUR, inclusive de ampliação da sede, de concurso público e de remuneração de pessoal, para custear obras urbanas e o evento Natal Porto Velho Luz 2026."
+   },
+   {
+    "ato": 5,
+    "motivo": "Transposição de R$ 221.230,00 previstos para aquisição de uniformes escolares para despesas com alimentação escolar."
+   },
+   {
+    "ato": 1,
+    "motivo": "Crédito de R$ 16.043.388,78 baseado em excesso de arrecadação previsto para 2026, valor elevado que depende da confirmação da arrecadação no exercício."
+   },
+   {
+    "ato": 9,
+    "motivo": "Crédito de R$ 1.485.000,00 aberto para convênio ainda a ser celebrado com a Casa Família Rosetta, custeado por emenda parlamentar especial."
+   },
+   {
+    "ato": 7,
+    "motivo": "Anulação de dotação de material de consumo da Defesa Civil (R$ 50.000,00) para cobrir despesas com diárias."
+   }
+  ],
+  "contratacoes": [],
+  "agenda": [],
+  "normas": [],
+  "pessoal": {
+   "movimentacoes": [],
+   "rotina": ""
+  },
   "atos": [
    {
     "id": 1,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Decreto 22.404 abre crédito de R$ 16.043.388,78, vindo de excesso de arrecadação, para a SEMEC pagar a dívida do Município (principal, juros e encargos, R$ 14.791.943,78) e fazer aportes ao IPAM, a previdência dos servidores, previstos na Lei 836/2021 (R$ 1.251.445,00)."
+    "resumo": "Decreto nº 22.404, de 1º/09/2026, abre crédito suplementar de R$ 16.043.388,78 por excesso de arrecadação para pagamento da dívida fundada (R$ 14.791.943,78) e aportes ao IPAM (R$ 1.251.445,00)."
    },
    {
     "id": 2,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto 22.405 abre crédito de R$ 565.345,84, com o superávit de 2025, para o Fundo Municipal de Saúde comprar uma ambulância (R$ 383.771,00 em equipamentos da Atenção Especializada) e reforçar os serviços administrativos (R$ 181.574,84)."
+    "resumo": "Decreto nº 22.405, de 1º/09/2026, abre R$ 565.345,84 por superávit financeiro de 2025 para a SEMUSA: R$ 383.771,00 em material permanente (aquisição de ambulância) e R$ 181.574,84 em serviços administrativos."
    },
    {
     "id": 3,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Decreto 22.406 abre crédito de R$ 7.706.081,98, com o superávit de 2025, para a SEMUSA pagar vigilância patrimonial nas unidades de atenção primária (R$ 4.724.456,80), nas unidades especializadas (R$ 2.519.760,60), na Maternidade Municipal (R$ 170.565,58), na vigilância epidemiológica e ambiental (R$ 154.719,78) e no SAMU 192 (R$ 136.579,22)."
+    "resumo": "Decreto nº 22.406, de 1º/09/2026, abre R$ 7.706.081,98 por superávit financeiro para vigilância patrimonial da Saúde, com R$ 4.724.456,80 na atenção primária, R$ 2.519.760,60 na atenção especializada, além de maternidade, vigilância epidemiológica e SAMU."
    },
    {
     "id": 4,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto 22.410 abre crédito de R$ 179.474,18, com o superávit de 2025, para a FUNCULTURAL custear o evento dos 112 anos do Município de Porto Velho."
+    "resumo": "Decreto nº 22.410, de 02/09/2026, abre R$ 179.474,18 por superávit financeiro para a FUNCULTURAL custear o evento dos 112 anos de Porto Velho."
    },
    {
     "id": 5,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto 22.411 transfere R$ 221.230,00 da compra de uniformes escolares para o Programa Municipal de Alimentação Escolar da SEMED, distribuídos entre creche, pré-escola e outras etapas de ensino."
+    "resumo": "Decreto nº 22.411, de 02/09/2026, transpõe R$ 221.230,00 da SEMED de uniformes escolares para o Programa Municipal de Alimentação Escolar (creche, pré-escola, ensino fundamental, EJA e educação especial)."
    },
    {
     "id": 6,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto 22.412 muda de lugar R$ 14.025,00 em diárias no orçamento do Conselho Municipal de Educação, saindo da capacitação de conselheiros e gestores e indo para a ação de regularização de escolas."
+    "resumo": "Decreto nº 22.412, de 02/09/2026, transpõe R$ 14.025,00 no Conselho Municipal de Educação, da capacitação de conselheiros para a regularização de escolas, a fim de cobrir diárias."
    },
    {
     "id": 7,
     "categoria": "Finanças e orçamento",
     "relevancia": "baixa",
-    "resumo": "Decreto 22.413 remaneja R$ 50.000,00 dentro da Superintendência Municipal de Proteção e Defesa Civil, tirando da compra de materiais para pagar diárias."
+    "resumo": "Decreto nº 22.413, de 02/09/2026, abre R$ 50.000,00 na Defesa Civil (SMPDC), por anulação de dotação de material de consumo, para pagamento de diárias."
    },
    {
     "id": 8,
     "categoria": "Finanças e orçamento",
     "relevancia": "media",
-    "resumo": "Decreto 22.414 abre crédito de R$ 589.063,00, com o superávit de 2025, para a SEINFRA pagar o termo de cooperação com o Estado de Rondônia (SEJUS/FUPEN) que usa mão de obra de reeducandos na limpeza e conservação de ruas, praças e cemitérios públicos."
+    "resumo": "Decreto nº 22.414, de 03/09/2026, abre R$ 589.063,00 por superávit financeiro para a SEINFRA custear o Termo de Cooperação FUPEN com a SEJUS/RO, que usa mão de obra reeducanda na limpeza e conservação de logradouros e cemitérios."
    },
    {
     "id": 9,
     "categoria": "Finanças e orçamento",
-    "relevancia": "media",
-    "resumo": "Decreto 22.415 abre crédito de R$ 1.485.000,00, com o superávit de 2025 ligado a emenda parlamentar especial do senador Marcos Rogério, para a SEMIAS custear um convênio, ainda a ser firmado com a Casa Família Rosetta, de acolhimento de pessoas com deficiência neurológica na Residência Inclusiva Casa Família Ana Teresa Cappello; o dinheiro vai para os blocos de proteção social básica, especial e gestão do SUAS."
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.415, de 03/09/2026, abre R$ 1.485.000,00 por superávit financeiro para o convênio da SEMIAS com a Casa Família Rosetta (Residência Inclusiva Casa Família Ana Teresa Cappello), com emenda do senador Marcos Rogério nº 202592240003."
    },
    {
     "id": 10,
     "categoria": "Finanças e orçamento",
     "relevancia": "alta",
-    "resumo": "Decreto 22.418 remaneja R$ 2.622.851,00 na EMDUR, cortando verbas da reforma da sede, do concurso público, de pessoal e de logística, e aplicando R$ 2.013.169,36 em infraestrutura de eventos e R$ 609.681,64 em urbanização de espaços públicos, para obras e serviços como as praças Padre João Nicoletti e do Contorno, a rotatória da Avenida Imigrantes, a Estrada dos Periquitos, o Parque Circuito e o Natal Porto Velho Luz 2026."
+    "resumo": "Decreto nº 22.418, de 03/09/2026, remaneja R$ 2.622.851,00 na EMDUR, por anulação de dotações, para obras da Praça Padre João Nicoletti, rotatória da Avenida Imigrantes, Praça do Contorno, Estrada dos Periquitos, Parque Circuito e o Natal Porto Velho Luz 2026 (R$ 2.013.169,36 em eventos e R$ 609.681,64 em urbanização)."
    }
   ]
  },
@@ -214,5 +245,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-09-11T12:31-04:00"
- }
+ },
+ "resumo_formato": 2
 }
