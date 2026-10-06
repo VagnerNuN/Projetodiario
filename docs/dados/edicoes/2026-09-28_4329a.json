@@ -1,0 +1,41 @@
+{
+ "edicao": {
+  "id": 121354,
+  "numero": "4329a",
+  "data": "2026-09-28",
+  "publicado_em": null,
+  "extra": true,
+  "url_pdf": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_121354_2026-09-28_6f8878bb7afab6058db87cba4ff01e1d.pdf"
+ },
+ "total_paginas": 39,
+ "atos": [
+  {
+   "id": 1,
+   "orgao": "SECRETARIA DE GOVERNO- SGOV",
+   "titulo": "CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS PÚBLICOS PARA O QUADRO DE PESSOAL DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE PORTO VELHO/RO EDITAL Nº 24/2026",
+   "tipo": "Outro",
+   "pagina": 10,
+   "codigo": "49C751A5",
+   "trecho": "O Município de Porto Velho/RO e o Instituto Brasileiro de Gestão e Pesquisa - IBGP, tornam público e estabelecem normas para a realização\nde Concurso Público, destinado a selecionar candidatos para o provimento de cargos para quadro permanente de pessoal e cadastro de\nreserva da Secretaria de Educação do Município de Porto Velho/RO, que se regerão pelas disposições contidas na Constituição da República\n\nFederativa do Brasil; na Lei Orgânica do Município de Porto Velho/RO, de 27 de março de 1990 e alterações posteriores; na Lei Complementar\nMunicipal nº 385, de 01 de julho de 2010, que “Dispõe "
+  },
+  {
+   "id": 2,
+   "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SEMAD",
+   "titulo": "EDITAL DE CONVOCAÇÃO PROCESSO SELETIVO Nº 019/SEMAD/2025",
+   "tipo": "Edital",
+   "pagina": 37,
+   "codigo": "A04A545B",
+   "trecho": "EDITAL Nº 050/SEMAD/2026, DE 28 DE SETEMBRO 2026\n\nDIVISÃO DE CARGOS, SALÁRIOS, SELEÇÃO E RECRUTAMENTO DE SERVIDORES/DICS/SEMAD\n\nA SECRETÁRIA MUNICIPAL DE ADMINISTRAÇÃO, da PREFEITURA DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições\nque lhe são conferidas no Art. Art. 1º, Incisos IX e XI c/c XXII, do Decreto nº 22.325, de 11.08.2026, publicado no Diário Oficial dos Municípios do\nEstado de Rondônia –D.O.M.E.R. nº 4296, de 12.08.2026, resolve.\n\nCONVOCAR considerando o Processo 005.018518/2026-05 e 017.013159/2026-52, Sob regime jurídico-administrativo especial, a comparecer\nno prazo de 15 dias"
+  }
+ ],
+ "resumo": null,
+ "resumo_origem": null,
+ "processado_em": "2026-10-06T08:33:44-04:00",
+ "conferencia": {
+  "site": 65,
+  "robo": 65,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-10-06T08:33-04:00"
+ }
+}

@@ -168,6 +168,7 @@ a.kpi:hover { box-shadow: var(--sombra), 0 0 0 1px var(--s300); }
 .pag { display: inline-flex; align-items: center; gap: 4px; text-decoration: none; font-weight: 500; white-space: nowrap; }
 .pag:hover { text-decoration: underline; }
 .pag .ic { width: 12px; height: 12px; }
+.pag-pdf { font-weight: 400; color: var(--s500); }
 .novo { padding: 1px 6px; border-radius: 6px; background: var(--azul-50); color: var(--azul-700); font-size: 11px; font-weight: 600; }
 
 /* Atenção */
@@ -398,11 +399,11 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
       a.orgaoNome = info.nome;
       a.extraBusca = [];
       ATOS.push(a);
-      ATO[chave(reg.edicao.numero, a.id)] = a;
+      ATO[chave(reg.edicao.id, a.id)] = a;
     });
     // Textos dos blocos do briefing também entram na busca do ato correspondente
     if (rs && rs.contratacoes) {
-      var junta = function (id, textos) { var a = ATO[chave(reg.edicao.numero, id)]; if (a) a.extraBusca = a.extraBusca.concat(textos); };
+      var junta = function (id, textos) { var a = ATO[chave(reg.edicao.id, id)]; if (a) a.extraBusca = a.extraBusca.concat(textos); };
       rs.contratacoes.forEach(function (c) { junta(c.ato, [c.objeto, c.fornecedor, c.modalidade]); });
       rs.pessoal.movimentacoes.forEach(function (p) { junta(p.ato, [p.nome, p.cargo]); });
       rs.normas.forEach(function (n) { junta(n.ato, [n.identificacao, n.o_que_muda]); });
@@ -430,7 +431,7 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     opts = opts || {};
     if (!opts.todosDias && a.data !== st.dia) return false;
     for (var k in DIMS) if (k !== opts.exceto && temFiltro(k) && DIMS[k].val(a) !== st[k]) return false;
-    if (!opts.semDestaque && st.destaque && !(st.destaque.num === a.edicao.numero && st.destaque.ids[a.id])) return false;
+    if (!opts.semDestaque && st.destaque && !(st.destaque.ed === a.edicao.id && st.destaque.ids[a.id])) return false;
     var termos = norm(st.q).split(/\s+/).filter(Boolean);
     for (var i = 0; i < termos.length; i++) if (a.busca.indexOf(termos[i]) < 0) return false;
     return true;
@@ -444,7 +445,8 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
 
   /* ---------- Peças ---------- */
   function linkPag(a) {
-    return '<a class="pag" href="' + esc(a.edicao.url_pdf) + '#page=' + a.pagina + '" target="_blank" rel="noopener" title="Abrir o ato no PDF do diário">Pág. ' + a.pagina + (a.edicao.extra ? " · extra" : "") + ic("externo") + '</a>';
+    return '<a class="pag" href="https://www.diariomunicipal.com.br/arom/materia/' + encodeURIComponent(a.codigo) + '" target="_blank" rel="noopener" title="Abrir este ato no site oficial da AROM">Ver matéria' + ic("externo") + '</a>' +
+      '<a class="pag pag-pdf" href="' + esc(a.edicao.url_pdf) + '#page=' + a.pagina + '" target="_blank" rel="noopener" title="Abrir a página no PDF da edição">Pág. ' + a.pagina + (a.edicao.extra ? " · extra" : "") + '</a>';
   }
   function metaAto(a, extras) {
     return '<div class="meta"><span class="tag" title="' + esc(a.orgaoNome) + '">' + esc(a.sigla) + '</span>' + (extras || "") + linkPag(a) + '</div>';
@@ -469,7 +471,7 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
       if (!formatoNovo(reg)) return;
       var lista = sub ? reg.resumo[campo][sub] : reg.resumo[campo];
       lista.forEach(function (x) {
-        var a = ATO[chave(reg.edicao.numero, x.ato)];
+        var a = ATO[chave(reg.edicao.id, x.ato)];
         if (a && passa(a)) out.push({ x: x, a: a });
       });
     });
@@ -540,7 +542,7 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     EDICOES.forEach(function (reg) {
       if (!formatoNovo(reg)) return;
       reg.resumo.agenda.forEach(function (g) {
-        var a = ATO[chave(reg.edicao.numero, g.ato)];
+        var a = ATO[chave(reg.edicao.id, g.ato)];
         if (!a || g.data < hoje || !passa(a, { todosDias: true, semDestaque: true })) return;
         var k = g.data + "|" + norm(g.evento);
         if (vistos[k]) return;
@@ -590,8 +592,8 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
       h += '<p class="dica">Clique num destaque para ver os atos correspondentes.</p><div class="grade-dest">';
       dests.forEach(function (x, k) {
         var d = x.d, siglas = [];
-        d.atos.forEach(function (id) { var a = ATO[chave(x.r.edicao.numero, id)]; if (a && siglas.indexOf(a.sigla) < 0) siglas.push(a.sigla); });
-        var ativo = st.destaque && st.destaque.num === x.r.edicao.numero && st.destaque.titulo === d.titulo;
+        d.atos.forEach(function (id) { var a = ATO[chave(x.r.edicao.id, id)]; if (a && siglas.indexOf(a.sigla) < 0) siglas.push(a.sigla); });
+        var ativo = st.destaque && st.destaque.ed === x.r.edicao.id && st.destaque.titulo === d.titulo;
         h += '<button type="button" class="cartao dest' + (ativo ? " ativo" : "") + '" data-destaque="' + k + '">' +
           '<div class="topo"><span class="ponto" style="background:' + PALETA[k % PALETA.length] + '"></span><h4>' + esc(d.titulo) + '</h4>' +
           '<span class="pilula-cinza num">' + d.atos.length + (d.atos.length === 1 ? " ato" : " atos") + '</span></div>' +
@@ -759,9 +761,9 @@ mark { background: #fef3c7; color: inherit; border-radius: 2px; padding: 0 1px; 
     if (t.hasAttribute("data-dia")) { irParaDia(t.getAttribute("data-dia")); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
     if (t.hasAttribute("data-destaque")) {
       var x = renderBriefing.destaques[+t.getAttribute("data-destaque")];
-      var mesmo = st.destaque && st.destaque.num === x.r.edicao.numero && st.destaque.titulo === x.d.titulo;
+      var mesmo = st.destaque && st.destaque.ed === x.r.edicao.id && st.destaque.titulo === x.d.titulo;
       if (mesmo) st.destaque = null;
-      else { var ids = {}; x.d.atos.forEach(function (i) { ids[i] = true; }); st.destaque = { num: x.r.edicao.numero, ids: ids, titulo: x.d.titulo }; }
+      else { var ids = {}; x.d.atos.forEach(function (i) { ids[i] = true; }); st.destaque = { ed: x.r.edicao.id, ids: ids, titulo: x.d.titulo }; }
       st.limite = 60; tudo();
       if (!mesmo) $("s-atos").scrollIntoView({ block: "start" });
       return;

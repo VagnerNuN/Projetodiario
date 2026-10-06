@@ -1,0 +1,34 @@
+{
+ "edicao": {
+  "id": 121335,
+  "numero": "4326a",
+  "data": "2026-09-24",
+  "publicado_em": null,
+  "extra": true,
+  "url_pdf": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_121335_2026-09-24_2e5bdeedbbec95b008977efb51ae6b0a.pdf"
+ },
+ "total_paginas": 48,
+ "atos": [
+  {
+   "id": 1,
+   "orgao": "CÂMARA MUNICIPAL DE PORTO VELHO",
+   "titulo": "RESOLUÇÃO Nº 772/CMPV-2026 DE 22 DE SETEMBRO DE 2026.",
+   "tipo": "Resolução",
+   "pagina": 2,
+   "codigo": "BBA6F4CA",
+   "trecho": "“Institui normas consolidadas para o ressarcimento\nde despesas da Cota para o Exercício da Atividade\nParlamentar,\nestabelece\nsubtetos,\nrequisitos\ndocumentais, transparência e controles, e revoga a\nResolução nº 743/CMPV-2025. ”\n\nA MESA DIRETORA DA CÂMARA MUNICIPAL DE PORTO\nVELHO, no usodas atribuições que lhes são conferidas no art. 28,\nalínea “f” da Resolução n° 254, de 11 de outubro de 1991 –\nRegimento Interno,\n\nFAZ SABER que a CÂMARA MUNICIPAL DE PORTO VELHO\naprovou e eu, FRANCISCO GEDEÃO BESSA HOLANDA DE\nNEGREIROS, na qualidade de seu Presidente, promulgo a seguinte:\n\nRESOLUÇÃO:\n\nCAPÍTULO I"
+  }
+ ],
+ "resumo": null,
+ "resumo_origem": null,
+ "processado_em": "2026-10-06T08:33:21-04:00",
+ "conferencia": {
+  "site": 82,
+  "robo": 83,
+  "faltando": [],
+  "sobrando": [
+   "B1D086F1"
+  ],
+  "em": "2026-10-06T08:35-04:00"
+ }
+}

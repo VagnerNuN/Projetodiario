@@ -186,14 +186,20 @@ def rotina() -> int:
                 salvar_edicao(registro)
                 salvos[ed["id"]] = registro
             time.sleep(1)
-        if edicoes:
-            try:
-                if not conferir_dia(coletor, dia, salvos):
-                    erros += 1
-            except Exception as e:
-                print(f"[{dia}] não foi possível conferir com a busca oficial: {e}")
+        # Confere todo dia consultado, inclusive os que o calendário disse não ter edição:
+        # se a busca oficial listar matérias de Porto Velho que não temos, o calendário
+        # parou de funcionar (aconteceu em 22/09/2026, quando o site trocou o CSRF).
+        try:
+            if not conferir_dia(coletor, dia, salvos):
+                erros += 1
+        except Exception as e:
+            print(f"[{dia}] não foi possível conferir com a busca oficial: {e}")
+            erros += 1
 
-    limpar_antigas()
+    if erros:
+        print(f"{erros} erro(s) nesta execução: o histórico antigo não é apagado nesta rodada.")
+    else:
+        limpar_antigas()
     gerar_painel()
     return 1 if erros else 0
 
@@ -211,11 +217,16 @@ def exportar_pendentes(pasta: Path):
         print(f"{destino}  ({len(atos)} atos)")
 
 
-def aplicar_resumo(arquivo: Path, numero: str | None, origem: str):
-    numero = numero or arquivo.stem.split("_")[1].split(".")[0]
-    registro = next((r for r in carregar_edicoes() if r["edicao"]["numero"] == numero), None)
-    if not registro:
-        sys.exit(f"edição {numero} não encontrada em {PASTA_EDICOES}")
+def aplicar_resumo(arquivo: Path, edicao: str | None, origem: str):
+    # A AROM às vezes repete o número de edições extras em dias diferentes (ex.: "4329a"
+    # em 28/09 e 29/09/2026), então a edição é identificada por data + número.
+    alvo = edicao or arquivo.name.split(".")[0]
+    candidatas = [r for r in carregar_edicoes()
+                  if alvo in (f"{r['edicao']['data']}_{r['edicao']['numero']}", r["edicao"]["numero"])]
+    if len(candidatas) != 1:
+        sys.exit(f"edição {alvo!r}: {len(candidatas)} correspondências em {PASTA_EDICOES}; use DATA_NUMERO")
+    registro = candidatas[0]
+    numero = registro["edicao"]["numero"]
     resumo = validar_resumo(json.loads(arquivo.read_text(encoding="utf-8")), registro["atos"])
     registro["resumo"] = resumo
     registro["resumo_origem"] = origem
@@ -230,7 +241,7 @@ if __name__ == "__main__":
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--exportar-pendentes", type=Path, metavar="PASTA")
     p.add_argument("--aplicar-resumo", type=Path, metavar="ARQUIVO")
-    p.add_argument("--edicao", metavar="NUMERO")
+    p.add_argument("--edicao", metavar="DATA_NUMERO", help="ex.: 2026-09-28_4329a (padrão: tirado do nome do arquivo)")
     p.add_argument("--origem", default="manual", help="quem fez o resumo aplicado (aparece no painel)")
     args = p.parse_args()
     if args.exportar_pendentes:

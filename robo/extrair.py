@@ -76,6 +76,14 @@ def _linhas(pdf: pymupdf.Document):
             yield num, linha
 
 
+def _fecha_materia(linhas: list[str]) -> bool:
+    """Toda matéria termina com "Publicado por: <nome>" e o Código Identificador. Um código
+    citado no meio do texto (ex.: ato que revoga outro e cita "Edição 3921, Código
+    Identificador: B1D086F1") não vem depois desse rodapé e não encerra a matéria."""
+    recentes = [l for l in linhas[-6:] if l][-3:]
+    return any(l.startswith("Publicado por") for l in recentes)
+
+
 def _materias(pdf: pymupdf.Document):
     """Agrupa as linhas em matérias, delimitadas pelo Código Identificador."""
     atual, pagina_inicio = [], None
@@ -83,7 +91,7 @@ def _materias(pdf: pymupdf.Document):
         if pagina_inicio is None and linha:
             pagina_inicio = num
         m = RE_CODIGO.match(linha)
-        if m:
+        if m and _fecha_materia(atual):
             yield {"pagina": pagina_inicio, "linhas": atual, "codigo": m.group(1)}
             atual, pagina_inicio = [], None
         else:

@@ -1,0 +1,32 @@
+{
+ "edicao": {
+  "id": 121317,
+  "numero": "4324a",
+  "data": "2026-09-22",
+  "publicado_em": null,
+  "extra": true,
+  "url_pdf": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_121317_2026-09-22_44a4f603ba6879e20822c4795a32cf9c.pdf"
+ },
+ "total_paginas": 6,
+ "atos": [
+  {
+   "id": 1,
+   "orgao": "SECRETARIA MUNICIPAL DE SAÚDE - SEMUSA",
+   "titulo": "TERMO DE HOMOLOGAÇÃO DA CONSULTA PARA SELEÇÃO EMERGENCIAL Nº 161/2026/SEMUSA-DEA",
+   "tipo": "Termo",
+   "pagina": 4,
+   "codigo": "CC3173E3",
+   "trecho": "A Secretária Municipal de Saúde de Porto Velho/RO, no uso das\natribuições legais, com fundamento na Lei Federal nº 9.637, de 15 de\nmaio de 1998, na Lei Complementar Municipal nº 721, de 2018, e no\nDecreto Municipal nº 20.901, de 2025, aplicando-se subsidiariamente\na Lei Federal nº 14.133, de 2021, e nos termos do item 6.7.1 do Edital\nnº 161/2026/SEMUSA-DEA, referente à CONSULTA PARA\nSELEÇÃO EMERGENCIAL, cujo objeto é a seleção de\nOrganização Social para a celebração de Contrato de Gestão\nEmergencial destinado ao gerenciamento, à operacionalização e à\nexecução das ações e serviços de atenção pr"
+  }
+ ],
+ "resumo": null,
+ "resumo_origem": null,
+ "processado_em": "2026-10-06T08:33:02-04:00",
+ "conferencia": {
+  "site": 67,
+  "robo": 67,
+  "faltando": [],
+  "sobrando": [],
+  "em": "2026-10-06T08:33-04:00"
+ }
+}

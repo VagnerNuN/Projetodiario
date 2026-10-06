@@ -1,0 +1,7 @@
+# A Vercel só publica o painel (docs/). O robô roda no GitHub Actions; sem o
+# requirements.txt aqui a Vercel não tenta tratar o projeto como app Python.
+robo/
+requirements.txt
+.github/
+.cache/
+*.pdf
