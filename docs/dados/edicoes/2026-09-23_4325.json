@@ -502,7 +502,7 @@
    "tipo": "Retificação",
    "pagina": 211,
    "codigo": "09F96C1D",
-   "trecho": "Porto Velho, 21 de setembro de 2026.\n\nA SECRETÁRIA MUNICIPAL DE SAÚDE DAPREFEITURA DO MUNICÍPIO DE PORTO VELHO\nno uso de suas atribuições legais.\nResolve:\nRetificar O TERMO DE HOMOLOGAÇÃO DE PRESTAÇÃO DE CONTAS DE DIÁRIAS N°15/2026/SEMUSA/NPCFD\nprestação de contas de diárias nos termos do Decreto nº 17.353, de 09 de junho de 2021, nos seguintes termos:\n\nOnde se lê:\n\nNome Do Servidor\nMat.\nCargo/ Função\nDestino\nQuant\nValor Unitário\nValor Total\nNilda de Oliveira Barros\n171645\nTecnico em Enfermagem/Coordenação Municipal do Programa de Tuberculose\nBrasília/DF\n4,5\nR$ 1.000,00\nR$ 5.000,00\nDeslocament"
+   "trecho": "Porto Velho, 21 de setembro de 2026.\n\nA SECRETÁRIA MUNICIPAL DE SAÚDE DAPREFEITURA DO MUNICÍPIO DE PORTO VELHO\nno uso de suas atribuições legais.\nResolve:\nRetificar O TERMO DE HOMOLOGAÇÃO DE PRESTAÇÃO DE CONTAS DE DIÁRIAS N°15/2026/SEMUSA/NPCFD\npublicado no Diário Oficial dos Municípios do Estado de Rondônia do dia 18/09/2026 de 2026, Edição nº4322, referente à homologação de\nprestação de contas de diárias nos termos do Decreto nº 17.353, de 09 de junho de 2021, nos seguintes termos:\n\nOnde se lê:\n\nNome Do Servidor\nMat.\nCargo/ Função\nDestino\nQuant\nValor Unitário\nValor Total\nNilda de Oliveira Ba"
   },
   {
    "id": 56,
@@ -523,8 +523,671 @@
    "trecho": "Porto Velho, 16 de setembro de 2026.\n\nDispõe sobre a classificação de atividades econômicas sujeitas à vigilância sanitária por grau de risco, disciplina o licenciamento, a renovação, a fiscalização sanitária e os procedimentos\nadministrativos correlatos no âmbito do Município de Porto Velho, em conformidade com a Lei Complementar Municipal nº 1.081/2026, e dá outras providências.\n\nA SECRETÁRIA MUNICIPAL DE SAÚDE, no uso de suas atribuições legais e regulamentares, e\nCONSIDERANDO a Lei Federal nº 13.874, de 20 de setembro de 2019, que institui a Declaração de Direitos de Liberdade Econômica;\nC"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Vigilância Sanitária de Porto Velho passa a licenciar por grau de risco: baixo risco fica sem licença prévia, médio risco abre na hora com autodeclaração e alto risco passa a ter prazo máximo de 45 para decisão, contado separadamente em cada setor da Vigilância enquanto a plataforma eletrônica não for implantada",
+  "resumo": "A edição traz 57 atos de Porto Velho, com predominância de diárias e outras portarias de pessoal, sete atas do Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA) e seis decretos de remanejamento orçamentário. O destaque normativo é a Portaria nº 002/2026/DVISA/SEMUSA, que aplica o Marco Legal da Liberdade Econômica ao licenciamento sanitário, ao lado da Instrução Normativa nº 3/2026 do IPAM, que cria o rito de cobrança de débitos do plano de saúde dos servidores. Nas contas públicas, chamam atenção a dispensa eletrônica de R$ 5,18 milhões para emulsão asfáltica da SEINFRA, a adesão da FUNCULTURAL a ata de Senador Guiomard/AC (R$ 1,2 milhão, 2,17% acima da média pesquisada) e a transposição de R$ 3,65 milhões na Saúde para contratar em caráter emergencial uma Organização Social que vai gerir UBS provisória perto do Residencial Orgulho do Madeira. Também merecem acompanhamento o reconhecimento de dívida de R$ 130,8 mil da SEMA por locação de veículos após o fim do contrato, três adesões a atas de outros órgãos e as atas do CMDCA que registram queixas sobre remanejamento de emendas do FMDCA sem consulta ao conselho.",
+  "destaques": [
+   {
+    "titulo": "Novo licenciamento sanitário por grau de risco",
+    "texto": "A Portaria nº 002/2026/DVISA/SEMUSA aplica a LC nº 1.081/2026: atividades dispensadas e de baixo risco não precisam de licença prévia, as de médio risco funcionam na hora com autodeclaração e liberação dos Bombeiros, e as de alto risco têm prazo máximo de 45 (20 na renovação; a Portaria não informa a unidade), contado separadamente em cada setor da Vigilância durante a transição e reiniciado a cada transferência. Esgotado o prazo por culpa da Administração, cabe alvará tácito só se a documentação estiver completa, sem pendências, e a inspeção do NUFLIS já tiver sido concluída, e nunca para atividades com AFE/AE ou que dependam de outros órgãos. A fiscalização passa a ser orientadora, com dupla visita antes de multa.",
+    "atos": [
+     57
+    ]
+   },
+   {
+    "titulo": "R$ 3,65 milhões para UBS emergencial gerida por OS",
+    "texto": "Decreto tira R$ 3,53 milhões de obras da rede de média e alta complexidade e R$ 117,7 mil de medicamentos para custear a contratação emergencial de Organização Social que vai gerir Unidade Básica de Saúde provisória perto do Residencial Orgulho do Madeira.",
+    "atos": [
+     49
+    ]
+   },
+   {
+    "titulo": "Dispensa de R$ 5,18 milhões para asfalto",
+    "texto": "A SMCL abriu a Dispensa Eletrônica nº 343/2026 para comprar emulsões asfálticas RR2C e EAI para a SEINFRA, com valor estimado de R$ 5.181.777,60 e fase de lances em 29/09/2026.",
+    "atos": [
+     16
+    ]
+   },
+   {
+    "titulo": "FUNCULTURAL contrata estrutura de eventos via ata do Acre",
+    "texto": "A fundação aderiu à ata da Prefeitura de Senador Guiomard/AC e contratou a T Araujo da Mota Ltda por R$ 1.199.496,00 para palcos, som, iluminação, tendas, painéis de LED e outras estruturas por 12 meses; o demonstrativo admite preço 2,17% acima da média pesquisada.",
+    "atos": [
+     1,
+     2,
+     46
+    ]
+   },
+   {
+    "titulo": "IPAM cria rito de cobrança no plano de saúde",
+    "texto": "Instrução normativa define notificação com 15 dias úteis para defesa, recurso, parcelamento em até 60 vezes (parcela mínima de R$ 200) e envio à dívida ativa de débitos com a assistência à saúde dos servidores.",
+    "atos": [
+     3
+    ]
+   },
+   {
+    "titulo": "Atas do CMDCA expõem disputa sobre o FMDCA",
+    "texto": "Sete atas de fevereiro a junho registram a aprovação do Plano de Aplicação 2026 do fundo da infância e queixas de conselheiros e do vereador Marcos Combate sobre remanejamento de emendas sem consulta ao colegiado; a SEMEC afirma que não houve retirada de dinheiro já depositado.",
+    "atos": [
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 16,
+    "motivo": "Dispensa eletrônica com valor estimado de R$ 5.181.777,60 fundamentada no art. 75, inciso II, da Lei nº 14.133/2021, dispositivo que trata de dispensa em razão do valor."
+   },
+   {
+    "ato": 49,
+    "motivo": "Transposição de R$ 3.646.435,58 dentro do Fundo Municipal de Saúde para contratação emergencial e transitória de Organização Social por seleção emergencial, retirando R$ 117.701,98 da compra de medicamentos e R$ 3.528.733,60 da ação de construção, ampliação, reforma e aquisição de imóveis da rede de média e alta complexidade."
+   },
+   {
+    "ato": 46,
+    "motivo": "Adesão, como órgão não participante, à ata de registro de preços da Prefeitura de Senador Guiomard/AC, no valor de R$ 1.199.496,00, que o demonstrativo da própria fundação (ato 1) reconhece estar 2,17% acima da média da pesquisa de preços."
+   },
+   {
+    "ato": 56,
+    "motivo": "Reconhecimento de dívida de R$ 130.800,00 por locação de veículos prestada de maio a agosto de 2026, depois do fim da vigência do Contrato nº 044/PGM/2025 em 11/03/2026."
+   },
+   {
+    "ato": 15,
+    "motivo": "Adesão à ata de registro de preços de outro município (Prefeitura de Jaru/RO) para compra de pick-up de R$ 139.545,00."
+   },
+   {
+    "ato": 23,
+    "motivo": "Adesão a ata de registro de preços (nº 013/2025) para uniformes de R$ 389.944,40 sem que o termo publicado identifique o órgão gerenciador da ata."
+   },
+   {
+    "ato": 21,
+    "motivo": "Termo de fomento de R$ 106.000,00 a ser celebrado sem chamamento público, com base em emenda parlamentar (art. 29 da Lei nº 13.019/2014)."
+   },
+   {
+    "ato": 24,
+    "motivo": "Dispensa por valor de R$ 45.000,00 em que o próprio termo registra margem reduzida até o limite legal e pede confirmação do valor-limite vigente antes de autorizar a despesa."
+   },
+   {
+    "ato": 55,
+    "motivo": "Retificação altera valores de diárias já homologadas: o total pago passa de R$ 5.000,00 para R$ 3.500,00."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 1,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico SRP nº 012/2026/PMSG (Ata de Registro de Preços nº 017/2026)",
+    "objeto": "Estrutura, apoio técnico e operacional para eventos (21 itens dos Lotes I e IV) – demonstrativo de vantajosidade",
+    "fornecedor": "T ARAUJO DA MOTA LTDA",
+    "valor": 1199496.0
+   },
+   {
+    "ato": 2,
+    "etapa": "Contrato",
+    "modalidade": "Pregão Eletrônico SRP nº 012/2026/PMSG (Ata de Registro de Preços nº 017/2026) – Contrato nº 119/2026/PGM",
+    "objeto": "Serviços de infraestrutura, apoio técnico e operacional para eventos da FUNCULTURAL",
+    "fornecedor": "T ARAUJO DA MOTA LTDA",
+    "valor": 1199496.0
+   },
+   {
+    "ato": 15,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 008/PMJ/2026 (Ata de Registro de Preços nº 017/PMJ/2026, Prefeitura de Jaru/RO)",
+    "objeto": "1 veículo pick-up cabine dupla zero km para a SEMAGRIC",
+    "fornecedor": "AUTOVEMA VEÍCULOS LTDA",
+    "valor": 139545.0
+   },
+   {
+    "ato": 16,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa Eletrônica nº 343/2026/SMCL/PVH",
+    "objeto": "Emulsões asfálticas RR2C e EAI para a SEINFRA",
+    "fornecedor": null,
+    "valor": 5181777.6
+   },
+   {
+    "ato": 17,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 271/2026/SMCL/PVH",
+    "objeto": "EPIs, material laboratorial para diagnóstico de malária, material de consumo e gráfico para a SEMUSA",
+    "fornecedor": null,
+    "valor": 153293.09
+   },
+   {
+    "ato": 18,
+    "etapa": "Outro",
+    "modalidade": "Contrato nº 010/PGM/2019 (13º Termo de Apostilamento)",
+    "objeto": "Reserva de dotação para despesas de 22/09 a 31/12/2026 do contrato da SEMEC (objeto não descrito)",
+    "fornecedor": "PARAÍSO COMÉRCIO E CONFECÇÕES LTDA",
+    "valor": 560935.48
+   },
+   {
+    "ato": 19,
+    "etapa": "Outro",
+    "modalidade": "Termo de Convênio nº 563/2022/PGE/RO (5º Termo de Apostilamento)",
+    "objeto": "Empenho complementar do convênio para despesas de 01/01 a 10/11/2026",
+    "fornecedor": "Fundo Penitenciário",
+    "valor": 70912.25
+   },
+   {
+    "ato": 21,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de chamamento público (art. 29 da Lei nº 13.019/2014) – Emenda Parlamentar Municipal nº 0007/2025",
+    "objeto": "Termo de fomento para reforma predial da EMEF Professor Herbert de Alencar",
+    "fornecedor": "Conselho Escolar da EMEF Professor Herbert de Alencar",
+    "valor": 106000.0
+   },
+   {
+    "ato": 23,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico nº 033/2025 (Ata de Registro de Preços nº 013/2025)",
+    "objeto": "Uniformes escolares: camisetas, bermudas e shorts-saia",
+    "fornecedor": "Brink Mobil Equipamentos Educacionais Ltda",
+    "valor": 389944.4
+   },
+   {
+    "ato": 24,
+    "etapa": "Dispensa",
+    "modalidade": "Termo de Dispensa de Licitação nº 8/2026 (art. 75, II, da Lei nº 14.133/2021)",
+    "objeto": "Desmontagem, transporte e remontagem de 3 arquivos de aço deslizantes na SEMED",
+    "fornecedor": "A&D SOLUTION DISTRIBUIDORA DE MAQUINAS E EQUIPAMENTOS LTDA",
+    "valor": 45000.0
+   },
+   {
+    "ato": 34,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação de gestor e fiscais dos contratos de locação de veículos nº 009/PGM/2024 e nº 027/PGM/2026 da SEINFRA",
+    "fornecedor": "ART CAR VEÍCULOS LTDA; RECHE GALDEANO & CIA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 35,
+    "etapa": "Resultado",
+    "modalidade": "Edital de Chamamento Público nº 123/2026/SEMUSA-DIAC",
+    "objeto": "Imóvel para locação da Unidade de Saúde da Família Caladinho (resultado: fracassado)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 39,
+    "etapa": "Outro",
+    "modalidade": "Contrato nº 03/2024/COJUSA/PGM (4º Termo de Apostilamento)",
+    "objeto": "Empenhos para despesas do contrato da SEMUSA até dezembro de 2026",
+    "fornecedor": "MEDICANDO SERVIÇOS MEDICOS LTDA",
+    "valor": 822902.07
+   },
+   {
+    "ato": 41,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de fiscalização do Contrato nº 118/2026/PGM, de demonstração aérea no aniversário da cidade",
+    "fornecedor": "Esquadrilha Fox Demonstração Aérea Ltda",
+    "valor": null
+   },
+   {
+    "ato": 46,
+    "etapa": "Adesão a ata",
+    "modalidade": "Pregão Eletrônico SRP nº 012/2026/PMSG (Ata de Registro de Preços nº 017/2026, Prefeitura de Senador Guiomard/AC)",
+    "objeto": "Palcos, som, iluminação, tendas, painéis de LED, geradores, camarins, brigadistas, arquibancadas e camarotes para eventos",
+    "fornecedor": "T ARAUJO DA MOTA LTDA",
+    "valor": 1199496.0
+   },
+   {
+    "ato": 56,
+    "etapa": "Outro",
+    "modalidade": "Termo de Reconhecimento de Dívida nº 35/2026/SEMA-DA (Contrato nº 044/PGM/2025)",
+    "objeto": "Locação de 3 caminhonetes e 3 pick-ups para a SEMA de 01/05 a 31/08/2026",
+    "fornecedor": "RECHE GALDEANO & CIA LTDA",
+    "valor": 130800.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-29",
+    "hora": "09:00",
+    "evento": "Fase de lances da Dispensa Eletrônica nº 343/2026 (emulsões asfálticas), até 15h, horário de Brasília",
+    "ato": 16
+   },
+   {
+    "data": "2026-10-02",
+    "hora": null,
+    "evento": "Comemorações do aniversário de Porto Velho no complexo da Estrada de Ferro Madeira-Mamoré",
+    "ato": 50
+   },
+   {
+    "data": "2026-10-06",
+    "hora": null,
+    "evento": "Câmara Itinerante do Conselho Municipal de Educação na EMEF Rio Pardo (06 e 07/10)",
+    "ato": 20
+   },
+   {
+    "data": "2026-10-14",
+    "hora": "10:00",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 271/2026 (insumos de malária e EPIs para a SEMUSA), horário de Brasília",
+    "ato": 17
+   }
+  ],
+  "normas": [
+   {
+    "ato": 3,
+    "identificacao": "Instrução Normativa nº 3/2026/IPAM-GAB, de 18/09/2026",
+    "o_que_muda": "Cria o passo a passo para apurar, notificar (15 dias úteis para defesa), julgar recursos, parcelar em até 60 vezes (mínimo de R$ 200 por parcela) e mandar à dívida ativa os débitos ligados ao plano de assistência à saúde do IPAM, dividindo as tarefas entre COAM, COAF e Procuradoria. Revoga a Resolução nº 01/IPAM/2018 e manda levantar em 60 dias os créditos existentes."
+   },
+   {
+    "ato": 22,
+    "identificacao": "Portaria nº 525, de 22/09/2026 (SEMED e SEMTEL)",
+    "o_que_muda": "Institui o Projeto Escola do Povo, que permite à comunidade usar de graça, com autorização prévia e supervisão, as quadras e espaços esportivos das escolas municipais fora do horário de aula. Começa como projeto-piloto em escolas escolhidas pela SEMED, e quem usar responde por danos ao patrimônio."
+   },
+   {
+    "ato": 57,
+    "identificacao": "Portaria nº 002/2026/DVISA/SEMUSA, de 16/09/2026",
+    "o_que_muda": "Classifica as atividades econômicas por risco sanitário: dispensadas e de baixo risco não precisam de licença prévia; médio risco funciona na hora com autodeclaração e liberação dos Bombeiros quando exigível; alto risco depende de análise documental (NUCRIS) e vistoria prévia (NUFLIS), com prazo máximo de 45 (20 na renovação; o texto não informa a unidade), contado separadamente em cada setor e reiniciado a cada transferência enquanto não houver a plataforma eletrônica. O alvará tácito só vale se a documentação estiver completa, sem pendências e com a inspeção do NUFLIS concluída, e não se aplica a atividades com AFE/AE ou que dependam de outros órgãos; o fim do prazo não dispensa a vistoria. A fiscalização passa a ser orientadora, com dupla visita antes de multa, e ficam revogadas as INs 001/2024 e 001/2025 e a Portaria 001/2026 da DVISA."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 6,
+     "acao": "Substituição",
+     "nome": "Adão Geraldo Colombo",
+     "cargo": "Secretário Executivo III (DAS-15) da SEMEC, no lugar de Ari Carvalho dos Santos (férias), de 21/09 a 30/09/2026"
+    },
+    {
+     "ato": 7,
+     "acao": "Substituição",
+     "nome": "Leticia Santos",
+     "cargo": "Assessor Técnico I (DAS-06) da SEMEC, no lugar de Anielly Abreu Dias (férias), de 06/10 a 25/10/2026"
+    },
+    {
+     "ato": 8,
+     "acao": "Substituição",
+     "nome": "Elisangela Tavares Santos",
+     "cargo": "Diretor Escolar Tipologia A (DAS-06) da SEMED, no lugar de Ana Celia Privado dos Santos Bezerra (férias), de 13/10 a 01/11/2026"
+    },
+    {
+     "ato": 9,
+     "acao": "Substituição",
+     "nome": "Carolina Souza Marques",
+     "cargo": "Gerente II (DAS-05) da SEMA, no lugar de André Luiz Correa Eguez (requisitado pelo TRE), de 24/09 a 07/10/2026"
+    },
+    {
+     "ato": 28,
+     "acao": "Outro",
+     "nome": "Sefra Maria Barros Silva",
+     "cargo": "Presidente do CMDCA, eleita para a diretoria 2026-2027"
+    },
+    {
+     "ato": 28,
+     "acao": "Outro",
+     "nome": "Nilza Maria Ferreira da Silva",
+     "cargo": "Vice-Presidente do CMDCA, eleita para a diretoria 2026-2027"
+    },
+    {
+     "ato": 28,
+     "acao": "Outro",
+     "nome": "Lilian Cabral de Freitas",
+     "cargo": "1ª Secretária do CMDCA, eleita para a diretoria 2026-2027"
+    },
+    {
+     "ato": 28,
+     "acao": "Outro",
+     "nome": "Nilda Gigliola Lara da Silva Pinto",
+     "cargo": "2ª Secretária do CMDCA, eleita para a diretoria 2026-2027"
+    }
+   ],
+   "rotina": "Completam a edição diárias da SEMAD, SEMAGRIC, CME, SEMIAS, SEMA e EMDUR e a retificação de diárias da SEINFRA, auxílio de mutirão de R$ 360,00 a dois servidores da SEMAGRIC, rescisão a pedido de contrato emergencial de assistente social, uma portaria da SEMAD tornada sem efeito, a nomeação de sete responsáveis técnicos de radiologia na SEMUSA, gestores e fiscais de contratos na SEINFRA e na SEMTEL, autorizações para dirigir veículo oficial, suprimento de fundos de R$ 8.000,00 na SEMTRAN e homologação e retificação de prestações de contas de diárias."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A FUNCULTURAL aprova demonstrativo que justifica aderir, como órgão não participante, à Ata de Registro de Preços nº 017/2026 da Prefeitura de Senador Guiomard/AC (empresa T Araujo da Mota Ltda) para 21 itens de estrutura de eventos por R$ 1.199.496,00, valor que reconhece estar 2,17% (R$ 25.493,28) acima da média de R$ 1.174.002,72 da pesquisa de preços, atribuindo a diferença à logística em Porto Velho, à execução integrada e ao uso sob demanda."
+   },
+   {
+    "id": 2,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Extrato do Contrato nº 119/2026/PGM entre a FUNCULTURAL e a T Araujo da Mota Ltda, assinado em 21/09/2026, para serviços de infraestrutura, apoio técnico e operacional de eventos (21 itens da ARP nº 017/2026 de Senador Guiomard/AC), no valor global de R$ 1.199.496,00, com vigência de 12 meses e execução sob demanda."
+   },
+   {
+    "id": 3,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "O IPAM edita a Instrução Normativa nº 3/2026, que define como apurar, notificar (15 dias úteis para defesa), julgar recursos, parcelar (até 60 parcelas de no mínimo R$ 200,00) e encaminhar à dívida ativa créditos do Sistema de Assistência à Saúde, reparte tarefas entre COAM, COAF e PROGER, manda levantar em 60 dias os créditos existentes e revoga a Resolução nº 01/IPAM/2018."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD valida 9 diárias à servidora Carem Camila Ramos (Assessor Técnico I) pelo deslocamento a Nova Califórnia, Extrema, Vista Alegre do Abunã, Fortaleza do Abunã, Abunã, Nova Mutum Paraná e Jaci-Paraná, de 31/08 a 05/09 e de 08/09 a 11/09/2026, para inventário das medições das escolas rurais."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD rescinde a pedido o contrato emergencial da assistente social Maria Antonia Brito Alves, lotada na SEMIAS, que cumprirá aviso prévio de 16/09 a 15/10/2026."
+   },
+   {
+    "id": 6,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Adão Geraldo Colombo é designado para substituir Ari Carvalho dos Santos, em férias, no cargo de Secretário Executivo III (DAS-15) da SEMEC, de 21/09 a 30/09/2026."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Leticia Santos é designada para substituir Anielly Abreu Dias, em férias, como Assessor Técnico I (DAS-06) da SEMEC, de 06/10 a 25/10/2026."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Elisangela Tavares Santos é designada para substituir Ana Celia Privado dos Santos Bezerra, em férias, como Diretora Escolar Tipologia A (DAS-06) da SEMED, de 13/10 a 01/11/2026."
+   },
+   {
+    "id": 9,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Carolina Souza Marques é designada para substituir André Luiz Correa Eguez, requisitado para serviço eleitoral no TRE, como Gerente II (DAS-05) da SEMA, de 24/09 a 07/10/2026."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede Auxílio de Atividade de Mutirão Especial de R$ 360,00 ao operador de máquinas pesadas Regenilson da Silva Oliveira, da SEMAGRIC, a partir de 01/09/2026."
+   },
+   {
+    "id": 11,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede Auxílio de Atividade de Mutirão Especial de R$ 360,00 à auxiliar de serviços gerais Conceição Santana da Silva, da SEMAGRIC, com efeito a partir de 01/10/2025."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD torna sem efeito a Portaria nº 1446/2026/CDCS/DGP/SEMAD, de 17/09/2026 (DOM nº 4322), sem informar o conteúdo do ato anulado."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC concede 10 diárias inteiras e 11 meias ao motorista Anderson Siqueira França para acompanhar o secretário adjunto em Joana D'Arc, União Bandeirantes, Ponta do Abunã, Bacia Leiteira, Rio Pardo, Nova Mutum e outras localidades, em dias de setembro de 2026."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC concede 11 meias diárias ao secretário adjunto Rodrigo da Silva Ribeiro para visitas a associações de produtores rurais e agroindústrias em Joana D'Arc, União Bandeirantes, Nova Califórnia, Rio Pardo e outras localidades, em dias de setembro de 2026."
+   },
+   {
+    "id": 15,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMAGRIC adere à Ata de Registro de Preços nº 017/PMJ/2026 da Prefeitura de Jaru/RO (Pregão Eletrônico nº 008/PMJ/2026) para comprar 1 pick-up cabine dupla zero km da Autovema Veículos Ltda por R$ 139.545,00."
+   },
+   {
+    "id": 16,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SMCL abre a Dispensa Eletrônica nº 343/2026 (art. 75, II, da Lei nº 14.133/2021) para comprar emulsões asfálticas RR2C e EAI para a SEINFRA, com valor estimado de R$ 5.181.777,60 e fase de lances em 29/09/2026, das 9h às 15h (Brasília), no gov.br/compras (UASG 925172)."
+   },
+   {
+    "id": 17,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMCL publica o Pregão Eletrônico nº 271/2026 para comprar EPIs, material laboratorial para diagnóstico de malária, pilhas, etiquetas e material gráfico para a SEMUSA, com valor estimado de R$ 153.293,09 e abertura das propostas em 14/10/2026, às 10h (Brasília)."
+   },
+   {
+    "id": 18,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMEC firma o 13º apostilamento ao Contrato nº 010/PGM/2019 com a Paraíso Comércio e Confecções Ltda, reservando R$ 240.935,48 (NE 6830/2026) e R$ 320.000,00 (NE 6833/2026) para as despesas de 22/09 a 31/12/2026; o objeto do contrato não é descrito no ato."
+   },
+   {
+    "id": 19,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMEC firma o 5º apostilamento ao Termo de Convênio nº 563/2022/PGE/RO com o Fundo Penitenciário, com empenho complementar de R$ 70.912,25 (NE 6838/2026) para despesas de 01/01 a 10/11/2026."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMED concede 1,5 diária a oito membros e servidores do Conselho Municipal de Educação, entre eles a presidente Vera Lúcia Borges da Silva de Lima, para a Câmara Itinerante na EMEF Rio Pardo em 06 e 07/10/2026, que vistoriará a escola para o laudo de autorização de funcionamento."
+   },
+   {
+    "id": 21,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED justifica a dispensa de chamamento público para firmar termo de fomento de R$ 106.000,00 com o Conselho Escolar da EMEF Professor Herbert de Alencar, para reforma predial, com recursos da emenda parlamentar nº 0007/2025 do vereador Militino Feber Junior e vigência de 1 ano após a liberação do recurso."
+   },
+   {
+    "id": 22,
+    "categoria": "Legislação",
+    "relevancia": "media",
+    "resumo": "SEMED e SEMTEL instituem, pela Portaria nº 525/2026, o Projeto Escola do Povo, que libera o uso gratuito e supervisionado de quadras e espaços de escolas municipais pela comunidade fora do horário de aula, com autorização prévia e início como projeto-piloto em unidades escolhidas pela SEMED."
+   },
+   {
+    "id": 23,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED adere à Ata de Registro de Preços nº 013/2025 (Pregão Eletrônico nº 033/2025) para comprar 7.998 camisetas, 2.054 bermudas e 1.946 shorts-saia da Brink Mobil Equipamentos Educacionais Ltda por R$ 389.944,40; o termo não informa o órgão gerenciador da ata e traz o ano da assinatura grafado como 202026."
+   },
+   {
+    "id": 24,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED contrata por dispensa (art. 75, II) a A&D Solution Distribuidora de Máquinas e Equipamentos Ltda, por R$ 45.000,00, para desmontar, transportar e remontar três arquivos de aço deslizantes: dois nos corredores, por exigência do Corpo de Bombeiros para renovar o alvará de 2026, e um na sala DAMSA, incluído por reorganização administrativa; o próprio termo alerta que a margem até o limite legal é pequena."
+   },
+   {
+    "id": 25,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata da 1ª reunião extraordinária do CMDCA (04/05/2026) registra a explicação dos secretários da SEMIAS e da SEMEC de que as mudanças nas emendas destinadas ao FMDCA foram só orçamentárias, a divergência do conselheiro Marinélio, que viu ingerência no fundo, e a decisão de pedir nota técnica à SEMEC; o horário aparece como 15h30 no cabeçalho e 8h30 no texto."
+   },
+   {
+    "id": 26,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata da 2ª reunião extraordinária do CMDCA (12/05/2026) registra a aprovação do Plano de Ação e Aplicação 2026 do FMDCA, com reprogramação de saldos e uso do superávit, e a elaboração de resolução para publicá-lo."
+   },
+   {
+    "id": 27,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "baixa",
+    "resumo": "Ata da 1ª reunião ordinária do CMDCA (05/02/2026) trata de registros e visitas técnicas a entidades, da convocação de suplentes dos conselhos tutelares, do prazo até 13/02/2026 para o 2º e o 4º Conselhos Tutelares prestarem contas de 2025 e da organização da Conferência Municipal dos Direitos da Criança e do Adolescente."
+   },
+   {
+    "id": 28,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "baixa",
+    "resumo": "Ata da 3ª reunião ordinária do CMDCA (datada de 05/03/2026, mas intitulada como de 19/03) elege a diretoria 2026-2027, com Sefra Maria (SEMIAS) na presidência, Nilza (AMA) na vice e Lilian (SEMED) e Nilda (Cáritas) como secretárias, reorganiza comissões e trata da Casa Criar e de ofícios do Ministério Público."
+   },
+   {
+    "id": 29,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata da 4ª reunião ordinária do CMDCA (19/03/2026) aprova registros da Casa Família Roseta, do Instituto Candelária e de associação de arte afro-brasileira, analisa minuta que amplia o acolhimento familiar de 23 para 60 famílias com subsídio de 1,5 salário mínimo e discute o reordenamento do acolhimento institucional com a nova Casa Aurora."
+   },
+   {
+    "id": 30,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "Ata da 6ª reunião ordinária do CMDCA (07/05/2026) aprova por maioria a absolvição de conselheiro tutelar em processo ético, discute a situação da Creche Vó Maria e registra ofício do vereador Marcos Combate e preocupação dos conselheiros com remanejamentos do FMDCA feitos sem deliberação, enquanto entidades aguardam repasses."
+   },
+   {
+    "id": 31,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "baixa",
+    "resumo": "Ata da 8ª reunião ordinária do CMDCA (03/06/2026) define representantes para o Congresso Internacional de Acolhimento Familiar no Rio, encerra a análise de documentos da Casa Criar após a rescisão do contrato com o NACC e aprova nota técnica contra o Decreto Estadual nº 31.617/2026, que centraliza recursos de fundos especiais."
+   },
+   {
+    "id": 32,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS concede 1,5 diária a quatro pessoas, entre conselheiras e motorista, para evento do Dia da Pessoa Idosa em União Bandeirantes, de 30/09 a 01/10/2026."
+   },
+   {
+    "id": 33,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS concede 3,5 diárias a quatro servidores para roço, limpeza e manutenção elétrica e hidráulica nas unidades de Jaci-Paraná e Abunã, de 28 a 30/09/2026."
+   },
+   {
+    "id": 34,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEINFRA designa Waldemir de Oliveira Carneiro Junior como gestor e Silvio Correia Leite e Carlos Alberto da Cruz Nogueira como fiscais dos contratos de locação de veículos nº 009/PGM/2024 (Art Car Veículos Ltda) e nº 027/PGM/2026 (Reche Galdeano & Cia Ltda), revogando a Portaria nº 490/2026."
+   },
+   {
+    "id": 35,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA declara fracassado o Chamamento Público nº 123/2026, que buscava imóvel para alugar e instalar a Unidade de Saúde da Família Caladinho, porque o único interessado desistiu."
+   },
+   {
+    "id": 36,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA nomeia sete técnicos em radiologia como responsáveis técnicos dos setores de imagem do CEM Alfredo Silva, Maternidade Municipal, CEM Rafael Vaz e Silva, Prontos Atendimentos Ana Adelaide e José Adelino e UPAs Zona Leste e Zona Sul."
+   },
+   {
+    "id": 37,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA autoriza Eduardo Ribeiro de Souza, Aline Silva Lima e Tiago Andrade Farias a dirigir veículos oficiais da Divisão de Laboratório e do CEM por 1 ano."
+   },
+   {
+    "id": 38,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA autoriza o assistente administrativo Carlos Jaco Aires Correa Junior a dirigir veículo oficial da Diretoria Executiva de Administração por 1 ano."
+   },
+   {
+    "id": 39,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA firma o 4º apostilamento ao Contrato nº 03/2024/COJUSA/PGM com a Medicando Serviços Médicos Ltda, empenhando R$ 200.396,49 (para cobrir empenho anulado), R$ 487.235,58 e R$ 135.270,00, num total de R$ 822.902,07 até dezembro de 2026."
+   },
+   {
+    "id": 40,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN concede suprimento de fundos de R$ 8.000,00 (R$ 4.000,00 para material e R$ 4.000,00 para serviços) à diretora do Departamento de Transporte, Adriana Rosa de Souza, com 90 dias para gastar e 20 dias para prestar contas."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTEL designa Lauro Vinicius Dantas Gil (presidente), Margareth Monteiro Resende e Maria Antonieta Pereira Ramos para fiscalizar o Contrato nº 118/2026/PGM com a Esquadrilha Fox Demonstração Aérea Ltda, que fará apresentação aérea no aniversário de Porto Velho."
+   },
+   {
+    "id": 42,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA concede 3,5 diárias a seis pessoas, entre servidores e dois conselheiros ambientais, para plantio de mudas em Jaci-Paraná, Bom Jardim e Terra Caída de 05 a 08/09/2026, período anterior à data da portaria (21/09/2026)."
+   },
+   {
+    "id": 43,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "A SEMA republica, retificada, a ata da reunião do COMDEMA de 10/09/2026, que manteve multas ambientais de 10 a 50 UPFM, reduziu outras em 80% a 90% com compensação, adiou casos como o do Condomínio Residencial Terra Brasil (multa de 379 UPFM) e aprovou o Plano de Trabalho de recursos da Concessão Florestal."
+   },
+   {
+    "id": 44,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA homologa a prestação de contas de diárias de Antônio de Moura de Magalhães Neto, Cleovânia Pontes Gomes Pinto, Israel Brasil Ribeiro, Josenilson Alves Ferreira e Karina Hil Marcionilio Santos Aguiar."
+   },
+   {
+    "id": 45,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A EMDUR concede 3,5 diárias a oito empregados para manutenção e levantamento de necessidades da iluminação pública em Rio Pardo e União Bandeirantes, de 24 a 27/09/2026."
+   },
+   {
+    "id": 46,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A FUNCULTURAL publica o termo de adesão à ARP nº 017/2026 da Prefeitura de Senador Guiomard/AC, contratando a T Araujo da Mota Ltda por R$ 1.199.496,00 (Lote I R$ 959.000,00 e Lote IV R$ 240.496,00) para palcos, som, iluminação, tendas, painéis de LED, geradores, camarins, brigadistas, arquibancadas e camarotes, entre outros itens, por 12 meses."
+   },
+   {
+    "id": 47,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC concede 20 diárias inteiras e 5 meias a cada um de quatro servidores do Programa Porteira Adentro, de mecanização rural, para atendimento na Ponta do Abunã (Vista Alegre do Abunã, Extrema e Nova Califórnia) em setembro de 2026."
+   },
+   {
+    "id": 48,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.482/2026 transpõe R$ 3.968,94 dentro da SEMDEC, da ação de reassentamento de famílias de áreas de risco para a divulgação do SINE, para alugar palco e grades em eventos do SINE Municipal."
+   },
+   {
+    "id": 49,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.486/2026 transpõe R$ 3.646.435,58 no Fundo Municipal de Saúde, sendo R$ 3.528.733,60 de construção e reforma da rede de média e alta complexidade e R$ 117.701,98 de medicamentos, para custear a contratação emergencial de Organização Social que vai gerir Unidade Básica de Saúde provisória perto do Residencial Orgulho do Madeira."
+   },
+   {
+    "id": 50,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.487/2026 remaneja R$ 299.500,00 da construção de pontos turísticos (SEMTEL) para a EMDUR apoiar a infraestrutura das comemorações do aniversário da cidade, em 02/10 no complexo da Estrada de Ferro Madeira-Mamoré."
+   },
+   {
+    "id": 51,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.483/2026 abre crédito suplementar de R$ 2.400,00 no Conselho Municipal de Educação, trocando material de consumo por serviços, para contratar coffee break, almoço e aluguel de auditórios; o ofício citado está datado de 14/03/2023."
+   },
+   {
+    "id": 52,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.484/2026 transfere R$ 373.220,24 da construção de pontos turísticos para Apoio a Projetos de Lazer (R$ 108.911,08) e para o Projeto Construindo Campeões (R$ 264.309,16), na SEMTEL, citando as comemorações do aniversário da cidade."
+   },
+   {
+    "id": 53,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.485/2026 abre crédito suplementar de R$ 8.734,11 na SEMA, por anulação de outras dotações, para concessão de suprimento de fundos e compra de material de limpeza."
+   },
+   {
+    "id": 54,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEINFRA retifica a Portaria nº 501/2026 de diárias para trabalhos na BR-319, retirando o gari Euvídio Mendes Ferreira da lista e mantendo 20 diárias para Cosmeci Martins Reis, Wilson Mamedio da Silva e Elton da Silva Botelho."
+   },
+   {
+    "id": 55,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA retifica a homologação de diárias de Nilda de Oliveira Barros (4,5 diárias em Brasília), reduzindo a diária de R$ 1.000,00 para R$ 700,00, o deslocamento de R$ 500,00 para R$ 350,00 e o total de R$ 5.000,00 para R$ 3.500,00."
+   },
+   {
+    "id": 56,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMA reconhece dívida de R$ 130.800,00 com a Reche Galdeano & Cia Ltda pela locação de 3 caminhonetes e 3 pick-ups de 01/05 a 31/08/2026 (quatro faturas de R$ 32.700,00), serviços prestados depois do fim da vigência do Contrato nº 044/PGM/2025, em 11/03/2026."
+   },
+   {
+    "id": 57,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "A SEMUSA publica a Portaria nº 002/2026/DVISA, que adapta a Vigilância Sanitária ao Marco Legal da Liberdade Econômica (LC nº 1.081/2026) e traz tabela de risco por CNAE: atividades dispensadas e de baixo risco ficam sem licença prévia, as de médio risco funcionam na hora com autodeclaração, as de alto risco têm prazo máximo de 45 (20 na renovação), contado por setor e reiniciado a cada transferência enquanto não houver plataforma eletrônica, com alvará tácito só se a documentação estiver completa e a inspeção do NUFLIS concluída, e nunca para atividades com AFE/AE, e a fiscalização passa a ser orientadora, com dupla visita."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:33:10-04:00",
  "conferencia": {
   "site": 57,
@@ -532,5 +1195,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:33-04:00"
- }
+ },
+ "resumo_formato": 2
 }

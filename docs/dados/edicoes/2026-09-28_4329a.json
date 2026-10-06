@@ -28,8 +28,133 @@
    "trecho": "EDITAL Nº 050/SEMAD/2026, DE 28 DE SETEMBRO 2026\n\nDIVISÃO DE CARGOS, SALÁRIOS, SELEÇÃO E RECRUTAMENTO DE SERVIDORES/DICS/SEMAD\n\nA SECRETÁRIA MUNICIPAL DE ADMINISTRAÇÃO, da PREFEITURA DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições\nque lhe são conferidas no Art. Art. 1º, Incisos IX e XI c/c XXII, do Decreto nº 22.325, de 11.08.2026, publicado no Diário Oficial dos Municípios do\nEstado de Rondônia –D.O.M.E.R. nº 4296, de 12.08.2026, resolve.\n\nCONVOCAR considerando o Processo 005.018518/2026-05 e 017.013159/2026-52, Sob regime jurídico-administrativo especial, a comparecer\nno prazo de 15 dias"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura abre concurso da Educação com 430 vagas, 165 delas imediatas para professor das séries iniciais, e inscrições de 13/10 a 11/11/2026",
+  "resumo": "A edição extraordinária traz só dois atos de Porto Velho, ambos de seleção de pessoal. O principal é o Edital nº 24/2026 do concurso público da Secretaria de Educação, conduzido pelo Instituto Brasileiro de Gestão e Pesquisa (IBGP), com 430 vagas (165 imediatas, todas para Professor Nível II – Séries Iniciais, e 265 de cadastro de reserva), inscrições de 13/10 a 11/11/2026 e prova objetiva prevista para 06/12/2026. O outro ato convoca 17 classificados do processo seletivo simplificado nº 019/SEMAD/2025 (16 agentes comunitários de saúde e 1 médico veterinário), que têm 15 dias para entregar documentos na SEMAD. Merecem atenção a citação de currículo e normas de ensino de Minas Gerais no conteúdo do cargo de Supervisão Educacional e a data de assinatura do edital (29/09/2026), posterior à data da edição. Não há licitações, contratos nem normas nesta edição.",
+  "destaques": [
+   {
+    "titulo": "Concurso da Educação com 430 vagas",
+    "texto": "O Edital nº 24/2026, organizado pelo IBGP, oferece 165 vagas imediatas e 165 de cadastro de reserva para Professor Nível II – Séries Iniciais (R$ 3.847,97), além de cadastro de reserva para Orientador Educacional (25), Supervisão Educacional (25) e Agente de Secretaria Escolar (50, R$ 1.820,78). O concurso vale por 2 anos, prorrogáveis por mais 2.",
+    "atos": [
+     1
+    ]
+   },
+   {
+    "titulo": "Inscrições de 13/10 a 11/11 e prova em 06/12",
+    "texto": "As inscrições vão das 9h de 13/10 às 16h de 11/11/2026 em www.ibgpconcursos.com.br, com taxa de R$ 90 (nível médio) ou R$ 130 (nível superior) e pedidos de isenção de 13 a 15/10. A prova objetiva está prevista para 06/12/2026, às 9h15, com portões fechando às 9h.",
+    "atos": [
+     1
+    ]
+   },
+   {
+    "titulo": "Reserva de vagas para PcD, pessoas negras e idosos",
+    "texto": "O edital reserva 44 vagas para pessoas com deficiência (10%), 86 para pessoas negras (20%) e 24 para pessoas com 60 anos ou mais (5%). Os candidatos negros passam por heteroidentificação on-line, e os candidatos com deficiência, por avaliação biopsicossocial.",
+    "atos": [
+     1
+    ]
+   },
+   {
+    "titulo": "17 convocados do seletivo de agentes de saúde e veterinário",
+    "texto": "O Edital nº 050/SEMAD/2026 chama 16 Agentes Comunitários de Saúde e 1 Médico Veterinário do processo seletivo nº 019/SEMAD/2025 para contratação temporária. Eles têm 15 dias para comparecer à SEMAD com documentos e exames feitos na Clínica Total Life.",
+    "atos": [
+     2
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 1,
+    "motivo": "O conteúdo programático do cargo 518 (Supervisão Educacional) cita o Currículo Referência de Minas Gerais, a Resolução CEE/MG nº 481/2021 e normas do sistema de ensino de Minas Gerais, num concurso do Município de Porto Velho."
+   },
+   {
+    "ato": 1,
+    "motivo": "O edital está assinado em 29/09/2026, mas saiu na edição extraordinária datada de 28/09/2026, e o prazo de impugnação (até o 10º dia corrido após a publicação; 08/10 se contado de 28/09) depende dessa data."
+   }
+  ],
+  "contratacoes": [],
+  "agenda": [
+   {
+    "data": "2026-10-08",
+    "hora": null,
+    "evento": "Último dia para pedir a impugnação do Edital nº 24/2026 do concurso da Educação (10º dia corrido após a publicação em 28/09), pelo e-mail contato@ibgp.org.br.",
+    "ato": 1
+   },
+   {
+    "data": "2026-10-13",
+    "hora": "09:00",
+    "evento": "Abrem as inscrições e os pedidos de isenção da taxa do concurso da Educação (Edital nº 24/2026) em www.ibgpconcursos.com.br.",
+    "ato": 1
+   },
+   {
+    "data": "2026-10-13",
+    "hora": null,
+    "evento": "Termina o prazo de 15 dias, contado da publicação em 28/09, para os 17 convocados do seletivo nº 019/SEMAD/2025 comparecerem à SEMAD.",
+    "ato": 2
+   },
+   {
+    "data": "2026-10-15",
+    "hora": "16:00",
+    "evento": "Fim do prazo para pedir isenção da taxa de inscrição do concurso da Educação.",
+    "ato": 1
+   },
+   {
+    "data": "2026-10-23",
+    "hora": null,
+    "evento": "Prazo para divulgar o resultado dos pedidos de isenção da taxa.",
+    "ato": 1
+   },
+   {
+    "data": "2026-11-11",
+    "hora": "16:00",
+    "evento": "Encerramento das inscrições do concurso da Educação.",
+    "ato": 1
+   },
+   {
+    "data": "2026-11-12",
+    "hora": null,
+    "evento": "Último dia para pagar a taxa de inscrição; a 2ª via do boleto pode ser emitida até as 17h.",
+    "ato": 1
+   },
+   {
+    "data": "2026-11-19",
+    "hora": null,
+    "evento": "Prazo para divulgar as inscrições deferidas e as listas de candidatos às vagas para PcD, pessoas negras e idosos.",
+    "ato": 1
+   },
+   {
+    "data": "2026-11-25",
+    "hora": null,
+    "evento": "Prazo para o candidato pedir a reconsideração da autodeclaração de pessoa negra por e-mail ao IBGP.",
+    "ato": 1
+   },
+   {
+    "data": "2026-12-06",
+    "hora": "09:15",
+    "evento": "Prova objetiva do concurso da Educação (data provável), com portões fechando às 9h.",
+    "ato": 1
+   }
+  ],
+  "normas": [],
+  "pessoal": {
+   "movimentacoes": [],
+   "rotina": ""
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Concursos e seleções",
+    "relevancia": "alta",
+    "resumo": "O Edital nº 24/2026 do concurso da Secretaria de Educação, organizado pelo IBGP, abre 430 vagas (165 imediatas e 165 de cadastro de reserva para Professor Nível II – Séries Iniciais a R$ 3.847,97, mais cadastro de reserva de 25 Orientadores e 25 Supervisores Educacionais a R$ 3.847,97 e de 50 Agentes de Secretaria Escolar a R$ 1.820,78), com inscrições das 9h de 13/10 às 16h de 11/11/2026 em www.ibgpconcursos.com.br, taxa de R$ 90 ou R$ 130, prova objetiva prevista para 06/12/2026 às 9h15 e validade de 2 anos prorrogáveis (a lista de atribuições do cargo 519, no Anexo II, aparece incompleta no texto)."
+   },
+   {
+    "id": 2,
+    "categoria": "Concursos e seleções",
+    "relevancia": "media",
+    "resumo": "O Edital nº 050/SEMAD/2026 convoca para contratação temporária 17 classificados do processo seletivo simplificado nº 019/SEMAD/2025 (16 Agentes Comunitários de Saúde de 40h, das posições 39 a 51 na ampla concorrência, 199 e 205 nas vagas para pessoas pretas ou pardas e 219 na vaga PcD, e o Médico Veterinário Matheus Bruno Freire da Silva, 5º lugar), que têm 15 dias para comparecer à SEMAD (Rua Duque de Caxias, 186, das 8h às 14h) com documentos e exames feitos na Clínica Total Life (Rua Dom Pedro II, 1710, agendamento pelo (69) 99999-2200); a lista de exames parece cortada no texto."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:33:44-04:00",
  "conferencia": {
   "site": 65,
@@ -37,5 +162,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:33-04:00"
- }
+ },
+ "resumo_formato": 2
 }

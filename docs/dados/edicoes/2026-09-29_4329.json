@@ -469,8 +469,556 @@
    "trecho": "Relatório de Gestão Fiscal\nPrefeitura Municipal de Porto Velho - RO (Poder Executivo)\nOrçamentos Fiscal e da Seguridade Social\nCNPJ:\nExercício: 2026\nPeríodo de referência: 2º quadrimestre\n\nRGF-Anexo 01 | Tabela 1.0 - Demonstrativo da Despesa com Pessoal\n\nDespesa com Pessoal\nDespesa Executada com Pessoal\nDESPESAS EXECUTADAS (Últimos 12 Meses)\nLIQUIDADAS\nINSCRITAS\nEM\nRESTOS A PAGAR\nNÃO\nPROCESSADOS\n(b)\n<MR-11>\n<MR-10>\n<MR-9>\n<MR-8>\n<MR-7>\n<MR-6>\n<MR-5>\n<MR-4>\n<MR-3>\n<MR-2>\n<MR-1>\n<MR>\nTOTAL\n(ÚLTIMOS\n12\nMESES) (a)\nDespesa com Pessoal\n(Últimos 12 Meses)\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\nDESPESA\nBRUTA\nCOM"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura abre R$ 22,4 milhões em crédito extra para a Saúde e publica Relatório de Gestão Fiscal com despesa de pessoal em 46,23% da receita",
+  "resumo": "A edição foi dominada por atos de pessoal de rotina, sobretudo diárias para viagens a distritos e congressos, mas traz movimentos relevantes nas contas: quatro decretos abrem R$ 23,96 milhões em créditos suplementares, R$ 22,44 milhões deles para o Fundo Municipal de Saúde, e a Prefeitura publica o Relatório de Gestão Fiscal do 2º quadrimestre, com despesa de pessoal em 46,23% da receita corrente líquida ajustada, abaixo do limite de alerta. Nas contratações, a Semusa publicou justificativa para firmar, sem chamamento público, parceria de R$ 680 mil com o ICAMO para prevenção de ISTs, a SMCL alterou o edital e reabriu o credenciamento de cirurgias eletivas, a Semed credenciou uma creche particular com 230 vagas e a Semad credenciou o Banco Credpar para empréstimos consignados aos servidores. Merecem acompanhamento a dispensa da EMDUR para placas veiculares, o aditivo de prazo do contrato de combustível da Câmara e a comissão criada pela SMCL para conduzir o processo que apura possíveis infrações da empresa Nova Urb Conservação. Há prazos curtos: a audiência pública do RGF acontece em 30/09, às 9h, e a cotação de água mineral para a CGM fecha às 8h30 de 01/10.",
+  "destaques": [
+   {
+    "titulo": "R$ 23,96 milhões em créditos suplementares",
+    "texto": "Quatro decretos de 25/09 reforçam o orçamento; o maior, de R$ 22.441.000,00, vai para o Fundo Municipal de Saúde (lavanderia hospitalar e credenciamento de serviços médicos) com recursos federais do SUS. Os demais cobrem sinalização de trânsito (R$ 1.020.975,00), diárias da Seinfra (R$ 440.000,00) e licenças Microsoft da SMCL (R$ 53.800,00).",
+    "atos": [
+     44,
+     45,
+     46,
+     47
+    ]
+   },
+   {
+    "titulo": "Gestão fiscal do 2º quadrimestre",
+    "texto": "O RGF mostra despesa total com pessoal de R$ 1,18 bilhão, 46,23% da receita corrente líquida ajustada, abaixo do limite de alerta (48,60%), e dívida consolidada líquida negativa em R$ 258,6 milhões. A audiência pública para apresentar as metas fiscais está marcada para 30/09, às 9h, na Câmara Municipal.",
+    "atos": [
+     51,
+     27
+    ]
+   },
+   {
+    "titulo": "Cirurgias eletivas: edital alterado e prazo reaberto",
+    "texto": "A SMCL publicou adendo modificador ao Credenciamento nº 108/2026, que busca clínicas e hospitais para reduzir a fila de cirurgias eletivas da regulação municipal, e reabriu o prazo para credenciamento.",
+    "atos": [
+     23
+    ]
+   },
+   {
+    "titulo": "R$ 680 mil para prevenção de ISTs",
+    "texto": "A Semusa publicou justificativa para firmar, sem chamamento público, parceria de R$ 680.000,00 com o Instituto Candelária da Amazônia Ocidental (ICAMO) para o projeto “Cuida Bem”, com testes rápidos, exames, consultas e distribuição de preservativos. A dispensa do chamamento se apoia no uso de emenda parlamentar impositiva; o ato não traz a assinatura do termo de parceria.",
+    "atos": [
+     37
+    ]
+   },
+   {
+    "titulo": "230 vagas de educação infantil em creche credenciada",
+    "texto": "A Semed credenciou a Arca de Noé Creche Educação Infantil e Fundamental Ltda no Programa Mais Educação Infantil, com 230 vagas de creche e pré-escola pagas a R$ 700,00 por aluno por mês, por 18 meses.",
+    "atos": [
+     48
+    ]
+   },
+   {
+    "titulo": "16 convocados do seletivo da Semad",
+    "texto": "A Semad convocou 15 assistentes administrativos e 1 cuidador social do seletivo nº 062/SEMAD/2024 no lugar de quem não atendeu à chamada anterior; eles têm 15 dias para entregar documentos e fazer exames.",
+    "atos": [
+     43
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 37,
+    "motivo": "Justificativa publicada para celebrar sem chamamento público parceria de R$ 680.000,00 com a OSC ICAMO, com base em emenda parlamentar impositiva (arts. 29 e 31, II, da Lei 13.019/2014)."
+   },
+   {
+    "ato": 6,
+    "motivo": "Contratação direta por dispensa de licitação da Norte Placas Ltda, no valor de R$ 6.700,00."
+   },
+   {
+    "ato": 1,
+    "motivo": "Aditivo prorroga por mais 2 meses (até 24/11/2026) o contrato de combustível da Câmara, com R$ 4.363,36 para o período aditado."
+   },
+   {
+    "ato": 23,
+    "motivo": "Edital do credenciamento de cirurgias eletivas foi alterado por adendo modificador e o prazo foi reaberto; a nova versão substitui as anteriores."
+   },
+   {
+    "ato": 24,
+    "motivo": "Criada comissão para conduzir o processo de responsabilização (PA nº 002.001024/2026-11), já em andamento, que apura possíveis infrações do art. 155 da Lei 14.133/2021 pela Nova Urb Conservação Ltda; eventual sanção definitiva deve ser comunicada à CGM."
+   },
+   {
+    "ato": 22,
+    "motivo": "Cotação para contratação por dispensa com prazo de propostas até 08h30 de 01/10/2026, cerca de dois dias após a publicação."
+   },
+   {
+    "ato": 27,
+    "motivo": "Audiência pública do Relatório de Gestão Fiscal marcada para 30/09/2026, um dia depois da publicação do aviso."
+   },
+   {
+    "ato": 26,
+    "motivo": "Crédito de ISSQN de R$ 10.081,44 foi anulado por falta de notificação do lançamento; um novo lançamento depende de não ter ocorrido decadência."
+   },
+   {
+    "ato": 13,
+    "motivo": "Retificação muda o fim de uma licença para interesse particular de 30/01/2026 para 30/01/2027, acrescentando um ano ao prazo."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 1,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Prorrogação por 2 meses (24/09 a 24/11/2026) do fornecimento de gasolina comum e diesel S10 para a frota da Câmara",
+    "fornecedor": "VERONESE E XINAIDER AUTO POSTO LTDA",
+    "valor": 4363.36
+   },
+   {
+    "ato": 6,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa nº 60/2026/EMDUR-GABPRES",
+    "objeto": "Confecção e fornecimento de placas veiculares para veículos oficiais",
+    "fornecedor": "NORTE PLACAS LTDA",
+    "valor": 6700.0
+   },
+   {
+    "ato": 10,
+    "etapa": "Contrato",
+    "modalidade": "Contrato de credenciamento",
+    "objeto": "Empréstimo pessoal e cartão de crédito consignados em folha para os servidores municipais",
+    "fornecedor": "BANCO CREDPAR SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "valor": null
+   },
+   {
+    "ato": 22,
+    "etapa": "Dispensa",
+    "modalidade": "Cotação de preços para dispensa de licitação em razão do valor (Processo nº 013.000622/2026-36)",
+    "objeto": "Água mineral sem gás em garrafas de 500 ml (pacotes com 12) para o Gabinete da CGM",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 23,
+    "etapa": "Chamamento público",
+    "modalidade": "Credenciamento nº 108/2026/SMCL/PVH",
+    "objeto": "Serviços cirúrgicos para cirurgias eletivas da fila da regulação municipal (reabertura com edital alterado)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 24,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Processo de responsabilização por possíveis infrações do art. 155 da Lei 14.133/2021",
+    "fornecedor": "NOVA URB CONSERVAÇÃO LTDA",
+    "valor": null
+   },
+   {
+    "ato": 37,
+    "etapa": "Inexigibilidade",
+    "modalidade": "Justificativa de parceria sem chamamento público (Termo nº 49/2026/SEMUSA-DCO; arts. 29 e 31, II, da Lei 13.019/2014)",
+    "objeto": "Projeto “Cuida Bem” de prevenção e diagnóstico de ISTs",
+    "fornecedor": "Instituto Candelária da Amazônia Ocidental - ICAMO",
+    "valor": 680000.0
+   },
+   {
+    "ato": 42,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Revisão do planejamento da compra de antivírus EDR, com inclusão de solução de gestão de vulnerabilidades e exposição a ameaças",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 48,
+    "etapa": "Contrato",
+    "modalidade": "Edital de Credenciamento nº 01/2026/SEMED",
+    "objeto": "230 vagas de creche e pré-escola do Programa Mais Educação Infantil, a R$ 700,00 por aluno por mês",
+    "fornecedor": "ARCA DE NOE CRECHE EDUCACAO INFANTIL E FUNDAMENTAL LTDA",
+    "valor": null
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-30",
+    "hora": "09:00",
+    "evento": "Audiência pública de apresentação do Relatório de Gestão Fiscal do 2º quadrimestre de 2026, na Câmara Municipal.",
+    "ato": 27
+   },
+   {
+    "data": "2026-10-01",
+    "hora": "08:30",
+    "evento": "Fim do prazo para enviar propostas na cotação de água mineral para o Gabinete da CGM (SMCL).",
+    "ato": 22
+   },
+   {
+    "data": "2026-10-14",
+    "hora": null,
+    "evento": "Termina o prazo de 15 dias, contado da publicação em 29/09, para os 16 convocados do seletivo nº 062/SEMAD/2024 comparecerem à SEMAD.",
+    "ato": 43
+   },
+   {
+    "data": "2026-11-24",
+    "hora": null,
+    "evento": "Fim da vigência prorrogada do contrato de combustível da Câmara com a Veronese e Xinaider Auto Posto.",
+    "ato": 1
+   }
+  ],
+  "normas": [
+   {
+    "ato": 44,
+    "identificacao": "Decreto nº 22.496, de 25/09/2026",
+    "o_que_muda": "Abre crédito suplementar de R$ 22.441.000,00 no Fundo Municipal de Saúde, com excesso de arrecadação de repasses federais do SUS, para pagar lavanderia hospitalar e credenciamento de serviços médicos."
+   },
+   {
+    "ato": 45,
+    "identificacao": "Decreto nº 22.497, de 25/09/2026",
+    "o_que_muda": "Abre crédito suplementar de R$ 1.020.975,00 no Fundo Municipal de Trânsito, com excesso de arrecadação de recursos vinculados ao trânsito, para sinalização viária vertical e horizontal."
+   },
+   {
+    "ato": 46,
+    "identificacao": "Decreto nº 22.498, de 25/09/2026",
+    "o_que_muda": "Abre crédito suplementar de R$ 53.800,00 para a SMCL, com superávit financeiro de 2025, para comprar 54 licenças do Microsoft Office/Microsoft 365."
+   },
+   {
+    "ato": 47,
+    "identificacao": "Decreto nº 22.499, de 25/09/2026",
+    "o_que_muda": "Abre crédito suplementar de R$ 440.000,00 para a Seinfra, com superávit financeiro de 2025, para pagar diárias na ação de conservação de estradas vicinais."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 2,
+     "acao": "Substituição",
+     "nome": "ANA MARIA MACHADO ARAGÃO",
+     "cargo": "Gerente de Gestão de Pessoal (cargo em comissão) da EMDUR, de 05/10 a 19/10/2026, no lugar de Manuela Torres Silva, em férias"
+    },
+    {
+     "ato": 8,
+     "acao": "Designação",
+     "nome": "RENATA RODRIGUES DE OLIVEIRA MACEDO",
+     "cargo": "Assessor I, DAS 01, da SGOV, com exercício na Secretaria Municipal de Saúde - SEMUSA"
+    },
+    {
+     "ato": 15,
+     "acao": "Substituição",
+     "nome": "SUZETHE ELIAS MAGALHÃES DOS SANTOS",
+     "cargo": "Gerente II, DAS-05, da SEMAD, de 01/10 a 30/10/2026, no lugar de Francisco Teixeira de Melo, em férias"
+    },
+    {
+     "ato": 36,
+     "acao": "Designação",
+     "nome": "Cleiton Pereira Mendes",
+     "cargo": "Responsável Técnico das Ambulâncias e eventos da SEMUSA, sem ônus, a partir de 21/09/2026"
+    }
+   ],
+   "rotina": "Diárias para viagens a distritos, Ji-Paraná, Brasília e ao congresso CONEDU em Campina Grande (EMDUR, Semagric, Semed, Conselho de Educação, Defesa Civil, Seinfra e Semusa, incluindo viagens já feitas em junho e agosto), autorizações para dirigir veículos oficiais (Semagric e Superintendência de Distritos), licença de 3 anos para interesse particular, redução de jornada, retificações de portarias, CIPA da Semdec e comissões da EMDUR (Bonificação por Resultados), da SGOV (recebimento de materiais) e da SMCL (apuração de responsabilidade), além de um termo de ajustamento de conduta disciplinar."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Câmara prorroga por 2 meses (24/09 a 24/11/2026) o contrato nº 03/2025 com a Veronese e Xinaider Auto Posto Ltda para gasolina comum e diesel S10 da frota oficial, no valor de R$ 4.363,36 para o período aditado."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "EMDUR nomeia Ana Maria Machado Aragão como Gerente de Gestão de Pessoal em substituição a Manuela Torres Silva, de 05/10 a 19/10/2026, durante as férias da titular."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "EMDUR designa comissão de sete servidores, presidida por Alef Cally Alecrim Naje Pedraza, para apurar, divulgar e pagar a Bonificação por Resultados de 2026."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "EMDUR concede 3,5 diárias a Adolfo Títalo Noleto da Silva, Jonas Butzke e Samuel Gomes Pinto para manutenção e implantação de iluminação pública no Distrito de Calama, de 30/09 a 03/10/2026."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "EMDUR concede de 1,5 a 3,5 diárias a nove empregados para manutenção, implantação e modernização da iluminação pública nos distritos de Extrema e Nova Mutum a partir de 30/09/2026; o período está escrito de forma confusa no texto (“30/09/2026 a 01,02,03/10/2026”)."
+   },
+   {
+    "id": 6,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "EMDUR ratifica a Dispensa nº 60/2026 e contrata a Norte Placas Ltda por R$ 6.700,00 para confeccionar placas de veículos oficiais, com base no art. 29, II, da Lei 13.303/2016."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Procuradoria-Geral formaliza o Termo de Ajustamento de Conduta Disciplinar nº 006/2026 com servidor identificado como F. C. F. M., válido por 24 meses a partir da publicação; se descumprido, o processo disciplinar continua."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "SGOV designa Renata Rodrigues de Oliveira Macedo, Assessor I (DAS 01) da SGOV, para trabalhar na Secretaria Municipal de Saúde, com relatório mensal de atividades."
+   },
+   {
+    "id": 9,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "SGOV coloca Mario Lucio Brito da Silva Tibúrcio Lima na Comissão de Recebimento de Materiais e Serviços no lugar de Paulo Sérgio Ribeiro da Silva e atualiza a matrícula de Pedro Henrique Barbosa Lima."
+   },
+   {
+    "id": 10,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Semad credencia o Banco Credpar Sociedade de Crédito Direto S/A, por 12 meses a partir da assinatura, para oferecer empréstimo pessoal e cartão de crédito consignados em folha aos servidores, com margem de 30% para empréstimos e mais 10% para cada tipo de cartão; o contrato é datado de 27/08/2026."
+   },
+   {
+    "id": 11,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad corrige de 02/06/2026 para 02/07/2026 a data de recondução de Cidya Fernanda dos Santos Pereira ao cargo de Especialista em Educação na Semed."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad concede 3 anos de licença para tratar de interesse particular à médica Zhara Gimena de Vasconcelos Pimentel Barbosa Longuini Moreira, da Semusa, de 01/08/2026 a 30/07/2029."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad retifica a licença para interesse particular de Ioneide Rocha Barbosa, auxiliar de serviços gerais da Semed, cujo fim passa de 30/01/2026 para 30/01/2027; as datas citadas da portaria original estão inconsistentes no texto."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad designa a CIPA da Semdec para a gestão 2026/2027 (11/08/2026 a 10/08/2027), com quatro membros e gratificação de 10% sobre o vencimento básico desde 11/08/2026."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad designa Suzethe Elias Magalhães dos Santos para o cargo de Gerente II (DAS-05) da Semad de 01/10 a 30/10/2026, substituindo Francisco Teixeira de Melo em férias."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semad reduz em 20% a jornada da professora Sebastiana da Silva Santana, da Semed, sem corte de remuneração, por um ano a partir da publicação, renovável por mais um."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semagric concede 18 meias diárias a João Pantoja Monteiro e Geraldo Marques dos Santos para levantar os bens patrimoniais da secretaria em distritos como União Bandeirantes, Joana D'Arc e Ponta do Abunã, entre 08 e 30/09/2026."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semagric concede 14 diárias inteiras e 6 meias a Camila Daniel Alves, Manoel Izidio Ferreira e Elisangela Barbosa Torres para avaliar agroindústrias em Extrema, Vista Alegre do Abunã, Nova Califórnia, Jaci Paraná e outras localidades, entre 08 e 30/09/2026."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semagric concede 5 diárias inteiras e 1 meia a Roseval Guzo para visitas técnicas a produtores do Projeto RECA no Distrito de Nova Califórnia, de 21 a 26/09/2026."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semagric autoriza 15 servidores habilitados a dirigir veículos oficiais da secretaria, com base na Lei Municipal nº 1.948/2011, e lista os deveres do condutor."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semagric autoriza o servidor Gildasio de Souza Hermogenes a dirigir veículos oficiais da secretaria."
+   },
+   {
+    "id": 22,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "SMCL abre cotação de preços para compra direta, por dispensa em razão do valor, de água mineral em garrafas de 500 ml para o Gabinete da CGM; propostas até 08h30 de 01/10/2026, na SMCL (Rua México, 2.331) ou por e-mail."
+   },
+   {
+    "id": 23,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "SMCL altera o edital do Credenciamento nº 108/2026, que busca clínicas e hospitais para cirurgias eletivas e redução da fila da regulação municipal, e reabre o prazo de credenciamento; o aviso não traz a nova data e a data da portaria da equipe aparece truncada."
+   },
+   {
+    "id": 24,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "SMCL cria comissão presidida por Jacson da Silva Sousa para apurar possíveis infrações da empresa Nova Urb Conservação Ltda previstas no art. 155 da Lei 14.133/2021, com prazo de até 180 dias úteis e 15 dias úteis para defesa."
+   },
+   {
+    "id": 25,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Conselho de Recursos Fiscais nega recurso de Soneane Raquel Dias Loura e mantém a cobrança de ISSQN sobre construção civil no valor original de R$ 15.800,00."
+   },
+   {
+    "id": 26,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Conselho de Recursos Fiscais anula a cobrança de ISSQN de R$ 10.081,44 (maio a dezembro de 2017) contra Martins, Valim & Yukio Adv. Associados por falta de notificação do lançamento, ressalvando novo lançamento se não houver decadência."
+   },
+   {
+    "id": 27,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Prefeitura convoca audiência pública para 30/09/2026, a partir das 9h, na Câmara Municipal, para demonstrar o cumprimento das metas fiscais do 2º quadrimestre de 2026."
+   },
+   {
+    "id": 28,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Conselho Municipal de Educação concede 5 diárias e auxílio deslocamento (R$ 600,00, R$ 500,00 e R$ 600,00) a Francisco Fialis Diniz, Kátia Cilene Mendonça Lima e Maísa Soares de Oliveira para o XII CONEDU em Campina Grande/PB, de 07 a 12/10/2026."
+   },
+   {
+    "id": 29,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 3,5 diárias a Cassia Marisa Neres Silva para formação de formadores e agentes de monitoramento em Ji-Paraná, de 28/09 a 01/10/2026."
+   },
+   {
+    "id": 30,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 4 diárias a Thiago Souza de Oliveira para desmontagem e preparação da reforma da EMEF 03 de Dezembro, em União Bandeirantes, de 21 a 25/09/2026."
+   },
+   {
+    "id": 31,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 5,5 diárias a quatro professores para coordenar a abertura da extensão da Escola 03 de Dezembro, em União Bandeirantes, de 21 a 26/09/2026."
+   },
+   {
+    "id": 32,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 6 diárias à professora Jane Lúcia Ferreira de Souza Silva para apresentar trabalhos no XII CONEDU, em Campina Grande/PB, de 07 a 12/10/2026."
+   },
+   {
+    "id": 33,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 6,5 diárias ao motorista Sildomar Antônio Borges para transportar servidores da Escola Santa Julia no eixo da BR-425, em quatro períodos de outubro de 2026."
+   },
+   {
+    "id": 34,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semed concede 6 diárias à professora Nefertiteh França Quaresma Bidá para apresentar trabalhos no XII CONEDU, em Campina Grande/PB, de 07 a 12/10/2026."
+   },
+   {
+    "id": 35,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "Seinfra notifica cinco proprietários de terrenos baldios nos bairros São Cristóvão, Rio Madeira, Castanheira e Marcos Freire a limpar, murar ou fazer calçada em 10 dias, sob multas de R$ 3.255,60 a R$ 5.426,00; a tabela está desalinhada e um dos proprietários fica sem nome legível."
+   },
+   {
+    "id": 36,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semusa designa o técnico de enfermagem Cleiton Pereira Mendes como Responsável Técnico das Ambulâncias e eventos, sem custo extra, a partir de 21/09/2026."
+   },
+   {
+    "id": 37,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Semusa publica justificativa (Termo nº 49/2026/SEMUSA-DCO) para firmar, sem chamamento público por se tratar de emenda parlamentar impositiva, parceria de R$ 680.000,00 com o Instituto Candelária da Amazônia Ocidental (ICAMO) para o projeto “Cuida Bem” de testagem, consultas e prevenção de ISTs, com vigência de 1 ano após a liberação do recurso."
+   },
+   {
+    "id": 38,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Semtran concede suprimento de fundos de R$ 8.000,00 (R$ 4.000,00 para material e R$ 4.000,00 para serviços) a Nayara Gomes Nogueira, com 90 dias para gastar e 20 dias depois para prestar contas."
+   },
+   {
+    "id": 39,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Superintendência Municipal de Distritos autoriza o assessor Cícero Antônio Dutra a dirigir veículos oficiais de 28/09 a 31/12/2026."
+   },
+   {
+    "id": 40,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Defesa Civil concede 7 diárias, em regime de bate e volta, a sete servidores por viagens feitas em junho de 2026 às comunidades Boca do Jamari, Mutuns, Silveira e Itacuã para assistência humanitária e apoio logístico."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Defesa Civil concede diárias a quatro servidores (9,5 para três e 3,5 para um) na Missão União Bandeirantes, de 21 a 30/09/2026, para entregar kits às comunidades; o texto escreve “9,5 (Oito e meia)”."
+   },
+   {
+    "id": 42,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "SMTI cria equipe de planejamento para revisar a contratação de antivírus EDR (Processo SEI 003.000320/2025-04) e incluir uma solução de gestão de vulnerabilidades e exposição a ameaças."
+   },
+   {
+    "id": 43,
+    "categoria": "Concursos e seleções",
+    "relevancia": "media",
+    "resumo": "Semad convoca 16 aprovados do seletivo simplificado nº 062/SEMAD/2024 (15 assistentes administrativos e 1 cuidador social) no lugar de quem não atendeu à convocação anterior, com 15 dias a partir da publicação para entregar documentos e fazer exames."
+   },
+   {
+    "id": 44,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.496 abre crédito suplementar de R$ 22.441.000,00 para o Fundo Municipal de Saúde, com excesso de arrecadação do SUS, para lavanderia hospitalar e credenciamento de serviços médicos."
+   },
+   {
+    "id": 45,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.497 abre crédito suplementar de R$ 1.020.975,00 para o Fundo Municipal de Trânsito, com receita vinculada ao trânsito, para sinalização viária vertical e horizontal."
+   },
+   {
+    "id": 46,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.498 abre crédito suplementar de R$ 53.800,00 para a SMCL, com superávit de 2025, para 54 licenças do Microsoft Office/365; o ofício de pedido aparece datado de 14/03/2023."
+   },
+   {
+    "id": 47,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.499 abre crédito suplementar de R$ 440.000,00 para a Seinfra, com superávit de 2025, para pagar diárias na ação de conservação de estradas vicinais."
+   },
+   {
+    "id": 48,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Semed credencia a Arca de Noé Creche Educação Infantil e Fundamental Ltda para 230 vagas de creche e pré-escola do Programa Mais Educação Infantil, a R$ 700,00 por aluno por mês, por 18 meses."
+   },
+   {
+    "id": 49,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Seinfra concede 12 diárias aos garis Raimundo Araújo dos Santos e Paulo da Silva Oliveira para serviços de borracharia e manutenção de máquinas em distritos e ramais da zona rural ao longo de setembro de 2026."
+   },
+   {
+    "id": 50,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Semusa valida, depois da viagem, 4,5 diárias para o congresso MEDTROP2026 em Brasília/DF, de 16 a 20/08/2026; o texto fala em uma servidora (Nilda de Oliveira Barros), mas a tabela também lista Sônia Maria Dias de Lima."
+   },
+   {
+    "id": 51,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Relatório de Gestão Fiscal do 2º quadrimestre de 2026 mostra despesa com pessoal de R$ 1.178.805.273,95 (46,23% da RCL ajustada, abaixo do limite de alerta de 48,60%), dívida consolidada líquida negativa em R$ 258.550.039,42 e R$ 113.523,92 em operações de crédito no ano."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:33:52-04:00",
  "conferencia": {
   "site": 51,
@@ -478,5 +1026,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:33-04:00"
- }
+ },
+ "resumo_formato": 2
 }

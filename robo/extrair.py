@@ -16,7 +16,12 @@ from pathlib import Path
 
 import pymupdf
 
-RE_CABECALHO_PAGINA = re.compile(r"Diário Oficial dos Municípios do Estado de Rondônia|^www\.diariomunicipal\.com\.br/arom\b")
+# Só o cabeçalho e o rodapé repetidos de cada página. O nome do diário também aparece no corpo
+# dos atos ("publicado no Diário Oficial dos Municípios do Estado de Rondônia nº ...") e não pode sumir.
+RE_CABECALHO_PAGINA = re.compile(
+    r"^Rondônia\s*,.*•\s*Diário Oficial dos Municípios do Estado de Rondônia\s*•"
+    r"|^www\.diariomunicipal\.com\.br/arom\s*\d*$"
+)
 RE_CODIGO = re.compile(r"^C[óo]digo Identificador:\s*([0-9A-Z]+)")
 RE_ESTADO = re.compile(r"^ESTADO DE ROND[ÔO]NIA$")
 RE_CONECTIVO_FINAL = re.compile(r"(\s(E|DE|DA|DO|DAS|DOS|PORTO)|[,–-])$")

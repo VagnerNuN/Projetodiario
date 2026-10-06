@@ -82,8 +82,135 @@
    "trecho": "A SECRETARIA MUNICIPAL DE EDUCAÇÃO DE PORTO VELHO – SEMED, no uso de suas atribuições legais e administrativas, com\nfundamento na Lei Complementar Municipal nº 936/2023, que institui o Programa Mais Educação Infantil, no Edital nº 01/2026/SEMED –\nChamamento Público para Credenciamento de Instituições Educacionais Privadas, bem como no Plano de Trabalho nº 01/2026/SEMED-DGE, e em\ncumprimento ao planejamento do Ano Letivo de 2026,\n\nCONVOCA os pais e/ou responsáveis legais pelas crianças inscritas no Cadastro de Demanda da Educação Infantil do Distrito de Vista Alegre do\nAbunã, que ainda não fora"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura remaneja R$ 764,5 mil da Saúde para a parceria de pesquisa do Programa Aprimora SUS Porto Velho e convoca famílias de 115 crianças de Vista Alegre do Abunã para matrícula até 07/10.",
+  "resumo": "Edição curta, com 8 atos de Porto Velho, dominada por decretos orçamentários da Secretaria Municipal de Economia assinados em 01/10/2026: uma transposição de R$ 764.550,00 na Saúde e cinco créditos suplementares que somam R$ 99.864,11, todos feitos por remanejamento de outras dotações do próprio orçamento. O maior movimento tira recursos de construção e reforma de imóveis da rede básica e da operação das unidades de atenção primária para cobrir o Acordo de Parceria para Pesquisa, Desenvolvimento e Inovação do Programa Aprimora SUS Porto Velho. Também foi tornado sem efeito o Decreto nº 22.389/2026, ligado a um pedido da Educação, sem informação do motivo. Fora do orçamento, a SEMED convocou os responsáveis por 115 crianças do Distrito de Vista Alegre do Abunã para efetivar matrícula em escola credenciada, com prazo de apenas dois dias (06 e 07/10). Não há nomeações, licitações nem novas leis nesta edição.",
+  "destaques": [
+   {
+    "titulo": "R$ 764,5 mil para o Programa Aprimora SUS",
+    "texto": "O Decreto nº 22.514 transpõe R$ 764.550,00 no Fundo Municipal de Saúde, tirando R$ 560.000,00 de construção e reforma de imóveis da rede básica e R$ 204.550,00 da operação das Unidades de Atenção Primária. O dinheiro vai cobrir o Acordo de Parceria para Pesquisa, Desenvolvimento e Inovação (APPDI) do Programa Aprimora SUS Porto Velho.",
+    "atos": [
+     2
+    ]
+   },
+   {
+    "titulo": "115 crianças da zona rural convocadas para matrícula",
+    "texto": "A SEMED chama os responsáveis por 115 crianças de Pré I e Pré II de Vista Alegre do Abunã, encaminhadas à escola credenciada Arca de Noé pelo Programa Mais Educação Infantil, para comparecer em 06 e 07/10/2026, das 8h às 14h, na EMEIEF Maria Casaroto Abati. Quem faltar perde a vaga e vai para o fim da lista de espera.",
+    "atos": [
+     8
+    ]
+   },
+   {
+    "titulo": "Cinco créditos suplementares somam R$ 99,9 mil",
+    "texto": "Infraestrutura (R$ 21.706,83), Conselho Municipal de Educação (R$ 18.700,00), Comunicação (R$ 4.000,00), Governo (R$ 11.196,00) e Educação (R$ 44.261,28) recebem créditos por anulação de outras dotações. Os gastos cobertos incluem diárias, taxas de vistoria dos Bombeiros, filiação à Confederação Nacional de Municípios, coffee break e motoristas do transporte escolar.",
+    "atos": [
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "titulo": "Decreto orçamentário de agosto anulado",
+    "texto": "O Decreto nº 22.512 torna sem efeito o Decreto nº 22.389, de 27/08/2026, pedido pela Educação por meio do Ofício nº 7843/2026/SEMED-DIORP. O mesmo ofício fundamenta o novo crédito de R$ 44.261,28 do Decreto nº 22.513.",
+    "atos": [
+     1,
+     7
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 8,
+    "motivo": "A convocação sai na edição de 05/10/2026 e dá só 06 e 07/10/2026 para os responsáveis de 115 crianças comparecerem; quem faltar perde a vaga para o próximo da lista."
+   },
+   {
+    "ato": 1,
+    "motivo": "Torna sem efeito o Decreto nº 22.389/2026 sem informar o motivo; o mesmo Ofício nº 7843/2026/SEMED-DIORP embasa o crédito suplementar de R$ 44.261,28 do Decreto nº 22.513 (ato 7)."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 8,
+    "etapa": "Outro",
+    "modalidade": "Edital nº 01/2026/SEMED – Chamamento Público para Credenciamento de Instituições Educacionais Privadas",
+    "objeto": "Encaminhamento de 115 crianças (Pré I e Pré II) do Distrito de Vista Alegre do Abunã para vagas em escola credenciada do Programa Mais Educação Infantil",
+    "fornecedor": "ARCA DE NOÉ CRECHE EDUCAÇÃO INFANTIL E FUNDAMENTAL LTDA",
+    "valor": null
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-06",
+    "hora": "08:00",
+    "evento": "Início do atendimento para matrícula das crianças do Programa Mais Educação Infantil na EMEIEF Maria Casaroto Abati, em Vista Alegre do Abunã (até 14h).",
+    "ato": 8
+   },
+   {
+    "data": "2026-10-07",
+    "hora": "14:00",
+    "evento": "Fim do prazo para os responsáveis comparecerem; quem faltar vai para o fim da lista de espera.",
+    "ato": 8
+   }
+  ],
+  "normas": [],
+  "pessoal": {
+   "movimentacoes": [],
+   "rotina": ""
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.512, de 01/10/2026, torna sem efeito o Decreto nº 22.389, de 27/08/2026, que tratava de movimentação de recursos pedida pela Secretaria Municipal de Educação (Ofício nº 7843/2026/SEMED-DIORP); o texto não informa o motivo."
+   },
+   {
+    "id": 2,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.514, de 01/10/2026, transpõe R$ 764.550,00 no Fundo Municipal de Saúde — R$ 560.000,00 de construção, ampliação e reforma de imóveis da Rede Básica e R$ 204.550,00 da operação das Unidades de Atenção Primária — para cobrir o Acordo de Parceria para Pesquisa, Desenvolvimento e Inovação (APPDI) do Programa Aprimora SUS Porto Velho (processo nº 005.014937/2026-60)."
+   },
+   {
+    "id": 3,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.508, de 01/10/2026, abre crédito suplementar de R$ 21.706,83 na Secretaria Municipal de Infraestrutura (SEINFRA), anulando verba de serviços de terceiros, para pagar taxas de vistoria do Corpo de Bombeiros (processo nº 019.002478/2025-31) e diárias (R$ 3.706,83 em obrigações tributárias e R$ 18.000,00 em diárias)."
+   },
+   {
+    "id": 4,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.509, de 01/10/2026, abre crédito suplementar de R$ 18.700,00 no Conselho Municipal de Educação (SEMED), passando a verba de passagens para diárias, para a participação de conselheiros e técnicos em capacitações fora do Estado (processo nº 004.015099/2026-51)."
+   },
+   {
+    "id": 5,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.510, de 01/10/2026, abre crédito suplementar de R$ 4.000,00 na Secretaria Municipal de Comunicação (SECOM), tirando de diárias, para pagar indenizações e restituições."
+   },
+   {
+    "id": 6,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.511, de 01/10/2026, abre crédito suplementar de R$ 11.196,00 na Secretaria de Governo (SGOV) para pagar a filiação do Município à Confederação Nacional de Municípios (processo nº 020.012032/2026-67), com recursos anulados de passagens (R$ 5.482,12) e locação de mão de obra (R$ 5.713,88)."
+   },
+   {
+    "id": 7,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Decreto nº 22.513, de 01/10/2026, abre crédito suplementar de R$ 44.261,28 na Secretaria Municipal de Educação para coffee break e contratação de motoristas do transporte escolar (processos nº 004.014460/2026-22 e 004.014885/2026-31), sendo R$ 10.000,00 na formação dos profissionais da Educação e R$ 34.261,28 no transporte escolar; usa o mesmo ofício do decreto tornado sem efeito no ato 1."
+   },
+   {
+    "id": 8,
+    "categoria": "Outros",
+    "relevancia": "alta",
+    "resumo": "SEMED convoca os responsáveis por 115 crianças (Pré I e Pré II) do Distrito de Vista Alegre do Abunã, encaminhadas pelo Programa Mais Educação Infantil à escola credenciada Arca de Noé Creche Educação Infantil e Fundamental Ltda, para efetivar a matrícula em 06 e 07/10/2026, das 8h às 14h, na EMEIEF Maria Casaroto Abati (Rua Antônio Olímpio de Lima, nº 3238), com certidão de nascimento, vacinação, documentos e comprovante de residência; quem faltar vai para o fim da lista de espera."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:34:32-04:00",
  "conferencia": {
   "site": 8,
@@ -91,5 +218,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:34-04:00"
- }
+ },
+ "resumo_formato": 2
 }

@@ -88,7 +88,7 @@
    "tipo": "Portaria",
    "pagina": 122,
    "codigo": "9577635F",
-   "trecho": "O SECRETÁRIO MUNICIPAL DE ADMINISTRAÇÃO DA\nPREFEITURA DE PORTO VELHO, no exercício de suas atribuições\nconferidas pelo art. 7°, inciso XIX, do Decreto n° 19.048/2023,\nedição nº 3489, de 07.06.2023.\nRESOLVE:\nArt. 1º DESIGNAR os servidores abaixo relacionados para\nintegrarem\na\nComissão\nde\nFiscalização\ndo\nContrato\nn.º\n057/PGM/2022, vinculado ao Processo SEI n.º 017.000970/2025-92,\nreferente à empresa UNIVERSIDADE PATATIVA DO ASSARÉ,\nCNPJ: 05.342.580/0001-19.\nArt. 2° COMPETE à Comissão de Fiscalização de Contratos exercer\na supervisão e fiscalização da execução do contrato, bem como dos\nprocedimen"
+   "trecho": "O SECRETÁRIO MUNICIPAL DE ADMINISTRAÇÃO DA\nPREFEITURA DE PORTO VELHO, no exercício de suas atribuições\nconferidas pelo art. 7°, inciso XIX, do Decreto n° 19.048/2023,\nveiculado no Diário Oficial dos Municípios do Estado de Rondônia,\nedição nº 3489, de 07.06.2023.\nRESOLVE:\nArt. 1º DESIGNAR os servidores abaixo relacionados para\nintegrarem\na\nComissão\nde\nFiscalização\ndo\nContrato\nn.º\n057/PGM/2022, vinculado ao Processo SEI n.º 017.000970/2025-92,\nreferente à empresa UNIVERSIDADE PATATIVA DO ASSARÉ,\nCNPJ: 05.342.580/0001-19.\nArt. 2° COMPETE à Comissão de Fiscalização de Contratos exercer\na supervis"
   },
   {
    "id": 10,
@@ -334,8 +334,550 @@
    "trecho": "O Município de Porto Velho/RO e o Instituto Brasileiro de Gestão e Pesquisa - IBGP, tornam público e estabelecem normas para a realização de Concurso Público, destinado a selecionar candidatos para o\nprovimento de cargos para quadro permanente de pessoal e cadastro de reserva do Município de Porto Velho/RO, que se regerão pelas disposições contidas na Constituição da República Federativa do Brasil; na\nLei Orgânica do Município de Porto Velho/RO, de 27 de março de 1990 e alterações posteriores; na Lei Complementar Municipal nº 385, de 01 de julho de 2010, que “Dispõe sobre o Regime Jurídico dos"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura publica o edital do concurso da Saúde com 2.248 vagas (641 imediatas), inscrições de 13/10 a 11/11 e prova objetiva em 13/12/2026.",
+  "resumo": "Edição com 36 atos de Porto Velho, dominada pelo Edital nº 25/2026 do concurso da Saúde, organizado pelo IBGP, e pelos extratos de abertura dos concursos da Saúde e da Educação, ambos com inscrições de 13/10 a 11/11/2026. Nas compras, a SMCL anulou o pregão de registro de preços de massa asfáltica para a SEINFRA e suspendeu o pregão de telefonia fixa da SEMAD por causa de impugnações, enquanto a SECOM designou fiscais para um contrato emergencial de publicidade cujo texto não traz empresa nem valor. Na saúde, um decreto qualificou o Instituto Social de Saúde São Lucas como Organização Social e a SMCL tornou definitivo o indeferimento de outros sete pedidos. A SEINFRA dispensou 730 registros de servidores do ponto eletrônico e autorizou 189 a dirigir veículos oficiais; o restante são diárias, comissões de fiscalização, autorizações de condução e os relatórios fiscais do 2º quadrimestre da Câmara, que mostram despesa com pessoal de 2,20% da receita corrente líquida ajustada. Não há nomeações, exonerações nem novas leis nesta edição.",
+  "destaques": [
+   {
+    "titulo": "Concurso da Saúde com 2.248 vagas",
+    "texto": "O Edital nº 25/2026, conduzido pelo IBGP, oferece 641 vagas imediatas e 1.607 de cadastro de reserva, com 233 vagas reservadas a pessoas com deficiência, 448 a pessoas negras e 131 a pessoas idosas. Os maiores lotes são de assistente administrativo (243), técnico em enfermagem (209), auxiliar de farmácia (168), motorista de cargas e passageiros (155) e agente de combate às endemias (140), com vencimentos de R$ 1.287,57 a R$ 9.828,19 (médico clínico geral 40h).",
+    "atos": [
+     36,
+     6
+    ]
+   },
+   {
+    "titulo": "Inscrições de 13/10 a 11/11 nos concursos da Saúde e da Educação",
+    "texto": "As inscrições dos dois concursos vão das 9h de 13/10 às 16h de 11/11/2026 em www.ibgpconcursos.com.br. Na Saúde, a taxa vai de R$ 90,00 a R$ 140,00, a isenção pode ser pedida de 13 a 15/10 e a prova objetiva está marcada para 13/12/2026, em dois turnos.",
+    "atos": [
+     5,
+     6,
+     36
+    ]
+   },
+   {
+    "titulo": "Pregão de massa asfáltica anulado e de telefonia suspenso",
+    "texto": "A SMCL anulou o Pregão Eletrônico nº 90023/2026, registro de preços de massa asfáltica (CBUQ e CBUQ a frio) para a SEINFRA, depois de indeferir as oposições dos licitantes. Também suspendeu o Pregão nº 305/2026, de telefonia fixa IP e PABX em nuvem para a SEMAD, para responder pedidos de esclarecimento e impugnações.",
+    "atos": [
+     12,
+     13
+    ]
+   },
+   {
+    "titulo": "Organizações Sociais na saúde: uma qualificada, sete negadas",
+    "texto": "O Decreto nº 22.501 qualificou o Instituto Social de Saúde São Lucas como Organização Social de Saúde, apto a disputar futuros contratos de gestão com o Município. A SMCL tornou definitivo o indeferimento de outros sete pedidos do Chamamento Público nº 001/2025, porque nenhuma entidade recorreu.",
+    "atos": [
+     4,
+     14
+    ]
+   },
+   {
+    "titulo": "SEINFRA tira 730 registros do ponto eletrônico e autoriza 189 condutores",
+    "texto": "Uma portaria dispensa do ponto eletrônico 730 registros de servidores da SEINFRA, a maioria garis, que passam a usar folha de ponto. Outra autoriza 189 servidores a dirigir veículos oficiais e revoga todas as autorizações anteriores.",
+    "atos": [
+     33,
+     34
+    ]
+   },
+   {
+    "titulo": "Câmara gasta 2,20% da receita com pessoal",
+    "texto": "Os relatórios fiscais do 2º quadrimestre de 2026 mostram despesa líquida com pessoal da Câmara de R$ 56.180.169,05 em 12 meses, 2,20% da receita corrente líquida ajustada, abaixo do limite máximo de 6% e do limite de alerta de 5,4%.",
+    "atos": [
+     30,
+     35
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 11,
+    "motivo": "Designa gestores e fiscais do Contrato nº 120/2026/PGM, contratação emergencial de serviços de publicidade e propaganda; o ato não informa a empresa contratada, o valor nem a vigência."
+   },
+   {
+    "ato": 12,
+    "motivo": "Anulação do Pregão Eletrônico nº 90023/2026 (massa asfáltica para a SEINFRA), com todos os atos declarados viciados desde a fase preparatória e as oposições dos licitantes indeferidas."
+   },
+   {
+    "ato": 13,
+    "motivo": "Suspensão do Pregão Eletrônico nº 305/2026 (telefonia fixa da SEMAD) para análise de pedidos de esclarecimento e impugnação, sem nova data definida."
+   },
+   {
+    "ato": 6,
+    "motivo": "O extrato fixa as inscrições do concurso da Saúde em horário de Brasília, enquanto o edital completo (ato 36, itens 1.9 e 4.2.1) adota o horário do Estado de Rondônia, o que gera divergência no horário de abertura e de encerramento."
+   },
+   {
+    "ato": 33,
+    "motivo": "A dispensa do ponto eletrônico alcança 730 registros, inclusive cargos comissionados e o próprio secretário interino que assina a portaria (Liandro de Almeida Loyola); a lista repete dois nomes e atribui as matrículas 109232 e 271841 a duas pessoas diferentes cada."
+   },
+   {
+    "ato": 29,
+    "motivo": "A retificação muda a quantidade de diárias: Érique Parada Barroso cai de 9,5 para 3,5 e Aldadina Pinheiro Miranda sobe de 3,5 para 9,5, com troca do órgão de origem dela de SEINFRA para SEMIAS."
+   },
+   {
+    "ato": 27,
+    "motivo": "O apostilamento reserva R$ 12.627,00 para despesas desde 01/07/2026 com nota de empenho emitida só em 22/09/2026, cobrindo período já transcorrido."
+   },
+   {
+    "ato": 20,
+    "motivo": "O parecer diz que o saldo de R$ 24.535,71 já foi devolvido, com extrato zerado, mas condiciona a aprovação à comprovação dessa devolução; a nota final afirma que a análise final só ocorrerá ao fim da vigência, embora o documento trate da prestação de contas final."
+   },
+   {
+    "ato": 32,
+    "motivo": "Portaria de 25/09/2026 lota duas servidoras comissionadas com efeitos retroativos a 01/10/2025 e a 09/01/2026."
+   },
+   {
+    "ato": 21,
+    "motivo": "Concede 29 e ½ diárias a um único motorista para todo o mês de outubro, e o número do processo aparece com dois finais diferentes (012.007833/2026-18 e 012.007833/2026-29)."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 12,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Pregão eletrônico nº 90023/2026/SMCL/PVH (Sistema de Registro de Preços)",
+    "objeto": "Massa asfáltica CBUQ e CBUQ a frio para a SEINFRA (licitação anulada)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 13,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Pregão eletrônico nº 305/2026/SMCL/PVH",
+    "objeto": "Telefonia fixa IP e convencional com aparelhos em comodato, PABX em nuvem e gravação de chamadas para a SEMAD (certame suspenso)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 14,
+    "etapa": "Resultado",
+    "modalidade": "Edital de Chamamento Público nº 001/2025/SMCL",
+    "objeto": "Qualificação de entidades como Organização Social de Saúde: sete pedidos indeferidos em definitivo",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 11,
+    "etapa": "Outro",
+    "modalidade": "Contratação emergencial",
+    "objeto": "Designação de gestores e fiscais do Contrato nº 120/2026/PGM, de serviços técnicos de publicidade e propaganda de caráter educativo e informativo",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 9,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Designação da comissão de fiscalização do Contrato nº 057/PGM/2022 (SEMAD)",
+    "fornecedor": "UNIVERSIDADE PATATIVA DO ASSARÉ",
+    "valor": null
+   },
+   {
+    "ato": 23,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de recebimento e fiscalização do Contrato nº 116/2026/SPACC da SEINFRA (objeto não informado)",
+    "fornecedor": "M. FRUHAUF LTDA",
+    "valor": null
+   },
+   {
+    "ato": 18,
+    "etapa": "Outro",
+    "modalidade": "Edital nº 01/2026/SEMED – Chamamento Público para Credenciamento de Instituições Educacionais Privadas",
+    "objeto": "Comissão de fiscalização dos termos de credenciamento do Programa Mais Educação Infantil",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 19,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Indicação de gestora e fiscais do processo 012.001516/2025-07, o mesmo do Termo de Fomento nº 008/PGM/2023 (ato 20)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 20,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Prestação de contas final do Termo de Fomento nº 008/PGM/2023 (casa de apoio e convivência para crianças e adolescentes em tratamento oncológico e seus acompanhantes), com parecer favorável condicionado à comprovação da devolução do saldo",
+    "fornecedor": "Núcleo de Apoio à Criança com Câncer – NACC",
+    "valor": 252946.2
+   },
+   {
+    "ato": 27,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "6º termo de apostilamento do Contrato nº 08/2022/COJUSA/PGM/SEMUSA: dotação para despesas de 01/07 a 31/12/2026",
+    "fornecedor": "Sandra de Miranda Caitano Ventura",
+    "valor": 12627.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-10",
+    "hora": null,
+    "evento": "Fim do prazo para impugnar o Edital nº 25/2026 do concurso da Saúde, se os 10 dias corridos do item 17.26 forem contados desta publicação de 30/09",
+    "ato": 36
+   },
+   {
+    "data": "2026-10-13",
+    "hora": "09:00",
+    "evento": "Início das inscrições do concurso da Educação (Edital nº 24/2026) em www.ibgpconcursos.com.br",
+    "ato": 5
+   },
+   {
+    "data": "2026-10-13",
+    "hora": "09:00",
+    "evento": "Início das inscrições e dos pedidos de isenção de taxa do concurso da Saúde (Edital nº 25/2026)",
+    "ato": 36
+   },
+   {
+    "data": "2026-10-15",
+    "hora": "16:00",
+    "evento": "Fim do prazo para pedir isenção da taxa no concurso da Saúde",
+    "ato": 36
+   },
+   {
+    "data": "2026-10-19",
+    "hora": "14:30",
+    "evento": "Sessão plenária do Conselho Municipal de Educação",
+    "ato": 16
+   },
+   {
+    "data": "2026-10-23",
+    "hora": null,
+    "evento": "Data-limite para divulgar o resultado dos pedidos de isenção do concurso da Saúde",
+    "ato": 36
+   },
+   {
+    "data": "2026-10-25",
+    "hora": null,
+    "evento": "Fim da vigência do Contrato nº 057/PGM/2022 com a Universidade Patativa do Assaré",
+    "ato": 9
+   },
+   {
+    "data": "2026-10-27",
+    "hora": "14:30",
+    "evento": "Sessão plenária do Conselho Municipal de Educação",
+    "ato": 16
+   },
+   {
+    "data": "2026-11-11",
+    "hora": "16:00",
+    "evento": "Fim das inscrições do concurso da Educação (Edital nº 24/2026)",
+    "ato": 5
+   },
+   {
+    "data": "2026-11-11",
+    "hora": "16:00",
+    "evento": "Fim das inscrições do concurso da Saúde (Edital nº 25/2026)",
+    "ato": 36
+   },
+   {
+    "data": "2026-11-12",
+    "hora": null,
+    "evento": "Último dia para pagar a taxa do concurso da Saúde (2ª via do boleto até 17h)",
+    "ato": 36
+   },
+   {
+    "data": "2026-11-19",
+    "hora": null,
+    "evento": "Divulgação das inscrições deferidas e das listas de candidatos PcD, negros e idosos do concurso da Saúde",
+    "ato": 36
+   },
+   {
+    "data": "2026-11-25",
+    "hora": null,
+    "evento": "Prazo para candidatos da Saúde pedirem retificação da autodeclaração de pessoa negra",
+    "ato": 36
+   },
+   {
+    "data": "2026-12-13",
+    "hora": "09:15",
+    "evento": "Prova objetiva do concurso da Saúde para cargos de nível superior (portões das 8h às 9h)",
+    "ato": 36
+   },
+   {
+    "data": "2026-12-13",
+    "hora": "14:45",
+    "evento": "Prova objetiva do concurso da Saúde para cargos de nível fundamental, médio e técnico (portões das 13h30 às 14h30)",
+    "ato": 36
+   }
+  ],
+  "normas": [
+   {
+    "ato": 4,
+    "identificacao": "Decreto nº 22.501, de 28/09/2026",
+    "o_que_muda": "O Instituto Social de Saúde São Lucas passa a ser Organização Social de Saúde no Município e pode disputar futuras seleções para contratos de gestão na saúde. A qualificação não garante contratação e pode ser suspensa ou cancelada se a entidade deixar de cumprir a Lei Complementar nº 721/2018 e o Decreto nº 20.901/2025."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 8,
+     "acao": "Outro",
+     "nome": "Lucinaldo Silva Gomes",
+     "cargo": "Assessor III da SEMDEC – designação para atuar na Superintendência Municipal de Distritos tornada sem efeito"
+    },
+    {
+     "ato": 17,
+     "acao": "Designação",
+     "nome": "Matilde Consuelo de Oliveira e Souza",
+     "cargo": "Coordenadora Municipal do SAERO (SEMED)"
+    },
+    {
+     "ato": 17,
+     "acao": "Designação",
+     "nome": "Franciane Farel da Silva Vieira",
+     "cargo": "Coordenadora Municipal do SAERO (SEMED)"
+    },
+    {
+     "ato": 17,
+     "acao": "Designação",
+     "nome": "Cintia dos Santos Souza Gonçalves",
+     "cargo": "Coordenadora Municipal do SAERO (SEMED)"
+    },
+    {
+     "ato": 31,
+     "acao": "Outro",
+     "nome": "Wellyta Gomes de Almeida Franca",
+     "cargo": "Gerente II (comissionada) – lotada na Divisão de Serviços Gerais da SEMAD a partir de 14/09/2026"
+    },
+    {
+     "ato": 32,
+     "acao": "Outro",
+     "nome": "Dejenany Braz Roberto Silva",
+     "cargo": "Assessor II (comissionada) – lotada na Divisão de Gestão de Documentação e Arquivo da SEMAD a partir de 01/10/2025"
+    },
+    {
+     "ato": 32,
+     "acao": "Outro",
+     "nome": "Maria Eduarda Silva Barros",
+     "cargo": "Assessor IV (comissionada) – lotada na Divisão de Gestão de Documentação e Arquivo da SEMAD a partir de 09/01/2026"
+    }
+   ],
+   "rotina": "Diárias para 12 empregados da EMDUR, um chefe de gabinete da SGOV, conselheiras tutelares e motoristas da SEMIAS e, por portaria da Defesa Civil (SMPDC), a servidores da SEINFRA e da SEMIAS na Missão União Bandeirantes; suprimento de fundos de R$ 8.000,00 na SEMEC; comissões de fiscalização de contratos e credenciamentos (SEMAD, SECOM, SEINFRA, SEMED e SEMIAS), a CIPA da PGM com gratificação de 10% e a comissão de recebimento de reagentes da SEMUSA; autorizações para dirigir veículos oficiais na SEMUSA, na SEMA e para 189 servidores da SEINFRA; e dispensa de 730 registros de servidores da SEINFRA do ponto eletrônico."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Termo nº 046/2026 da EMDUR homologa a prestação de contas de 3 e ½ diárias pagas a quatro empregados (Ivan Alves Bonfim, Frederico Ferreira Lopes, Rafael Domingues Dziecheiarz e Carlos Flávio Moreira dos Santos) pela manutenção da iluminação pública na BR-319, Km 17 e adjacências (processo 015.001676/2026-07)."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Termo nº 047/2026 da EMDUR homologa as diárias de cinco empregados (Sebastião Carlos Teixeira de Queiroz, Jairo Justiniano Xavier, Gabriela Santos de Castro, Jorge Andrade de Aguiar e Elias Gomes Magalhães) que foram a Jaci-Paraná fazer vistoria e instalar refletores de LED na quadra e no campo de futebol; a maioria recebeu 2 e ½ diárias, e a quantidade de Gabriela aparece truncada no texto (‘½e ½’)."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Termo nº 048/2026 da EMDUR homologa as diárias de três assessores enviados a Rio Pardo para fotografar e filmar os serviços da empresa: Bruno Guedes da Silva Pantoja e Carla Letícia da Silva Maia (1 e ½ cada) e Weyne Sharp da Silva de Lima Campos (4 e ½) (processo 015.001375/2026-75)."
+   },
+   {
+    "id": 4,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Decreto nº 22.501, de 28/09/2026, qualifica o Instituto Social de Saúde São Lucas (CNPJ 96.295.654/0001-69) como Organização Social de Saúde em Porto Velho, o que o habilita a disputar futuras seleções para contratos de gestão, sem garantia de contratação; a SEMUSA acompanhará o cumprimento dos requisitos."
+   },
+   {
+    "id": 5,
+    "categoria": "Concursos e seleções",
+    "relevancia": "alta",
+    "resumo": "Extrato de abertura do Concurso Público da Educação (Edital nº 24/2026), com prova objetiva e prova de títulos, para cargos da SEMED; inscrições só pela internet em www.ibgpconcursos.com.br, das 9h de 13/10/2026 às 16h de 11/11/2026, horário de Brasília."
+   },
+   {
+    "id": 6,
+    "categoria": "Concursos e seleções",
+    "relevancia": "alta",
+    "resumo": "Extrato de abertura do Concurso Público da Saúde (Edital nº 25/2026), com provas objetiva, de títulos e prática, para cargos da SEMUSA; inscrições em www.ibgpconcursos.com.br das 9h de 13/10/2026 às 16h de 11/11/2026 — o extrato fala em horário de Brasília, mas o edital completo (ato 36) usa o horário de Rondônia."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 338/SGOV, de 21/09/2026, valida 2 e ½ diárias ao chefe de gabinete Arildo Lopes da Silva pela viagem já feita de 11 a 13/09/2026, em caminhonete oficial, ao Distrito de União Bandeirantes e a Vila Petrópolis para vistoriar obras e serviços."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 346/SGOV, de 29/09/2026, torna sem efeito a Portaria nº 341/2026, que havia designado Lucinaldo Silva Gomes, Assessor III da SEMDEC, para trabalhar na Superintendência Municipal de Distritos."
+   },
+   {
+    "id": 9,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 185/2026/SEMAD designa Katarina Moraes Costa de Souza (presidente), Auricema Rodrigues de Lima, Bruna Cabral Regis e Liziane Rockstroh Pereira Roman Ross para fiscalizar o Contrato nº 057/PGM/2022 com a Universidade Patativa do Assaré, cuja vigência vai de 25/10/2025 a 25/10/2026."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 1488/2026/SEMAD designa a CIPA da Procuradoria-Geral do Município para 11/08/2026 a 10/08/2027 — Rosangela Lira de Souza e Josimar Gomes (indicados) e Rivaldo Veras de Souza e Anderson Ribeiro de Mesquita (eleitos) — com gratificação de 10% sobre o vencimento básico a partir de 11/08/2026."
+   },
+   {
+    "id": 11,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Portaria nº 40/SECOM, de 29/09/2026, designa Rafaela Ferreira Coroltchuc (gestora), Maria Samantha Dionzia de Lima Queiroz (gestora interina) e Lucas Gomes dos Santos, James Paz Galdino de Oliveira e Alecsandra Gonçalves Rodrigues (fiscais) para o Contrato nº 120/2026/PGM, contratação emergencial de publicidade de caráter educativo e informativo que veda prorrogação e recontratação; o texto não traz empresa nem valor."
+   },
+   {
+    "id": 12,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "Aviso da SMCL anula o Pregão Eletrônico nº 90023/2026 (Edital nº 70/2026), registro de preços para compra de massa asfáltica CBUQ e CBUQ a frio para a SEINFRA, com base no art. 71, III, da Lei nº 14.133/2021; as oposições dos licitantes foram indeferidas e todos os atos desde a fase preparatória foram declarados sem efeito."
+   },
+   {
+    "id": 13,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Aviso da SMCL suspende o Pregão Eletrônico nº 305/2026, para contratar telefonia fixa IP e convencional com aparelhos em comodato, PABX em nuvem e gravação de chamadas para a SEMAD, até responder pedidos de esclarecimento e impugnações; nova data será divulgada."
+   },
+   {
+    "id": 14,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Extrato da comissão de qualificação de Organizações Sociais de Saúde da SMCL torna definitivo o indeferimento de sete pedidos do Chamamento Público nº 001/2025 — Instituto São Miguel Arcanjo, Hospital e Maternidade São Sebastião (Santa Casa de Salto Grande), ICAASES, INSAÚDE, Hospital de Caridade Anita Costa, Hospital Beneficente São José de Herculândia e Centro de Gestão Integrada (CGI) — porque nenhuma recorreu no prazo de 3 dias úteis."
+   },
+   {
+    "id": 15,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 84/SEMEC concede suprimento de fundos de R$ 8.000,00 ao servidor Kevin Maramaldo Pereira (R$ 500,00 para material de consumo e R$ 7.500,00 para serviços de pessoa jurídica), com 90 dias para aplicar e mais 20 dias para prestar contas."
+   },
+   {
+    "id": 16,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 21/CME-2026 fixa o calendário de outubro do Conselho Municipal de Educação: 12 reuniões das câmaras temáticas (CPNA, CAEF e CAEI), quase todas às 14h30, e sessões plenárias em 19/10 e 27/10 às 14h30."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 534/SEMED designa Matilde Consuelo de Oliveira e Souza, Franciane Farel da Silva Vieira e Cintia dos Santos Souza Gonçalves como coordenadoras municipais do Sistema de Avaliação Educacional de Rondônia (SAERO), representando a SEMED junto à Secretaria de Estado da Educação."
+   },
+   {
+    "id": 18,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Portaria nº 66/SEMED, de 23/09/2026, cria a comissão que fiscaliza as escolas privadas credenciadas pelo Edital nº 01/2026/SEMED (Programa Mais Educação Infantil), presidida por Franciane Farel da Silva e integrada por Josineide Macena da Silva, Elisandra Esteves Braga, Giovanna Rodrigues Branco e Nádia Gomes da Costa, com visitas sem aviso prévio e relatórios mensais."
+   },
+   {
+    "id": 19,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Formulário da SEMIAS indica Árien Denise Kinm Chaves Levino de Oliveira como gestora, Sabrina Monteiro Barbosa como fiscal técnica e Jaqueline da Costa Rodrigues como fiscal administrativa do processo 012.001516/2025-07 (o mesmo do termo de fomento com o NACC, ato 20); o campo de fiscal administrativo também aparece marcado como ‘Não se aplica’."
+   },
+   {
+    "id": 20,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Parecer nº 2/SEMIAS-DIMC/2026 é favorável à prestação de contas final do Termo de Fomento nº 008/PGM/2023 com o Núcleo de Apoio à Criança com Câncer (NACC): 135 crianças e adolescentes atendidos (28 de Porto Velho), execução física de 94,35%, R$ 252.946,20 repassados, R$ 237.673,04 gastos e saldo de R$ 24.535,71 que o texto diz ter sido devolvido, mas cuja comprovação ainda condiciona a aprovação."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 310/SEMIAS concede 29 e ½ diárias ao motorista Salomão de Brito Oliveira para apoiar o Conselho Tutelar de 01 a 30/10/2026 nos distritos de Jaci-Paraná, Rio Pardo, União Bandeirantes, Nova Mutum, Fortaleza do Abunã, Vista Alegre do Abunã, Extrema e Nova Califórnia, com Toyota Hilux oficial; o número do processo aparece com dois finais diferentes (-18 e -29)."
+   },
+   {
+    "id": 22,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 311/SEMIAS concede 5 e ½ diárias às conselheiras tutelares Mara Adriane da Silva e Célia Rodrigues dos Santos e ao condutor Edson Leal de Oliveira para fiscalizar órgãos que atendem crianças e adolescentes em Fortaleza do Abunã, Vista Alegre do Abunã, Extrema, Nova Califórnia e linhas da BR-364, de 05 a 10/10/2026."
+   },
+   {
+    "id": 23,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 516/2026/SEINFRA designa Reury Ramiro de Mendonça (gestor) e Joel Limoeiro Freire, Tomas Araújo Pinheiro, Carlos Ribeiro da Costa Neto e Kelly Simone Ferreira de Araújo (fiscais) para receber e fiscalizar os serviços da M. Fruhauf Ltda no Contrato nº 116/2026/SPACC e revoga as portarias anteriores da comissão; o objeto do contrato não é informado."
+   },
+   {
+    "id": 24,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 492/SEMUSA autoriza por um ano seis servidores a dirigir veículos oficiais, entre eles os gerentes das USF Aponiã e José Gomes Ferreira e da UBS Maurício Bustani, um enfermeiro da USF Santa Rita e um agente comunitário da USF Hamilton Gondim."
+   },
+   {
+    "id": 25,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 493/SEMUSA autoriza por um ano Cristiano Pereira de Oliveira, Fredson Sales de Oliveira, Roberto Uéverton Peres de Moraes e Rômulo Santos Teixeira a dirigir o veículo oficial da USF Três Marias."
+   },
+   {
+    "id": 26,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 494/2026/SEMUSA revoga a Portaria nº 195/2025 e forma nova comissão permanente para receber insumos e reagentes de laboratório e atestar notas fiscais: Andréa Gomes de Araújo Soares (técnica em laboratório, presidente), Claudio Amorim de Matos (auxiliar de serviço de saúde) e Regenilson Oliveira Gomes (operador de máquinas pesadas)."
+   },
+   {
+    "id": 27,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "6º termo de apostilamento ao Contrato nº 08/2022/COJUSA/PGM/SEMUSA, com Sandra de Miranda Caitano Ventura, reserva R$ 12.627,00 da vigilância epidemiológica e ambiental (nota de empenho nº 3906/2026, de 22/09/2026) para as despesas de 01/07 a 31/12/2026; o texto chama a Prefeitura de ‘locatário’, o que sugere aluguel, mas não descreve o objeto."
+   },
+   {
+    "id": 28,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 142/SEMA autoriza o gari Reginaldo Antonio Rodrigues Soares, lotado no Parque Natural, a dirigir veículos oficiais da Secretaria de Meio Ambiente, com as regras e proibições de uso da frota."
+   },
+   {
+    "id": 29,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 83/2026/SMPDC retifica a Portaria nº 79/2026 sobre as diárias da Missão União Bandeirantes (21 a 30/09/2026, entrega de kits de assistência): Érique Parada Barroso passa de 9,5 para 3,5 diárias, Aldadina Pinheiro Miranda passa de 3,5 para 9,5 e muda de SEINFRA para SEMIAS, e Laura Idália Guimarães Coutinho e Sara Jéssica da Silva Teixeira seguem com 9,5."
+   },
+   {
+    "id": 30,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Demonstrativo simplificado do Relatório de Gestão Fiscal da Câmara Municipal no 2º quadrimestre de 2026: despesa com pessoal de R$ 56.180.169,05, igual a 2,20% da receita corrente líquida ajustada de R$ 2.549.977.453,55, abaixo do limite máximo de 6% (R$ 152.998.647,21) e do limite de alerta de 5,4%."
+   },
+   {
+    "id": 31,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 183/2026/SEMAD lota a comissionada Wellyta Gomes de Almeida Franca (Gerente II) na Divisão de Serviços Gerais, a partir de 14/09/2026."
+   },
+   {
+    "id": 32,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Portaria nº 184/2026/SEMAD, de 25/09/2026, lota na Divisão de Gestão de Documentação e Arquivo as comissionadas Dejenany Braz Roberto Silva (Assessor II), com efeitos desde 01/10/2025, e Maria Eduarda Silva Barros (Assessor IV), desde 09/01/2026."
+   },
+   {
+    "id": 33,
+    "categoria": "Pessoal",
+    "relevancia": "alta",
+    "resumo": "Portaria nº 518/2026/SEINFRA dispensa do ponto eletrônico 730 registros de servidores da SEINFRA (sede, Departamento de Estradas Vicinais e Secretaria Executiva de Serviços Básicos) — cerca de 475 garis, além de motoristas, operadores de máquinas, assessores, gerentes e diretores — por exercerem atividades externas; a frequência passa a ser controlada por folha de ponto e as isenções anteriores ficam revogadas."
+   },
+   {
+    "id": 34,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 521/2026/SEINFRA autoriza 189 servidores (62 de Obras e Pavimentação, 96 de Serviços Básicos e 31 de Estradas Vicinais) a dirigir veículos oficiais, com regras de uso, proibição de uso particular e responsabilidade por multas, e revoga todas as autorizações anteriores."
+   },
+   {
+    "id": 35,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "Demonstrativo da despesa com pessoal da Câmara (RGF Anexo I, 2º quadrimestre de 2026): gasto bruto de R$ 75.049.199,05 em 12 meses (R$ 57.534.456,63 com ativos e R$ 17.514.742,42 com inativos e pensionistas); descontadas despesas não computadas de R$ 18.869.030,00, a despesa líquida é de R$ 56.180.169,05, 2,20% da receita corrente líquida ajustada."
+   },
+   {
+    "id": 36,
+    "categoria": "Concursos e seleções",
+    "relevancia": "alta",
+    "resumo": "Edital nº 25/2026 do Concurso Público da Saúde, conduzido pelo IBGP: 2.248 vagas (641 imediatas e 1.607 de cadastro de reserva) de nível fundamental a superior — de auxiliar de farmácia e agentes comunitários de saúde em 39 áreas a médicos especialistas —, vencimentos de R$ 1.287,57 a R$ 9.828,19, taxas de R$ 90,00 a R$ 140,00, inscrições de 13/10 a 11/11/2026, prova objetiva em 13/12/2026 e validade de 2 anos, prorrogável uma vez."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:34:01-04:00",
  "conferencia": {
   "site": 36,
@@ -343,5 +885,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:34-04:00"
- }
+ },
+ "resumo_formato": 2
 }

@@ -397,8 +397,706 @@
    "trecho": "A SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER – SEMTEL, no uso das atribuições que lhe confere o artigo 14 da Lei\nComplementar nº 1.000, de 07 de janeiro de 2025, e tendo em vista o que consta no processo nº 014.002093/2026-03.\nRESOLVE:\nArt. 1º – TORNAR VÁLIDA a concessão de 1 e ½ (uma diária e meia), de caráter indenizatório, nos termos do art. 10 do Decreto nº 17.353/2021,\nao servidor abaixo relacionado, tendo em vista a necessidade de custear despesas decorrentes do deslocamento ao Distrito de União\nBandeirantes/RO, no período de 09 a 10 de agosto de 2026, realizado por meio de transpo"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura fixa o calendário de fechamento das contas de 2026: empenhos até 1º de dezembro, pagamentos até 22 de dezembro e, desde 1º de outubro, veto a verbas retroativas e indenizatórias na folha",
+  "resumo": "A edição traz 43 atos de Porto Velho, a maioria portarias de pessoal (diárias, licenças, reduções de jornada e correções de datas) e atos ligados a contratos. O principal é o Decreto nº 22.491/2026, que organiza o encerramento do exercício de 2026 e as prestações de contas à CGM até março de 2027. Em compras, destacam-se a ata de R$ 14,9 milhões da EMDUR para alugar 35 veículos, o pregão de R$ 8,9 milhões para 20 mil cestas humanitárias e o credenciamento de 150 vagas de educação infantil em escolas particulares; a Câmara publica ainda as novas regras da cota parlamentar, que valem a partir de 1º/10/2026. Pedem atenção do controle interno as contratações sem licitação do IPAM (materiais do seminário de previdência e contrato do concurso com o IBADE), a adesão da FUNCULTURAL à ata de um município do Acre, as prorrogações dos contratos de estágio e de passagens aéreas e duas portarias da SEMTEL com o mesmo número e quantidades diferentes de diárias para a mesma viagem.",
+  "destaques": [
+   {
+    "titulo": "Calendário de fechamento das contas de 2026",
+    "texto": "O Decreto nº 22.491/2026 fixa empenhos até 1º/12, pagamentos até 22/12 e pedidos de crédito adicional até 13/11, cancela em 31/12 os restos a pagar não processados de 2025 e anteriores e marca as prestações de contas à CGM até março de 2027. Desde 1º/10/2026 fica proibido incluir na folha verbas retroativas, criar ou aumentar verbas indenizatórias e bolsas e pagar indenização de férias e licenças-prêmio, salvo exceções.",
+    "atos": [
+     13
+    ]
+   },
+   {
+    "titulo": "EMDUR registra R$ 14,9 milhões em aluguel de veículos",
+    "texto": "A ata com a TB Frotas SA prevê 14 carros hatch, 17 caminhonetes 4x4 e 4 micro-ônibus, sem motorista e sem combustível, por R$ 496.862,92 mensais, totalizando R$ 14.905.887,60 em 30 meses.",
+    "atos": [
+     38
+    ]
+   },
+   {
+    "titulo": "Pregão de R$ 8,9 milhões para 20 mil cestas humanitárias",
+    "texto": "A Prefeitura abre registro de preços para até 20.000 cestas destinadas a famílias atingidas por eventos hidrológicos, a cargo da Defesa Civil. As propostas serão abertas em 07/10/2026, às 9h30 (horário de Brasília).",
+    "atos": [
+     22
+    ]
+   },
+   {
+    "titulo": "Novas regras da cota parlamentar",
+    "texto": "A Resolução nº 772/CMPV-2026 fixa a cota dos vereadores em R$ 47.000,00 mensais, com subtetos por tipo de despesa, proibição de gastos pessoais ou com fornecedores ligados a vereadores e publicação das notas fiscais no Portal da Transparência. As regras valem a partir de 1º/10/2026.",
+    "atos": [
+     2
+    ]
+   },
+   {
+    "titulo": "Prorrogações de contratos e concurso do IPAM",
+    "texto": "A SEMAD prorrogou por 12 meses o contrato de agente de estágios com a Universidade Patativa do Assaré (empenho de R$ 750 mil até dezembro) e a SEMUSA publicou a prorrogação, até 06/06/2027, do contrato de passagens aéreas com a Voe + Brasil. O IPAM designou gestora e fiscais do contrato com o IBADE, firmado por dispensa e com teto de R$ 1.059.000,00, para realizar seu concurso público.",
+    "atos": [
+     21,
+     31,
+     11
+    ]
+   },
+   {
+    "titulo": "150 vagas de educação infantil em escolas particulares",
+    "texto": "A SEMED credenciou a Escola e Creche Floresta Encantada (80 vagas) e o Centro Educacional Sonhos de Criança (70 vagas) no Programa Mais Educação Infantil, pagando R$ 700,00 por aluno por mês, por 18 meses.",
+    "atos": [
+     25,
+     26
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 2,
+    "motivo": "A resolução passa a valer em 1º/10/2026, poucos dias após a publicação, e depende de Instrução Normativa ainda não editada e de treinamento prévio dos gabinetes; até a reestruturação, a Controladoria da Câmara terá de avaliar cada processo de CEAP antes do pagamento."
+   },
+   {
+    "ato": 5,
+    "motivo": "O contrato de estrutura de eventos da FUNCULTURAL com T. ARAUJO DA MOTA LTDA decorre de adesão à ata de registro de preços de outro órgão, a Prefeitura de Senador Guiomard/AC."
+   },
+   {
+    "ato": 8,
+    "motivo": "Contratação direta por dispensa (art. 75, II) de materiais de comunicação visual e brindes personalizados para evento do IPAM, sem valor estimado informado no aviso."
+   },
+   {
+    "ato": 11,
+    "motivo": "O contrato para organizar o concurso público do IPAM foi firmado com o IBADE por dispensa de licitação (art. 75, XV), com teto de R$ 1.059.000,00."
+   },
+   {
+    "ato": 21,
+    "motivo": "Quinto aditivo prorroga por mais 12 meses, a partir de 25/10/2026, contrato de 2022 regido pela Lei nº 8.666/93 e já prevê reajuste pelo IPCA a partir de 01/01/2027."
+   },
+   {
+    "ato": 28,
+    "motivo": "O apostilamento remaneja valores entre rubricas da parceria com a OSC ALUZ e autoriza o uso dos rendimentos da conta em qualquer meta; o número do contrato está em branco no título e aparece como 071/PGM/2026 no corpo."
+   },
+   {
+    "ato": 31,
+    "motivo": "Extrato do 1º aditivo de prazo (12 meses, de 07/06/2026 a 06/06/2027), datado e assinado em 08/06/2026 e publicado nesta edição de 25/09/2026, mais de três meses depois; o texto não informa a data de assinatura do próprio aditivo, e um dos valores de empenho está grafado de forma inconsistente (R$ 22.7776,76)."
+   },
+   {
+    "ato": 38,
+    "motivo": "Ata de alto valor, R$ 14.905.887,60 em 30 meses para locação de 35 veículos, que admite adesão de outros órgãos até o dobro dos quantitativos registrados."
+   },
+   {
+    "ato": 43,
+    "motivo": "Há duas Portarias nº 186/2026 da SEMTEL, com a mesma data e o mesmo processo, concedendo ao mesmo servidor quantidades diferentes de diárias (meia no ato 35 e uma e meia no ato 43) pela mesma viagem."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 4,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Gestão e fiscalização dos Contratos nº 110, 111 e 115/PGM/2026 – shows do 112º aniversário de Porto Velho",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 5,
+    "etapa": "Outro",
+    "modalidade": "Adesão à Ata de Registro de Preços nº 017/2026 (Pregão Eletrônico SRP nº 012/2026/PMSG – Senador Guiomard/AC)",
+    "objeto": "Fiscalização do Contrato nº 119/PGM/2026 – palco, som, iluminação, painéis de LED, tendas, geradores e demais serviços de eventos",
+    "fornecedor": "T. ARAUJO DA MOTA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 6,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Comissão de Prestação de Serviços – recebimento provisório e definitivo e atesto dos bens e serviços contratados para os eventos da FUNCULTURAL (estruturas, sonorização, iluminação, atrações artísticas)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 8,
+    "etapa": "Dispensa",
+    "modalidade": "Dispensa de Licitação nº 09/2026/IPAM-SCL (art. 75, II, Lei nº 14.133/2021)",
+    "objeto": "Comunicação visual, brindes e tenda para a IV Audiência Pública e IV Seminário Municipal de Previdência",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 11,
+    "etapa": "Outro",
+    "modalidade": "Dispensa de Licitação nº 07/2026 (art. 75, XV, Lei nº 14.133/2021)",
+    "objeto": "Organização e execução do concurso público do IPAM – designação de gestora e fiscais",
+    "fornecedor": "INSTITUTO BRASILEIRO DE APOIO E DESENVOLVIMENTO EXECUTIVO — IBADE",
+    "valor": 1059000.0
+   },
+   {
+    "ato": 21,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Agente de integração de estágios – prorrogação por 12 meses a partir de 25/10/2026, mantidas as condições financeiras vigentes (5º aditivo ao Contrato nº 057/PGM/2022); valor total não informado, com empenho de R$ 750.000,00 (NE 5428/2026) para as despesas até dezembro de 2026",
+    "fornecedor": "UNIVERSIDADE PATATIVA DO ASSARÉ – UPA",
+    "valor": null
+   },
+   {
+    "ato": 22,
+    "etapa": "Aviso de licitação",
+    "modalidade": "Pregão Eletrônico nº 347/2026/SMCL/PVH (SRP)",
+    "objeto": "Até 20.000 cestas humanitárias ampliadas para a Defesa Civil",
+    "fornecedor": null,
+    "valor": 8925000.0
+   },
+   {
+    "ato": 23,
+    "etapa": "Resultado",
+    "modalidade": "Pregão Eletrônico nº 251/2026/SMCL/PVH (SRP)",
+    "objeto": "Calçadas, meios-fios e sarjetas para a SEINFRA – pedido de reconsideração negado",
+    "fornecedor": "PRIVADO ENGENHARIA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 25,
+    "etapa": "Contrato",
+    "modalidade": "Credenciamento – Edital nº 01/2026/SEMED",
+    "objeto": "80 vagas de educação infantil no Programa Mais Educação Infantil (R$ 700,00 por aluno/mês)",
+    "fornecedor": "Escola e Creche Floresta Encantada",
+    "valor": null
+   },
+   {
+    "ato": 26,
+    "etapa": "Contrato",
+    "modalidade": "Credenciamento – Edital nº 01/2026/SEMED",
+    "objeto": "70 vagas de educação infantil no Programa Mais Educação Infantil (R$ 700,00 por aluno/mês)",
+    "fornecedor": "CESC - Centro Educacional Sonhos de Criança Ltda",
+    "valor": null
+   },
+   {
+    "ato": 28,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Apostilamento – remanejamento de valores entre metas da parceria (assistente pedagógica, maestro e professores de música)",
+    "fornecedor": "ASSOCIAÇÃO LUZ DO ALVORECER - ALUZ",
+    "valor": null
+   },
+   {
+    "ato": 31,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Agenciamento de passagens aéreas nacionais e internacionais – prorrogação de 07/06/2026 a 06/06/2027",
+    "fornecedor": "Voe + Brasil Agência De Viagens - M. S. S. Da Silva & Cia Ltda - Me",
+    "valor": null
+   },
+   {
+    "ato": 34,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Gestão do Contrato nº 052/2021 – aluguel de imóvel de 800 m² para a Rede de Frio de imunizações",
+    "fornecedor": "GGK NEGOCIOS IMOBILIÁRIO LTDA",
+    "valor": null
+   },
+   {
+    "ato": 37,
+    "etapa": "Outro",
+    "modalidade": "Consulta Pública ao Mercado nº 001/2026/SMTI",
+    "objeto": "Reabertura e prorrogação do prazo de contribuições técnicas da consulta ao mercado",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 38,
+    "etapa": "Ata de registro de preços",
+    "modalidade": "Pregão Eletrônico nº 012/EMDUR/2026",
+    "objeto": "Locação de 35 veículos sem motorista (14 hatch, 17 caminhonetes e 4 micro-ônibus) por 30 meses",
+    "fornecedor": "TB FROTAS SA",
+    "valor": 14905887.6
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Entra em vigor a nova regra da cota parlamentar (CEAP) da Câmara",
+    "ato": 2
+   },
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Começa a vedação de incluir na folha verbas retroativas, criar ou aumentar verbas indenizatórias e bolsas e pagar indenização de férias e licenças-prêmio",
+    "ato": 13
+   },
+   {
+    "data": "2026-10-01",
+    "hora": null,
+    "evento": "Início das comemorações do 112º aniversário de Porto Velho (até 04/10), com shows contratados pela FUNCULTURAL",
+    "ato": 4
+   },
+   {
+    "data": "2026-10-02",
+    "hora": null,
+    "evento": "Fim do prazo de 5 dias úteis, contados da publicação em 25/09, para enviar propostas à Dispensa nº 09/2026/IPAM-SCL pelo e-mail scl@ipam.ro.gov.br (o aviso não fixa a data; vai a 05/10 se 02/10, aniversário da cidade, for feriado municipal)",
+    "ato": 8
+   },
+   {
+    "data": "2026-10-07",
+    "hora": "09:30",
+    "evento": "Abertura das propostas do Pregão Eletrônico nº 347/2026 – 20 mil cestas humanitárias (horário de Brasília)",
+    "ato": 22
+   },
+   {
+    "data": "2026-10-15",
+    "hora": "14:00",
+    "evento": "Nova reunião de imersão da Consulta Pública ao Mercado nº 001/2026/SMTI (online ou híbrida, até 17h)",
+    "ato": 37
+   },
+   {
+    "data": "2026-10-20",
+    "hora": null,
+    "evento": "Prazo para cada órgão designar e publicar a comissão do Relatório de Gestão 2026",
+    "ato": 13
+   },
+   {
+    "data": "2026-10-25",
+    "hora": null,
+    "evento": "Começa a prorrogação de 12 meses do contrato de estágios com a Universidade Patativa do Assaré",
+    "ato": 21
+   },
+   {
+    "data": "2026-10-26",
+    "hora": null,
+    "evento": "Fim do prazo para contribuições à Consulta Pública ao Mercado nº 001/2026/SMTI",
+    "ato": 37
+   },
+   {
+    "data": "2026-10-30",
+    "hora": null,
+    "evento": "Publicação das contribuições válidas da Consulta Pública nº 001/2026/SMTI",
+    "ato": 37
+   },
+   {
+    "data": "2026-11-09",
+    "hora": null,
+    "evento": "Publicação do relatório consolidado da Consulta Pública nº 001/2026/SMTI",
+    "ato": 37
+   },
+   {
+    "data": "2026-11-13",
+    "hora": null,
+    "evento": "Prazo para pedir créditos adicionais e realocações orçamentárias à SORÇAM/SEMEC",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-01",
+    "hora": null,
+    "evento": "Prazo final para emitir e reforçar empenhos, anular empenhos não efetivados e pedir créditos para saúde e educação",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-08",
+    "hora": null,
+    "evento": "Prazo para empenhos da SEMUSA e da SEMED ligados aos mínimos constitucionais",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-11",
+    "hora": null,
+    "evento": "Bloqueio e recolhimento dos suprimentos de fundos",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-12",
+    "hora": null,
+    "evento": "Prazo para informar a DEC/SEMEC sobre manutenção excepcional de restos a pagar",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-22",
+    "hora": null,
+    "evento": "Prazo final para pagamento de despesas orçamentárias e extraorçamentárias",
+    "ato": 13
+   },
+   {
+    "data": "2026-12-31",
+    "hora": null,
+    "evento": "Cancelamento automático dos restos a pagar não processados de 2025 e anteriores",
+    "ato": 13
+   },
+   {
+    "data": "2027-01-01",
+    "hora": null,
+    "evento": "Início da apuração e aplicação do reajuste pelo IPCA no contrato de estágios com a UPA",
+    "ato": 21
+   },
+   {
+    "data": "2027-01-08",
+    "hora": null,
+    "evento": "Encerramento da movimentação contábil de dezembro, conciliação de contas bancárias e envio de dados da PGM (precatórios, dívida ativa e ações judiciais)",
+    "ato": 13
+   },
+   {
+    "data": "2027-01-12",
+    "hora": null,
+    "evento": "Entrega de inventários (SEMAD), Relatórios de Gestão dos órgãos, Estrutura de Governança e Controles Internos (CGM) e relatório de gestão de pessoas",
+    "ato": 13
+   },
+   {
+    "data": "2027-01-15",
+    "hora": null,
+    "evento": "IPAM envia o Anexo 10 – Projeção Atuarial do RPPS",
+    "ato": 13
+   },
+   {
+    "data": "2027-01-29",
+    "hora": null,
+    "evento": "SMCL envia o demonstrativo de transferências voluntárias a liberar",
+    "ato": 13
+   },
+   {
+    "data": "2027-01-31",
+    "hora": null,
+    "evento": "Conclusão dos procedimentos contábeis de encerramento de 2026",
+    "ato": 13
+   },
+   {
+    "data": "2027-02-17",
+    "hora": null,
+    "evento": "SORÇAM envia à DEC/SEMEC as informações orçamentárias e o Relatório sobre os Resultados da Atuação Governamental",
+    "ato": 13
+   },
+   {
+    "data": "2027-02-19",
+    "hora": null,
+    "evento": "Entrega do Relatório de Gestão e dos demonstrativos de arrecadação, dívida ativa, avaliação atuarial, ensino/FUNDEB, saúde e obras",
+    "ato": 13
+   },
+   {
+    "data": "2027-03-05",
+    "hora": null,
+    "evento": "SEMUSA, SEMED, FUNCULTURAL, FMDCA e ARDPV entregam à CGM a prestação de contas de 2026",
+    "ato": 13
+   },
+   {
+    "data": "2027-03-12",
+    "hora": null,
+    "evento": "SEMEC entrega à CGM a Prestação de Contas Consolidada do Município",
+    "ato": 13
+   },
+   {
+    "data": "2027-03-19",
+    "hora": null,
+    "evento": "CGM emite relatório de controle interno e certificado de auditoria das unidades do art. 14",
+    "ato": 13
+   },
+   {
+    "data": "2027-03-24",
+    "hora": null,
+    "evento": "CGM emite relatório de controle interno e certificado de auditoria da Prestação de Contas Consolidada",
+    "ato": 13
+   },
+   {
+    "data": "2027-03-26",
+    "hora": null,
+    "evento": "IPAM e EMDUR entregam à CGM suas prestações de contas com relatório e certificado de auditoria",
+    "ato": 13
+   }
+  ],
+  "normas": [
+   {
+    "ato": 2,
+    "identificacao": "Resolução nº 772/CMPV-2026, de 22/09/2026",
+    "o_que_muda": "Os vereadores passam a ter cota de R$ 47.000,00 por mês para despesas do mandato, com subtetos por categoria, lista de gastos proibidos, exigência de documentos e pesquisa de preços e publicação de cada ressarcimento, com nota fiscal, no Portal da Transparência. Vale a partir de 1º/10/2026 e revoga a Resolução nº 743/CMPV-2025."
+   },
+   {
+    "ato": 13,
+    "identificacao": "Decreto nº 22.491, de 24/09/2026",
+    "o_que_muda": "Todos os órgãos e entidades do Executivo seguem prazos de fechamento de 2026: empenhos até 1º/12, pagamentos até 22/12, créditos adicionais até 13/11 e prestações de contas à CGM até março de 2027. Desde 1º/10/2026 fica vedado incluir verbas retroativas na folha, criar ou aumentar verbas indenizatórias e bolsas e pagar indenização de férias e licenças-prêmio, com exceções."
+   },
+   {
+    "ato": 40,
+    "identificacao": "Portaria nº 528/SEMED, de 23/09/2026",
+    "o_que_muda": "As escolas municipais passam a ter acompanhamento pedagógico sistemático da DIAGEM e devem responder às orientações recebidas em até 15 dias úteis; o descumprimento injustificado é registrado e levado à Diretoria de Políticas Educacionais."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 1,
+     "acao": "Exoneração",
+     "nome": "Ivanir Vitoria Gadelha",
+     "cargo": "Assistente Jurídico (CC-01) – Câmara Municipal de Porto Velho"
+    },
+    {
+     "ato": 17,
+     "acao": "Substituição",
+     "nome": "Sara Maria Marinho Brito",
+     "cargo": "Gerente II (DAS-05) – SMCL, de 03/09 a 12/09/2026, no lugar de Maria Vitoria Oliveira Claudino"
+    },
+    {
+     "ato": 32,
+     "acao": "Designação",
+     "nome": "Fernando da Silva Cavalcante",
+     "cargo": "Responsável Técnico das Motolâncias – SEMUSA"
+    }
+   ],
+   "rotina": "Os demais atos de pessoal concedem diárias (SEMAD, SEMIAS, SEINFRA, SEMUSA, SEMTRAN e SEMTEL), licenças-prêmio, reduções de jornada a servidores da SEMUSA e alteração de férias com conversão de 10 dias em dinheiro no IPAM, corrigem períodos e composições (IPAM, SEMAD, SEMED e SEMA), homologam prestação de contas de diárias na CGM, liberam acesso de estagiário a sistema de pessoal e designam gestores, fiscais e membros de comissões de contratos e parcerias na FUNCULTURAL, no IPAM e na SEMUSA."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O presidente da Câmara Municipal exonera Ivanir Vitoria Gadelha do cargo em comissão de Assistente Jurídico (CC-01), com efeito a partir de 01/09/2026 (Decreto nº 527/CMPV-2026, de 23/09/2026)."
+   },
+   {
+    "id": 2,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "A Câmara Municipal publica a Resolução nº 772/CMPV-2026, que consolida as regras da cota parlamentar (CEAP): R$ 47.000,00 por mês por vereador, subtetos por tipo de gasto, despesas proibidas, publicação dos gastos com nota fiscal no Portal da Transparência, análise prévia de cada processo pela Controladoria, revogação da Resolução nº 743/CMPV-2025 e vigência a partir de 1º/10/2026."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Controladoria-Geral do Município homologa a prestação de contas de diárias da Técnica Jurídica Rosinride Kempim (matrícula 106311), no processo nº 013.000571/2026-42 (Termo nº 13/2026/CGM-DIAA)."
+   },
+   {
+    "id": 4,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A FUNCULTURAL cria comissão para gerir e fiscalizar os Contratos nº 110, 111 e 115/PGM/2026, de shows artísticos para o 112º aniversário de Porto Velho (1º a 4/10/2026), com Reginaldo Silva Gomes como gestor, Adalmi Belo Costa como fiscal e Natacha Costa Melo como suplente, revogando a Portaria nº 029/2026."
+   },
+   {
+    "id": 5,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A FUNCULTURAL cria comissão para fiscalizar o Contrato nº 119/PGM/2026 com T. ARAUJO DA MOTA LTDA (palco, som, iluminação, painéis de LED, tendas, geradores e outros serviços de eventos), oriundo de adesão à Ata nº 017/2026 da Prefeitura de Senador Guiomard/AC, com Dayane Modesto de Brito como gestora e Josimar Correa Alfaia como fiscal."
+   },
+   {
+    "id": 6,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A FUNCULTURAL recompõe a comissão que recebe e atesta bens e serviços dos seus eventos, retirando Cristiano Fernandes Oliveira, mantendo Emerson Barros Garcia (presidente), Paula Gabriela Farias Sena e Luciano Manuel da Silva Claudino e incluindo Josimar Correa Alfaia; o título do ato aparece truncado no texto."
+   },
+   {
+    "id": 7,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A FUNCULTURAL altera a Comissão de Monitoramento e Avaliação das parcerias com organizações da sociedade civil: sai Maria Santiago de Lima, entra Milena Guedes Alves Garcia e permanecem Dayane Modesto de Brito (presidente) e Ana Gabriele Gomes Oliveira."
+   },
+   {
+    "id": 8,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "O IPAM abre dispensa de licitação (Aviso nº 09/2026, art. 75, II) para contratar banners, backdrops, tenda e 250 unidades de folders, crachás, sacolas, marcadores, canecas e kits de anotação para a IV Audiência Pública e o IV Seminário Municipal de Previdência, com propostas pelo e-mail scl@ipam.ro.gov.br em até 5 dias úteis da publicação e sem valor estimado no aviso."
+   },
+   {
+    "id": 9,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O IPAM inclui Marivaldo Batista dos Passos Vargas, representante da Procuradoria-Geral, como membro da Comissão de Organização e Reestruturação Institucional (Portaria nº 529/2026, que altera a Portaria nº 503/2026)."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM altera as férias de Marivaldo Rosa da Silva, Chefe de Processamento de Dados, para 12/10 a 31/10/2026, com conversão de 10 dias em dinheiro."
+   },
+   {
+    "id": 11,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "O IPAM designa Solange Esteves de Souza Duarte (gestora), Ana Maria Lessa Mariaca (fiscal) e Marcelo Augusto Mendes Barbosa (suplente) para o contrato com o IBADE, firmado por dispensa de licitação (nº 07/2026, art. 75, XV), para organizar em 12 meses o concurso público do IPAM, com teto de R$ 1.059.000,00."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM corrige a Portaria nº 452/2026: o período de usufruto passa a ser de 03/11/2026 a 22/11/2026 (e não até 22/11/2027); o texto não informa o nome do servidor nem o tipo de afastamento."
+   },
+   {
+    "id": 13,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.491/2026 fixa os prazos de encerramento do exercício de 2026 para toda a Prefeitura: empenhos até 1º/12, pagamentos até 22/12, créditos adicionais até 13/11, cancelamento dos restos a pagar não processados de 2025 e anteriores em 31/12, prestações de contas à CGM até março de 2027 e, desde 1º/10/2026, proibição de incluir verbas retroativas e indenizatórias na folha."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede 5 diárias e meia a Alesson Ferreira Barroso, Carem Camila Ramos, Francisco de Assis Tavares, Redvilson Duran Pedraza Junior e Sarah Alves de Souza Pinheiro para viagem de barco a São Carlos, Nazaré, Calama e Demarcação, de 05 a 10/10/2026, para inventariar bens da SMD e medir escolas do Baixo Madeira."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD libera ao estagiário Gabriel Oliveira Rossi Avila acesso de consulta ao Sistema de Gestão Pública Integrado, restrito a dados de pessoal da SEMUSA, com responsabilização em caso de uso indevido."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede redução de 50% da jornada, sem corte de salário, por um ano, ao técnico em enfermagem Marcelo dos Santos Santiago, da SEMUSA."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD designa Sara Maria Marinho Brito para ocupar, de 03/09 a 12/09/2026, o cargo de Gerente II (DAS-05) da SMCL no lugar de Maria Vitoria Oliveira Claudino, em licença médica."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga a redução de 25% da jornada da médica Paula Tamires Lenes da Silva Santos Carvalho, da SEMUSA, de 08/06/2026 a 07/06/2027."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede licença-prêmio a Ana Paula Pereira Novaes (SEMDEC), de 26/10 a 24/11/2026, e a Danubia Daniela de Lima (SEMTEL), de 21/10/2026 a 20/03/2027, em dois períodos."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD corrige a composição da CIPA do SAMU (gestão 2026/2027): Nely Mariano dos Santos passa de membro suplente a membro indicada pelo empregador."
+   },
+   {
+    "id": 21,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SEMAD firma o 5º aditivo ao Contrato nº 057/PGM/2022 com a Universidade Patativa do Assaré – UPA, agente de integração de estágios, prorrogando-o por 12 meses a partir de 25/10/2026 sem mudar valores, com reajuste pelo IPCA a partir de 01/01/2027 e empenho de R$ 750.000,00 para as despesas até dezembro de 2026."
+   },
+   {
+    "id": 22,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SMCL abre o Pregão Eletrônico nº 347/2026 (registro de preços) para comprar até 20.000 cestas humanitárias ampliadas para famílias atingidas por eventos hidrológicos, atendidas pela Defesa Civil, com valor estimado de R$ 8.925.000,00 e abertura das propostas em 07/10/2026 às 9h30 (horário de Brasília) no www.gov.br/compras."
+   },
+   {
+    "id": 23,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMCL nega o pedido de reconsideração da MADECON Engenharia e Participações no Pregão Eletrônico nº 251/2026 (registro de preços para calçadas, meios-fios e sarjetas da SEINFRA) e mantém a habilitação da PRIVADO ENGENHARIA LTDA e a homologação do certame."
+   },
+   {
+    "id": 24,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMED corrige a Portaria nº 479/2026: o último período passa de 08 a 11/08/2026 para 08 a 11/09/2026; o texto não informa o assunto da portaria corrigida."
+   },
+   {
+    "id": 25,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED credencia a Escola e Creche Floresta Encantada (Termo nº 10/2026) para oferecer 80 vagas de creche e pré-escola pelo Programa Mais Educação Infantil, a R$ 700,00 por aluno por mês, por 18 meses."
+   },
+   {
+    "id": 26,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED credencia o CESC – Centro Educacional Sonhos de Criança (Termo nº 08/2026) para oferecer 70 vagas de creche e pré-escola pelo Programa Mais Educação Infantil, a R$ 700,00 por aluno por mês, por 18 meses."
+   },
+   {
+    "id": 27,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS concede diárias às conselheiras tutelares Michelle Moreira Passos e Ana Paula Lima Brito da Silva, ao motorista Evilandio Azevedo Araújo e ao piloto Cosmo Viana Barrozo para atendimentos e fiscalizações na BR-364 (28/09), na BR-319 (29 e 30/09) e nos distritos de São Carlos e Nazaré (05 a 09/10/2026)."
+   },
+   {
+    "id": 28,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMIAS registra apostilamento à parceria com a OSC Associação Luz do Alvorecer – ALUZ, remanejando valores entre rubricas (assistente pedagógica, maestro e professores de música) após o repasse de R$ 100.000,00 em 18 de agosto e autorizando o uso dos rendimentos da conta nas metas; o número do contrato aparece em branco no título e como 071/PGM/2026 no corpo."
+   },
+   {
+    "id": 29,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEINFRA concede 12 diárias a Carlos Alberto Costa de Brito e Maria de Lourdes Mendes de Brito Silva pela recuperação de estradas vicinais em União Bandeirantes, Rio Pardo, Ponta do Abunã, Baixo Madeira e ramais da BR-319, em dias de 03 a 30/09/2026."
+   },
+   {
+    "id": 30,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SEINFRA informa que pediu à SEMA licença ambiental de operação para o cemitério de União Bandeirante, na Linha KM 01, zona rural do distrito."
+   },
+   {
+    "id": 31,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA publica extrato, assinado em 08/06/2026, do 1º aditivo ao Contrato nº 10/2025 com a Voe + Brasil Agência de Viagens (passagens aéreas nacionais e internacionais), que prorroga a vigência de 07/06/2026 a 06/06/2027, com empenhos que somam R$ 283.082,21 (um deles grafado R$ 22.7776,76, lido como R$ 22.776,76 pelo valor por extenso)."
+   },
+   {
+    "id": 32,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA designa o técnico de enfermagem Fernando da Silva Cavalcante como responsável técnico das motolâncias, sem custo adicional, a partir de 21/09/2026."
+   },
+   {
+    "id": 33,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA concede 3 diárias e meia a Ancelmo Vieira Viamonte, André Gonçalves Rodrigues, Francisco Vieira Cavalcante e João Victor Batista Silva Moreira para conferir e abastecer medicamentos em unidades de saúde do Baixo Madeira, de 05 a 08/10/2026."
+   },
+   {
+    "id": 34,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA designa Elizeth Gomes Pinto como gestora e Aluisio Carneiro como gestor substituto do Contrato nº 052/2021 com a GGK Negócios Imobiliário Ltda (aluguel de imóvel de 800 m² no Jardim Eldorado para a Rede de Frio de imunizações) e revoga a Portaria nº 07/2025; embora o título fale em fiscais, nenhum fiscal é nomeado na lista."
+   },
+   {
+    "id": 35,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTEL valida meia diária ao motorista Francisco Abreu Rosas pela viagem a União Bandeirantes, de 09 a 10/08/2026, para levar 26 estudantes-atletas aos Jogos Escolares de Rondônia (Portaria nº 186/2026)."
+   },
+   {
+    "id": 36,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA corrige a Portaria nº 138/DA/SEMA: o período de afastamento passa de 05 a 08 de setembro para 05 a 08 de novembro de 2026."
+   },
+   {
+    "id": 37,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMTI reabre e prorroga até 26/10/2026 o recebimento de contribuições da Consulta Pública ao Mercado nº 001/2026 pelo site cpsi.portovelho.ro.gov.br, marca nova reunião de imersão para 15/10/2026, das 14h às 17h, e adia o relatório consolidado para 09/11/2026."
+   },
+   {
+    "id": 38,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A EMDUR registra preços com a TB FROTAS SA (Pregão Eletrônico nº 012/EMDUR/2026) para alugar 14 carros hatch, 17 caminhonetes 4x4 e 4 micro-ônibus sem motorista e sem combustível, por R$ 496.862,92 por mês e R$ 14.905.887,60 em 30 meses, com ata válida por 12 meses prorrogáveis."
+   },
+   {
+    "id": 39,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.489/2026 abre crédito suplementar de R$ 200.000,00 na SEMAD, remanejando recursos dentro da folha de pessoal (anula o elemento 3.1.90.11 e reforça o 3.1.90.92) para cobrir a folha de setembro de 2026."
+   },
+   {
+    "id": 40,
+    "categoria": "Legislação",
+    "relevancia": "media",
+    "resumo": "A SEMED (Portaria nº 528/2026) regulamenta o acompanhamento pedagógico das escolas municipais pela DIAGEM, define deveres das equipes gestoras, dá às escolas até 15 dias úteis para responder às orientações e lista os 11 técnicos e a gestão da divisão (gerente Cássia Marisa Neres Silva)."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEINFRA concede 18 diárias a cada um de nove servidores (operadores de máquinas, motoristas e auxiliar de serviços gerais) pela recuperação de vias, pontes e bueiros nos ramais do Estudante, Cujubinzinho, Brasil, Três Marias, Acreanos e Setor Chacareiro, em dias de 08 a 30/09/2026."
+   },
+   {
+    "id": 42,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN concede 3,5 diárias (R$ 700,00 por servidor) a Antônio Carlos de Freitas e Ádara Shaiane Coelho do Nascimento para levantamento fotográfico georreferenciado e avaliação da sinalização viária em Jacy-Paraná e Nova Mutum-Paraná, de 06 a 09/10/2026, em apoio à regularização fundiária."
+   },
+   {
+    "id": 43,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTEL valida uma diária e meia ao motorista Francisco Abreu Rosas pela mesma viagem a União Bandeirantes (09 a 10/08/2026, JOER 2026), em portaria com o mesmo número (186/2026), data e processo do ato 35, que concede meia diária."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:33:26-04:00",
  "conferencia": {
   "site": 43,
@@ -406,5 +1104,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:33-04:00"
- }
+ },
+ "resumo_formato": 2
 }

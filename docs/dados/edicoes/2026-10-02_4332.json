@@ -523,8 +523,628 @@
    "trecho": "RETIFICAÇÃO DA PORTARIA Nº 74/2026/SMPDC, DE 08 DE JULHO DE 2026\n\nO SUPERINTENDENTE MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL – SMPDC, no uso de suas atribuições legais,\n\nArt. 1º Retificação da Portaria Nº 74/2026/SMPDC, de 17 de outubro de 2026.\n\nOnde se lê:\n\nRESOLVE:\n\nARBITRAR E CONCEDER: 1,0 (uma) diárias indenizatórias aos servidores abaixo relacionados, para se deslocarem ao município de\nHumaitá/AM, por meio de transporte terrestre, utilizando veículo oficial Caminhonete, Placa NCX2A71, com o objetivo de levar correntes de\ngasolina destinadas à equipe do Baixo Madeira e prestar apoio logístico"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura declara situação de emergência por estiagem em 85 localidades de Porto Velho, com cerca de 23 mil pessoas afetadas",
+  "resumo": "A edição é dominada pelo Decreto nº 22.515, que declara situação de emergência Nível II por estiagem durante 180 dias em 85 localidades rurais, ribeirinhas e indígenas e permite compras emergenciais por dispensa de licitação. Na saúde, a SEMUSA justificou três parcerias sem chamamento público com o mesmo instituto, somando R$ 780.624,00 de emendas parlamentares para salas multissensoriais de atendimento a autistas, prorrogou por 12 meses a locação do ponto de apoio da malária em Extrema e puniu um fornecedor de medicamentos com multas e impedimento de 6 meses. Em compras, a EMDUR homologou R$ 929.370,00 em concreto e a SMCL, R$ 11.500,00 em seguro de veículos da SEMEC. O restante é rotina: 13 termos de revelia tributária, 65 progressões e 2 promoções funcionais, diárias, férias e licenças, edital com 126 autuações de trânsito, resultados provisórios do concurso de Procurador e a criação da equipe de reordenamento territorial na SEMEC. Merecem acompanhamento as dispensas emergenciais que vierem do decreto, as três parcerias da SEMUSA e o registro das sanções pela CGM.",
+  "destaques": [
+   {
+    "titulo": "Emergência por estiagem por 180 dias",
+    "texto": "O Decreto nº 22.515 declara situação de emergência Nível II nas áreas afetadas pela seca, que atinge 7.442 famílias (cerca de 22.962 pessoas) em 85 localidades do Baixo, Médio e Alto Madeira, incluindo cinco aldeias indígenas. O decreto mobiliza SEMIAS, SEMUSA e SEMED, prevê pedido de apoio estadual e federal e autoriza contratações emergenciais por dispensa de licitação.",
+    "atos": [
+     11
+    ]
+   },
+   {
+    "titulo": "R$ 780,6 mil para salas sensoriais de TEA",
+    "texto": "A SEMUSA publicou três justificativas de parceria sem chamamento público com o Instituto de Desenvolvimento Social, Cultural e Ciência da Mulher na Região Norte, de R$ 250.000,00, R$ 260.000,00 e R$ 270.624,00, todas para o Projeto Espaço Sensorial: Conexão Inclusiva. Os recursos vêm de emendas parlamentares impositivas e cada termo prevê uma sala multissensorial para crianças e adolescentes com autismo.",
+    "atos": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "titulo": "Licitações homologadas na EMDUR e SMCL",
+    "texto": "A EMDUR homologou a compra de concreto FCK 25 MPA por 12 meses para a Construtubos Indústria de Artefatos de Concreto Ltda., por R$ 929.370,00. A SMCL homologou o Pregão Eletrônico nº 329/2026, de seguro total de 13 veículos da SEMEC, para a Gente Seguradora S/A por R$ 11.500,00.",
+    "atos": [
+     3,
+     22
+    ]
+   },
+   {
+    "titulo": "Fornecedor de remédios punido pela SEMUSA",
+    "texto": "A Comércio e Representações Prado Ltda. recebeu multas de R$ 110,40 e R$ 1.442,75 e ficou impedida de licitar e contratar com o Município por 6 meses por não entregar 113.500 comprimidos de Gliclazida 60mg e atrasar 46 dias a entrega de Clopidogrel 75mg. A empresa tem 15 dias úteis para recorrer e o caso vai à CGM para registro no SICAF e no CEIS.",
+    "atos": [
+     36
+    ]
+   },
+   {
+    "titulo": "67 progressões e promoções de servidores",
+    "texto": "A SEMAD concedeu 65 progressões funcionais a servidores de Controle Interno, Administração Tributária, Fiscalização, Apoio Administrativo, Educação e Saúde, com efeitos ao longo de outubro de 2026, e promoveu dois fiscais de meio ambiente a partir de 21/10/2026.",
+    "atos": [
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "titulo": "Concurso de Procurador: recursos em 5 e 6/10",
+    "texto": "Saíram os resultados provisórios da avaliação de candidatos com deficiência e da heteroidentificação de candidatos negros, com recursos das 10h de 05/10 às 18h de 06/10/2026 no site do Cebraspe. O resultado final e a convocação para inscrição definitiva e prova de títulos estão previstos para 16/10/2026.",
+    "atos": [
+     13
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 11,
+    "motivo": "O decreto autoriza contratações por dispensa de licitação emergencial (art. 75, VIII, da Lei nº 14.133/2021) durante os 180 dias de emergência, exigindo que cada processo comprove urgência, vínculo com a estiagem, preços e escolha do contratado."
+   },
+   {
+    "ato": 37,
+    "motivo": "Aditivo prorroga por 12 meses, a partir de 01/10/2026, locação contratada sem licitação; o texto chama a contratação de dispensa citando o art. 74, V (inexigibilidade), e o preâmbulo indica a locadora Nézia Braz Martins Veras representada por Gilse Menoncin, enquanto o corpo indica Gilse Menoncin como locadora."
+   },
+   {
+    "ato": 38,
+    "motivo": "Parceria de R$ 250.000,00 sem chamamento público, uma de três com a mesma entidade e o mesmo projeto publicadas na edição, que somam R$ 780.624,00."
+   },
+   {
+    "ato": 39,
+    "motivo": "Parceria de R$ 260.000,00 sem chamamento público com a mesma entidade e o mesmo objeto do Termo nº 52/2026, em processo separado."
+   },
+   {
+    "ato": 40,
+    "motivo": "Parceria de R$ 270.624,00 sem chamamento público com a mesma entidade e o mesmo objeto dos Termos nº 52 e 53/2026, em processo separado."
+   },
+   {
+    "ato": 36,
+    "motivo": "A decisão determina o envio dos autos à CGM para registrar no SICAF e no CEIS o impedimento de 6 meses da Comércio e Representações Prado Ltda., após a fase de recurso."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 3,
+    "etapa": "Homologação",
+    "modalidade": null,
+    "objeto": "Concreto FCK 25 MPA para a EMDUR por 12 meses",
+    "fornecedor": "CONSTRUTUBOS INDÚSTRIA DE ARTEFATOS DE CONCRETO LTDA.",
+    "valor": 929370.0
+   },
+   {
+    "ato": 21,
+    "etapa": "Outro",
+    "modalidade": "Pregão Eletrônico nº 90.072/2026/SMCL/PVH",
+    "objeto": "Sistema de autogestão, gerenciamento e controle de frota (designação da comissão da prova de conceito)",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 22,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 329/2026/SMCL/PVH",
+    "objeto": "Seguro total de 13 veículos da frota da SEMEC",
+    "fornecedor": "GENTE SEGURADORA S/A",
+    "valor": 11500.0
+   },
+   {
+    "ato": 36,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "Sanções por inexecução no fornecimento de Gliclazida 60mg e atraso de Clopidogrel 75mg (Nota de Empenho nº 2220/2026)",
+    "fornecedor": "COMÉRCIO E REPRESENTAÇÕES PRADO LTDA",
+    "valor": 28855.0
+   },
+   {
+    "ato": 37,
+    "etapa": "Aditivo",
+    "modalidade": "Dispensa de licitação, art. 74, inciso V, da Lei nº 14.133/21",
+    "objeto": "Prorrogação por 12 meses da locação do imóvel do Ponto de Apoio Logístico da Malária em Extrema (Contrato nº 09/2022/COJUSA/PGM/SEMUSA); empenho inicial de R$ 7.200,00 para out-dez/2026 (NE nº 3084/2026); valor total dos 12 meses não informado",
+    "fornecedor": "GILSE MENONCIN",
+    "valor": null
+   },
+   {
+    "ato": 38,
+    "etapa": "Inexigibilidade",
+    "modalidade": "Parceria sem chamamento público (arts. 29 e 31, II, da Lei nº 13.019/2014) - Termo nº 52/2026/SEMUSA-DCO",
+    "objeto": "Projeto Espaço Sensorial: Conexão Inclusiva - sala multissensorial para crianças e adolescentes com TEA",
+    "fornecedor": "Instituto de Desenvolvimento Social, Cultural e Ciencia da Mulher na Região Norte",
+    "valor": 250000.0
+   },
+   {
+    "ato": 39,
+    "etapa": "Inexigibilidade",
+    "modalidade": "Parceria sem chamamento público (arts. 29 e 31, II, da Lei nº 13.019/2014) - Termo nº 53/2026/SEMUSA-DCO",
+    "objeto": "Projeto Espaço Sensorial: Conexão Inclusiva - sala multissensorial para crianças e adolescentes com TEA",
+    "fornecedor": "Instituto de Desenvolvimento Social, Cultural e Ciencia da Mulher na Região Norte",
+    "valor": 260000.0
+   },
+   {
+    "ato": 40,
+    "etapa": "Inexigibilidade",
+    "modalidade": "Parceria sem chamamento público (arts. 29 e 31, II, da Lei nº 13.019/2014) - Termo nº 54/2026/SEMUSA-DCO",
+    "objeto": "Projeto Espaço Sensorial: Conexão Inclusiva - sala multissensorial para crianças e adolescentes com TEA",
+    "fornecedor": "Instituto de Desenvolvimento Social, Cultural e Ciencia da Mulher na Região Norte",
+    "valor": 270624.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-05",
+    "hora": "10:00",
+    "evento": "Abertura do prazo de recurso contra resultados provisórios (PcD e heteroidentificação) do concurso de Procurador, no site do Cebraspe",
+    "ato": 13
+   },
+   {
+    "data": "2026-10-06",
+    "hora": "18:00",
+    "evento": "Fim do prazo de recurso contra resultados provisórios do concurso de Procurador (horário de Brasília)",
+    "ato": 13
+   },
+   {
+    "data": "2026-10-12",
+    "hora": null,
+    "evento": "Prazo de 10 dias da publicação para a SMPDC enviar pelo S2ID o pedido de reconhecimento federal da emergência por estiagem",
+    "ato": 11
+   },
+   {
+    "data": "2026-10-16",
+    "hora": null,
+    "evento": "Data provável do resultado final (PcD e heteroidentificação) e da convocação para inscrição definitiva e prova de títulos do concurso de Procurador",
+    "ato": 13
+   },
+   {
+    "data": "2026-11-01",
+    "hora": null,
+    "evento": "Fim do prazo de 30 dias para defesa da autuação ou indicação do condutor no Edital de Notificação de Autuação nº 211/2026 da SEMTRAN",
+    "ato": 56
+   },
+   {
+    "data": "2027-03-31",
+    "hora": null,
+    "evento": "Término previsto da situação de emergência por estiagem (180 dias da publicação), salvo encerramento antecipado ou novo decreto",
+    "ato": 11
+   }
+  ],
+  "normas": [
+   {
+    "ato": 11,
+    "identificacao": "Decreto nº 22.515, de 01/10/2026",
+    "o_que_muda": "Declara situação de emergência por estiagem por 180 dias em 85 localidades rurais, ribeirinhas e indígenas, coloca SEMIAS, SEMUSA e SEMED sob coordenação da Defesa Civil para abastecimento de água, assistência e saúde, e permite compras emergenciais por dispensa de licitação. A inclusão de novas áreas depende de laudo técnico e de alteração do decreto, e não há prorrogação automática."
+   },
+   {
+    "ato": 53,
+    "identificacao": "Portaria nº 85/2026-SEMEC, de 01/10/2026",
+    "o_que_muda": "Cria a Equipe Técnica Municipal para o Reordenamento Territorial (ETM-RT), que vai trabalhar na divisão político-administrativa do município, na reconfiguração urbana do Distrito-Sede e na delimitação de perímetros urbanos e bairros das vilas dos distritos. Revoga a Portaria nº 82, de 09/09/2026, e convalida os atos praticados sob ela."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 1,
+     "acao": "Designação",
+     "nome": "Alessandra de Souza Xavier",
+     "cargo": "Presidente da Comissão de Planejamento e Organização do Natal Porto Luz 2026 - EMDUR"
+    },
+    {
+     "ato": 1,
+     "acao": "Designação",
+     "nome": "Antonio Luis Barroso",
+     "cargo": "Membro da Comissão de Planejamento e Organização do Natal Porto Luz 2026 - EMDUR"
+    },
+    {
+     "ato": 1,
+     "acao": "Designação",
+     "nome": "Gabriela Santos de Castro",
+     "cargo": "Membro da Comissão de Planejamento e Organização do Natal Porto Luz 2026 - EMDUR"
+    },
+    {
+     "ato": 1,
+     "acao": "Designação",
+     "nome": "Alcidineia Vizone dos Santos",
+     "cargo": "Membro da Comissão de Planejamento e Organização do Natal Porto Luz 2026 - EMDUR"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Cahio Sherighan Benjamin Lima",
+     "cargo": "Defensor dativo em processo administrativo disciplinar - PGM"
+    },
+    {
+     "ato": 21,
+     "acao": "Designação",
+     "nome": "Tauane Síngara Moreira de Amorim",
+     "cargo": "Presidente da Comissão Técnica de Avaliação da Prova de Conceito do Pregão Eletrônico nº 90.072/2026 - SMCL"
+    },
+    {
+     "ato": 21,
+     "acao": "Designação",
+     "nome": "Ane Gabriele Barros de Oliveira",
+     "cargo": "Membro da Comissão Técnica de Avaliação da Prova de Conceito do Pregão Eletrônico nº 90.072/2026 - SMCL"
+    },
+    {
+     "ato": 21,
+     "acao": "Designação",
+     "nome": "Jhônatha Diogo Siqueira Carriel Inacio",
+     "cargo": "Membro da Comissão Técnica de Avaliação da Prova de Conceito do Pregão Eletrônico nº 90.072/2026 - SMCL"
+    },
+    {
+     "ato": 53,
+     "acao": "Designação",
+     "nome": "Larissa Ananda Paiva Maciel",
+     "cargo": "Coordenação da Equipe Técnica Municipal para o Reordenamento Territorial (SEPLAN) - SEMEC"
+    },
+    {
+     "ato": 53,
+     "acao": "Designação",
+     "nome": "Fabiana de Oliveira",
+     "cargo": "Coordenação da Equipe Técnica Municipal para o Reordenamento Territorial (DIPLAD) - SEMEC"
+    },
+    {
+     "ato": 53,
+     "acao": "Designação",
+     "nome": "Camila Fávero Loss",
+     "cargo": "Coordenação da Equipe Técnica Municipal para o Reordenamento Territorial (DAPE) - SEMEC"
+    },
+    {
+     "ato": 53,
+     "acao": "Designação",
+     "nome": "Shahira Delia Carrafa Reyes Ortiz",
+     "cargo": "Coordenação da Equipe Técnica Municipal para o Reordenamento Territorial (DMAP) - SEMEC"
+    }
+   ],
+   "rotina": "Completam a edição 65 progressões e 2 promoções funcionais na SEMAD, alterações de férias no IPAM, diárias para viagens a Curitiba, São Paulo, Guayaramerín (Bolívia), Baixo Madeira, União Bandeirantes, Boca do Jamari e Humaitá, licenças-prêmio e para interesse particular na SEMED, duas vacâncias de cargo, prorrogação de redução de jornada na SEMIAS e prorrogação de comissão da EMDUR."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "A EMDUR altera a Portaria nº 173/2026 e designa Alessandra de Souza Xavier (presidente), Antonio Luis Barroso, Gabriela Santos de Castro e Alcidineia Vizone dos Santos para a comissão que planeja o Natal Porto Luz 2026, com gratificação de 3% sobre o subsídio do Diretor-Presidente."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A EMDUR prorroga por 60 dias, com efeitos desde 19/09/2026, a Comissão de Avaliação da Percepção da População sobre os Espaços Públicos Urbanos, presidida por Maria José Barroso, com gratificação de 3% sobre o subsídio do Diretor-Presidente."
+   },
+   {
+    "id": 3,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A EMDUR adjudica e homologa a compra de concreto FCK 25 MPA por 12 meses para a Construtubos Indústria de Artefatos de Concreto Ltda. (lote 01), no valor total de R$ 929.370,00."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM altera as férias 2024/2025 do assistente administrativo Lincoln Duarte Almeida para 13/10 a 22/10/2026 e 16/11 a 25/11/2026."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM transfere as férias 2025/2026 de Lincoln Duarte Almeida, antes marcadas para setembro, para 05/07 a 24/07/2027."
+   },
+   {
+    "id": 6,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM concede 3½ diárias e um auxílio-deslocamento a cada uma de Mônica Jappe Goller Kuhn (Procuradora-Geral) e Ilza Neyara Silva Marques para o XX Congresso Brasileiro de Direito Previdenciário, em Curitiba (PR), em 08 e 09/10/2026."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM concede 5½ diárias e um auxílio-deslocamento à Controladora-Geral interina Aline Sumeck Bombonato para capacitação em auditoria governamental, controle e compliance da ESAFI em São Paulo, de 19 a 24/11/2026."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM transfere as férias de Neuzilene Borcart Freires Passos, chefe da Divisão de Notas Fiscais e Conferência, para 05/01 a 24/01/2027."
+   },
+   {
+    "id": 9,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM altera as férias de Edicleyson Oliveira da Silva, chefe da Divisão de Serviço Social, para 02/09 a 11/09/2026 e 10/11 a 19/11/2026."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Procuradoria-Geral do Município designa o servidor Cahio Sherighan Benjamin Lima (OAB/RO 14.477) como defensor dativo da acusada no processo disciplinar nº 009.010333/2026-12, para apresentar defesa escrita."
+   },
+   {
+    "id": 11,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.515 declara situação de emergência Nível II por estiagem por 180 dias em 85 localidades do Baixo, Médio e Alto Madeira, com 7.442 famílias (cerca de 22.962 pessoas, 517 delas em cinco aldeias) afetadas, prevê pedido de reconhecimento federal em 10 dias e permite compras emergenciais por dispensa de licitação."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.516 valida a viagem da Secretária de Saúde Sandra Maria Petillo Cardoso a Guayaramerín (Bolívia), de 30/09 a 02/10/2026, com 2½ diárias, para oficina e reunião técnica sobre saúde na fronteira."
+   },
+   {
+    "id": 13,
+    "categoria": "Concursos e seleções",
+    "relevancia": "media",
+    "resumo": "O Edital nº 26 do concurso de Procurador do Município divulga resultados provisórios: Amanda Aparecida Paula de Carvalho Fagundes e Deydson Maycon Mendes Santos considerados pessoas com deficiência, Edson Carlos Batista Portela e Savanna Victoria da Silva Lima considerados negros; recursos das 10h de 05/10 às 18h de 06/10/2026 no site do Cebraspe e resultado final previsto para 16/10/2026."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede 3 meses de licença-prêmio à agente de secretaria escolar Patricia da Silva Lima Antunes (SEMED), de 13/10/2026 a 10/01/2027."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede 1 mês de licença-prêmio à professora Valdineia Barreto Coelho (SEMED), de 01/09 a 30/09/2026."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede 3 meses de licença para tratar de interesse particular à cuidadora de alunos Mirian de Lima Bezerra (SEMED), de 09/10/2026 a 06/01/2027."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD declara vagos, a partir de 31/08/2026, os cargos de Professor e Especialista em Educação ocupados por Telma Maria Aroncio Azevedo (SEMED), em razão de seu falecimento."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD declara vago o cargo de merendeira escolar de Maria Yuri Guacyara de Aguiar Silva Santos (SEMED), de 25/09/2026 a 23/09/2029, por posse em outro cargo inacumulável."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD prorroga a redução de 50% da jornada, sem corte de salário, da auxiliar de serviços sociais Jusiene Nunes de Castro (SEMIAS), de 14/08/2026 a 13/08/2027."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC valida 10 diárias inteiras e 10 meias diárias, em agosto de 2026, para Ailton Mendes da Silva e Gildasio de Souza Hermogenes, que deram apoio à agricultura familiar em Rio Pardo, União Bandeirantes e outras localidades rurais."
+   },
+   {
+    "id": 21,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMCL designa Tauane Síngara Moreira de Amorim (presidente), Ane Gabriele Barros de Oliveira e Jhônatha Diogo Siqueira Carriel Inacio para avaliar a prova de conceito do sistema de controle de frota do Pregão Eletrônico nº 90.072/2026, em sessão gravada na sede da SMCL (Rua México, 2331), das 8h às 14h, em data a ser fixada pelo pregoeiro."
+   },
+   {
+    "id": 22,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMCL homologa o Pregão Eletrônico nº 329/2026 para a Gente Seguradora S/A, que fará o seguro total de 13 veículos da SEMEC por R$ 11.500,00."
+   },
+   {
+    "id": 23,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0235/2026: Digao Auto Center Ltda. não se defendeu nem pagou a Notificação Fiscal 16011/2026, tornou-se revel em 03/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 24,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0236/2026: Claudenilson Alves não se defendeu da Notificação Fiscal 16009/2026, tornou-se revel em 03/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 25,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0237/2026: Moreira Garcia Negocios Ltda. não se defendeu da Notificação Fiscal 16004/2026, tornou-se revel em 03/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 26,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0238/2026: João Batista Araujo não se defendeu da Notificação Fiscal 013/2026, tornou-se revel em 04/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 27,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0239/2026: Pamala Menezes Bezerra não se defendeu das Notificações Fiscais 004, 005 e 006/2026, tornou-se revel em 16/04/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 28,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0240/2026: Bertolini Eventos Ltda-ME não se defendeu da Notificação Fiscal 15177/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 29,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0241/2026: Francisco Raimundo Borges não se defendeu da Notificação Fiscal 15222/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 30,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0242/2026: Francisco Raimundo Borges não se defendeu da Notificação Fiscal 15221/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 31,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0243/2026: Bertolini Eventos Ltda-ME não se defendeu da Notificação Fiscal 15182/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 32,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0244/2026: Bertolini Eventos Ltda-ME não se defendeu da Notificação Fiscal 15180/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 33,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0245/2026: João Paulo de Oliveira não se defendeu da Notificação Fiscal 15220/2026, tornou-se revel em 03/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 34,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0246/2026: João Paulo de Oliveira não se defendeu da Notificação Fiscal 15219/2026, tornou-se revel em 03/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 35,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "Termo de Revelia nº 0247/2026: João Aparecido dos Santos não se defendeu da Notificação Fiscal 7392/2026, tornou-se revel em 10/09/2026 e o débito irá para dívida ativa."
+   },
+   {
+    "id": 36,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA multa a Comércio e Representações Prado Ltda. em R$ 110,40 (46 dias de atraso do Clopidogrel 75mg) e R$ 1.442,75 (falta de entrega de 113.500 comprimidos de Gliclazida 60mg da Nota de Empenho nº 2220/2026, de R$ 28.855,00) e a impede de licitar e contratar com o Município por 6 meses, com 15 dias úteis para recurso."
+   },
+   {
+    "id": 37,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "Quarto aditivo prorroga por 12 meses, a partir de 01/10/2026, a locação do imóvel que abriga o Ponto de Apoio Logístico da Malária em Extrema, com empenho de R$ 7.200,00 para outubro a dezembro de 2026; o preâmbulo cita Nézia Braz Martins Veras representada por Gilse Menoncin, e o corpo e a assinatura trazem Gilse Menoncin como locadora."
+   },
+   {
+    "id": 38,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA justifica parceria sem chamamento público, com recurso de emenda parlamentar, de R$ 250.000,00 com o Instituto de Desenvolvimento Social, Cultural e Ciência da Mulher na Região Norte para implantar uma sala multissensorial para crianças e adolescentes com TEA, com vigência de 1 ano após a liberação do recurso."
+   },
+   {
+    "id": 39,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA justifica nova parceria sem chamamento público, de R$ 260.000,00, com o mesmo instituto e o mesmo Projeto Espaço Sensorial: Conexão Inclusiva (uma sala multissensorial para TEA), em processo separado e com recurso de emenda parlamentar."
+   },
+   {
+    "id": 40,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA justifica uma terceira parceria sem chamamento público, de R$ 270.624,00, com o mesmo instituto e o mesmo Projeto Espaço Sensorial: Conexão Inclusiva, também paga com emenda parlamentar."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTEL valida 1½ diária ao motorista Francisco Abreu Rosas, que levou 26 estudantes-atletas e técnicos a União Bandeirantes para a fase regional dos Jogos Escolares de Rondônia (JOER 2026), em 09 e 10/08/2026."
+   },
+   {
+    "id": 42,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMTEL valida ½ diária ao motorista Francisco Abreu Rosas pelo transporte de estudantes-atletas a União Bandeirantes para os JOER 2026, em 16/08/2026."
+   },
+   {
+    "id": 43,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA concede 12½ diárias a cada um de cinco servidores que irão de barco ao Distrito de Nazaré, no Baixo Madeira, de 19 a 31/10/2026, para remover três árvores de alto risco e fazer manejo arbóreo nos distritos."
+   },
+   {
+    "id": 44,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Defesa Civil concede meia diária a Natanael Machado Araújo pela ida à comunidade Boca do Jamari em 31/07/2026 para buscar servidores, missão não concluída por falha de comunicação."
+   },
+   {
+    "id": 45,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão de C-III para C-IV, a partir de 01/10/2026, a cinco servidores do Grupo de Controle Interno: três auditores e dois técnicos de controle interno."
+   },
+   {
+    "id": 46,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão de D-III para D-IV a sete auditores fiscais da Receita Municipal, com efeitos entre 08/10 e 25/10/2026."
+   },
+   {
+    "id": 47,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão a dois fiscais municipais: Pedro Vitor Teixeira Fusa (Obras, a partir de 04/10/2026) e Romer Soares Paz (Meio Ambiente, a partir de 16/10/2026)."
+   },
+   {
+    "id": 48,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão a sete servidores do Grupo de Apoio Técnico, Administrativo e Operacional, com efeitos entre 04/10 e 30/10/2026."
+   },
+   {
+    "id": 49,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão a 30 servidores do Grupo Ocupacional da Educação (professores, merendeiras, agentes de limpeza e de secretaria escolar, entre outros), com efeitos entre 01/10 e 31/10/2026."
+   },
+   {
+    "id": 50,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD concede progressão a 14 servidores do Grupo Ocupacional da Saúde (médico, técnicos de enfermagem, assistentes sociais, nutricionistas e outros), com efeitos entre 01/10 e 30/10/2026."
+   },
+   {
+    "id": 51,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD promove o fiscal municipal de meio ambiente Gabriel Ediu dos Santos Pereira de D-IV para E-I a partir de 21/10/2026."
+   },
+   {
+    "id": 52,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD promove a fiscal municipal de meio ambiente Maria Euda de Sousa Dias de D-IV para E-I a partir de 21/10/2026."
+   },
+   {
+    "id": 53,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SEMEC cria a Equipe Técnica Municipal para o Reordenamento Territorial, com 4 coordenadoras e 26 membros de várias secretarias, sem remuneração extra, para revisar a divisão político-administrativa, a área urbana do Distrito-Sede e os perímetros das vilas dos distritos, e revoga a Portaria nº 82/2026; o art. 15 aparece cortado no texto."
+   },
+   {
+    "id": 54,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA concede 2½ diárias internacionais a Ricardo Guedes Brandão para a oficina e a reunião sobre saúde na fronteira em Guajará-Mirim e Guayaramerín (Bolívia), de 30/09 a 02/10/2026."
+   },
+   {
+    "id": 55,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA concede 3 diárias nacionais e 1½ internacional a cada uma de Tassia Vale Barroso e Leticia Alves Gomes da Silva para o mesmo evento de saúde na fronteira, de 28/09 a 02/10/2026."
+   },
+   {
+    "id": 56,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "O Edital de Notificação de Autuação nº 211/2026 da SEMTRAN notifica proprietários de veículos de 126 autos de infração de trânsito (105 com código 6050-3) e abre 30 dias para defesa ou indicação do condutor na SEMTRAN (Av. Amazonas, 698); a lista tem datas e uma placa com erro de digitação."
+   },
+   {
+    "id": 57,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Defesa Civil retifica a Portaria nº 74/2026 para validar, em vez de conceder, diárias de 0,5 a 1,0 a quatro servidores que levaram combustível a Humaitá (AM) para a equipe do Baixo Madeira em 15 e 16/09/2026; o texto cita a portaria original com duas datas diferentes (08/07 e 17/10/2026)."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:34:18-04:00",
  "conferencia": {
   "site": 57,
@@ -532,5 +1152,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:34-04:00"
- }
+ },
+ "resumo_formato": 2
 }

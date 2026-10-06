@@ -379,8 +379,508 @@
    "trecho": "Porto Velho, 01 de outubro de 2026.\n\nConsiderando que o presente processo foi objeto de análise pela unidade executora de Controle Interno ou órgão equivalente, ou ainda, por comissão\nde servidores designada pelo ordenador de despesa – em cumprimento as atribuições do art. 10 do Decreto nº 15.403/2018, tendo sido constatado que\na despesa do processo Nº 005.015752/2026-72 - SOLICITAÇÃO DE DIÁRIA PARA ENTREGA DE MEDICAMENTOS NAS UNIDADES DA\nBR 364, BR 319, EST. DA PENAL..., encontra-se, APTA para ser homologada nos termos do Decreto n.° 17.353, de 09 de Julho de 2021, e nos\ntermos do art. 1º do "
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Prefeitura republica a lei que cria o Programa Comunidade Viva para levar praças, quadras e áreas de lazer aos conjuntos habitacionais populares de Porto Velho",
+  "resumo": "A edição traz 41 atos de Porto Velho, com predomínio de atos de pessoal da SEMAD e de autorizações e cancelamentos de táxi da SEMTRAN. O destaque normativo é a republicação da Lei nº 3.519/2026, que cria o Programa Comunidade Viva e os Espaços de Convivência e Integração Social (ECIS) em empreendimentos habitacionais de interesse social. Nas contratações, a SMCL homologou por R$ 497.000,00 a compra de um grupo gerador para a Maternidade Mãe Esperança, e a SEMUSA publicou quatro apostilamentos que somam R$ 2.464.554,69 em empenhos. Pedem acompanhamento o 5º termo aditivo, que prorroga por 12 meses o contrato de rastreamento veicular com a ESC, a justificativa de parceria sem chamamento público com a ASSBENH e os atos disciplinares: multa a uma servidora por assédio moral, demissão de uma médica da SEMUSA e abertura de novo PAD.",
+  "destaques": [
+   {
+    "titulo": "Lei cria o Programa Comunidade Viva",
+    "texto": "A Lei nº 3.519/2026, republicada, institui a política de qualificação dos conjuntos habitacionais de interesse social e cria os ECIS (academias ao ar livre, parquinhos, quadras, praças, hortas, iluminação), sob coordenação da SEMDEC. A escolha dos locais segue critérios objetivos e depende de Plano de Intervenção, regulamentação e orçamento.",
+    "atos": [
+     6
+    ]
+   },
+   {
+    "titulo": "Gerador para a Maternidade Mãe Esperança",
+    "texto": "A SMCL homologou o Pregão Eletrônico nº 257/2026 em favor da Geraforte Grupos Geradores Ltda, por R$ 497.000,00, para fornecimento, instalação e comissionamento de um grupo gerador na maternidade municipal.",
+    "atos": [
+     21
+    ]
+   },
+   {
+    "titulo": "R$ 2,46 milhões em apostilamentos na Saúde",
+    "texto": "Três apostilamentos ao contrato da Kapital Serviços Terceirizados (5º, 6º e 7º) reservam R$ 2.221.471,95 para SAMU, atenção especializada e maternidade, e o 8º apostilamento ao contrato com a Silva Marinho Negócios Imobiliários reserva R$ 243.082,74 para julho a dezembro.",
+    "atos": [
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "titulo": "Assédio moral e processos disciplinares",
+    "texto": "O prefeito multou uma servidora da Biblioteca Municipal Viveiro das Letras por assédio moral (suspensão de 60 dias convertida em multa) e a SEMAD designou o comitê gestor da política de prevenção ao assédio. A SEMAD também demitiu uma médica da SEMUSA, e a PGM abriu novo PAD e notificou por edital um servidor em local incerto.",
+    "atos": [
+     1,
+     10,
+     11,
+     3,
+     2
+    ]
+   },
+   {
+    "titulo": "29 professores temporários convocados",
+    "texto": "SEMAD e SEMED convocam 29 classificados do processo seletivo simplificado para professor nível II 25h, em Porto Velho e em distritos como Extrema, Abunã, São Carlos, Nova Califórnia e Aliança, com 15 dias para entregar documentos e exames.",
+    "atos": [
+     9
+    ]
+   },
+   {
+    "titulo": "Rastreamento da frota prorrogado de novo",
+    "texto": "A SGOV prorrogou por mais 12 meses, a partir de 07/10/2026, o contrato de 2021 com a ESC Empresa de Comunicação e Segurança Ltda para telemetria e rastreamento veicular, prevendo rescisão amigável quando a nova licitação terminar.",
+    "atos": [
+     7
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 7,
+    "motivo": "Aditivo de prazo: 5º termo aditivo ao Contrato nº 065/PGM/2021 (firmado sob a Lei nº 8.666/93) prorroga a vigência por 12 meses a partir de 07/10/2026 e prevê rescisão amigável quando a nova licitação for concluída; o valor total da prorrogação não é informado."
+   },
+   {
+    "ato": 23,
+    "motivo": "Justificativa de parceria sem chamamento público com organização da sociedade civil (art. 29 da Lei nº 13.019/2014), com recursos de emenda impositiva; o Termo de Fomento ainda será formalizado e o extrato não informa valor."
+   },
+   {
+    "ato": 26,
+    "motivo": "Apostilamento datado de 18/08/2026, referente a despesas de julho, só foi assinado pela secretária em 05/10/2026, e o código programático indicado para o SAMU (2.396) é o mesmo usado para a maternidade."
+   },
+   {
+    "ato": 13,
+    "motivo": "Retificação altera o prazo da substituição no cargo de Gerente II da SEMAD, cujo término passa de 30/10 para 20/10/2026."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 7,
+    "etapa": "Aditivo",
+    "modalidade": null,
+    "objeto": "Prorrogação por 12 meses do serviço de telemetria, rastreamento e monitoramento veicular (Contrato nº 065/PGM/2021, 5º termo aditivo); R$ 1.535,82 reservados apenas para out–dez/2026; valor total da prorrogação não informado",
+    "fornecedor": "ESC EMPRESA DE COMUNICAÇÃO E SEGURANÇA LTDA",
+    "valor": null
+   },
+   {
+    "ato": 21,
+    "etapa": "Homologação",
+    "modalidade": "Pregão Eletrônico nº 257/2026/SMCL/PVH",
+    "objeto": "Aquisição e instalação de grupo gerador para a Maternidade Municipal Mãe Esperança",
+    "fornecedor": "GERAFORTE GRUPOS GERADORES LTDA",
+    "valor": 497000.0
+   },
+   {
+    "ato": 23,
+    "etapa": "Outro",
+    "modalidade": "Parceria sem chamamento público (art. 29 da Lei nº 13.019/2014)",
+    "objeto": "Projeto “Novos Talentos da Barbearia: Formação Profissional para Barbeiros”, com recursos da Emenda Parlamentar Impositiva nº 0030/2026",
+    "fornecedor": "Associação Beneficente Novo Horizonte – ASSBENH",
+    "valor": null
+   },
+   {
+    "ato": 25,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "6º apostilamento ao Contrato nº 02/2024/COJUSA/PGM: dotações para SAMU, atenção especializada e maternidade",
+    "fornecedor": "KAPITAL SERVIÇOS TERCEIRIZADOS EIRELI",
+    "valor": 1023198.09
+   },
+   {
+    "ato": 26,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "5º apostilamento ao Contrato nº 02/2024/COJUSA/PGM: dotações de julho de 2026 para SAMU, atenção especializada e maternidade",
+    "fornecedor": "KAPITAL SERVIÇOS TERCEIRIZADOS EIRELI",
+    "valor": 712933.41
+   },
+   {
+    "ato": 27,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "8º apostilamento ao Contrato nº 002/2022/COJUSA/PGM/SEMUSA: dotação de julho a dezembro de 2026 para a atenção especializada",
+    "fornecedor": "SILVA MARINHO NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+    "valor": 243082.74
+   },
+   {
+    "ato": 28,
+    "etapa": "Outro",
+    "modalidade": null,
+    "objeto": "7º apostilamento ao Contrato nº 02/2024/COJUSA/PGM: dotação de setembro de 2026 para a atenção especializada",
+    "fornecedor": "KAPITAL SERVIÇOS TERCEIRIZADOS LTDA",
+    "valor": 485340.45
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-07",
+    "hora": null,
+    "evento": "Começa a prorrogação de 12 meses do contrato de rastreamento veicular com a ESC (5º aditivo).",
+    "ato": 7
+   },
+   {
+    "data": "2026-10-16",
+    "hora": null,
+    "evento": "Termina o prazo de 10 dias para o servidor Luis Fernando Adriano Cassupá comparecer à SPPD/PGM no PAD nº 009.002657/2025-98; sem comparecimento, o processo segue.",
+    "ato": 2
+   },
+   {
+    "data": "2026-10-16",
+    "hora": null,
+    "evento": "Termina o prazo de 10 dias para os 8 servidores convocados pelo Edital de Comparecimento nº 004/2026/DIAS/DGP/SEMAD comparecerem à Divisão de Atendimento ao Servidor da SEMAD.",
+    "ato": 8
+   },
+   {
+    "data": "2026-10-20",
+    "hora": "09:00",
+    "evento": "Sessão virtual do Conselho de Recursos Fiscais julga o recurso contra o Auto de Infração nº 7828 (Geisy Drebor); pedido para participar deve ser enviado com 3 dias úteis de antecedência.",
+    "ato": 24
+   },
+   {
+    "data": "2026-10-21",
+    "hora": null,
+    "evento": "Termina o prazo de 15 dias para os 29 professores convocados (Edital nº 051/SEMAD/SEMED/2025) entregarem documentos na SEMAD e exames admissionais; quem não entregar é tido como desistente.",
+    "ato": 9
+   },
+   {
+    "data": "2026-10-21",
+    "hora": null,
+    "evento": "Termina o prazo de 15 dias corridos para a Bairro Novo Porto Velho Empreendimento Imobiliário S/A apresentar defesa contra o Auto de Infração nº 15229 (multa de R$ 54.260,00) na SEMDEC.",
+    "ato": 22
+   }
+  ],
+  "normas": [
+   {
+    "ato": 6,
+    "identificacao": "Lei nº 3.519, de 21/09/2026 (republicação)",
+    "o_que_muda": "Cria a Política Municipal de Qualificação dos Empreendimentos Habitacionais de Interesse Social e o Programa Comunidade Viva, que poderá implantar ou reformar áreas de esporte, lazer e convivência (ECIS) em conjuntos habitacionais de baixa renda escolhidos por critérios objetivos e com Plano de Intervenção. A SEMDEC coordena; obras em áreas privadas ou de condomínio exigem autorização formal, e a execução depende de regulamentação e de orçamento."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 5,
+     "acao": "Outro",
+     "nome": "AYRES EDUARDO SERVO RAUEN",
+     "cargo": "Assessor Especial II (DAS 13), Gabinete da Secretaria de Governo – SGOV (exoneração tornada sem efeito)"
+    },
+    {
+     "ato": 13,
+     "acao": "Substituição",
+     "nome": "RENATA LEITAO SILVA",
+     "cargo": "Gerente II (DAS-05) da SEMAD, em substituição a Monica Gil Passos, em férias, de 01/10 a 20/10/2026 (período retificado)"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Bruna Tailine Rodrigues de Carvalho",
+     "cargo": "Titular e coordenadora do Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação, representando a SEMAD"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Antônio Figueiredo de Lima Filho",
+     "cargo": "Suplente da SEMAD no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Camila Tailande Loiola dos Anjos",
+     "cargo": "Titular da Ouvidoria Municipal no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Rosália dos Santos Costa",
+     "cargo": "Suplente da Ouvidoria Municipal no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Francisca Josiane de Oliveira Silva",
+     "cargo": "Titular da Saúde Ocupacional (DSO/SEMAD) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Ruth Natiele Alves Carril",
+     "cargo": "Suplente da Saúde Ocupacional (DSO/SEMAD) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Jeoval Batista da Silva",
+     "cargo": "Titular da Controladoria-Geral do Município (CGM) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Henrique Ludovico Gaio",
+     "cargo": "Suplente da Controladoria-Geral do Município (CGM) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Andréa Mariza Pantoja",
+     "cargo": "Titular da Procuradoria-Geral do Município (PGM) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    },
+    {
+     "ato": 10,
+     "acao": "Designação",
+     "nome": "Francisco Alberto Lacerda",
+     "cargo": "Suplente da Procuradoria-Geral do Município (PGM) no Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio e à Discriminação"
+    }
+   ],
+   "rotina": "Completam a edição a demissão da médica Laryssa Fernanda Feitosa Furtado (SEMUSA), com efeitos desde 24/06/2024, o julgamento de PAD que multou servidora da SEMED por assédio moral, a abertura de novo PAD pela PGM e a notificação por edital de um servidor em local incerto, uma exoneração a pedido e uma vacância na SEMED, a cedência de uma professora ao Governo do Estado, uma licença sem remuneração para acompanhar cônjuge, duas reduções de jornada de 50% para professoras, diárias para a diretora interina do IPAM, a homologação de R$ 1.500,00 em diárias da SEMUSA e um edital chamando 8 servidores à SEMAD."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "O prefeito Leonardo Barreto de Moraes julga o PAD nº 009.003417/2025-19 (SEMED, Biblioteca Municipal Viveiro das Letras): absolve o diretor A. D. dos S. e arquiva o caso dele, absolve a artífice F. V. S. S. da acusação de deixar terceiros registrarem seu ponto, mas a condena por assédio moral contra colegas, com suspensão de 60 dias convertida em multa de 50% da remuneração por dia, e pede à SEMED que avalie sua relotação; cabe pedido de reconsideração em 8 dias da ciência."
+   },
+   {
+    "id": 2,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Comissão processante publica o 2º edital de notificação ao servidor Luis Fernando Adriano Cassupá, agente de limpeza escolar em local incerto, para comparecer em 10 dias, contados do primeiro dia útil após a publicação, na SPPD/PGM (Av. Sete de Setembro, 1044, sala 209) no PAD nº 009.002657/2025-98; sem comparecimento, o processo segue."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "O procurador-geral Salatiel Lemos Valverde instaura PAD no Processo nº 004.003313/2025-46, com prazo de 60 dias prorrogáveis, e forma comissão presidida por Eduardo Pinheiro Dias, com Emiliana Literone Andrade Martins e Leila Maria Santos Souza (suplente Stanley Jorge Maloney); a portaria não descreve os fatos apurados."
+   },
+   {
+    "id": 4,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Decreto nº 22.517 concede 3 diárias e meia e adicional de deslocamento à diretora-presidente interina do IPAM, Priscilla Bezerra Giroto Farias Lima, para o XX Congresso Brasileiro de Direito Previdenciário, em Curitiba/PR, de 07/10 a 10/10/2026; o valor não é informado."
+   },
+   {
+    "id": 5,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Decreto nº 3.734/I torna sem efeito a exoneração de Ayres Eduardo Servo Rauen do cargo de Assessor Especial II (DAS 13) do Gabinete da SGOV, que constava do Decreto nº 3.723/I, de 18/09/2026, a partir de 10/09/2026."
+   },
+   {
+    "id": 6,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "Republicação da Lei nº 3.519, de 21/09/2026, que institui a Política Municipal de Qualificação dos Empreendimentos Habitacionais de Interesse Social e cria o Programa Comunidade Viva e os ECIS (academias ao ar livre, parquinhos, quadras, praças, hortas, iluminação), coordenados pela SEMDEC, com seleção por critérios objetivos, Plano de Intervenção obrigatório e regras para obras em áreas condominiais; a execução depende de regulamentação e orçamento."
+   },
+   {
+    "id": 7,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SGOV assina o 5º termo aditivo ao Contrato nº 065/PGM/2021 com a ESC Empresa de Comunicação e Segurança Ltda (telemetria, rastreamento e monitoramento veicular), prorrogando-o por 12 meses a partir de 07/10/2026, com R$ 1.535,82 reservados para outubro a dezembro e rescisão amigável quando a nova licitação for concluída."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD convoca 8 servidores, entre eles Gerson Gonçalves e Margareth Batista de Oliveira, a comparecer em 10 dias na Divisão de Atendimento ao Servidor (Rua Duque de Caxias, 186, Arigolândia, das 8h às 14h) para tratar de assunto de seu interesse."
+   },
+   {
+    "id": 9,
+    "categoria": "Concursos e seleções",
+    "relevancia": "media",
+    "resumo": "SEMAD e SEMED convocam 29 classificados do processo seletivo simplificado do Edital nº 051/SEMAD/SEMED/2025 para professor nível II 25h, em Porto Velho e distritos (Baixo Madeira, Santa Rita, Aliança, São Carlos, Joana D'Arc, Abunã, Extrema e Nova Califórnia), com 15 dias a partir da publicação para entregar documentos na SEMAD (Rua Duque de Caxias, 186, das 8h às 14h) e fazer exames na Clínica Total Life."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 16/2026/SEMAD designa os 10 membros (titulares e suplentes da SEMAD, Ouvidoria, Saúde Ocupacional, CGM e PGM) do Comitê Gestor da Política de Prevenção e Enfrentamento ao Assédio Moral, ao Assédio Sexual e à Discriminação, coordenado pela secretária Bruna Tailine Rodrigues de Carvalho, sem remuneração adicional."
+   },
+   {
+    "id": 11,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "Portaria nº 1477/2026 demite a médica Laryssa Fernanda Feitosa Furtado, da SEMUSA, por transgressão disciplinar (art. 156, III e X, da LC nº 385/2010), com efeitos desde 24/06/2024, data do julgamento publicado."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Cede a professora Jucicleide Theodoro da Silva, lotada na SEMA, ao Governo do Estado de Rondônia de 15/06/2026 a 31/12/2026, com ônus para o Município e reembolso mensal pelo Estado."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Retifica a Portaria nº 1492/2026: Renata Leitão Silva substitui Monica Gil Passos, em férias, no cargo de Gerente II (DAS-05) da SEMAD de 01/10 a 20/10/2026, e não mais até 30/10/2026."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Exonera, a pedido, a professora Ingride de Oliveira Moreira Marques Alfaia, da SEMED, a partir de 21/09/2026."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Concede licença sem remuneração para acompanhar o cônjuge à psicóloga Acie Iguchi, da SEMIAS, de 01/12/2026 a 29/11/2028."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Declara a vacância do cargo de merendeira escolar ocupado por Jhonnatha Pereira de Souza (SEMED), de 22/09/2026 a 20/09/2029, por posse em outro cargo inacumulável."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Concede redução de 50% da jornada, sem corte de salário, à professora Silvia de Souza Ribeiro (SEMED) por um ano a partir da publicação, renovável por mais um."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "Concede redução de 50% da jornada, sem corte de salário, à professora Michelli Patricia Levandovski (SEMED) por um ano a partir da publicação, renovável por mais um."
+   },
+   {
+    "id": 19,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SMCL torna público que pediu à SEMA a Licença Ambiental de Instalação (LAI) para construir a Escola Cristal da Calama, na Rua Moldavita esquina com Rua Drusa, bairro Teixeirão (processo SUL.0000027336/2026-E)."
+   },
+   {
+    "id": 20,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SMCL torna público que pediu à SEMA a Licença Ambiental Prévia (LAP) para a mesma obra da Escola Cristal da Calama, no bairro Teixeirão (processo SUL.0000027336/2026-E)."
+   },
+   {
+    "id": 21,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SMCL adjudica e homologa o Pregão Eletrônico nº 257/2026 em favor da Geraforte Grupos Geradores Ltda, por R$ 497.000,00, para comprar, transportar, instalar e comissionar um grupo gerador na Maternidade Municipal Mãe Esperança."
+   },
+   {
+    "id": 22,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SEMDEC intima por edital, datado de 17/08/2026, a Bairro Novo Porto Velho Empreendimento Imobiliário S/A sobre o Auto de Infração nº 15229, com multa de R$ 54.260,00 e comunicação à polícia (delatio criminis), por loteamento sem observar o licenciamento na Rua Jardins, Loteamento Residencial Bairro Novo; a defesa pode ser apresentada em 15 dias corridos."
+   },
+   {
+    "id": 23,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMDEC justifica a parceria sem chamamento público com a Associação Beneficente Novo Horizonte (ASSBENH) para o projeto “Novos Talentos da Barbearia: Formação Profissional para Barbeiros”, bancado pela Emenda Parlamentar Impositiva nº 0030/2026; o extrato não informa valor."
+   },
+   {
+    "id": 24,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Conselho de Recursos Fiscais pauta para 20/10/2026, às 9h, em sessão virtual, o recurso voluntário de Geisy Drebor contra o Auto de Infração nº 7828 (processo 10.01272-000/2018); o pedido para participar deve ser enviado por e-mail com 3 dias úteis de antecedência."
+   },
+   {
+    "id": 25,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "O 6º apostilamento ao Contrato nº 02/2024/COJUSA/PGM com a Kapital Serviços Terceirizados EIRELI reserva R$ 1.023.198,09 da SEMUSA: R$ 72.460,62 para o SAMU (agosto a dezembro), R$ 485.340,45 para a atenção especializada (agosto) e R$ 465.397,02 para a maternidade (agosto a outubro)."
+   },
+   {
+    "id": 26,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "O 5º apostilamento ao mesmo contrato com a Kapital reserva R$ 712.933,41 para despesas de julho de 2026 (SAMU R$ 72.460,62, atenção especializada R$ 485.340,45 e maternidade R$ 155.132,34); datado de 18/08, foi assinado pela secretária em 05/10/2026, e o código indicado para o SAMU é o mesmo da maternidade."
+   },
+   {
+    "id": 27,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "O 8º apostilamento ao Contrato nº 002/2022/COJUSA/PGM/SEMUSA com a Silva Marinho Negócios Imobiliários Ltda-ME reserva R$ 243.082,74 para julho a dezembro de 2026 na atenção especializada; o texto trata o Município como locatário."
+   },
+   {
+    "id": 28,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "O 7º apostilamento ao Contrato nº 02/2024/COJUSA/PGM, firmado com a Kapital Serviços Terceirizados LTDA, reserva R$ 485.340,45 para a atenção especializada em setembro de 2026."
+   },
+   {
+    "id": 29,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN outorga a autorização de táxi AAM-0112 a Raidiacleciano (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 30,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN cancela a autorização de táxi AAM-0115, que pertencia a José (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 31,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN outorga a autorização de táxi AAM-0115 a Orlando (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 32,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN cancela a autorização de táxi AMN-0003, que pertencia a Francilino (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 33,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN outorga a autorização de táxi AMN-0003 a Roberto (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 34,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMTRAN cancela a autorização de táxi AAM-0259, que pertencia a José (sobrenome omitido na publicação)."
+   },
+   {
+    "id": 35,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Termo de Autorização nº 128/2026 permite a Orlando explorar táxi com a AAM-0115 por 5 anos, de 09/06/2026 a 30/05/2031."
+   },
+   {
+    "id": 36,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Termo de Autorização nº 156/2026 permite a Cleonice explorar táxi com a AAM-0048 de 31/08/2024 a 31/08/2030; o texto fala em 5 anos, mas as datas somam 6."
+   },
+   {
+    "id": 37,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Termo de Autorização nº 166/2026 permite a Sidney explorar táxi com a AAM-0757 de 31/07/2025 a 31/07/2030."
+   },
+   {
+    "id": 38,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Termo de Autorização nº 168/2026 permite a Mauricia explorar táxi com a AAM-0409 de 30/09/2026 a 30/09/2031."
+   },
+   {
+    "id": 39,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "O Termo de Autorização nº 169/2026 permite a Raimundo explorar táxi com a AAM-0368 de 30/08/2026 a 31/08/2031."
+   },
+   {
+    "id": 40,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMA dá quitação ao Instituto do Coração de Rondônia Ltda pelo pagamento do Auto de Infração Ambiental nº 1001/2025, de 100 UPFM."
+   },
+   {
+    "id": 41,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA homologa a prestação de contas de R$ 1.500,00 em meias diárias pagas a quatro servidores (Anilson Nascimento Santos, Cristileudo Pereira de Souza, Francisco Marcelino da Rocha e João Victor Batista Silva Moreira) que entregaram medicamentos em unidades de saúde da BR-364, BR-319 e Estrada da Penal de 22 a 25/09/2026."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:34:41-04:00",
  "conferencia": {
   "site": 41,
@@ -388,5 +888,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:34-04:00"
- }
+ },
+ "resumo_formato": 2
 }

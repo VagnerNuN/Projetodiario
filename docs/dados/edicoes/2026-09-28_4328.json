@@ -577,8 +577,816 @@
    "trecho": "Relatório Resumido de Execução Orçamentária\nPrefeitura Municipal de Porto Velho - RO (Poder Executivo)\nOrçamentos Fiscal e da Seguridade Social\nCNPJ:\nExercício: 2026\nPeríodo de referência: 4º bimestre\nRREO-Anexo 01 | Tabela 1.0 - Balanço Orçamentário\n\nReceitas Orçamentárias\nEstágios da Receita Orçamentária\nPREVISÃO INICIAL\nPREVISÃO ATUALIZADA (a)\nRECEITAS REALIZADAS\nSALDO (a-c)\nNo Bimestre (b)\n% (b/a)\nAté o Bimestre (c)\n% (c/a)\nReceitas Orçamentárias\n-\n-\n-\n-\n-\n-\n-\nRECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)\n2.558.702.172,00\n2.614.001.020,97\n558.116.995,91\n21,35\n2.064.932.652,16\n79,00\n549.068.368"
   }
  ],
- "resumo": null,
- "resumo_origem": null,
+ "resumo": {
+  "manchete": "Porto Velho libera ônibus de graça nos dois turnos da eleição e fecha contratos emergenciais de R$ 25,5 milhões em publicidade e gestão de UBS",
+  "resumo": "A edição de 28/09/2026 traz 63 atos de Porto Velho, com predomínio de atos de pessoal de rotina (diárias, retificações de diárias, substituições e cinco decretos que tornam sem efeito decretos anteriores) e de contratos da Saúde e da Assistência Social. O maior impacto nas contas vem de duas contratações emergenciais que somam R$ 25,5 milhões: publicidade com a PEN6 Ltda (R$ 14,94 milhões) e gestão da UBS do Residencial Orgulho do Madeira com a Associação Tristão da Cunha (até R$ 10,6 milhões); a SEMIAS ainda aluga 16 veículos por adesão a ata estadual (R$ 783 mil) e a SMCL suspende o pregão de manequins de treinamento da SEMUSA. Para a população, destacam-se a gratuidade dos ônibus em 04/10 e 25/10/2026 e o credenciamento de uma creche particular com 86 vagas gratuitas no Programa Mais Educação Infantil. A edição também publica o Relatório de Gestão Fiscal do 2º quadrimestre e o Relatório Resumido do 4º bimestre, que mostram gasto com pessoal em 46,23% da receita corrente líquida ajustada e superávit, mas aplicação em educação ainda abaixo do mínimo anual. Merecem acompanhamento as contratações emergenciais, a adesão a ata, a retificação de valores em apostilamento da SEMUSA e diárias com datas sobrepostas ou dados divergentes entre texto e tabela.",
+  "destaques": [
+   {
+    "titulo": "R$ 25,5 milhões em contratos emergenciais",
+    "texto": "A SECOM contratou a PEN6 Ltda por R$ 14.940.000,00, sem licitação e por até 12 meses, para campanhas publicitárias até a conclusão da Concorrência nº 90006/2025. A SEMUSA entregou à Associação Tristão da Cunha a gestão da UBS do Residencial Orgulho do Madeira por até R$ 10.595.742,32, incluindo R$ 1,33 milhão de implantação.",
+    "atos": [
+     27,
+     41
+    ]
+   },
+   {
+    "titulo": "Ônibus de graça nos dois turnos da eleição",
+    "texto": "O Decreto nº 22.500 libera a tarifa do transporte coletivo urbano em 04/10 e 25/10/2026, das 5h às 18h, para facilitar a ida dos eleitores às urnas. A Prefeitura ressarcirá as concessionárias, mas o decreto não estima o valor.",
+    "atos": [
+     5
+    ]
+   },
+   {
+    "titulo": "Contas do Executivo até agosto",
+    "texto": "O RGF do 2º quadrimestre e o RREO do 4º bimestre mostram gasto com pessoal em 46,23% da receita corrente líquida ajustada (alerta em 48,60%), superávit orçamentário de R$ 360,4 milhões e resultado primário positivo de R$ 237 milhões. A educação está em 22,82% dos impostos (mínimo anual de 25%) e a saúde em 20,69%; precatórios vencidos e não pagos subiram para R$ 197,5 milhões.",
+    "atos": [
+     62,
+     63
+    ]
+   },
+   {
+    "titulo": "SEMIAS aluga 16 veículos por adesão a ata estadual",
+    "texto": "O contrato com a Reche Galdeano & Cia Ltda, de Manaus, por adesão à ata nº 004/2026 da SUPEL-RO, custa R$ 65.266,64 por mês, ou R$ 783.199,68 em 12 meses, pagos com recursos do Fundo Nacional de Assistência Social.",
+    "atos": [
+     30
+    ]
+   },
+   {
+    "titulo": "Cinco decretos mexem em R$ 1,98 milhão do orçamento",
+    "texto": "Os decretos movimentam R$ 1.984.196,46, com destaque para R$ 1,8 milhão tirados da folha do ensino fundamental e de formação de professores para transporte escolar e manutenção das escolas, e R$ 109 mil tirados de obras turísticas para a festa de aniversário da cidade na Madeira-Mamoré.",
+    "atos": [
+     54,
+     55,
+     56,
+     57,
+     58
+    ]
+   },
+   {
+    "titulo": "CMAS cobra ajustes e revisa a própria lei",
+    "texto": "O Conselho Municipal de Assistência Social criou comissão para propor em 30 dias a atualização da Lei Complementar nº 413/2011, reconheceu que a SEMIAS atendeu só em parte as exigências sobre o plano do Programa Crescendo Bem e liberou com ressalvas o projeto de R$ 30 mil da AMA-RO.",
+    "atos": [
+     37,
+     38,
+     59
+    ]
+   }
+  ],
+  "atencao": [
+   {
+    "ato": 27,
+    "motivo": "Contratação emergencial por dispensa (art. 75, VIII, da Lei nº 14.133/2021) de serviços de publicidade no valor de R$ 14.940.000,00, por até 12 meses, enquanto não vigora o contrato da Concorrência nº 90006/2025."
+   },
+   {
+    "ato": 41,
+    "motivo": "Contrato de gestão emergencial de até R$ 10.595.742,32 com a Associação Tristão da Cunha, firmado por seleção emergencial e com parcela única de R$ 1.330.000,00 para implantação em estrutura provisória."
+   },
+   {
+    "ato": 30,
+    "motivo": "Contratação por adesão à ata de registro de preços de outro órgão (SUPEL-RO, do Governo do Estado), no valor de R$ 783.199,68 por 12 meses."
+   },
+   {
+    "ato": 28,
+    "motivo": "Pregão Eletrônico nº 321/2026/SMCL/PVH suspenso para análise de esclarecimentos, com republicação do edital e devolução de prazos ainda sem data."
+   },
+   {
+    "ato": 46,
+    "motivo": "Retificação de termo de apostilamento que altera a classificação orçamentária e os valores das notas de empenho do contrato com a Medicando Serviços Médicos (R$ 200.396,49 e R$ 487.235,58)."
+   },
+   {
+    "ato": 5,
+    "motivo": "O decreto prevê ressarcimento às concessionárias pela gratuidade de dois dias sem indicar valor estimado nem dotação orçamentária."
+   },
+   {
+    "ato": 23,
+    "motivo": "O servidor Alcimar Rodrigues da Silva (mat. 50542) recebe diárias da SEMAGRIC em período que inclui 16, 17 e 18/09/2026 e, pela Portaria nº 339/2026 da SGOV (ato 13), diárias para Vista Alegre do Abunã de 16 a 19/09/2026; as datas se sobrepõem."
+   },
+   {
+    "ato": 22,
+    "motivo": "A portaria de diárias traz quantidades diferentes no texto e na tabela para Ana Paula F. Guimarães (4 inteiras e 11 meias contra 2 inteiras e 10 meias), além de divergências no cargo de David Duarte Silva e em matrículas."
+   },
+   {
+    "ato": 31,
+    "motivo": "Os formulários de fiscalização de parcerias com OSCs (repetidos nos atos 32 a 36) dão ao fiscal administrativo o mesmo cadastro da fiscal técnica (10078181) e marcam essa seção como “não se aplica”, embora listem nomes."
+   },
+   {
+    "ato": 56,
+    "motivo": "Decreto orçamentário de 25/09/2026 fundamentado na LOA (Lei nº 3.240/2024), na LDO e no cronograma de desembolso de 2025, mencionando “adequações orçamentárias no exercício 2025”."
+   },
+   {
+    "ato": 63,
+    "motivo": "Até o 4º bimestre, a aplicação em manutenção e desenvolvimento do ensino está em 22,82% (mínimo anual de 25%) e a do FUNDEB na remuneração dos profissionais em 60,96% (mínimo anual de 70%)."
+   },
+   {
+    "ato": 59,
+    "motivo": "O termo de fomento de R$ 30.000,00 com a AMA-RO poderá ser assinado sem nova análise do CMAS, cabendo só à SEMIAS validar seis ressalvas pendentes, entre elas planilha orçamentária e pesquisa de preços."
+   }
+  ],
+  "contratacoes": [
+   {
+    "ato": 27,
+    "etapa": "Contrato",
+    "modalidade": "Contratação emergencial (art. 75, VIII, da Lei nº 14.133/2021) – Contrato nº 120/2026/PGM",
+    "objeto": "Serviços de publicidade e propaganda educativa e informativa (crise hídrica, queimadas, saúde, mobilidade e grupos vulneráveis)",
+    "fornecedor": "PEN6 LTDA",
+    "valor": 14940000.0
+   },
+   {
+    "ato": 28,
+    "etapa": "Suspensão ou revogação",
+    "modalidade": "Pregão eletrônico nº 321/2026/SMCL/PVH",
+    "objeto": "Manequins de treinamento para unidades de urgência e emergência da SEMUSA",
+    "fornecedor": null,
+    "valor": null
+   },
+   {
+    "ato": 29,
+    "etapa": "Contrato",
+    "modalidade": "Credenciamento – Edital nº 01/2026/SEMED (Termo de Credenciamento nº 001/2026/SEMED)",
+    "objeto": "86 vagas de creche e pré-escola no Programa Mais Educação Infantil, a R$ 700,00 por aluno por mês",
+    "fornecedor": "C. A. C. RIBEIRO EDUCACAO INFANTIL EIRELI",
+    "valor": null
+   },
+   {
+    "ato": 30,
+    "etapa": "Contrato",
+    "modalidade": "Adesão à Ata de Registro de Preços nº 004/2026/SUPEL-RO (Pregão Eletrônico nº 90374/2025)",
+    "objeto": "Locação de 16 veículos (hatch, picape compacta e caminhonetes 4x4) para a SEMIAS",
+    "fornecedor": "RECHE GALDEANO & CIA LTDA",
+    "valor": 783199.68
+   },
+   {
+    "ato": 39,
+    "etapa": "Outro",
+    "modalidade": "11º Termo de Apostilamento ao Contrato nº 26/2023/COJUSA/PGM",
+    "objeto": "Reserva de dotação para despesas de setembro a 21/12/2026",
+    "fornecedor": "BOAS NOVAS GESTÃO DE SAÚDE",
+    "valor": 460868.0
+   },
+   {
+    "ato": 40,
+    "etapa": "Outro",
+    "modalidade": "7º Termo de Apostilamento ao Contrato nº 14/2024/COJUSA/PGM",
+    "objeto": "Reajuste do fornecimento de refeições self-service para servidores plantonistas (agosto a 11/11/2026)",
+    "fornecedor": "ELLO COMÉRCIO E SERVIÇOS DE ALIMENTAÇÃO LTDA.",
+    "valor": 58963.38
+   },
+   {
+    "ato": 41,
+    "etapa": "Contrato",
+    "modalidade": "Contrato de Gestão Emergencial nº 121/2026/PGM – Consulta para Seleção Emergencial, Edital nº 161/2026/SEMUSA-DEA",
+    "objeto": "Gestão da UBS do Residencial Orgulho do Madeira (4 equipes de Saúde da Família e 4 de Saúde Bucal)",
+    "fornecedor": "ASSOCIAÇÃO TRISTÃO DA CUNHA",
+    "valor": 10595742.32
+   },
+   {
+    "ato": 45,
+    "etapa": "Outro",
+    "modalidade": "14º Termo de Apostilamento ao Contrato nº DESC/CRCE/GA/01/2023",
+    "objeto": "Reserva de dotação para despesas de agosto e setembro de 2026",
+    "fornecedor": "ENERGISA RONDÔNIA",
+    "valor": 626945.13
+   },
+   {
+    "ato": 46,
+    "etapa": "Outro",
+    "modalidade": "Retificação do 4º Termo de Apostilamento ao Contrato nº 03/2024/COJUSA/PGM",
+    "objeto": "Correção da classificação orçamentária e dos valores empenhados",
+    "fornecedor": "MEDICANDO SERVIÇOS MÉDICOS LTDA.",
+    "valor": 687632.07
+   },
+   {
+    "ato": 59,
+    "etapa": "Outro",
+    "modalidade": "Termo de Fomento com recursos da emenda parlamentar nº 031/2025",
+    "objeto": "Projeto “Limpeza que Acolhe” – plano de trabalho aprovado com ressalvas pelo CMAS",
+    "fornecedor": "Associação de Pais e Amigos do Autista de Rondônia – AMA-RO",
+    "valor": 30000.0
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-09-29",
+    "hora": null,
+    "evento": "Prazo para a Reche Galdeano prestar garantia de 2% do contrato de locação de veículos da SEMIAS (5 dias após a assinatura)",
+    "ato": 30
+   },
+   {
+    "data": "2026-10-04",
+    "hora": "05:00",
+    "evento": "Transporte coletivo gratuito das 5h às 18h no 1º turno das eleições",
+    "ato": 5
+   },
+   {
+    "data": "2026-10-25",
+    "hora": "05:00",
+    "evento": "Transporte coletivo gratuito das 5h às 18h no 2º turno das eleições",
+    "ato": 5
+   },
+   {
+    "data": "2026-10-28",
+    "hora": null,
+    "evento": "Fim do prazo de 30 dias para a comissão especial do CMAS apresentar a proposta de mudança da LC nº 413/2011",
+    "ato": 37
+   },
+   {
+    "data": "2026-11-23",
+    "hora": null,
+    "evento": "Prazo máximo para entrega dos 16 veículos locados pela SEMIAS (60 dias após a assinatura)",
+    "ato": 30
+   }
+  ],
+  "normas": [
+   {
+    "ato": 5,
+    "identificacao": "Decreto nº 22.500, de 25/09/2026",
+    "o_que_muda": "Passageiros do transporte coletivo urbano de Porto Velho não pagam tarifa em 04/10 e 25/10/2026, das 5h às 18h, dias do 1º e do 2º turno das eleições. A Prefeitura ressarcirá as concessionárias pela gratuidade."
+   },
+   {
+    "ato": 2,
+    "identificacao": "Portaria nº 039/ASTEC/GAB/FUNCULTURAL/2026",
+    "o_que_muda": "Na Fundação Cultural, os processos de despesa passam a ser conferidos pela Comissão de Análise Processual e Controle Interno antes da liquidação e do pagamento, com as listas de verificação do Decreto nº 22.270/2026 e registro das falhas nos autos. A Portaria nº 023/2026 fica revogada."
+   }
+  ],
+  "pessoal": {
+   "movimentacoes": [
+    {
+     "ato": 2,
+     "acao": "Dispensa",
+     "nome": "Maria Santiago de Lima",
+     "cargo": "Membro da Comissão de Análise Processual e Controle Interno da FUNCULTURAL"
+    },
+    {
+     "ato": 2,
+     "acao": "Designação",
+     "nome": "Milena Guedes Alves Garcia",
+     "cargo": "Membro da Comissão de Análise Processual e Controle Interno da FUNCULTURAL"
+    },
+    {
+     "ato": 3,
+     "acao": "Substituição",
+     "nome": "Roberval Valência Sales",
+     "cargo": "Chefe do Processamento de Dados (DAS 10) do IPAM, de 12 a 31/10/2026, no lugar de Marivaldo Rosa da Silva"
+    },
+    {
+     "ato": 14,
+     "acao": "Designação",
+     "nome": "Katarina Moraes Costa de Souza",
+     "cargo": "Presidente da Comissão Técnica do Programa Ben+Servidor (SEMAD)"
+    },
+    {
+     "ato": 14,
+     "acao": "Designação",
+     "nome": "Eliseu de Oliveira",
+     "cargo": "Membro da Comissão Técnica do Programa Ben+Servidor (SEMAD)"
+    },
+    {
+     "ato": 14,
+     "acao": "Designação",
+     "nome": "Suamy Vivecananda Lacerda de Abreu",
+     "cargo": "Membro da Comissão Técnica do Programa Ben+Servidor (SEMAD)"
+    },
+    {
+     "ato": 14,
+     "acao": "Designação",
+     "nome": "Demétrio Laino Justo Filho",
+     "cargo": "Suporte técnico da Comissão Técnica do Programa Ben+Servidor (SEMAD)"
+    },
+    {
+     "ato": 14,
+     "acao": "Designação",
+     "nome": "Cristian Willen de Oliveira Ribeiro",
+     "cargo": "Representante do IPAM no apoio à Comissão Técnica do Programa Ben+Servidor (SEMAD)"
+    },
+    {
+     "ato": 15,
+     "acao": "Substituição",
+     "nome": "Danieli Cristine Minosso Marzarotto",
+     "cargo": "Diretor Executivo I (DAS-11) da SEMUSA, de 23/09 a 02/10/2026, no lugar de Marcia Alves da Silva"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Marcuce Antônio Miranda dos Santos",
+     "cargo": "Presidente da Comissão Especial de revisão da LC nº 413/2011 do CMAS (Associação Beradeiro)"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Edneli Galdino Cerqueira",
+     "cargo": "Membro da Comissão Especial do CMAS (Associação Pestalozzi de Porto Velho)"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Luciana Hermínia Domiciano",
+     "cargo": "Membro da Comissão Especial do CMAS (SEMEC)"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Marcilene Paz Pinheiro",
+     "cargo": "Membro da Comissão Especial do CMAS (AJERO)"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Natal de Souza Campos",
+     "cargo": "Membro da Comissão Especial do CMAS (SEMUSA)"
+    },
+    {
+     "ato": 37,
+     "acao": "Designação",
+     "nome": "Waldemarina Galvão Lopes",
+     "cargo": "Membro da Comissão Especial do CMAS (SEMIAS)"
+    },
+    {
+     "ato": 44,
+     "acao": "Substituição",
+     "nome": "Jessica Trajano Alencar Ferreira",
+     "cargo": "Diretora substituta do Departamento de Gestão de Pessoas da SEMUSA, nas ausências da titular Fabiana Helen Melo Neres Fernandes"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Arthur Felipe Borin dos Santos",
+     "cargo": "Presidente do Comitê Técnico-Científico de Mudanças Climáticas (SEMA)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Cleyanne Alves",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Coordenadoria de Políticas Públicas para Mulheres – SGOV)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Joana Aurélia de Oliveira",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (SEMA)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Larissa Ananda Paiva Maciel",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Secretaria Executiva de Planejamento – SEMEC)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Raisa Tavaes Thomaz",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Assessoria de Relações Institucionais – SEMEC)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Caê Aires Moura Lacerda",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (CENSIPAM)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Astrea Alves Jordão Cardoso",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Núcleo de Hidrologia – CENSIPAM)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Reinaldo Matheus Reis Ribeiro",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Núcleo de Meteorologia – CENSIPAM)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Walelasoetxeige Paiter Bandeira Surui",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Organização Kanindé)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Tiago Henrique Karitiana da Costa",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Centro de Defesa da Criança e do Adolescente Maria dos Anjos)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Graziela Tosini Tejas",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Associação Brasileira de Climatologia)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Estevão Rafael Fernandes",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Associação Brasileira de Antropologia)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Tatiane Emilio Checchia",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Grupo de Pesquisa Cidades Amazônicas – UNIR)"
+    },
+    {
+     "ato": 48,
+     "acao": "Designação",
+     "nome": "Sebastião Gonçalves Neves",
+     "cargo": "Membro do Comitê Técnico-Científico de Mudanças Climáticas (Organização dos Seringueiros de Rondônia)"
+    },
+    {
+     "ato": 49,
+     "acao": "Designação",
+     "nome": "Lucineia Pereira",
+     "cargo": "Gerente de Transportes titular da SEMA (frota e abastecimentos do Contrato nº 068/PGM/2023)"
+    },
+    {
+     "ato": 49,
+     "acao": "Designação",
+     "nome": "Cleuton Pereira Marques Barbosa",
+     "cargo": "Gerente de Transportes substituto da SEMA (frota e abastecimentos do Contrato nº 068/PGM/2023)"
+    }
+   ],
+   "rotina": "O restante dos atos de pessoal traz promoção funcional de 10 servidores da Câmara com efeito retroativo a 01/09/2026, cinco decretos que tornam sem efeito decretos de agosto e setembro sem dizer do que tratavam, concessões e retificações de diárias na SGOV, SEMAGRIC e SEMUSA, homologações de prestações de contas de diárias na SEMA (com devolução de R$ 900,00) e na SEMUSA, cancelamento de licença-prêmio, remoção de servidora da SEMDEC para a SEMUSA, indicação de gestores e fiscais de parcerias com OSCs na SEMIAS e troca do gestor do contrato da reforma da UPA Zona Leste."
+  },
+  "atos": [
+   {
+    "id": 1,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A Câmara Municipal (Decreto nº 528/CMPV-2026) concede promoção funcional a 10 servidores efetivos que cumpriram 4 anos de interstício — oito do quadro da Câmara, como Desilane de Lima Macedo Pinheiro, Sandro Euzebio Lima Santos e Rita de Kassia Figueiredo Neto Cangussu, e dois cedidos à Prefeitura, Francisco Alberto de Lacerda e Valdenizia dos Santos Vieira Tinoco —, com efeitos financeiros retroativos a 01/09/2026."
+   },
+   {
+    "id": 2,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A Fundação Cultural (Portaria nº 039/ASTEC/GAB/FUNCULTURAL/2026) refaz a Comissão de Análise Processual e Controle Interno: tira Maria Santiago de Lima, mantém Dayane Modesto de Brito (presidente) e Ana Gabriele Gomes Oliveira, inclui Milena Guedes Alves Garcia e determina que a comissão confira os processos de despesa antes da liquidação e do pagamento, seguindo o Decreto nº 22.270/2026; revoga a Portaria nº 023/2026."
+   },
+   {
+    "id": 3,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O IPAM (Portaria nº 543/2026/IPAM-DRFP) designa Roberval Valência Sales para responder pelo cargo de Chefe do Processamento de Dados (DAS 10) de 12/10 a 31/10/2026, durante as férias do titular Marivaldo Rosa da Silva."
+   },
+   {
+    "id": 4,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A Procuradoria-Geral do Município (Portaria nº 170/CS/SPPD/PGM/2026, de 21/09/2026) sobrestá a Sindicância nº 011.000598/2026-55, aberta em junho pela Portaria nº 136/CS/SPPD/2026 e já prorrogada; o ato não informa o motivo nem o prazo da suspensão."
+   },
+   {
+    "id": 5,
+    "categoria": "Legislação",
+    "relevancia": "alta",
+    "resumo": "O Decreto nº 22.500, de 25/09/2026, torna gratuito o transporte coletivo urbano de Porto Velho em 04/10/2026 e 25/10/2026 (1º e 2º turnos das Eleições 2026), das 5h às 18h, com ressarcimento às concessionárias “por qualquer meio legalmente admitido”, sem valor estimado no texto."
+   },
+   {
+    "id": 6,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 3.729/I, de 25/09/2026, torna sem efeito o Decreto nº 3.539/I, de 18/08/2026; o texto não diz do que tratava o decreto anulado."
+   },
+   {
+    "id": 7,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 3.730/I, de 25/09/2026, torna sem efeito o Decreto nº 3.546/I, de 19/08/2026; o texto não diz do que tratava o decreto anulado."
+   },
+   {
+    "id": 8,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 3.731/I, de 25/09/2026, torna sem efeito o Decreto nº 3.540/I, de 18/08/2026; o texto não diz do que tratava o decreto anulado."
+   },
+   {
+    "id": 9,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 3.732/I, de 25/09/2026, torna sem efeito o Decreto nº 3.547/I, de 19/08/2026; o texto não diz do que tratava o decreto anulado."
+   },
+   {
+    "id": 10,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 3.733/I, de 25/09/2026, torna sem efeito o Decreto nº 3.674/I, de 10/09/2026; o texto não diz do que tratava o decreto anulado."
+   },
+   {
+    "id": 11,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SGOV (Portaria nº 336/2026) retifica a Portaria nº 307/2026 para tornar válidas 4 e ½ diárias a Hermínio Antônio da Silva Neto (Assessor Técnico I) e 3 diárias a Bernardo da Silva Lima Junior (Assessor Executivo III) por viagens já feitas a Guajará-Mirim em julho de 2026 para acompanhar a retirada de materiais doados pela Receita Federal à assistência humanitária."
+   },
+   {
+    "id": 12,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SGOV (Portaria nº 337/2026) retifica a Portaria nº 326/2026: em vez de tornar válidas 14 diárias, passa a conceder 3 e ½ diárias a cada um de quatro servidores (Júlio Mercado Freitas Filho, Lucimar da Silva Oliveira, Francisca Diniz da Silva e Laureane Alves Gomes) que atenderam de 17 a 20/09/2026 nas Linhas 05 a 11 do Assentamento Joana D'arc pelo Projeto Cidadania em Movimento (alistamento militar), e corrige a matrícula de Lucimar."
+   },
+   {
+    "id": 13,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SGOV (Portaria nº 339/2026) retifica a Portaria nº 324/2026 para deixar claro que são 3 e ½ diárias para cada um de Roberto Kleber Cordeiro Saldanha Junior e Alcimar Rodrigues da Silva, que foram ao Distrito de Vista Alegre do Abunã de 16 a 19/09/2026 fazer levantamentos topográficos e ambientais para o planejamento contra eventos climáticos extremos."
+   },
+   {
+    "id": 14,
+    "categoria": "Pessoal",
+    "relevancia": "media",
+    "resumo": "A SEMAD (Portaria nº 182/2026) designa a Comissão Técnica do Programa Ben+Servidor — Katarina Moraes Costa de Souza (presidente), Eliseu de Oliveira e Suamy Vivecananda Lacerda de Abreu, com apoio de Demétrio Laino Justo Filho e Cristian Willen de Oliveira Ribeiro (IPAM) —, encarregada de analisar o credenciamento de empresas, validar os descontos oferecidos aos servidores e propor advertência ou descredenciamento; a participação não é remunerada e a Portaria nº 70/2026 fica revogada."
+   },
+   {
+    "id": 15,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD (Portaria nº 1479/2026) designa Danieli Cristine Minosso Marzarotto para o cargo de Diretor Executivo I (DAS-11) da SEMUSA de 23/09 a 02/10/2026, substituindo a titular Marcia Alves da Silva, em férias."
+   },
+   {
+    "id": 16,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD (Portaria nº 1480/2026) cancela, a pedido, a licença-prêmio da farmacêutica Claudiamira Rodrigues Vitaliano Sicsu, da SEMUSA, concedida pela Portaria nº 1421/2026."
+   },
+   {
+    "id": 17,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAD (Portaria nº 1481/2026) remove a assistente administrativa Ana Lucia Viana de Oliveira da SEMDEC para a SEMUSA a partir de 22/09/2026, sem manter adicional de incentivo do local anterior."
+   },
+   {
+    "id": 18,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 328/2026) concede 10 diárias inteiras e 15 meias a cada um de cinco servidores (motoristas Tonis Waldevino Neris Gonçalves, Ronaldo da Costa Braga, José Marinho Barrozo e Gildasio de Souza Hermogenes e o artífice Lício Soares da Rocha) e 10 inteiras e 6 meias à operadora Elissandra Regina Cavalcante, para transporte da produção e apoio ao Projeto Fomenta Cacau em setembro de 2026 em Nova Califórnia, Rio Pardo, Jaci Paraná, Nova Mutum, Joana D'Arc, Cujubim, Itacoã e Setor Chacareiro; algumas matrículas divergem entre o texto e a tabela."
+   },
+   {
+    "id": 19,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 329/2026) concede 20 meias diárias a Paulo Afonso de Lima Neri (Assessor Técnico II) e 12 a Francisco Fagno Pereira Felix (operador de máquinas) para supervisionar, em setembro de 2026, as equipes dos programas Porteira a Dentro e Fomenta Cacau em Jaci Paraná, Nova Mutum, Nazaré, Joana D'arc, Estrada do Belmont, BR-319 e Bacia Leiteira."
+   },
+   {
+    "id": 20,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 330/2026) concede 17 diárias inteiras e 5 meias ao diretor Herlan Alves Lopes e 4 inteiras e 1 meia à assessora Jean Carla dos Santos Costa para acompanhar, em setembro de 2026, o manejo sustentável de crocodilianos na Reserva Extrativista Lago do Cuniã (Distrito São Carlos)."
+   },
+   {
+    "id": 21,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 331/2026) concede 25 meias diárias a cada um dos garis Jerry Alves de Souza e Francisco Ribeiro Domingos e 12 ao operador Thawynã Medeiro Britto para implantar, em setembro de 2026, um viveiro de 90.000 mudas de cacau na área rural."
+   },
+   {
+    "id": 22,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 332/2026) concede diárias a David Duarte Silva, Leula Souza Barros, Ana Paula F. Guimarães e Debliane Souza da Silva Oliveira para atender, em setembro de 2026, produtores de sete associações rurais (Agrilança, Asprocha, Aspromogg, Agromvigatres, Asprovajam, Asprona e comunidade Brasileirinha); texto e tabela divergem nas quantidades de Ana Paula (4 inteiras e 11 meias contra 2 inteiras e 10 meias), no cargo de David e em matrículas."
+   },
+   {
+    "id": 23,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 333/2026) concede 4 diárias inteiras e 9 meias a cada um de Alcimar Rodrigues da Silva, Anderson Eduardo da Silva, Jean Rodrigues de Oliveira e Luiz Florêncio de Sousa Júnior para levantar dados das prestações de contas de equipamentos (SGOV, SEAGRI, DER e MPA) entre 14 e 30/09/2026 em União Bandeirante, Jaci Paraná, Rio Pardo, Ponta do Abunã, linhas rurais e Baixo Madeira."
+   },
+   {
+    "id": 24,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 335/2026) concede 4 diárias inteiras e 11 meias ao engenheiro agrônomo Romildo Botelho dos Santos para atender, em setembro de 2026, produtores da agricultura familiar das mesmas sete associações rurais."
+   },
+   {
+    "id": 25,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 336/2026) renova o registro nº 055 no Serviço de Inspeção Municipal da JPJ Comércio Ltda (Império da Carne), CNPJ 49.817.124/0001-53, com base no Laudo Técnico nº 017/2026."
+   },
+   {
+    "id": 26,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMAGRIC (Portaria nº 337/2026) renova o registro nº 034 no Serviço de Inspeção Municipal da Riffel & Kummer Ltda, CNPJ 09.582.270/0001-22, com base no Laudo Técnico nº 016/2026."
+   },
+   {
+    "id": 27,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SECOM publica o extrato do Contrato nº 120/2026/PGM com a PEN6 Ltda, contratação emergencial (art. 75, VIII, da Lei nº 14.133/2021) de publicidade para campanhas sobre crise hídrica, queimadas, saúde, mobilidade e grupos vulneráveis, por R$ 14.940.000,00 e até 12 meses, encerrando-se antes se entrar em vigor o contrato da Concorrência nº 90006/2025; o empenho inicial é de R$ 3.735.000,00 para outubro a dezembro de 2026."
+   },
+   {
+    "id": 28,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SMCL suspende o Pregão Eletrônico nº 321/2026/SMCL/PVH, de compra de manequins de treinamento para as unidades de urgência e emergência da SEMUSA com recurso de emenda parlamentar, para analisar pedidos de esclarecimento; o edital será republicado com novos prazos."
+   },
+   {
+    "id": 29,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMED firma o Termo de Credenciamento nº 001/2026 com a C. A. C. Ribeiro Educação Infantil Eireli (Creche Escola Cantinho de Anjos, bairro Conceição), que oferece 86 vagas gratuitas de Creche II, Creche III, Pré I e Pré II pelo Programa Mais Educação Infantil a R$ 700,00 por aluno por mês, por 18 meses; as vagas só são usadas depois de preenchidas as da rede pública."
+   },
+   {
+    "id": 30,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMIAS contrata a Reche Galdeano & Cia Ltda (Manaus/AM), por adesão à Ata de Registro de Preços nº 004/2026/SUPEL-RO (Pregão Eletrônico nº 90374/2025), para locar 16 veículos zero-quilômetro (11 hatch, 1 picape compacta e 4 caminhonetes 4x4) por R$ 65.266,64 mensais, total de R$ 783.199,68 em 12 meses, com recursos do FNAS e entrega em até 60 dias."
+   },
+   {
+    "id": 31,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 16/2026/SEMIAS-DIMC) indica a equipe de gestão e fiscalização da parceria com a Associação Voluntária de Combate ao Câncer (AVCC), processo 012.000748/2025-30: gestora Tatiana Socorro Barros Araújo (substituta Izabel Lopes Pereira) e fiscal técnica Elza Valadares de Oliveira; a seção de fiscais administrativos lista nomes, mas está marcada “não se aplica” e repete o cadastro da fiscal técnica."
+   },
+   {
+    "id": 32,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 17/2026/SEMIAS-DIMC) indica a mesma equipe de gestão (Tatiana Socorro Barros Araújo) e fiscalização (Elza Valadares de Oliveira) para a parceria com o Núcleo de Apoio à Criança com Câncer (NACC), processo 012.000704/2025-18, com a mesma inconsistência na seção de fiscais administrativos."
+   },
+   {
+    "id": 33,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 18/2026/SEMIAS-DIMC) indica Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira como fiscal técnica da parceria com a Associação Casa Família Rosetta, processo 012.000981/2025-12."
+   },
+   {
+    "id": 34,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 19/2026/SEMIAS-DIMC) indica Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira como fiscal técnica de outra parceria com a Associação Casa Família Rosetta, processo 012.000996/2025-81."
+   },
+   {
+    "id": 35,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 20/2026/SEMIAS-DIMC) indica Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira como fiscal técnica de parceria com a Associação Casa Família Rosetta, processo 012.001161/2025-48."
+   },
+   {
+    "id": 36,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMIAS (Formulário nº 21/2026/SEMIAS-DIMC) indica Tatiana Socorro Barros Araújo como gestora e Elza Valadares de Oliveira como fiscal técnica de parceria com a Associação Casa Família Rosetta, processo 012.001828/2025-11."
+   },
+   {
+    "id": 37,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "O Conselho Municipal de Assistência Social (Resolução nº 443/2026) cria comissão especial presidida por Marcuce Antônio Miranda dos Santos, com mais cinco conselheiros, para propor em 30 dias a atualização da Lei Complementar nº 413/2011, que organiza o CMAS, adequando sua composição à nova estrutura da Prefeitura e às normas do SUAS."
+   },
+   {
+    "id": 38,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "O CMAS (Resolução nº 444/2026) reconhece que a SEMIAS atendeu só em parte as exigências sobre o Plano de Trabalho do Programa Crescendo Bem: falta informar o número de crianças na primeira infância, corrigir a redação e detalhar como o Prontuário SUAS comprovará as metas; o conselho seguirá fiscalizando o programa."
+   },
+   {
+    "id": 39,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA assina o 11º Termo de Apostilamento ao Contrato nº 26/2023/COJUSA/PGM com a Boas Novas Gestão de Saúde, reservando R$ 460.868,00 (Nota de Empenho nº 3650/2026, outras despesas de pessoal da atenção especializada) para as despesas de setembro a 21/12/2026; o texto não descreve o objeto do contrato."
+   },
+   {
+    "id": 40,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA assina o 7º Termo de Apostilamento ao Contrato nº 14/2024/COJUSA/PGM com a Ello Comércio e Serviços de Alimentação Ltda (refeições self-service para servidores plantonistas), reservando R$ 58.963,38 (R$ 8.602,56 para o SAMU e R$ 50.360,82 para a atenção especializada) para cobrir o reajuste de agosto a 11/11/2026."
+   },
+   {
+    "id": 41,
+    "categoria": "Licitações e contratos",
+    "relevancia": "alta",
+    "resumo": "A SEMUSA publica o extrato do Contrato de Gestão Emergencial nº 121/2026/PGM com a Associação Tristão da Cunha para gerir a UBS do Residencial Orgulho do Madeira, em estrutura provisória, com 4 equipes de Saúde da Família e 4 de Saúde Bucal: R$ 772.145,19 por mês (R$ 9.265.742,32 por ano) mais R$ 1.330.000,00 de implantação, total máximo de R$ 10.595.742,32, por até 12 meses desde 23/09/2026 ou até 60 dias após a homologação do chamamento público ordinário; para 2026 há R$ 3.646.435,58 reservados."
+   },
+   {
+    "id": 42,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA e a Secretaria de Infraestrutura (Portaria nº 481/2026) trocam o gestor do Contrato nº 10/2024/COJUSA/PGM com a EGN Comércio e Serviços Ltda, da reforma da UPA Porte II Zona Leste: sai Jorge Amado Reis dos Santos e entram Silvio Carvajal Feitosa (titular) e Leirson da Silva Carvalho (substituto), convalidando os atos já praticados."
+   },
+   {
+    "id": 43,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA (Portaria nº 489/2026) concede 4 e ½ diárias a Leirson da Silva Carvalho e Silvio Carvajal Feitosa para levantar e fiscalizar a manutenção predial das UBS de União Bandeirantes, Vista Alegre do Abunã, Fortaleza do Abunã, Extrema e Nova Califórnia de 28/09 a 02/10/2026; a tabela só mostra a quantidade de Leirson."
+   },
+   {
+    "id": 44,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA (Portaria nº 491/2026) designa a assistente administrativa Jessica Trajano Alencar Ferreira para substituir a diretora do Departamento de Gestão de Pessoas, Fabiana Helen Melo Neres Fernandes, em férias, licenças e outras ausências, revogando designações anteriores."
+   },
+   {
+    "id": 45,
+    "categoria": "Licitações e contratos",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA assina o 14º Termo de Apostilamento ao Contrato nº DESC/CRCE/GA/01/2023 com a Energisa Rondônia, reservando R$ 626.945,13 (empenhos de R$ 449.674,72, R$ 163.497,85 e R$ 13.772,56, este para a Maternidade Municipal) para as despesas de agosto e setembro de 2026."
+   },
+   {
+    "id": 46,
+    "categoria": "Licitações e contratos",
+    "relevancia": "media",
+    "resumo": "A SEMUSA retifica o 4º Termo de Apostilamento ao Contrato nº 03/2024/COJUSA/PGM com a Medicando Serviços Médicos Ltda, corrigindo a classificação orçamentária e os valores dos empenhos, que passam a ser R$ 200.396,49 (nº 3653/2026) e R$ 487.235,58 (nº 3654/2026), total de R$ 687.632,07."
+   },
+   {
+    "id": 47,
+    "categoria": "Outros",
+    "relevancia": "media",
+    "resumo": "A SEMTRAN (Portaria nº 165/2026) encarrega o servidor Marinaldo Barbosa Lima Junior de recuperar um imóvel no portão 01 do Espaço Vivencial (Estrada Penal, 7096, Aponiã) para instalar um escritório de manutenção e pequenos projetos de sinalização viária, autorizando-o a buscar equipamentos e materiais em outros órgãos e a usar mão de obra de reeducandos lotados na secretaria."
+   },
+   {
+    "id": 48,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "A SEMA (Portaria nº 136/2026) recompõe o Comitê Técnico-Científico de Mudanças Climáticas, agora presidido pelo secretário interino Arthur Felipe Borin dos Santos, com 14 membros do Município, do CENSIPAM e da sociedade civil (Kanindé, UNIR, associações de climatologia e antropologia, seringueiros e outros), reuniões a cada dois meses e efeitos retroativos a 01/05/2026; revoga a Portaria nº 03/2025."
+   },
+   {
+    "id": 49,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA (Portaria nº 141/2026) designa Lucineia Pereira (titular) e Cleuton Pereira Marques Barbosa (substituto) como Gerentes de Transportes, responsáveis por controlar a frota e os abastecimentos do contrato de combustíveis nº 068/PGM/2023, com acesso individual ao sistema e acompanhamento diário de inconsistências."
+   },
+   {
+    "id": 50,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMA (Termo de Homologação nº 49/2026) aprova a prestação de contas de diárias da diretora Joana Aurélia de Oliveira, que voltou antes da viagem de 13 a 22/04/2026 e devolveu R$ 900,00 referentes a 4 e ½ diárias não usadas, pagos por Pix em 22/07/2026."
+   },
+   {
+    "id": 51,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMA (Termo de Quitação nº 39/2026) dá quitação ao Auto de Infração Ambiental nº 976/2025 (50 UPFM) da Associação dos Transportadores de Resíduos de Rondônia (ATRR), que entregou os itens previstos no Termo de Compensação Ambiental."
+   },
+   {
+    "id": 52,
+    "categoria": "Outros",
+    "relevancia": "baixa",
+    "resumo": "A SEMA (Termo de Quitação nº 40/2026) dá quitação ao Auto de Infração Ambiental nº 662/2026 (50 UPFM) do Comércio de Derivados de Petróleo Extrema Ltda, após o pagamento do TCA nº 21/2026."
+   },
+   {
+    "id": 53,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SGOV (Portaria nº 334/2026) retifica a Portaria nº 320/2026 e mantém 16 diárias ao coordenador Matheus Serrate de Araujo Carvalho para visitar, de 03 a 28/09/2026, os distritos de União Bandeirantes, Nova Califórnia, Rio Pardo e Extrema, linhas das BR-364 e BR-319 e os ramais São Sebastião e Maravilha, levantando demandas locais; a tabela ainda cita “Distrito de Nova Colina”."
+   },
+   {
+    "id": 54,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.476, de 18/09/2026 (republicado), transpõe R$ 1.795.212,46 dentro da SEMED, tirando R$ 1.695.212,46 de pessoal do ensino fundamental e R$ 100.000,00 de formação de profissionais para transporte escolar (R$ 965.989,72) e manutenção das escolas (R$ 829.222,74), para pagar seguro da frota de ônibus, estudo de terceirização da frota e vigilância das escolas."
+   },
+   {
+    "id": 55,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.493, de 25/09/2026, remaneja R$ 30.000,00 da emenda parlamentar nº 031/2025 do vereador Bruno Luciano do Couto Araújo, do Fundo Municipal de Prevenção às Drogas para a ação de apoio à pessoa com deficiência da SEMIAS."
+   },
+   {
+    "id": 56,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.494, de 25/09/2026, transpõe R$ 40.000,00 de emendas (nº 034 e 37/2025) do vereador Bruno Luciano do Couto Araújo dentro da SEMED, de pré-escola e mobiliário para a modernização da infraestrutura das unidades educacionais; o texto cita a LOA, a LDO e o cronograma de 2025 e fala em “exercício 2025”."
+   },
+   {
+    "id": 57,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "media",
+    "resumo": "O Decreto nº 22.495, de 25/09/2026, transpõe R$ 109.000,00 na SEMTEL, de obras em pontos turísticos (investimento) para apoio às ações de turismo (serviços), para custear as comemorações do aniversário da cidade no complexo da Estrada de Ferro Madeira-Mamoré."
+   },
+   {
+    "id": 58,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "baixa",
+    "resumo": "O Decreto nº 22.492, de 25/09/2026, abre crédito suplementar de R$ 9.984,00 para a Superintendência Municipal de Distritos, anulando outras dotações da mesma ação, para cobrir locação de veículos e o aluguel da sede administrativa do Distrito de União Bandeirante (Contrato nº 028/PGM/2018)."
+   },
+   {
+    "id": 59,
+    "categoria": "Conselhos e participação social",
+    "relevancia": "media",
+    "resumo": "O CMAS (Resolução nº 445/2026) aprova com ressalvas o plano de trabalho readequado da Associação de Pais e Amigos do Autista de Rondônia (AMA-RO) para o projeto “Limpeza que Acolhe”, de R$ 30.000,00 (emenda nº 031/2025 do vereador Bruno Luciano do Couto Araújo); seis pendências, como cronograma, planilha e pesquisa de preços, devem ser sanadas antes do termo de fomento, sem nova análise do conselho."
+   },
+   {
+    "id": 60,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA (Termo de Homologação nº 21/2026) aprova a prestação de contas de diárias de quatro servidores que foram ao Distrito de Demarcação, Calama e às comunidades Rio Preto, Nova Esperança e Papagaios: Edielson Cavalcante da Silva (R$ 525,00), Raimundo Vieira da Cunha (R$ 700,00), Ercir Rodrigues Silva (R$ 525,00) e Manoel Simplício de Souza (R$ 150,00)."
+   },
+   {
+    "id": 61,
+    "categoria": "Pessoal",
+    "relevancia": "baixa",
+    "resumo": "A SEMUSA (Termo de Homologação nº 22/2026) aprova a prestação de contas de 6 meias diárias (R$ 450,00) do motorista Fredson Pereira de Oliveira em viagem a Ji-Paraná."
+   },
+   {
+    "id": 62,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Relatório de Gestão Fiscal do 2º quadrimestre de 2026 do Executivo aponta despesa com pessoal de R$ 1.178.805.273,95, ou 46,23% da receita corrente líquida ajustada (alerta em 48,60%, máximo de 54%), receita corrente líquida de R$ 2,73 bilhões, dívida consolidada de R$ 632 milhões (23,34%) e dívida líquida negativa (R$ -258,6 milhões) graças a R$ 810 milhões em caixa; os precatórios vencidos e não pagos subiram de R$ 149,4 milhões para R$ 197,5 milhões no quadrimestre."
+   },
+   {
+    "id": 63,
+    "categoria": "Finanças e orçamento",
+    "relevancia": "alta",
+    "resumo": "O Relatório Resumido da Execução Orçamentária do 4º bimestre de 2026 mostra receitas de R$ 2,19 bilhões (78,23% do previsto), despesas empenhadas de R$ 2,39 bilhões, liquidadas de R$ 1,83 bilhão e pagas de R$ 1,82 bilhão, superávit orçamentário de R$ 360,4 milhões e resultado primário de R$ 237 milhões (a LDO admitia déficit de R$ 210,7 milhões); até agosto foram aplicados 22,82% dos impostos em educação (mínimo anual de 25%), 60,96% do FUNDEB na remuneração dos profissionais (mínimo de 70%) e 20,69% em saúde."
+   }
+  ]
+ },
+ "resumo_origem": "Claude (sessão Claude Code, com checagem independente)",
  "processado_em": "2026-10-06T08:33:43-04:00",
  "conferencia": {
   "site": 65,
@@ -586,5 +1394,6 @@
   "faltando": [],
   "sobrando": [],
   "em": "2026-10-06T08:33-04:00"
- }
+ },
+ "resumo_formato": 2
 }
