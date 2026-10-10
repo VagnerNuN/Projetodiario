@@ -716,12 +716,12 @@
  "resumo_origem": null,
  "processado_em": "2026-10-09T03:43:29-04:00",
  "conferencia": {
-  "site": 79,
-  "robo": 78,
+  "site": 83,
+  "robo": 82,
   "faltando": [
    "6B79D163"
   ],
   "sobrando": [],
-  "em": "2026-10-09T13:09-04:00"
+  "em": "2026-10-09T21:51-04:00"
  }
 }
