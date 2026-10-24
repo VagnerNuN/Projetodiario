@@ -1,0 +1,24 @@
+{
+ "edicao": {
+  "id": 121508,
+  "numero": "4346a",
+  "data": "2026-10-23",
+  "publicado_em": null,
+  "extra": true,
+  "url_pdf": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_121508_2026-10-23_2386c1e15ddf5cceaa2f71e20990b9fc.pdf"
+ },
+ "total_paginas": 12,
+ "atos": [],
+ "resumo": null,
+ "resumo_origem": null,
+ "processado_em": "2026-10-23T20:55:39-04:00",
+ "conferencia": {
+  "site": 76,
+  "robo": 75,
+  "faltando": [
+   "12F33EE5"
+  ],
+  "sobrando": [],
+  "em": "2026-10-23T20:55-04:00"
+ }
+}

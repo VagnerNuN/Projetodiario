@@ -689,10 +689,12 @@
  "resumo_origem": null,
  "processado_em": "2026-10-23T02:16:31-04:00",
  "conferencia": {
-  "site": 75,
+  "site": 76,
   "robo": 75,
-  "faltando": [],
+  "faltando": [
+   "12F33EE5"
+  ],
   "sobrando": [],
-  "em": "2026-10-23T11:24-04:00"
+  "em": "2026-10-23T20:55-04:00"
  }
 }
