@@ -1,0 +1,24 @@
+{
+ "edicao": {
+  "id": 121541,
+  "numero": "4350a",
+  "data": "2026-10-29",
+  "publicado_em": null,
+  "extra": true,
+  "url_pdf": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_121541_2026-10-29_bebacdc53bd5625c1bf54da622156405.pdf"
+ },
+ "total_paginas": 27,
+ "atos": [],
+ "resumo": null,
+ "resumo_origem": null,
+ "processado_em": "2026-10-29T13:02:36-04:00",
+ "conferencia": {
+  "site": 80,
+  "robo": 79,
+  "faltando": [
+   "561134D3"
+  ],
+  "sobrando": [],
+  "em": "2026-10-29T13:02-04:00"
+ }
+}
